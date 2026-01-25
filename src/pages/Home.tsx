@@ -52,7 +52,7 @@ export default function Home() {
   return (
     <div className="relative">
       {/* Grid Background */}
-      <div className="absolute inset-0 grid-bg opacity-5"></div>
+      <div className="absolute inset-0 grid-bg opacity-5 pointer-events-none"></div>
 
       {/* Scan Line Effect */}
       <div className="scan-line"></div>
