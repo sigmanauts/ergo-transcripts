@@ -134,7 +134,7 @@ export default function CallDetail() {
   }
 
   const youtubeUrl = callMeta.media?.youtube || `https://youtube.com/watch?v=${callMeta.id}`;
-  const speakersList = callMeta.speakers.filter(Boolean);
+  const speakersList = [...new Set(callMeta.speakers.filter(Boolean))];
   const topicsList = callMeta.topics || [];
 
   // Get related calls (other recent calls)
