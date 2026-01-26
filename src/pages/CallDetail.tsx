@@ -302,9 +302,31 @@ export default function CallDetail() {
               </p>
             </div>
             {transcript ? (
-              <pre className="font-mono text-sm whitespace-pre-wrap text-ergo-light/90 max-h-[600px] overflow-y-auto">
-                {transcript}
-              </pre>
+              <div className="font-mono text-sm whitespace-pre-wrap text-ergo-light/90 max-h-[600px] overflow-y-auto">
+                {transcript.split(/(\[\d{1,2}:\d{2}(?::\d{2})?\])/).map((part, i) => {
+                  const match = part.match(/^\[(\d{1,2}):(\d{2})(?::(\d{2}))?\]$/);
+                  if (match) {
+                    const mins = parseInt(match[1]);
+                    const secs = parseInt(match[2]);
+                    const hours = match[3] ? mins : 0;
+                    const totalSeconds = match[3]
+                      ? hours * 3600 + secs * 60 + parseInt(match[3])
+                      : mins * 60 + secs;
+                    return (
+                      <a
+                        key={i}
+                        href={`${youtubeUrl}${youtubeUrl.includes('?') ? '&' : '?'}t=${totalSeconds}s`}
+                        target="_blank"
+                        rel="noopener noreferrer"
+                        className="text-term-cyan hover:text-cyan-300 hover:underline cursor-pointer"
+                      >
+                        {part}
+                      </a>
+                    );
+                  }
+                  return <span key={i}>{part}</span>;
+                })}
+              </div>
             ) : (
               <p className="text-ergo-muted font-mono">Loading transcript...</p>
             )}
@@ -414,6 +436,13 @@ export default function CallDetail() {
               </div>
             )}
 
+            {/* Community Corrections */}
+            <div className="bg-ergo-dark border border-term-green/30 rounded-lg p-6">
+              <h3 className="font-mono font-semibold text-term-green mb-2">Community</h3>
+              <p className="text-xs text-ergo-muted mb-3">Spot something wrong? Help us improve.</p>
+              <CorrectionButton pageType="Call" pageTitle={callMeta.title} />
+            </div>
+
             {/* Cite This Call */}
             <div className="bg-ergo-dark border border-ergo-orange/20 rounded-lg p-6">
               <h3 className="font-mono font-semibold text-ergo-orange mb-4">Cite This Call</h3>
@@ -424,12 +453,6 @@ export default function CallDetail() {
                 <Copy className="w-4 h-4" />
                 {copied ? 'Copied!' : 'Copy Citation'}
               </button>
-            </div>
-
-            {/* Suggest Correction */}
-            <div className="bg-ergo-dark border border-ergo-orange/20 rounded-lg p-6">
-              <h3 className="font-mono font-semibold text-ergo-orange mb-3">Community</h3>
-              <CorrectionButton pageType="Call" pageTitle={callMeta.title} />
             </div>
 
             {/* Related Calls */}
