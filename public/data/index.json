@@ -71,7 +71,6 @@
       "type": "ama",
       "speakers": [
         "armeanio",
-        "armeanio",
         "qx()",
         "Luca"
       ],
@@ -132,8 +131,7 @@
         "qx()",
         "richi",
         "kushti",
-        "Joe",
-        "richi"
+        "Joe"
       ],
       "duration_minutes": 60,
       "thumbnail": "https://img.youtube.com/vi/R_K8FcLDDSs/maxresdefault.jpg",
@@ -194,7 +192,6 @@
         "kushti",
         "benzel",
         "Grayman",
-        "Grayman",
         "hq3rr"
       ],
       "duration_minutes": 51,
@@ -219,12 +216,11 @@
       "id": "UR6t37ND_gc",
       "file_prefix": "20251019_UR6t37ND_gc",
       "date": "2025-10-19",
-      "title": "Machina Finance: eUTXO-Native P2P DEX on Ergo \u2014 Alison Robson (Ergo Meetup 2025)",
+      "title": "Machina Finance: eUTXO-Native P2P DEX on Ergo — Alison Robson (Ergo Meetup 2025)",
       "type": "community_chat",
       "speakers": [
         "anon_BR",
-        "mgPai",
-        "anon_BR"
+        "mgPai"
       ],
       "duration_minutes": 15,
       "thumbnail": "https://img.youtube.com/vi/UR6t37ND_gc/maxresdefault.jpg",
@@ -248,7 +244,7 @@
       "id": "xmAaEmiP3-U",
       "file_prefix": "20251019_xmAaEmiP3-U",
       "date": "2025-10-19",
-      "title": "Lithos: The Future of Proof-of-Work Mining \u2014 Cheese Enthusiast (Ergo Meetup 2025)",
+      "title": "Lithos: The Future of Proof-of-Work Mining — Cheese Enthusiast (Ergo Meetup 2025)",
       "type": "community_chat",
       "speakers": [
         "Cheese Enthusiast"

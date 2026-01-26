@@ -13,7 +13,7 @@ export default function CallCard({ call }: CallCardProps) {
     ? call.media.youtube
     : `https://youtube.com/watch?v=${call.id}`;
 
-  const speakersList = call.speakers.filter(Boolean).join(', ') || 'Community';
+  const speakersList = [...new Set(call.speakers.filter(Boolean))].join(', ') || 'Community';
 
   return (
     <div className="bg-ergo-dark border border-ergo-orange/20 rounded-lg p-6 hover:border-ergo-orange/50 transition-all duration-300 group">

@@ -11,7 +11,7 @@ export default function Home() {
   const { stats, calls, topics, isLoading, isInitialized, loadAllDecisions, allDecisions } = useData();
   const [typedText, setTypedText] = useState('');
   const [decisionsLoading, setDecisionsLoading] = useState(false);
-  const fullText = 'The institutional memory of Ergo';
+  const fullText = 'The public meetings of Ergo';
 
   useEffect(() => {
     let index = 0;
