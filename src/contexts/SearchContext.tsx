@@ -29,9 +29,9 @@ export function SearchProvider({ children }: { children: React.ReactNode }) {
     if (!isInitialized) return null;
 
     const searchableData = [
-      ...calls.map(item => ({ type: 'call' as const, ...item })),
-      ...topics.map(item => ({ type: 'topic' as const, ...item })),
-      ...speakers.map(item => ({ type: 'speaker' as const, ...item })),
+      ...calls.map(item => ({ ...item, searchType: 'call' as const })),
+      ...topics.map(item => ({ ...item, searchType: 'topic' as const })),
+      ...speakers.map(item => ({ ...item, searchType: 'speaker' as const })),
     ];
 
     return new Fuse(searchableData, {
@@ -62,8 +62,7 @@ export function SearchProvider({ children }: { children: React.ReactNode }) {
 
     setResults(
       searchResults.map((result: any) => ({
-        type: result.item.type,
-        item: result.item,
+        ...result.item,
         score: result.score,
       }))
     );

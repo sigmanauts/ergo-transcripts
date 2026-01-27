@@ -161,7 +161,7 @@ export default function Calls() {
           </div>
 
           {/* Call Cards */}
-          <div className="space-y-6">
+          <div className="grid grid-cols-1 lg:grid-cols-2 gap-4">
             {filteredCalls.map(call => (
               <CallCard key={call.id} call={call} />
             ))}

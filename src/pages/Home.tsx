@@ -1,7 +1,6 @@
 import React, { useEffect, useState } from 'react';
 import { Link } from 'react-router-dom';
 import { ArrowRight, TrendingUp, Activity, Loader2 } from 'lucide-react';
-import SearchBar from '../components/SearchBar';
 import CallCard from '../components/CallCard';
 import StatCard from '../components/StatCard';
 import TopicTag from '../components/TopicTag';
@@ -58,8 +57,8 @@ export default function Home() {
       <div className="scan-line"></div>
 
       {/* Hero Section */}
-      <section className="relative container mx-auto px-4 py-16">
-        <div className="text-center mb-12">
+      <section className="relative container mx-auto px-4 pt-16 pb-6">
+        <div className="text-center mb-8">
           <h1 className="text-5xl font-bold font-mono mb-4">
             <span className="text-gradient">ERGO KNOWLEDGE BASE</span>
           </h1>
@@ -69,23 +68,18 @@ export default function Home() {
           </p>
         </div>
 
-        {/* Stats Dashboard */}
-        <div className="bg-ergo-dark/80 backdrop-blur border border-ergo-orange/30 rounded-lg p-6 mb-12 glow-orange">
-          <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
-            <StatCard label="CALLS INDEXED" value={stats?.total_calls || 0} />
-            <StatCard label="Q&A PAIRS" value={(stats?.total_qa || 0).toLocaleString()} />
-            <StatCard label="DECISIONS TRACKED" value={stats?.total_decisions || 0} />
-            <StatCard label="SPEAKERS" value={stats?.total_speakers || 0} />
-            <StatCard label="HOURS OF CONTENT" value={`${stats?.total_hours || 0}+`} />
-            <StatCard label="LAST SYNC" value="LIVE" />
-          </div>
-        </div>
-
-        {/* Search + Trending Topics Row */}
-        <div className="grid grid-cols-1 lg:grid-cols-5 gap-6">
-          {/* Search Bar - 60% */}
-          <div className="lg:col-span-3">
-            <SearchBar className="w-full" autoFocus />
+        {/* Stats + Trending Topics Row */}
+        <div className="grid grid-cols-1 lg:grid-cols-5 gap-4">
+          {/* Stats - 60% */}
+          <div className="lg:col-span-3 bg-ergo-dark/80 backdrop-blur border border-ergo-orange/30 rounded-lg p-6 glow-orange">
+            <div className="grid grid-cols-2 md:grid-cols-3 gap-4">
+              <StatCard label="CALLS INDEXED" value={stats?.total_calls || 0} />
+              <StatCard label="Q&A PAIRS" value={(stats?.total_qa || 0).toLocaleString()} />
+              <StatCard label="DECISIONS TRACKED" value={stats?.total_decisions || 0} />
+              <StatCard label="SPEAKERS" value={stats?.total_speakers || 0} />
+              <StatCard label="HOURS OF CONTENT" value={`${stats?.total_hours || 0}+`} />
+              <StatCard label="LAST SYNC" value="LIVE" />
+            </div>
           </div>
 
           {/* Trending Topics - 40% */}
