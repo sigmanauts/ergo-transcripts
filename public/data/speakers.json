@@ -1,7 +1,7 @@
 [
   {
     "name": "armeanio",
-    "role": "co-founder Rosen Bridge, former EF",
+    "role": "co-founder Rosen Bridge, former Ergo Foundation Member",
     "bio": "",
     "avatar": "",
     "stats": {
@@ -13,12 +13,14 @@
     "top_topics": [
       "Machina Finance",
       "Lithos",
-      "peer-to-peer-networks"
+      "peer-to-peer-networks",
+      "fair-launch",
+      "Rosen Bridge"
     ]
   },
   {
     "name": "kushti",
-    "role": "Core developer, co-founder Ergo Platform",
+    "role": "Ergo Core developer, co-founder Ergo Platform",
     "bio": "",
     "avatar": "",
     "stats": {
@@ -29,6 +31,9 @@
     },
     "top_topics": [
       "chaincash",
+      "Basis",
+      "sub-blocks",
+      "oracles",
       "dexy protocol",
       "ergo technical details",
       "community-action"
@@ -46,7 +51,9 @@
       "quotes": 0
     },
     "top_topics": [
-      "USE Protocol"
+      "USE Protocol",
+      "arbitrage",
+      "liquidity"
     ]
   },
   {
@@ -61,16 +68,12 @@
       "quotes": 0
     },
     "top_topics": [
-      "puzzle-guardians",
-      "amazon-outage",
-      "community-action",
-      "mining-rigs",
-      "lithos"
+      "SilverCents"
     ]
   },
   {
     "name": "qx()",
-    "role": "Community, ",
+    "role": "Community Member,Sigmanauts",
     "bio": "",
     "avatar": "",
     "stats": {
@@ -80,30 +83,13 @@
       "quotes": 16
     },
     "top_topics": [
-      "off-chain-bots",
       "peer-to-peer-networks",
+      "Sigmanauts",
+      "Infrastructure DAO",
       "lithos",
       "mining-pools",
-      "bitaxe"
-    ]
-  },
-  {
-    "name": "qx",
-    "role": "Community Member",
-    "bio": "",
-    "avatar": "",
-    "stats": {
-      "calls": 2,
-      "decisions": 0,
-      "topics": 20,
-      "quotes": 4
-    },
-    "top_topics": [
-      "puzzle-guardians",
-      "amazon-outage",
-      "community-action",
-      "mining-rigs",
-      "lithos"
+      "Rosen-guards",
+      "community-action"
     ]
   },
   {
@@ -121,8 +107,7 @@
       "p2p-dex",
       "eutxo-native",
       "fleet-sdk",
-      "grid-orders",
-      "alison"
+      "grid-orders"
     ]
   },
   {
@@ -139,9 +124,10 @@
     "top_topics": [
       "peer-to-peer-networks",
       "lithos",
-      "mining-pools",
-      "block-templates",
-      "rosen-watchers"
+      "Gluon",
+      "Lilium",
+      "Smart Contracts",
+      "SC Audits"
     ]
   },
   {
@@ -156,30 +142,9 @@
       "quotes": 22
     },
     "top_topics": [
-      "p2p-dao",
-      "ergo-foundation",
-      "large-queries",
-      "quarterly-costs",
-      "hetzner"
-    ]
-  },
-  {
-    "name": "Qx",
-    "role": "Community Member",
-    "bio": "",
-    "avatar": "",
-    "stats": {
-      "calls": 1,
-      "decisions": 0,
-      "topics": 10,
-      "quotes": 0
-    },
-    "top_topics": [
-      "p2p-dao",
-      "ergo-foundation",
-      "large-queries",
-      "quarterly-costs",
-      "hetzner"
+      "MewFinance",
+      "VoltPay",
+      "Development"
     ]
   },
   {
@@ -202,64 +167,7 @@
     ]
   },
   {
-    "name": "Joe",
-    "role": "Community Member",
-    "bio": "",
-    "avatar": "",
-    "stats": {
-      "calls": 1,
-      "decisions": 0,
-      "topics": 10,
-      "quotes": 0
-    },
-    "top_topics": [
-      "off-chain-bots",
-      "fair-launch",
-      "community-chat",
-      "guest-speakers",
-      "algorithmic-stablecoin"
-    ]
-  },
-  {
-    "name": "Richi",
-    "role": "Community Member",
-    "bio": "",
-    "avatar": "",
-    "stats": {
-      "calls": 1,
-      "decisions": 0,
-      "topics": 10,
-      "quotes": 0
-    },
-    "top_topics": [
-      "puzzle-guardians",
-      "gpu-mining",
-      "community-ama",
-      "ai-game",
-      "open-source"
-    ]
-  },
-  {
     "name": "benzel",
-    "role": "Community Member",
-    "bio": "",
-    "avatar": "",
-    "stats": {
-      "calls": 1,
-      "decisions": 0,
-      "topics": 10,
-      "quotes": 0
-    },
-    "top_topics": [
-      "amazon-outage",
-      "community-action",
-      "mining-rigs",
-      "lithos",
-      "testnet"
-    ]
-  },
-  {
-    "name": "hq3rr",
     "role": "Community Member",
     "bio": "",
     "avatar": "",
@@ -289,11 +197,10 @@
       "quotes": 0
     },
     "top_topics": [
-      "p2p-dex",
       "eutxo-native",
-      "fleet-sdk",
-      "grid-orders",
-      "alison"
+      "Lilium",
+      "Palmyra",
+      "AVL Trees"
     ]
   },
   {
@@ -310,7 +217,6 @@
     "top_topics": [
       "getblock.io",
       "smart-pools",
-      "tornado-cash",
       "decentralization",
       "lithos"
     ]
