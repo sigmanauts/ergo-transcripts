@@ -7,6 +7,7 @@ import path from 'path';
 // Config
 // ---------------------------------------------------------------------------
 const DATA_DIR = 'public/data/calls';
+const GLOSSARY_PATH = 'public/data/community_glossary.json';
 const REPO = process.env.GITHUB_REPOSITORY || 'cannonQ/ergo-transcripts';
 const ISSUE_NUMBER = process.env.ISSUE_NUMBER;
 const ISSUE_BODY = process.env.ISSUE_BODY || '';
@@ -219,6 +220,35 @@ function applyCorrections(files, corrections) {
 }
 
 // ---------------------------------------------------------------------------
+// Step 4b: Append to community glossary
+// ---------------------------------------------------------------------------
+
+function appendToGlossary(corrections, issueNumber) {
+  let glossary = [];
+  if (fs.existsSync(GLOSSARY_PATH)) {
+    try {
+      glossary = JSON.parse(fs.readFileSync(GLOSSARY_PATH, 'utf-8'));
+    } catch {
+      console.log('Could not parse glossary, starting fresh');
+    }
+  }
+
+  const today = new Date().toISOString().split('T')[0];
+  for (const { from, to } of corrections) {
+    // Skip if this exact original→corrected pair already exists
+    const exists = glossary.some(
+      e => e.original === from && e.corrected === to
+    );
+    if (!exists) {
+      glossary.push({ original: from, corrected: to, issue: Number(issueNumber), date: today });
+    }
+  }
+
+  fs.writeFileSync(GLOSSARY_PATH, JSON.stringify(glossary, null, 2) + '\n', 'utf-8');
+  console.log(`Glossary updated: ${glossary.length} total entries`);
+}
+
+// ---------------------------------------------------------------------------
 // Step 5: Create branch and PR
 // ---------------------------------------------------------------------------
 
@@ -229,7 +259,7 @@ function createBranchAndCommit(branchName, corrections, issueNumber) {
   execSync(`git config user.name "correction-bot"`);
   execSync(`git config user.email "correction-bot@users.noreply.github.com"`);
   execSync(`git checkout -b ${branchName}`);
-  execSync(`git add ${DATA_DIR}`);
+  execSync(`git add ${DATA_DIR} ${GLOSSARY_PATH}`);
   execSync(`git commit -m "${message.replace(/"/g, '\\"')}"`);
   execSync(`git push origin ${branchName}`);
 }
@@ -352,6 +382,9 @@ async function main() {
     );
     return;
   }
+
+  // Append to community glossary
+  appendToGlossary(allCorrections, ISSUE_NUMBER);
 
   // Create branch and PR
   const branchName = `corrections/issue-${ISSUE_NUMBER}`;

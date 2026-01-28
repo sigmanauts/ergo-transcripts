@@ -1,0 +1,38 @@
+[
+  {
+    "original": "Chain Cache",
+    "corrected": "ChainCash",
+    "issue": 19,
+    "date": "2026-01-27"
+  },
+  {
+    "original": "WorldPay",
+    "corrected": "VoltPay",
+    "issue": 19,
+    "date": "2026-01-27"
+  },
+  {
+    "original": "subblogs",
+    "corrected": "sub-blocks",
+    "issue": 22,
+    "date": "2026-01-27"
+  },
+  {
+    "original": "worldpay",
+    "corrected": "VoltPay.store",
+    "issue": 24,
+    "date": "2026-01-27"
+  },
+  {
+    "original": "Lui Vatra",
+    "corrected": "Luivatra",
+    "issue": 25,
+    "date": "2026-01-27"
+  },
+  {
+    "original": "chain cache",
+    "corrected": "ChainCash",
+    "issue": 26,
+    "date": "2026-01-27"
+  }
+]
