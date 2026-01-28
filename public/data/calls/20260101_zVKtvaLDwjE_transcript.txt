@@ -32,7 +32,7 @@
 [04:56] **kushti**: like integrating into his peer-to-peer network, chill out, and so on, so on, so on.
 [05:02] **kushti**: Yeah, well, a lot of interesting things can be done.
 
-[05:07] **kushti**: Then, yeah, I think subblogs, right?
+[05:07] **kushti**: Then, yeah, I think sub-blocks, right?
 [05:11] **kushti**: Another big topic for 2025.
 [05:15] **kushti**: So for months, we have DevNets under testing and well, white paper is more or less ready, aside of security.
 [05:30] **kushti**: sections.
