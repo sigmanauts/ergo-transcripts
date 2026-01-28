@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import React, { useState, useEffect, useRef } from 'react';
 import { Flag, X, Loader2, CheckCircle, AlertCircle } from 'lucide-react';
 
 interface CorrectionButtonProps {
@@ -12,11 +12,35 @@ export default function CorrectionButton({ pageType, pageTitle, className = '' }
   const [currentText, setCurrentText] = useState('');
   const [correctedText, setCorrectedText] = useState('');
   const [notes, setNotes] = useState('');
+  const [honeypot, setHoneypot] = useState('');
   const [status, setStatus] = useState<'idle' | 'submitting' | 'success' | 'error'>('idle');
+  const modalRef = useRef<HTMLDivElement>(null);
+
+  // Close modal on Escape key
+  useEffect(() => {
+    if (!isOpen) return;
+    const handleKeyDown = (e: KeyboardEvent) => {
+      if (e.key === 'Escape' && status !== 'submitting') {
+        setIsOpen(false);
+      }
+    };
+    document.addEventListener('keydown', handleKeyDown);
+    return () => document.removeEventListener('keydown', handleKeyDown);
+  }, [isOpen, status]);
 
   const handleSubmit = async (e: React.FormEvent) => {
     e.preventDefault();
     if (!currentText.trim()) return;
+
+    // Honeypot check — bots fill this hidden field, humans don't
+    if (honeypot) {
+      setStatus('success');
+      setTimeout(() => {
+        setIsOpen(false);
+        setStatus('idle');
+      }, 2000);
+      return;
+    }
 
     setStatus('submitting');
     try {
@@ -30,6 +54,7 @@ export default function CorrectionButton({ pageType, pageTitle, className = '' }
           currentText: currentText.trim(),
           correctedText: correctedText.trim(),
           notes: notes.trim(),
+          website: honeypot,
         }),
       });
 
@@ -62,7 +87,7 @@ export default function CorrectionButton({ pageType, pageTitle, className = '' }
       </button>
 
       {isOpen && (
-        <div className="fixed inset-0 z-50 flex items-center justify-center p-4">
+        <div className="fixed inset-0 z-50 flex items-center justify-center p-4" role="dialog" aria-modal="true" aria-labelledby="correction-modal-title">
           {/* Backdrop */}
           <div
             className="absolute inset-0 bg-black/70 backdrop-blur-sm"
@@ -70,13 +95,14 @@ export default function CorrectionButton({ pageType, pageTitle, className = '' }
           />
 
           {/* Modal */}
-          <div className="relative bg-ergo-dark border border-ergo-orange/30 rounded-lg w-full max-w-lg shadow-2xl">
+          <div ref={modalRef} className="relative bg-ergo-dark border border-ergo-orange/30 rounded-lg w-full max-w-lg shadow-2xl">
             {/* Header */}
             <div className="flex items-center justify-between p-4 border-b border-ergo-orange/20">
-              <h3 className="font-mono font-semibold text-ergo-orange">Suggest a Correction</h3>
+              <h3 id="correction-modal-title" className="font-mono font-semibold text-ergo-orange">Suggest a Correction</h3>
               <button
                 onClick={() => status !== 'submitting' && setIsOpen(false)}
                 className="p-1 text-ergo-muted hover:text-ergo-light transition-colors"
+                aria-label="Close correction dialog"
               >
                 <X className="w-5 h-5" />
               </button>
@@ -93,6 +119,20 @@ export default function CorrectionButton({ pageType, pageTitle, className = '' }
                 {/* Context */}
                 <div className="bg-ergo-darker rounded p-3 text-xs font-mono text-ergo-muted">
                   <span className="text-ergo-orange">{pageType}</span> &mdash; {pageTitle}
+                </div>
+
+                {/* Honeypot — hidden from humans, bots auto-fill it */}
+                <div aria-hidden="true" className="absolute -left-[9999px]">
+                  <label htmlFor="website">Website</label>
+                  <input
+                    id="website"
+                    name="website"
+                    type="text"
+                    tabIndex={-1}
+                    autoComplete="off"
+                    value={honeypot}
+                    onChange={e => setHoneypot(e.target.value)}
+                  />
                 </div>
 
                 {/* What's wrong */}
