@@ -1,206 +1,139 @@
+```json
 {
   "call_date": "2025-11-07",
   "qa_pairs": [
     {
       "qa_id": 1,
-      "timestamp": "00:44",
-      "question": "How you doing?",
-      "asker": "qx",
-      "answer": "Doing well, doing well. How about you?",
+      "timestamp": "01:36",
+      "question": "How does Ergo's GPU mining relate to AI inference and what opportunities does this create?",
+      "asker": "implicit",
+      "answer": "Ergo is GPU minable, which creates natural intersections with AI inference since both use similar hardware. Currently payments in AI are mostly corporate owned, which isn't acceptable. The Ergo community has been working on programmable money for years and has many useful solutions that could be applied to the AI space, creating opportunities for decentralized AI payments.",
       "responder": "kushti",
-      "category": "other",
-      "difficulty": "beginner",
-      "related_terms": [
-        "greeting",
-        "community"
-      ]
+      "category": "technical",
+      "difficulty": "intermediate",
+      "related_terms": ["GPU mining", "AI inference", "programmable money", "decentralized payments"]
     },
     {
       "qa_id": 2,
-      "timestamp": "03:56",
-      "question": "Oh, what is that? Can you elaborate on what that is, Grayman?",
+      "timestamp": "04:01",
+      "question": "What is Tim Erg's Sigma Quest AI game and how does it work?",
       "asker": "qx",
-      "answer": "I don't know fully. I wish he were here to explain it because he'd do a better job. But in essence, it's sort of a scavenger hunt type deal where you solve three problems, probably with the help of AI. And if you manage to solve them for each one, you get a few of the keywords from an ergo wallet that currently contains 200 ERG.",
+      "answer": "It's a scavenger hunt type game where you solve three problems, probably with AI help. Players pay 20 ERG to participate (15 goes to pot, 5 to treasury). There are three guardians: yes-no oracle, narrative escape, and sigma-not guardian. Each completed guardian rewards players with five seed phrases. The pot starts at 200 ERG but grows with participation - with 10 players it could reach 350 ERG.",
       "responder": "Grayman",
       "category": "ecosystem",
       "difficulty": "beginner",
-      "related_terms": [
-        "AI game",
-        "Sigma Quest",
-        "scavenger hunt",
-        "ERG prize"
-      ]
+      "related_terms": ["Sigma Quest", "AI game", "seed phrases", "guardians"]
     },
     {
       "qa_id": 3,
-      "timestamp": "05:59",
-      "question": "This is pretty cool. Did he start this in the last Ergo hack? Was that what this is?",
-      "asker": "qx",
-      "answer": "Yes. And unfortunately, he was right about to release it. And it turns out that he discovered that there were some ways to kind of cheat it. And so he called it off and said, let me get my hack together.",
-      "responder": "Grayman",
-      "category": "ecosystem",
-      "difficulty": "beginner",
-      "related_terms": [
-        "Ergo hack",
-        "development",
-        "Tim Erg"
-      ]
+      "timestamp": "07:54",
+      "question": "What happened with the Ergo infrastructure outage and how can dApps become more resilient?",
+      "asker": "implicit",
+      "answer": "There was a billing issue with Hetzner that took down some infrastructure, but Ergo has eight other backup explorers. The solution is for dApps to use rollover techniques - if they can't reach one explorer, automatically try others. Future plans include Cloudflare load balancing across 10-12 explorer instances globally, with dApps having direct access to individual load balancers as backup if the main load balancer fails.",
+      "responder": "qx",
+      "category": "technical",
+      "difficulty": "intermediate",
+      "related_terms": ["infrastructure", "explorers", "load balancing", "resilience", "Cloudflare"]
     },
     {
       "qa_id": 4,
-      "timestamp": "11:03",
-      "question": "Grayman, you were talking about joining the network as well weren't you at some point?",
-      "asker": "qx",
-      "answer": "I can't use one of my customers fiber lines for this purpose. I'd have to get my own and I live out in the county. So it's coming my way. But apparently the company that was going to roll it out here got bought out by T-Mobile. So God knows how long it's going to take.",
-      "responder": "Grayman",
+      "timestamp": "10:03",
+      "question": "How is Ergo's infrastructure transitioning to community-run nodes?",
+      "asker": "implicit",
+      "answer": "Three community machines have been shipped out and are syncing nodes. Once database optimizations are completed and tested, the infrastructure will transition from the current $700/month centralized setup to community-run peer-to-peer nodes. This will make Ergo's infrastructure completely decentralized and resilient to outages like the recent AWS crash that affected other blockchains.",
+      "responder": "qx",
       "category": "technical",
       "difficulty": "intermediate",
-      "related_terms": [
-        "infrastructure",
-        "network",
-        "fiber",
-        "node hosting"
-      ]
+      "related_terms": ["community nodes", "peer-to-peer", "decentralization", "infrastructure"]
     },
     {
       "qa_id": 5,
-      "timestamp": "11:28",
-      "question": "You don't want to run a node off a cell connection?",
-      "asker": "qx",
-      "answer": "It's cable, but it's asymmetric. So the upload speed is just too slow to support. I don't want to join and be a worthless limping piece.",
-      "responder": "Grayman",
+      "timestamp": "18:33",
+      "question": "What maintenance work is needed for Ergo infrastructure and wallets?",
+      "asker": "implicit",
+      "answer": "There's maintenance and bug fixes needed for the Explorer, with the first pull request already submitted. The team is looking for maintainers of Ergo Wallet, particularly to update the Android SDK and publish new versions. They're also considering adding multi-sig support to Ergo Wallet and publishing the MHS monitor mobile wallet.",
+      "responder": "kushti",
       "category": "technical",
       "difficulty": "intermediate",
-      "related_terms": [
-        "node",
-        "bandwidth",
-        "upload speed",
-        "infrastructure"
-      ]
+      "related_terms": ["Explorer", "Ergo Wallet", "Android SDK", "multi-sig", "maintenance"]
     },
     {
       "qa_id": 6,
-      "timestamp": "22:46",
-      "question": "So Richi, what are the current plans?",
-      "asker": "kushti",
-      "answer": "Yeah, hello. Can you hear me? Yeah, thank you. So the current plans are to have a large event called CLB, which was presented in Ergo Hack 9. So as long as we sort out the technical part, and we understand that there will be no basically delays launching the coin or maybe we can even mint some coins but just don't activate the smart contract or don't activate the off-chain part whatever just waiting for the initial bootstrap event.",
-      "responder": "Richi",
-      "category": "defi",
-      "difficulty": "intermediate",
-      "related_terms": [
-        "CLB",
-        "USE stablecoin",
-        "launch",
-        "bootstrap"
-      ]
+      "timestamp": "18:56",
+      "question": "How might AI agents change wallet design and token management?",
+      "asker": "implicit",
+      "answer": "For humans, it's not convenient to operate with hundreds of tokens in a wallet, but for AI agents, this is trivial. Money for AI systems could be designed very differently from current wallets, potentially leading to more efficient economic interactions. This is being considered for future wallet designs.",
+      "responder": "kushti",
+      "category": "technical",
+      "difficulty": "advanced",
+      "related_terms": ["AI agents", "wallet design", "token management", "economic interactions"]
     },
     {
       "qa_id": 7,
-      "timestamp": "28:09",
-      "question": "What will be the order of magnitude of the amount of ERG that is required to be part of these liquidity provisions to get one of these tokens?",
-      "asker": "Grayman",
-      "answer": "Right, so there will always be 100 tokens. It depends how many are collected. My goal would be to collect around 300,000 to 400,000. So one token will be worth, so you can just divide it by 100, right? So if we collect 300,000 ERGs, so one token would be worth 3,000, right? So 3,000 ERGs would be one token.",
+      "timestamp": "22:56",
+      "question": "What is the CLB (Community Liquidity Bootstrap) event for the USE stablecoin?",
+      "asker": "implicit",
+      "answer": "CLB is a community liquidity bootstrap event where people contribute ERG from Ergo and rsERG from Cardano. Contributors receive CLB tokens proportionally to their contribution plus bonus airdrops. Only 100 CLB tokens will be minted (with 9 decimals), representing shares in the liquidity pool. The goal is to collect 300,000-400,000 ERG, making each full token worth about 3,000 ERG. The liquidity is locked for 2 years while CLB tokens can be traded on secondary markets.",
       "responder": "Richi",
       "category": "defi",
       "difficulty": "intermediate",
-      "related_terms": [
-        "CLB tokens",
-        "liquidity provision",
-        "ERG",
-        "bootstrap"
-      ]
+      "related_terms": ["CLB", "USE stablecoin", "liquidity bootstrap", "tokenization"]
     },
     {
       "qa_id": 8,
       "timestamp": "29:22",
-      "question": "What is my incentive? Do I make additional earnings on these tokens if I get one of these?",
+      "question": "What incentives do CLB participants get and how does the secondary market work?",
       "asker": "Grayman",
-      "answer": "Yes, that's a good question. So what you will get if you participate? So first of all, you will get CLB token, which will be representing your part of your contribution. Anyway, after that, you'll get some airdrops from our partners additional as a bonus. And then your liquidity pool is bootstrapped with 0.3% fee. So during these two years, all the fees will be accumulated for all the people who will be trading USE tokens with ERGs back and forth.",
+      "answer": "CLB participants get their proportional CLB tokens, bonus airdrops worth 5-10% of contribution, and accumulated trading fees over 2 years. The liquidity pool charges 0.3% fees that accumulate for CLB holders. There will be a secondary market for CLB tokens on Ergo DEXes, so participants can sell early if desired or buy more tokens to increase their liquidity pool share. After 2 years, CLB tokens can be redeemed for LP tokens to withdraw liquidity plus accumulated fees.",
       "responder": "Richi",
       "category": "defi",
-      "difficulty": "intermediate",
-      "related_terms": [
-        "CLB incentives",
-        "fees",
-        "airdrops",
-        "liquidity pool"
-      ]
+      "difficulty": "advanced",
+      "related_terms": ["CLB incentives", "trading fees", "secondary market", "LP tokens"]
     },
     {
       "qa_id": 9,
-      "timestamp": "32:15",
-      "question": "So after two years, what happens? These tokens still exist and you still get rewards based on them? I'm still not getting it. What's my incentive to be one of the initial liquidity providers if I can just buy these tokens on the secondary market in one and a half years?",
-      "asker": "Grayman",
-      "answer": "So after the second year, when you construct liquidity, you get liquidity tokens like LP tokens. These LP tokens will be locked in a redeemed smart contract with CLB tokens for two years. So after two years, the smart contract will unlock the redeem function. So you will be able to exchange your CLB token to liquidity token and after that, conventionally remove liquidity from liquidity pool.",
+      "timestamp": "41:01",
+      "question": "What makes the USE stablecoin unique compared to other stablecoins?",
+      "asker": "implicit",
+      "answer": "All current stablecoins are basically centralized, even attempts like Athena have centralized resources. USE/Dexy has a very unique design with great minds behind it. The launch itself (CLB event) is unique in DeFi space - they're not copy-pasting from Ethereum but creating something genuinely novel. It will work with Rosen Bridge for wide distribution and aims to capture mainstream attention since people understand '$1 stablecoin' easily.",
       "responder": "Richi",
       "category": "defi",
-      "difficulty": "advanced",
-      "related_terms": [
-        "LP tokens",
-        "smart contract",
-        "redeem function",
-        "liquidity"
-      ]
+      "difficulty": "intermediate",
+      "related_terms": ["USE stablecoin", "Dexy", "decentralization", "Rosen Bridge"]
     },
     {
       "qa_id": 10,
-      "timestamp": "33:37",
-      "question": "And is that just done by like a database that you have a list of wallets that contributed and ignores the tokens that are in people's wallets that they might have purchased from the secondary market?",
-      "asker": "Grayman",
-      "answer": "Well, people can purchase tokens from the secondary market. It means someone sold it. Did they get the air drops? Yes, so if you contribute ERGs during the initial bootstrap, you will get Airdrop and the CLB token. After that, CLB token will be traded on the secondary market.",
-      "responder": "Richi",
-      "category": "defi",
+      "timestamp": "47:37",
+      "question": "How does Ergo's privacy approach differ from other privacy coins that are currently trending?",
+      "asker": "Grayman via Mohit Tanwar",
+      "answer": "Ergo has optional privacy at the application layer through ErgoScript, including native support for thresholds, ring signatures with zero-knowledge properties, multi-sig, ErgoMixer (non-custodial and non-interactive), and stealth addresses. This differs from mandatory privacy coins. Optional privacy means optional transparency too, which is important for public money systems and regulatory compliance while still allowing business-level privacy when needed.",
+      "responder": "Grayman and kushti",
+      "category": "technical",
       "difficulty": "intermediate",
-      "related_terms": [
-        "airdrops",
-        "secondary market",
-        "bootstrap contributors"
-      ]
+      "related_terms": ["optional privacy", "ErgoScript", "ErgoMixer", "stealth addresses", "transparency"]
     },
     {
       "qa_id": 11,
-      "timestamp": "34:55",
-      "question": "So I'm too dumb to chase quick profits. But I do wonder, like, so after the two years are up, then this thing unlocks. And at that point, is there any purpose left to these original tokens? Or does everything just become normal liquidity provisions in the DEX?",
-      "asker": "Grayman",
-      "answer": "No, these tokens, so this contract will exist forever, right? The redemption contract. So you can redeem the portion of liquidity pool of liquidity tokens and then redeem liquidity or you just can keep these tokens in your wallet for 10 years and just accumulate fees. Your LP tokens will be locked in the original USE LP liquidity pool and they will stay there until you decide to redeem them.",
-      "responder": "Richi",
-      "category": "defi",
+      "timestamp": "51:49",
+      "question": "What privacy tools are available in Ergo and how do they work?",
+      "asker": "implicit",
+      "answer": "Ergo has native support for thresholds and ring signatures with zero-knowledge properties preserved (unlike Bitcoin), multi-sig capabilities, ErgoMixer as a non-custodial and non-interactive tool to restore coin fungibility, and stealth addresses for recipient privacy. As far as kushti knows, Ergo is the only blockchain with such comprehensive privacy properties built-in.",
+      "responder": "kushti",
+      "category": "technical",
       "difficulty": "advanced",
-      "related_terms": [
-        "redemption contract",
-        "LP tokens",
-        "fee accumulation"
-      ]
+      "related_terms": ["ring signatures", "zero-knowledge", "ErgoMixer", "stealth addresses", "fungibility"]
     },
     {
       "qa_id": 12,
-      "timestamp": "36:14",
-      "question": "How does it sound, Richi?",
-      "asker": "kushti",
-      "answer": "So next week is busy because we have a Cardano Summit and then some traveling.",
-      "responder": "Richi",
-      "category": "governance",
-      "difficulty": "beginner",
-      "related_terms": [
-        "Cardano Summit",
-        "schedule",
-        "traveling"
-      ]
-    },
-    {
-      "qa_id": 13,
-      "timestamp": "38:04",
-      "question": "Richi, somebody in the chat says, what's the hardest part of launch right now and how can they help?",
-      "asker": "qx",
-      "answer": "So, launch will be done with MewFinance. So, we already, actually, since ErgoHack 9, it's almost one year since we did this presentation, ErgoHack 9, I encourage everyone to go and just go to Ergo YouTube channel, and look at the ErgoHack 9. I explain how this launch will work. The video is there. And I'll be publishing more papers on that. So the basis is already done, everything for the launch.",
-      "responder": "Richi",
-      "category": "defi",
+      "timestamp": "53:42",
+      "question": "Why isn't ErgoMixer more widely used and how could it be improved?",
+      "asker": "Grayman",
+      "answer": "ErgoMixer isn't very easy to use for non-technical users - it feels like 'a bridge too far.' It could be a good candidate for a dApp in a browser wallet or mobile wallet to make it more accessible. However, it should never be too easy since people should think about what they're doing and understand their security assumptions. The mixer also requires counterparties for large amounts and has complex practices that need optimization.",
+      "responder": "Grayman and kushti",
+      "category": "technical",
       "difficulty": "intermediate",
-      "related_terms": [
-        "MewFinance",
-        "ErgoHack 9",
-        "launch preparation"
-      ]
+      "related_terms": ["ErgoMixer", "usability", "browser wallet", "counterparties"]
     }
   ]
 }
+```

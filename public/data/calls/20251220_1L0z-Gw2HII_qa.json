@@ -1,128 +1,117 @@
+```json
 {
   "call_date": "2025-12-20",
   "qa_pairs": [
     {
+      "qa_id": 1,
+      "timestamp": "02:49",
+      "question": "What's required to be a watcher in the Rosen Bridge protocol?",
+      "asker": "context",
+      "answer": "You need to run it yourself - you can't just be a passive participant. If you want to be a watcher, you need to run the software, pay attention to it, make sure it's functioning properly, upgrade when upgrades come, and ensure it's always running to capture transactions and earn rewards from the protocol.",
+      "responder": "armeanio",
+      "category": "bridges",
+      "difficulty": "intermediate",
+      "related_terms": ["rosen", "watcher", "infrastructure"]
+    },
+    {
       "qa_id": 2,
-      "timestamp": "05:16",
-      "question": "You play the law of averages there, right?",
-      "asker": "qx()",
-      "answer": "It just depends on the size of the network, right? Every once in a while there's someone with a BitAxe that throws out a Bitcoin block. That's pretty cool to see.",
+      "timestamp": "05:18",
+      "question": "What is the core design goal of Lithos?",
+      "asker": "context",
+      "answer": "Lithos is designed to put everything on-chain so that everybody can build their own blocks. The goal is to leverage proof of work's most interesting property - that anyone anywhere can silently compute, submit a block, and get a reward without artificial bounds on who can be a block producer.",
       "responder": "armeanio",
       "category": "mining",
       "difficulty": "intermediate",
-      "related_terms": [
-        "solo mining",
-        "Bitcoin",
-        "BitAxe"
-      ]
+      "related_terms": ["lithos", "proof-of-work", "decentralization", "solo-mining"]
+    },
+    {
+      "qa_id": 3,
+      "timestamp": "19:21",
+      "question": "Was Autolykos originally designed to resist mining pools?",
+      "asker": "qx()",
+      "answer": "Mining pools are toxic in terms of security assumptions - Bitcoin has three entities that control block production, which is terrible. While individual miners have local custody of their hardware and run their own power, the problem is that whoever controls order flow controls everything in markets, especially when building DeFi systems with race conditions and arbitrage opportunities.",
+      "responder": "armeanio",
+      "category": "mining",
+      "difficulty": "advanced",
+      "related_terms": ["autolykos", "mining-pools", "decentralization", "order-flow"]
     },
     {
       "qa_id": 4,
-      "timestamp": "19:21",
-      "question": "Initially, Autolykos was used for to resist mining pools, right? Initially with Ergo, was that the deal? You didn't want mining pools.",
+      "timestamp": "21:24",
+      "question": "How will individual miners need to operate differently with Lithos?",
       "asker": "qx()",
-      "answer": "Well, mining pools are pretty toxic in terms of the security assumptions, right? Bitcoin, it's like three entities that control block production and like that's terrible. But nonetheless, you have all of these individual miners that do have like local custody of their hardware.",
+      "answer": "Individual miners will need to be more in tune with stacking blocks and filling them with transactions. There's potential for creating markets where users can submit transactions to miners through privacy networks like Mixnet, pay priority fees directly to miners, and create other layers of markets for priority fees in DeFi.",
       "responder": "armeanio",
       "category": "mining",
-      "difficulty": "intermediate",
-      "related_terms": [
-        "Autolykos",
-        "mining pools",
-        "Bitcoin",
-        "security"
-      ]
+      "difficulty": "advanced",
+      "related_terms": ["lithos", "block-construction", "priority-fees", "mixnet"]
     },
     {
       "qa_id": 5,
-      "timestamp": "21:24",
-      "question": "So now, but with Lithos, right? The individual miners are going to have to be more in tune to that and pay more attention to stocking blocks and stacking them full of transactions.",
+      "timestamp": "22:25",
+      "question": "Will other blockchains adopt storage rent (demurrage) after Ergo?",
       "asker": "qx()",
-      "answer": "Yeah, I think there's some really interesting potential like in terms of building markets, right? Because that's ultimately what you want, is to build free markets on top of these systems.",
+      "answer": "Demurrage has really rough assumptions to throw on a chain, but it's a clean solution for UTXO state management. It creates a live set of UTXOs that moves forward in time, and allows for accurate projection of supply availability over time, unlike Bitcoin where supply is unknown until transactions are signed.",
       "responder": "armeanio",
-      "category": "technical",
+      "category": "tokenomics",
       "difficulty": "advanced",
-      "related_terms": [
-        "Lithos",
-        "mining",
-        "blocks",
-        "transactions"
-      ]
+      "related_terms": ["demurrage", "storage-rent", "utxo", "state-management"]
     },
     {
       "qa_id": 6,
-      "timestamp": "22:25",
-      "question": "You think we'll see other chains adopt Demurage after the fact, Joe?",
-      "asker": "qx()",
-      "answer": "It's really dirty, too, in my opinion. Pretty rough assumptions to throw on a chain. I'll get on like Twitter or X or whatever the fuck people are called these days, and I'll talk about Demurage, because I do think that it's a really clean solution in terms of like UTXO state management, right?",
-      "responder": "armeanio",
-      "category": "technical",
-      "difficulty": "advanced",
-      "related_terms": [
-        "Demurage",
-        "UTXO",
-        "state management"
-      ]
-    },
-    {
-      "qa_id": 15,
-      "timestamp": "43:55",
-      "question": "Yeah, what are you working on, buddy?",
-      "asker": "qx()",
-      "answer": "I'm trying to launch Gluon Dollar.",
+      "timestamp": "44:44",
+      "question": "What's the current status of Gluon Dollar development?",
+      "asker": "armeanio",
+      "answer": "I'm trying to launch Gluon Dollar but need to update things in the contract. An AI audit found one issue I missed related to Oracle fees. The challenge is it's not just changing the contract - I'm using backend Scala code that was set up to allow relaunching contracts with different parameters, so I may need to change the backend application code as well.",
       "responder": "Luca",
       "category": "defi",
       "difficulty": "intermediate",
-      "related_terms": [
-        "Gluon Dollar"
-      ]
+      "related_terms": ["gluon-dollar", "stablecoin", "oracle-fees", "scala"]
     },
     {
-      "qa_id": 16,
-      "timestamp": "52:15",
-      "question": "So what the so this is, this is a concept that Bruno came up with, and then you, you conceptualize with mathematics, or he conceptualized the mathematics and you implemented the code?",
-      "asker": "qx()",
-      "answer": "So, so what was actually cool is like, he's been thinking about stablecoins for a long time. So it's based on a, so Jed, even if you go all the way back, it's like started off from a paper on it from Ethereum called Staticoin. And I remember reading it and it was confusing because I got used to the notation that Bruno came up with for Jed and Gluon. It's much more intuitive.",
+      "qa_id": 7,
+      "timestamp": "46:47",
+      "question": "What updates are planned for Gluon Gold?",
+      "asker": "context",
+      "answer": "We want to update the reserve ratio to be closer to 1 (like 1.01) because we noticed it would de-peg too fast when people used the protocol. We also need to change one of the equations because when you depeg, it makes the reserve ratio constant, but it should actually be a version of a line that's always decreasing until it reaches one.",
       "responder": "Luca",
       "category": "defi",
       "difficulty": "advanced",
-      "related_terms": [
-        "Bruno",
-        "stablecoins",
-        "Jed",
-        "Staticoin",
-        "Gluon"
-      ]
+      "related_terms": ["gluon-gold", "reserve-ratio", "de-peg", "stablecoin"]
     },
     {
-      "qa_id": 22,
-      "timestamp": "59:49",
-      "question": "If Ergo is successful in three years from now, what will people be using it for on a daily basis?",
+      "qa_id": 8,
+      "timestamp": "53:25",
+      "question": "How does the Gluon protocol relate to earlier stablecoin research?",
       "asker": "qx()",
-      "answer": "Well, right now, if you look at what separates Ergo from most other cryptocurrencies is these derivatives that we've created, right? So there's been a lot of work that's been put into censorship resistant DeFi versus just creating the censorship enabled DeFi, which is not really then DeFi because you have an underlying party that can essentially reverse or freeze or seize everybody's assets.",
+      "answer": "Bruno studied the Staticoin paper from Ethereum, which was confusing with its notation. He improved upon those concepts to create Djed, and then Gluon is an improved version of Djed. Bruno developed the ideas and papers including the theorems, while I focused on proving the mathematical theorems behind the protocol.",
+      "responder": "Luca",
+      "category": "defi",
+      "difficulty": "intermediate",
+      "related_terms": ["gluon", "staticoin", "djed", "stablecoin", "theorems"]
+    },
+    {
+      "qa_id": 9,
+      "timestamp": "59:50",
+      "question": "If Ergo is successful in three years, what will people be using it for on a daily basis?",
+      "asker": "audience",
+      "answer": "What separates Ergo is the censorship-resistant DeFi derivatives we've created. If you look at total value locked on Ergo, basically everything is based on censorship-resistant protocols, versus most other systems that allow parties to potentially rug and freeze assets. For comparison, USDT has frozen 1.8% of its total supply historically - meaning almost a 2% chance of money disappearing.",
       "responder": "armeanio",
       "category": "ecosystem",
       "difficulty": "intermediate",
-      "related_terms": [
-        "Ergo",
-        "DeFi",
-        "censorship resistant",
-        "derivatives"
-      ]
+      "related_terms": ["censorship-resistance", "defi", "usdt", "freezing"]
     },
     {
-      "qa_id": 23,
-      "timestamp": "61:41",
-      "question": "So you say you say, sorry, go for it. Look, what do you say to this to Ergo three years? What are you using it for? What's it going to be used for?",
-      "asker": "qx()",
-      "answer": "Well, like I would like to use crypto. I would like to get to a point where like cryptocurrencies normalized in general and like society in general, like you just pay for things on a regular basis. That would be really cool. I don't know that it's going to happen in three years necessarily.",
-      "responder": "Luca",
-      "category": "ecosystem",
-      "difficulty": "beginner",
-      "related_terms": [
-        "cryptocurrency",
-        "payments",
-        "adoption"
-      ]
+      "qa_id": 10,
+      "timestamp": "66:57",
+      "question": "Why is neutral settlement important for international trade?",
+      "asker": "context",
+      "answer": "When countries freeze other countries' central bank reserves, it creates parent-child relationships rather than peer-to-peer trade. Why would anyone accept money with freezeability and reversibility built in when trading internationally? You need neutral settlement where countries can trade as equals, not in parent-child relationships. Simplistic systems like Bitcoin or Ergo provide this peer-to-peer capability.",
+      "responder": "armeanio",
+      "category": "tokenomics",
+      "difficulty": "advanced",
+      "related_terms": ["neutral-settlement", "international-trade", "censorship-resistance", "peer-to-peer"]
     }
-   ]
+  ]
 }
+```

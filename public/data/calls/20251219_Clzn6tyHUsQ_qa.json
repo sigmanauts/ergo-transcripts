@@ -1,333 +1,128 @@
+```json
 {
   "call_date": "2025-12-19",
   "qa_pairs": [
     {
       "qa_id": 1,
-      "timestamp": "00:29",
-      "question": "What time is it there, sir?",
+      "timestamp": "01:50",
+      "question": "What is the Ergo Foundation's current transition plan and what costs are being handed over to the community?",
       "asker": "Qx",
-      "answer": "It's six o'clock, six p.m.",
-      "responder": "HQ3rr",
-      "category": "other",
-      "difficulty": "beginner",
-      "related_terms": [
-        "timezone"
-      ]
+      "answer": "The Ergo Foundation's main goal was to bootstrap the community and get things going, and we're at that crossroads now. The EF won't vanish - it could continue signing exchange listings, getting grants, and supporting development. However, there are outstanding costs that need community takeover: market making costs about $10,000-$12,000 every quarter, and the main explorer infrastructure costs about 680 euros ($720) per month on Hetzner servers with 120GB RAM for large queries.",
+      "responder": "Qx",
+      "category": "governance",
+      "difficulty": "intermediate",
+      "related_terms": ["ergo foundation", "market making", "explorer infrastructure", "community transition"]
     },
     {
       "qa_id": 2,
-      "timestamp": "05:32",
-      "question": "Maybe at some point, something like a Sigma, what is it called? Sigma Explorer HQ?",
+      "timestamp": "02:40",
+      "question": "How does Ergo's market maker differ from other blockchain projects?",
       "asker": "Qx",
-      "answer": "SigmaSpace.",
-      "responder": "HQ3rr",
-      "category": "technical",
+      "answer": "Ergo has never used market makers that profit from community trades, which many other chains do - they make profit off the spreads when users trade against them. Ergo's market makers are US-friendly and do not make profits off supporting spreads and depths, which is why it costs about $12,000 every three months. This was a stipulation from the beginning to ensure the market maker doesn't extract value from the community.",
+      "responder": "Qx",
+      "category": "tokenomics",
       "difficulty": "intermediate",
-      "related_terms": [
-        "SigmaSpace",
-        "explorer",
-        "queries"
-      ]
+      "related_terms": ["market making", "spreads", "liquidity", "centralized exchanges"]
     },
     {
       "qa_id": 3,
-      "timestamp": "09:47",
-      "question": "Is that the Rosen team that was working on that or still kind of slow burning that?",
+      "timestamp": "04:53",
+      "question": "What is the solution for maintaining explorer infrastructure as the EF transitions costs to the community?",
       "asker": "Qx",
-      "answer": "I think it was Rosen plus Splash.",
-      "responder": "HQ3rr",
-      "category": "ecosystem",
-      "difficulty": "intermediate",
-      "related_terms": [
-        "Rosen",
-        "Splash",
-        "Hummingbot"
-      ]
+      "answer": "The Infra P2P DAO is running and can handle 99% of queries, but can't do massive queries requiring 120GB RAM machines. The solution is to run beefy explorers with Qx and Jamai hosting high-performance machines, redirect main explorer traffic to those, encourage P2P node usage for regular queries, and provide developers with a list of individual machines including P2P nodes and main explorer machines for redundancy if Cloudflare goes down.",
+      "responder": "Qx",
+      "category": "technical",
+      "difficulty": "advanced",
+      "related_terms": ["explorer", "P2P nodes", "infrastructure", "cloudflare", "load balancing"]
     },
     {
       "qa_id": 4,
-      "timestamp": "10:53",
-      "question": "Is it on your main page?",
-      "asker": "Qx",
-      "answer": "VoltPay.Store.store.",
+      "timestamp": "07:04",
+      "question": "Why do blockchain projects need market making services?",
+      "asker": "HQ3rr",
+      "answer": "The sad part of the crypto industry is that you're required to have market making services if you want to maintain or sustain your tokens on exchanges. It's not that we really want to run those bots or trade, but if you want to be part of the ecosystem that crypto has become, you need to have trading volumes and all that. You need basic minimum volumes on exchanges to avoid delisting, which is why community members will run these services for the community in the future.",
       "responder": "HQ3rr",
-      "category": "ecosystem",
+      "category": "tokenomics",
       "difficulty": "beginner",
-      "related_terms": [
-        "VoltPay.Store",
-        "website"
-      ]
+      "related_terms": ["market making", "exchange listings", "volume requirements", "delisting"]
     },
     {
       "qa_id": 5,
-      "timestamp": "12:34",
-      "question": "So what are you using? So VoltPay.Store is your, this is your code right here, but what are you hooking up to and integrating with?",
-      "asker": "Qx",
-      "answer": "I'm working with Trocador, which is actually known in the community from around six to seven years in all the crypto industry. So they have a very good reputation. And then we use a swapper, exotics, and multiple providers in a backend, which basically do the swapping for you.",
+      "timestamp": "08:40",
+      "question": "How could decentralized exchanges reduce the need for market making services?",
+      "asker": "HQ3rr",
+      "answer": "If we go to more decentralized exchanges and Rosen gets more attention, then we won't be needing traditional market making. If there are more users using Rosen and DEXes on connected chains, and you have enough volume and trades with wrapped assets, you don't really need access to centralized exchanges. This is the path forward, especially considering all the scams, exploits, and shenanigans happening with centralized exchanges.",
       "responder": "HQ3rr",
-      "category": "ecosystem",
+      "category": "bridges",
       "difficulty": "intermediate",
-      "related_terms": [
-        "VoltPay.Store",
-        "Trocador",
-        "swapper",
-        "providers"
-      ]
+      "related_terms": ["rosen bridge", "decentralized exchanges", "wrapped assets", "DEX volume"]
     },
     {
       "qa_id": 6,
-      "timestamp": "13:30",
-      "question": "There's no, there's KYC when you buy with currency though, correct? Was that the deal? I think it blocks me in the US, I think, or in New York state. If you're buying with crypto, no? No, if you're buying with cash, I mean with credit card.",
+      "timestamp": "12:45",
+      "question": "What is VaultPay and how does it work?",
       "asker": "Qx",
-      "answer": "There is no option to buy with credit card. If you're getting a prepaid card and you are not allowed, there are several countries which are not allowed to get a prepaid card, because they won't work there. But the USA one is working. So you are basically getting a swipe card. And you can use that anywhere.",
+      "answer": "VaultPay is a service that works with Trocador (known in the crypto community for 6-7 years with good reputation) using multiple providers including swapper and exotics in the backend. You can swap crypto-to-crypto with no KYC, or buy prepaid cards and gift cards with crypto. For example, you select BTC to ERG, choose from four providers, send your BTC to the provider which exchanges on exchanges in the background, creating volume without you directly touching exchanges.",
       "responder": "HQ3rr",
-      "category": "ecosystem",
+      "category": "defi",
       "difficulty": "beginner",
-      "related_terms": [
-        "KYC",
-        "prepaid card",
-        "credit card",
-        "USA"
-      ]
+      "related_terms": ["vaultpay", "trocador", "crypto swaps", "prepaid cards", "no KYC"]
     },
     {
       "qa_id": 7,
-      "timestamp": "15:41",
-      "question": "Can you hear us?",
+      "timestamp": "14:12",
+      "question": "What did HQ recently integrate with MewFinance regarding stablecoins?",
       "asker": "Qx",
-      "answer": "Yeah, can you hear me?",
-      "responder": "CannonQ",
-      "category": "other",
-      "difficulty": "beginner",
-      "related_terms": [
-        "audio",
-        "connection"
-      ]
+      "answer": "I integrated native pools of SigUSD and Dexy Gold in MewDex because I was getting sick of people asking about 'when SigUSD'. You can now swap inside the DEX and provide liquidity. There are two functions in the protocol - freemint and arbmint - so when there's a price difference, you can free mint to level the price between the LP and the bank. At bank.MewFinance.com, it shows LP price vs bank price and recommends what's best for you.",
+      "responder": "HQ3rr",
+      "category": "defi",
+      "difficulty": "intermediate",
+      "related_terms": ["sigusd", "dexy gold", "mewfinance", "liquidity pools", "arbitrage"]
     },
     {
       "qa_id": 8,
-      "timestamp": "17:26",
-      "question": "You guys know what this is? You guys paying attention to this HQ?",
-      "asker": "Qx",
-      "answer": "If you want to read it and read the complete smart contract, I would be glad. Because I think they just copied and pasted the chat GPT, and that's it.",
-      "responder": "HQ3rr",
-      "category": "technical",
-      "difficulty": "advanced",
-      "related_terms": [
-        "smart contract",
-        "ChatGPT"
-      ]
+      "timestamp": "25:23",
+      "question": "Why was Banksa integrated into Nautilus despite concerns about centralization?",
+      "asker": "CannonQ",
+      "answer": "The big issue was there was a common refrain in Ergo that there was no US access. Other than New York, you now have US access with Banksa. People are complaining about the 10% fee, but everyone knew that was the fee ahead of time. If you've used any of these services, you knew it would be around 10% take rate, which is actually less than US betting apps like FanDuel that take more than 10%.",
+      "responder": "CannonQ",
+      "category": "ecosystem",
+      "difficulty": "beginner",
+      "related_terms": ["banksa", "nautilus wallet", "US access", "fiat onramp", "fees"]
     },
     {
       "qa_id": 9,
-      "timestamp": "17:49",
-      "question": "What is this thing they're working on?",
-      "asker": "Qx",
-      "answer": "Actually, I didn't read it because I saw the chat GPT. Would you like to modify this somehow? And I was like, OK, so that's like.",
+      "timestamp": "37:01",
+      "question": "What's the fundamental difference between crypto and blockchain that people should understand?",
+      "asker": "HQ3rr",
+      "answer": "There are people who think crypto and blockchain are the same thing, but crypto is one thing and blockchain is another. You can build anything on blockchain that's not crypto related - use blockchain as a database, validator, verifier, amplifier, or whatever you want. You have to get the dollar value out of your mind. One ERG is going to be one ERG. Just imagine how many transactions you can do with one ERG, or how many boxes you can build with the minimum 0.004 box value, or how much data you can put in registers. That's the power of blockchain and what Ergo offers.",
       "responder": "HQ3rr",
       "category": "technical",
-      "difficulty": "intermediate",
-      "related_terms": [
-        "development",
-        "ChatGPT"
-      ]
+      "difficulty": "beginner",
+      "related_terms": ["blockchain", "crypto", "ergoscript", "UTXO boxes", "data storage"]
     },
     {
       "qa_id": 10,
-      "timestamp": "23:04",
-      "question": "Anything else you're working on, HQ?",
-      "asker": "Qx",
-      "answer": "No, I would like to just shout out to Michael because he's doing some nice PRs and he's learning how to be a dev.",
+      "timestamp": "39:29",
+      "question": "What is socket integration in MewDex and how does it improve user experience?",
+      "asker": "HQ3rr",
+      "answer": "You can now use socket on MewDex, which means if you transfer ERG or anything to another address and connect it, you will instantly see that you have that balance. You'll be able to create transactions when they're not even confirmed yet using chained transactions. The swaps will be much faster now. The only thing that can happen on the DEX is slippage if many people are trading in the same LP at once - just change the slippage and try again.",
       "responder": "HQ3rr",
-      "category": "ecosystem",
-      "difficulty": "beginner",
-      "related_terms": [
-        "Michael",
-        "PRs",
-        "development"
-      ]
+      "category": "defi",
+      "difficulty": "intermediate",
+      "related_terms": ["socket", "mewdex", "zero conf", "chained transactions", "slippage"]
     },
     {
       "qa_id": 11,
-      "timestamp": "23:09",
-      "question": "What's he PRing on? What's he doing?",
+      "timestamp": "40:38",
+      "question": "What is the zero conf feature in Nautilus wallet?",
       "asker": "Qx",
-      "answer": "He's doing stuff on crux. He added top trading. He is working on front end now. He's working on APIs. So yeah, I just want him to see that how painful it can be sometimes.",
-      "responder": "HQ3rr",
-      "category": "technical",
-      "difficulty": "intermediate",
-      "related_terms": [
-        "crux",
-        "frontend",
-        "APIs",
-        "development"
-      ]
-    },
-    {
-      "qa_id": 12,
-      "timestamp": "23:39",
-      "question": "What kind of like your own wallet?",
-      "asker": "Qx",
-      "answer": "Yeah. It is like a dApp. It's a dApp, but which acts like wallet. So you can create an wallet. You can send transactions through it. You can send money to send tokens to others. And it will have the integration of all the mew apps in it.",
-      "responder": "HQ3rr",
+      "answer": "In Nautilus Settings under experimental features, you can turn on zero conf which allows you to see incoming transactions as soon as they hit the mempool, before confirmation. You can then send those funds out while still in mempool using chained transactions. This works really well on Ergo - unlike other chains that start with 'E' where you need to add more fees to push transactions through, Ergo's chained transactions are very successful.",
+      "responder": "Qx",
       "category": "wallet",
       "difficulty": "intermediate",
-      "related_terms": [
-        "dApp",
-        "wallet",
-        "mew apps",
-        "integration"
-      ]
-    },
-    {
-      "qa_id": 13,
-      "timestamp": "24:39",
-      "question": "When's that going to come out?",
-      "asker": "Qx",
-      "answer": "I don't plan to release anything for now. I think I have released a lot. And I want to see some adoption to those things first, because I'm just burning myself here.",
-      "responder": "HQ3rr",
-      "category": "ecosystem",
-      "difficulty": "beginner",
-      "related_terms": [
-        "release",
-        "adoption",
-        "development"
-      ]
-    },
-    {
-      "qa_id": 14,
-      "timestamp": "26:04",
-      "question": "Is Stealth Exchange same as Stealth, whatever did you just say?",
-      "asker": "Qx",
-      "answer": "I do. I do. VoltPay.Store uses them as one of the providers.",
-      "responder": "HQ3rr",
-      "category": "ecosystem",
-      "difficulty": "intermediate",
-      "related_terms": [
-        "Stealth Exchange",
-        "VoltPay.Store",
-        "providers"
-      ]
-    },
-    {
-      "qa_id": 15,
-      "timestamp": "26:29",
-      "question": "And BankX isn't? Banksa isn't? I bet this is very centralized.",
-      "asker": "Qx",
-      "answer": "Yes, it is not centralized. It is like military protocol. They ask you for how many moles do you have on your left leg and then your right leg also.",
-      "responder": "HQ3rr",
-      "category": "ecosystem",
-      "difficulty": "beginner",
-      "related_terms": [
-        "Banksa",
-        "centralized",
-        "KYC"
-      ]
-    },
-    {
-      "qa_id": 16,
-      "timestamp": "41:02",
-      "question": "Do you use this feature? Do you have this turned on in your Nautilus HQ?",
-      "asker": "Qx",
-      "answer": "Yeah, by default.",
-      "responder": "HQ3rr",
-      "category": "wallet",
-      "difficulty": "intermediate",
-      "related_terms": [
-        "Nautilus",
-        "zero conf",
-        "chain transactions"
-      ]
-    },
-    {
-      "qa_id": 17,
-      "timestamp": "44:09",
-      "question": "What did you do with the Mew? Did you vault that Mew that I sent you, HQ?",
-      "asker": "Qx",
-      "answer": "I think I locked it and I unlocked it. And now I think those 15K Mew will be distributed to all the top in the leaderboard for the runes and DEX campaigns we created.",
-      "responder": "HQ3rr",
-      "category": "tokenomics",
-      "difficulty": "intermediate",
-      "related_terms": [
-        "Mew",
-        "locked",
-        "leaderboard",
-        "DEX campaigns"
-      ]
-    },
-    {
-      "qa_id": 18,
-      "timestamp": "45:16",
-      "question": "This is Echo? Yeah. You didn't build this for Echo?",
-      "asker": "Qx",
-      "answer": "No, I just gave him the emotional support.",
-      "responder": "HQ3rr",
-      "category": "ecosystem",
-      "difficulty": "beginner",
-      "related_terms": [
-        "Echo",
-        "support"
-      ]
-    },
-    {
-      "qa_id": 19,
-      "timestamp": "45:44",
-      "question": "Do you have a live page of the bank? You should have a live page of the bank.",
-      "asker": "Qx",
-      "answer": "I think it is. Yeah, it is ErgoCentra.MewFinance.com. It is live and it is updated and you can already send messages to Ergo Santa. You can write your letters.",
-      "responder": "HQ3rr",
-      "category": "ecosystem",
-      "difficulty": "beginner",
-      "related_terms": [
-        "Ergo Santa",
-        "MewFinance",
-        "website"
-      ]
-    },
-    {
-      "qa_id": 20,
-      "timestamp": "48:32",
-      "question": "You want that HQ?",
-      "asker": "Qx",
-      "answer": "No, thank you. That dance is very smelly right now. It's been two years, I think.",
-      "responder": "HQ3rr",
-      "category": "other",
-      "difficulty": "beginner",
-      "related_terms": [
-        "ErgoBass",
-        "NFT"
-      ]
-    },
-    {
-      "qa_id": 21,
-      "timestamp": "51:53",
-      "question": "Are you guys splitting that up this time? So if there were, I don't know, 200 keys, you're just taking whatever the token value is dividing by 200 or somebody getting.",
-      "asker": "CannonQ",
-      "answer": "No, I think, I think we're just, we're not sending any keys this time. It will be a DEX campaign. So we will be set up, set up multiple DEX campaign based on tokens. So for example, if we have a lot of FAKU, so we can create a campaign on FAKU.",
-      "responder": "HQ3rr",
-      "category": "tokenomics",
-      "difficulty": "intermediate",
-      "related_terms": [
-        "DEX campaign",
-        "FAKU",
-        "airdrop",
-        "distribution"
-      ]
-    },
-    {
-      "qa_id": 22,
-      "timestamp": "54:14",
-      "question": "What's the name of it, you guys remember?",
-      "asker": "Qx",
-      "answer": "It's Vlad Kostya.",
-      "responder": "CannonQ",
-      "category": "other",
-      "difficulty": "beginner",
-      "related_terms": [
-        "Bitcoin Takeover",
-        "podcast",
-        "kushti"
-      ]
+      "related_terms": ["nautilus", "zero conf", "mempool", "chained transactions", "transaction fees"]
     }
   ]
 }
+```
