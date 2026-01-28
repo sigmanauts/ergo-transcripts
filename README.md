@@ -21,11 +21,6 @@ Most blockchain ecosystems have this same problem. Research shows only Bitcoin (
 
 <img width="641" height="360" alt="landing page" src="https://github.com/user-attachments/assets/5a07358b-05d1-42b5-83ad-96306eac6538" />
 
-<img width="641" height="360" alt="issues being resolved by claude + github actions" src="https://github.com/user-attachments/assets/9d49173a-9bdc-4ecb-a8d2-c0eef7a880d4" />
-
-
-
-
 **What's live:** A React + TypeScript single-page application on Vercel with 50 transcripts (31 hours of content from 2025-2026).
 
 **Features:**
@@ -35,6 +30,8 @@ Most blockchain ecosystems have this same problem. Research shows only Bitcoin (
 - **Topic browser** showing related calls and key speakers for each topic
 - **Clickable YouTube timestamps** in every transcript for instant video verification
 - **Community correction system** that creates GitHub Issues directly from the site (no GitHub account required, honeypot bot prevention included). Issues trigger GitHub Actions that use Claude to review corrections and either approve with suggested changes, reject, or flag for human review. Approved corrections still require manual PR creation to prevent automated spam.
+<img width="370" height="180" alt="issues being resolved by claude + github actions" src="https://github.com/user-attachments/assets/9d49173a-9bdc-4ecb-a8d2-c0eef7a880d4" />
+
 - **FAQ database** aggregated from all transcribed calls
 - Code-split routes, error boundaries, per-page SEO optimization, Open Graph tags
 
@@ -75,13 +72,15 @@ Most blockchain ecosystems have this same problem. Research shows only Bitcoin (
 - Begin historical backfill to 2019 using mature glossary
 - Community review of early transcripts (processed before glossary matured)
 - Structure data for vector search and AI retrieval
-- Reach 200 total transcripts
-- Launch AI assistant prototype
+- Reach 150 total transcripts
+- Begin integrating Twitter Spaces
+- Scope AI assistant prototype
 
 ### Q2 2026
 
 - 150-200 transcripts covering recent content plus key historical material back to 2019
-- Production AI assistant with semantic search
+- Find one off presentations that aren't on "ergo youtube" account (e.g. Kushti on Vlad Kosta, Joe on Catalyst Proposal Show)
+- Launch production AI assistant with semantic search
 - Contributor indexes and cross-reference linking
 - Documentation for developers building on transcript corpus
 - Process community corrections, continue glossary refinement
@@ -97,7 +96,7 @@ Most blockchain ecosystems have this same problem. Research shows only Bitcoin (
 ### 2027+
 
 - Real-time transcription (24-48 hours after new content publishes)
-- Comprehensive archive of all public Ergo video content
+- Comprehensive archive of all public Ergo video and audio content
 - Sustainable funding model (grants, bounties, or protocol integration)
 - Cross-chain knowledge exchange model
 
