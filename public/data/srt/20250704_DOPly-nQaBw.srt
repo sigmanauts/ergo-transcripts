@@ -1,0 +1,2642 @@
+1
+00:00:13,000 --> 00:00:14,000
+All right.
+
+2
+00:00:14,000 --> 00:00:15,000
+Good morning, Joe.
+
+3
+00:00:15,000 --> 00:00:17,000
+How are you doing, sir?
+
+4
+00:00:17,000 --> 00:00:18,000
+Doing pretty well.
+
+5
+00:00:18,000 --> 00:00:20,000
+No complaints.
+
+6
+00:00:20,000 --> 00:00:22,000
+Well, thanks for joining me.
+
+7
+00:00:22,000 --> 00:00:28,000
+So this video is a part of a set of
+content coming out for the summit.
+
+8
+00:00:28,000 --> 00:00:34,000
+And I was hoping to just do a little deep
+dive into what Rosen Bridge is.
+
+9
+00:00:34,000 --> 00:00:40,000
+I would say right now, that's like one of
+the most popular dApps on Ergo.
+
+10
+00:00:40,000 --> 00:00:45,000
+And in my eyes, like one of the things
+that also expresses like the values of the
+
+11
+00:00:45,000 --> 00:00:50,000
+community and kind of executes really well
+on a philosophy that's like not always the
+
+12
+00:00:50,000 --> 00:00:55,000
+easiest road, you know, and so I just
+wanted to talk to you about that and get
+
+13
+00:00:55,000 --> 00:01:00,000
+your opinion, you know, maybe first tell
+me like what is Rosen?
+
+14
+00:01:00,000 --> 00:01:04,000
+What makes it different and special as
+opposed to other bridges?
+
+15
+00:01:04,000 --> 00:01:07,000
+All right, so Rosen itself is kind of an
+interchange protocol, is a good way to
+
+16
+00:01:07,000 --> 00:01:10,000
+look at it.
+
+17
+00:01:11,000 --> 00:01:17,000
+It's a transfer protocol between
+different endpoints, okay?
+
+18
+00:01:17,000 --> 00:01:21,000
+And part of what that gives the Ergo
+community is an element of
+
+19
+00:01:21,000 --> 00:01:25,000
+interoperability, which is always nice,
+but it's hardened access.
+
+20
+00:01:26,000 --> 00:01:32,000
+Access that basically we control right as
+a community and that's powerful in this
+
+21
+00:01:32,000 --> 00:01:38,000
+space because there are certain terms and
+conditions that
+
+22
+00:01:39,000 --> 00:01:45,000
+we kind of have to comply to or
+potentially risk delisting, right?
+
+23
+00:01:45,000 --> 00:01:49,000
+So you can use the example of privacy.
+
+24
+00:01:49,000 --> 00:01:53,000
+There's only so far you can take that
+before you run into a problem where it's
+
+25
+00:01:53,000 --> 00:01:57,000
+like the liability of your partners
+becomes an issue.
+
+26
+00:01:57,000 --> 00:02:00,000
+And, you know, they have too much control
+over your ability to access markets,
+
+27
+00:02:00,000 --> 00:02:03,000
+right?
+
+28
+00:02:04,000 --> 00:02:06,000
+Aside from the cost
+
+29
+00:02:06,000 --> 00:02:11,000
+of access itself, it's also a
+permissioned environment.
+
+30
+00:02:11,000 --> 00:02:17,000
+So the general idea is saying, OK, well,
+you have these different markets where
+
+31
+00:02:17,000 --> 00:02:23,000
+liquidity is concentrated, and you also
+have these consumer-facing wallets, as an
+
+32
+00:02:23,000 --> 00:02:29,000
+example, that we have the ability to back
+in without permission.
+
+33
+00:02:29,000 --> 00:02:32,000
+And so that puts us in a much stronger
+position long term, where we're no longer
+
+34
+00:02:32,000 --> 00:02:35,000
+subject to the
+
+35
+00:02:36,000 --> 00:02:42,000
+grace of external partners right and
+that's something that Ergo kind of
+
+36
+00:02:42,000 --> 00:02:48,000
+suffered with because it was a fair launch
+system so you know our
+
+37
+00:02:49,000 --> 00:02:53,000
+market access for a long time was largely
+dependent on, you know, who we could pay
+
+38
+00:02:53,000 --> 00:02:57,000
+and what their terms and conditions were.
+
+39
+00:02:57,000 --> 00:02:58,000
+Right.
+
+40
+00:02:58,000 --> 00:03:04,000
+And so I think having freer access that
+we control as a community is powerful.
+
+41
+00:03:04,000 --> 00:03:05,000
+It's something that's new.
+
+42
+00:03:05,000 --> 00:03:09,000
+You know, I'd like to continue building
+it out to where we're available on a lot
+
+43
+00:03:09,000 --> 00:03:13,000
+of consumer facing entry points, you know,
+Coinbase wallet, Phantom wallet, things
+
+44
+00:03:13,000 --> 00:03:17,000
+that people are familiar with.
+
+45
+00:03:19,000 --> 00:03:24,000
+without needing the grace and permission
+of a gatekeeper in between those
+
+46
+00:03:24,000 --> 00:03:29,000
+endpoints.
+
+47
+00:03:29,000 --> 00:03:33,000
+Yeah, okay, so you just told me the why
+of Rosen, sick.
+
+48
+00:03:33,000 --> 00:03:38,000
+So just to restate, you built Rosen
+because access to crypto was permissioned
+
+49
+00:03:38,000 --> 00:03:43,000
+and dependent on all sorts of factors that
+were not in your control, and most of
+
+50
+00:03:43,000 --> 00:03:48,000
+those factors were not aligned with your
+values.
+
+51
+00:03:48,000 --> 00:03:50,000
+Yeah, okay.
+
+52
+00:03:50,000 --> 00:03:52,000
+All right, sick.
+
+53
+00:03:52,000 --> 00:03:55,000
+So that's kind of what I was getting at
+when I was saying like, yeah, Rosen is
+
+54
+00:03:55,000 --> 00:03:58,000
+like a good representative of the
+ecosystem and just like, executes our
+
+55
+00:03:58,000 --> 00:04:01,000
+values very well.
+
+56
+00:04:02,000 --> 00:04:05,000
+But like, a lot of times, doing things
+from a principal position makes them more
+
+57
+00:04:05,000 --> 00:04:08,000
+difficult.
+
+58
+00:04:08,000 --> 00:04:10,000
+Right.
+
+59
+00:04:10,000 --> 00:04:12,000
+You're having to do all this stuff.
+
+60
+00:04:12,000 --> 00:04:13,000
+How does that get accomplished?
+
+61
+00:04:13,000 --> 00:04:20,000
+How is Rosen actually different on an
+implementation level?
+
+62
+00:04:20,000 --> 00:04:24,000
+One of my favorite things to do is look
+from time to time at rekt.news.
+
+63
+00:04:24,000 --> 00:04:26,000
+Have you ever seen rekt?
+
+64
+00:04:26,000 --> 00:04:33,000
+It's just like this list of all the hacks
+and two-thirds of them are bridges.
+
+65
+00:04:33,000 --> 00:04:38,000
+What is technically different about Rosen
+that allows you to do this?
+
+66
+00:04:38,000 --> 00:04:44,000
+So we dove into the security assumptions
+of bridging before we designed it, right?
+
+67
+00:04:44,000 --> 00:04:47,000
+So we kind of had like a first principles
+approach.
+
+68
+00:04:47,000 --> 00:04:50,000
+If we're going to design a bridge, the
+first thing we need to really understand
+
+69
+00:04:50,000 --> 00:04:53,000
+is why do bridges fail?
+
+70
+00:04:53,000 --> 00:04:56,000
+right?
+
+71
+00:04:53,000 --> 00:04:58,000
+And, you know, then take that knowledge
+and try to implement a solution that, you
+
+72
+00:04:58,000 --> 00:05:03,000
+know, avoids the pitfalls that we've seen
+in the space.
+
+73
+00:05:03,000 --> 00:05:10,000
+And a large part of kind of this failure
+process
+
+74
+00:05:10,000 --> 00:05:14,000
+In my opinion, it's what I would call
+nonlinear scaling assumptions, where it's
+
+75
+00:05:14,000 --> 00:05:18,000
+like every time you add an endpoint, you
+move into a new environment, you get new
+
+76
+00:05:18,000 --> 00:05:22,000
+logic if you're going the smart contract
+way, which means you have new
+
+77
+00:05:22,000 --> 00:05:26,000
+dependencies.
+
+78
+00:05:28,000 --> 00:05:35,000
+And so it's like your attack vector is
+growing faster than just one to one.
+
+79
+00:05:35,000 --> 00:05:39,000
+And that's incredibly hard to manage in
+moving environments, which blockchains
+
+80
+00:05:39,000 --> 00:05:43,000
+are, you know, living, moving environments
+that go through updates.
+
+81
+00:05:43,000 --> 00:05:47,000
+You know, every once in a while we'll
+have new standards, new logic.
+
+82
+00:05:47,000 --> 00:05:53,000
+And so it becomes something that's very
+hard to defend.
+
+83
+00:05:53,000 --> 00:05:54,000
+Right.
+
+84
+00:05:54,000 --> 00:05:57,000
+Yeah.
+
+85
+00:05:54,000 --> 00:05:57,000
+So, so maybe in simple terms, if one
+blockchain upgrades, the other one
+
+86
+00:05:57,000 --> 00:06:00,000
+doesn't.
+
+87
+00:06:00,000 --> 00:06:03,000
+your system now has to be reconfigured.
+
+88
+00:06:03,000 --> 00:06:08,000
+Yeah, we have to update and keep things
+in sync in real time.
+
+89
+00:06:08,000 --> 00:06:10,000
+And that's just on the chain itself.
+
+90
+00:06:10,000 --> 00:06:15,000
+Then you have all of the standards, the
+logic of each particular chain, the
+
+91
+00:06:15,000 --> 00:06:20,000
+dependencies that you need to program the
+logic.
+
+92
+00:06:20,000 --> 00:06:25,000
+So you kind of have this chain of risk
+whenever you get into
+
+93
+00:06:25,000 --> 00:06:29,000
+Like smart contracts right where it's not
+just the contract itself.
+
+94
+00:06:29,000 --> 00:06:32,000
+It's also like the dependencies That
+you're using to interact with the chain
+
+95
+00:06:32,000 --> 00:06:35,000
+could be broken and then that can be
+exploited and then you have like a
+
+96
+00:06:35,000 --> 00:06:38,000
+downhill risk, right
+
+97
+00:06:40,000 --> 00:06:46,000
+So instead of this mint and burn, which
+is how most smart contract based
+
+98
+00:06:46,000 --> 00:06:52,000
+blockchains are configured, we have this
+idea of lock and unlock, right?
+
+99
+00:06:53,000 --> 00:06:54,000
+We use vaults.
+
+100
+00:06:54,000 --> 00:06:59,000
+And actually, you see that in Ergo
+itself, where
+
+101
+00:06:59,000 --> 00:07:04,000
+You know one of the complaints that
+sometimes we run into is we don't have
+
+102
+00:07:04,000 --> 00:07:09,000
+like a smart token standard where you have
+this ability to just create a contract and
+
+103
+00:07:09,000 --> 00:07:14,000
+mint and burn from it and part of the
+reason why is you have like infinite.
+
+104
+00:07:14,000 --> 00:07:19,000
+Mint risk right if somebody can exploit
+that they can essentially mint infinite
+
+105
+00:07:19,000 --> 00:07:24,000
+tokens and so you know the first thing
+that we do when we set up these vaults.
+
+106
+00:07:25,000 --> 00:07:31,000
+Is we will mint large supply of coins or
+tokens will put them in a cold wallet and
+
+107
+00:07:31,000 --> 00:07:37,000
+then from that point is constantly audited
+right and.
+
+108
+00:07:37,000 --> 00:07:42,000
+We rely on this idea of kind of a
+dual-layer multi-sig would be the simplest
+
+109
+00:07:42,000 --> 00:07:47,000
+way to describe it, where how Rosen
+functions as a protocol is first you have
+
+110
+00:07:47,000 --> 00:07:52,000
+this reporting layer, and their job is to
+scan.
+
+111
+00:07:54,000 --> 00:07:55,000
+They're auditors, right?
+
+112
+00:07:55,000 --> 00:07:57,000
+Those are the watchers.
+
+113
+00:07:57,000 --> 00:07:59,000
+The watchers, yeah, they're auditors
+essentially.
+
+114
+00:07:59,000 --> 00:08:04,000
+So they are constantly watching an
+endpoint.
+
+115
+00:08:04,000 --> 00:08:07,000
+If something happens, they report it to a
+smart contract on Ergo that creates the
+
+116
+00:08:07,000 --> 00:08:10,000
+first layer of consensus.
+
+117
+00:08:11,000 --> 00:08:16,000
+And the nice thing about that is we get
+this idea of pre-truth.
+
+118
+00:08:16,000 --> 00:08:20,000
+It's like prior to execution, what is
+supposed to happen?
+
+119
+00:08:20,000 --> 00:08:24,000
+Which is kind of a failure point for a
+lot of bridges because
+
+120
+00:08:24,000 --> 00:08:28,000
+They learn something is wrong after it
+happens.
+
+121
+00:08:28,000 --> 00:08:31,000
+So having this idea of saying, OK, well,
+this is what should happen, and then we
+
+122
+00:08:31,000 --> 00:08:34,000
+execute what should happen.
+
+123
+00:08:34,000 --> 00:08:39,000
+In my opinion, initially, I was thinking
+clearance and settlement in the banking
+
+124
+00:08:39,000 --> 00:08:44,000
+system, where there are two distinct
+processes where you receive something, you
+
+125
+00:08:44,000 --> 00:08:49,000
+have to go through an auditing process,
+clear the transaction, and then it moves
+
+126
+00:08:49,000 --> 00:08:54,000
+to another stage where it executes
+settlement and funds are moved.
+
+127
+00:08:54,000 --> 00:08:55,000
+It works.
+
+128
+00:08:55,000 --> 00:09:00,000
+So you don't really need to reintroduce
+new things.
+
+129
+00:09:00,000 --> 00:09:02,000
+It's just modernize it.
+
+130
+00:09:02,000 --> 00:09:07,000
+And being that it's decentralized, then
+we get into this idea of decentralized
+
+131
+00:09:07,000 --> 00:09:12,000
+incentives, which is profit distribution.
+
+132
+00:09:12,000 --> 00:09:16,000
+That's one of the most powerful things we
+see with blockchain is this ability to
+
+133
+00:09:16,000 --> 00:09:18,000
+distribute profit.
+
+134
+00:09:18,000 --> 00:09:24,000
+So Rosen leverages that to try to create
+like a community and people that are
+
+135
+00:09:24,000 --> 00:09:30,000
+incentivized and earn from bridge
+transactions.
+
+136
+00:09:30,000 --> 00:09:36,000
+So in a way, it's kind of like your
+mining interchange, if that makes sense.
+
+137
+00:09:36,000 --> 00:09:37,000
+Yeah, it does.
+
+138
+00:09:37,000 --> 00:09:38,000
+It does.
+
+139
+00:09:38,000 --> 00:09:42,000
+I think I really appreciate the approach
+where it's like, okay, we recognize the
+
+140
+00:09:42,000 --> 00:09:46,000
+limitations that we're dealing with.
+
+141
+00:09:46,000 --> 00:09:49,000
+in terms of people's intentions and also
+just like, oh, like, why can't this just
+
+142
+00:09:49,000 --> 00:09:52,000
+be automated entirely?
+
+143
+00:09:53,000 --> 00:09:55,000
+You know, it's like, so we've come up
+with a solution that aligns people's
+
+144
+00:09:55,000 --> 00:09:57,000
+incentives.
+
+145
+00:09:58,000 --> 00:10:01,000
+So as you said, it's like a community of
+watchers.
+
+146
+00:10:01,000 --> 00:10:05,000
+I mean, there's hundreds of watchers.
+
+147
+00:10:05,000 --> 00:10:08,000
+Yep.
+
+148
+00:10:05,000 --> 00:10:08,000
+At this point, there's a couple hundred.
+
+149
+00:10:08,000 --> 00:10:12,000
+It's something like we could have built a
+system that didn't include profit
+
+150
+00:10:12,000 --> 00:10:16,000
+distribution, right?
+
+151
+00:10:16,000 --> 00:10:20,000
+But then it's like, okay, you no longer
+have a check on the system and you no
+
+152
+00:10:20,000 --> 00:10:24,000
+longer have an incentive for
+participation, right?
+
+153
+00:10:25,000 --> 00:10:30,000
+And I really hope, I know Rosen is kind
+of new and we're still working into new
+
+154
+00:10:30,000 --> 00:10:35,000
+environments and we're still in the
+process of figuring out like the
+
+155
+00:10:35,000 --> 00:10:39,000
+politics on top of chains of how to get
+added into different applications,
+
+156
+00:10:39,000 --> 00:10:43,000
+infrastructure, etc.
+
+157
+00:10:44,000 --> 00:10:48,000
+But my hope is that, longer term, we now
+have this layer of people that are
+
+158
+00:10:48,000 --> 00:10:52,000
+incentivized and profit from growth.
+
+159
+00:10:53,000 --> 00:11:00,000
+And that becomes powerful because then
+you have a community that can push the
+
+160
+00:11:00,000 --> 00:11:07,000
+adoption of Rosen itself versus just a
+team building stuff.
+
+161
+00:11:07,000 --> 00:11:14,000
+Yeah, and it's also a functional machine
+that grows over time.
+
+162
+00:11:14,000 --> 00:11:17,000
+Not like a burn, as you were mentioning,
+having to pay people to access their
+
+163
+00:11:17,000 --> 00:11:20,000
+thing, you know, it's not you're not just
+like subtracting funds out of the Treasury
+
+164
+00:11:20,000 --> 00:11:23,000
+until it hits zero.
+
+165
+00:11:23,000 --> 00:11:27,000
+It's an actual it's an actual working
+machine that
+
+166
+00:11:27,000 --> 00:11:31,000
+powers itself through this profit
+incentive.
+
+167
+00:11:31,000 --> 00:11:32,000
+Super cool.
+
+168
+00:11:32,000 --> 00:11:35,000
+And a lot of the times when you see
+market listing, it comes with this
+
+169
+00:11:35,000 --> 00:11:38,000
+friction cost up front and there's a
+certain incentive that the team's going to
+
+170
+00:11:38,000 --> 00:11:41,000
+recoup that.
+
+171
+00:11:42,000 --> 00:11:46,000
+And that creates a weird alignment of
+incentives itself because now you have a
+
+172
+00:11:46,000 --> 00:11:50,000
+team potentially trading against their own
+ecosystem to recoup the cost of working
+
+173
+00:11:50,000 --> 00:11:54,000
+with a third party.
+
+174
+00:11:55,000 --> 00:12:01,000
+And that's unfortunately quite common, it
+seems, with listings because in many
+
+175
+00:12:01,000 --> 00:12:07,000
+cases, when you're talking larger
+exchanges, you can get into the millions.
+
+176
+00:12:08,000 --> 00:12:12,000
+There was an article, as an example,
+somebody
+
+177
+00:12:12,000 --> 00:12:15,000
+listing on a Korean exchange and paying
+$10 million.
+
+178
+00:12:15,000 --> 00:12:20,000
+That's more than the entire history of
+development, funds, exchanges, everything
+
+179
+00:12:20,000 --> 00:12:25,000
+we've done on Ergo just to work with the
+third party, which is insane.
+
+180
+00:12:25,000 --> 00:12:28,000
+The incentives don't line up.
+
+181
+00:12:28,000 --> 00:12:31,000
+Wow.
+
+182
+00:12:31,000 --> 00:12:35,000
+Is there anything else about the
+implementation of Rosen that you wanted to
+
+183
+00:12:35,000 --> 00:12:39,000
+talk about before the next topic?
+
+184
+00:12:39,000 --> 00:12:42,000
+Sure, I think that we've made a couple of
+choices that are probably, I don't know,
+
+185
+00:12:42,000 --> 00:12:45,000
+non-standard in the space.
+
+186
+00:12:46,000 --> 00:12:50,000
+An example would be we call ERG that's
+wrapped RS-ERG.
+
+187
+00:12:50,000 --> 00:12:53,000
+And it's because we want to let people
+know that there is additional security
+
+188
+00:12:53,000 --> 00:12:56,000
+complexity.
+
+189
+00:12:56,000 --> 00:13:01,000
+A lot of the times, security complexities
+in crypto is very buried.
+
+190
+00:13:01,000 --> 00:13:05,000
+to where it's obfuscated until we find
+out there's a problem and then post-mortem
+
+191
+00:13:05,000 --> 00:13:09,000
+we figure out what the problem was.
+
+192
+00:13:10,000 --> 00:13:12,000
+And that's kind of a terrible design.
+
+193
+00:13:12,000 --> 00:13:18,000
+So my hope with the overall design and
+having everything open source public
+
+194
+00:13:18,000 --> 00:13:24,000
+facing, anybody can join if they're
+willing to stomach some economic friction
+
+195
+00:13:24,000 --> 00:13:30,000
+to make sure that the bridge doesn't get
+spammed.
+
+196
+00:13:31,000 --> 00:13:33,000
+less that's hidden from end users.
+
+197
+00:13:33,000 --> 00:13:38,000
+And I think that that's a big part of the
+strength of Rosen itself.
+
+198
+00:13:38,000 --> 00:13:40,000
+Just not ending up on rekt.news.
+
+199
+00:13:40,000 --> 00:13:43,000
+Yeah.
+
+200
+00:13:40,000 --> 00:13:41,000
+Yeah, exactly.
+
+201
+00:13:41,000 --> 00:13:43,000
+That's the goal.
+
+202
+00:13:43,000 --> 00:13:45,000
+I would be rekt if that happens.
+
+203
+00:13:45,000 --> 00:13:46,000
+Yeah.
+
+204
+00:13:46,000 --> 00:13:47,000
+Yeah.
+
+205
+00:13:47,000 --> 00:13:48,000
+OK.
+
+206
+00:13:48,000 --> 00:13:50,000
+I think I agree with all of that, man.
+
+207
+00:13:50,000 --> 00:13:54,000
+And I think you've explained it pretty
+simply.
+
+208
+00:13:54,000 --> 00:13:57,000
+Maybe one more open ended question.
+
+209
+00:13:57,000 --> 00:14:02,000
+Just kind of like long term, what's your
+vision for Rosen?
+
+210
+00:14:02,000 --> 00:14:09,000
+Well, I think that we have a couple of
+verticals that we can really build on.
+
+211
+00:14:09,000 --> 00:14:16,000
+So in the blockchain space, we have this
+idea of layer twos.
+
+212
+00:14:16,000 --> 00:14:22,000
+And essentially what a layer two is, is
+it's the idea of pre-confirmation with the
+
+213
+00:14:22,000 --> 00:14:28,000
+assumption things are going to settle
+later.
+
+214
+00:14:28,000 --> 00:14:34,000
+And so like one thing we will run into
+periodically is Rosen is slow.
+
+215
+00:14:34,000 --> 00:14:37,000
+It's slow by design, right?
+
+216
+00:14:37,000 --> 00:14:40,000
+But you want additional checks on your
+funds.
+
+217
+00:14:40,000 --> 00:14:45,000
+So when you get faster transactions
+between systems that like finality and
+
+218
+00:14:45,000 --> 00:14:50,000
+proof of work is based on how many blocks
+have been added, right?
+
+219
+00:14:51,000 --> 00:14:56,000
+So the sooner it's final, the less secure
+it is.
+
+220
+00:14:56,000 --> 00:15:01,000
+You know the same is potentially true in
+proof of stake where you have like the
+
+221
+00:15:01,000 --> 00:15:06,000
+historical rollback You know or you know
+you can say okay on this chain the longest
+
+222
+00:15:06,000 --> 00:15:11,000
+rollback has been 60 blocks So if we shoot
+lower than 60 blocks, you know, we're
+
+223
+00:15:11,000 --> 00:15:16,000
+assuming that that's never gonna happen
+again and it could right Yeah, so you're
+
+224
+00:15:16,000 --> 00:15:21,000
+inheriting a lot of
+
+225
+00:15:21,000 --> 00:15:24,000
+security complexities in different
+environments that are not always
+
+226
+00:15:24,000 --> 00:15:27,000
+straightforward to understand.
+
+227
+00:15:27,000 --> 00:15:32,000
+And so we said, okay, let's build this
+slow, let's make it secure.
+
+228
+00:15:32,000 --> 00:15:36,000
+And most users do want speed, right?
+
+229
+00:15:36,000 --> 00:15:40,000
+And it's something we have the capacity
+to do, essentially what that would, again,
+
+230
+00:15:40,000 --> 00:15:44,000
+let's just take from what exists that
+works.
+
+231
+00:15:44,000 --> 00:15:49,000
+In the banking world, if you want a
+faster transfer, you pay a premium, right?
+
+232
+00:15:49,000 --> 00:15:53,000
+And so we potentially can build a system
+around Rosen, not within it, but around
+
+233
+00:15:53,000 --> 00:15:57,000
+it, which is an important distinction to
+make, where you have liquidity providers
+
+234
+00:15:57,000 --> 00:16:01,000
+on either endpoint.
+
+235
+00:16:03,000 --> 00:16:09,000
+Somebody sends and they say, I want to
+pay extra to have this settle faster.
+
+236
+00:16:09,000 --> 00:16:13,000
+The liquidity provider will basically
+assume the risk of faster settlement for
+
+237
+00:16:13,000 --> 00:16:17,000
+premium.
+
+238
+00:16:17,000 --> 00:16:21,000
+and then the bridge transaction will pay
+them on a delay.
+
+239
+00:16:21,000 --> 00:16:27,000
+Users get their funds faster, the
+liquidity provider gets a premium markup,
+
+240
+00:16:27,000 --> 00:16:33,000
+and the core assumption itself doesn't
+change.
+
+241
+00:16:33,000 --> 00:16:38,000
+In building around Rosen, that's
+something that we need to be very mindful
+
+242
+00:16:38,000 --> 00:16:43,000
+to protect, because as soon as you start
+to introduce leverage into bridges, you
+
+243
+00:16:43,000 --> 00:16:48,000
+get economic security complexity, which is
+its own crazy vertical.
+
+244
+00:16:50,000 --> 00:16:54,000
+We saw that with THORChain as an example,
+where they said, hey, we're going to have
+
+245
+00:16:54,000 --> 00:16:59,000
+where we're going to create DeFi inside
+of the bridge and that's a terrible idea.
+
+246
+00:16:59,000 --> 00:17:02,000
+Yeah, the whole thing was like a short on
+Bitcoin and like, oh, it went up so
+
+247
+00:17:02,000 --> 00:17:05,000
+everything fell apart.
+
+248
+00:17:05,000 --> 00:17:10,000
+Yeah, it's potentially really, really
+profitable, but it introduces just
+
+249
+00:17:10,000 --> 00:17:15,000
+assumptions that are breaking.
+
+250
+00:17:15,000 --> 00:17:24,000
+My base rule in bridge design is, okay,
+we want to not rehypothecate assets.
+
+251
+00:17:24,000 --> 00:17:25,000
+Just that simple.
+
+252
+00:17:25,000 --> 00:17:28,000
+We want to keep everything one-to-one in
+a way that's transparent, auditable.
+
+253
+00:17:28,000 --> 00:17:31,000
+Any user can check that.
+
+254
+00:17:31,000 --> 00:17:36,000
+And it's strange because we even see
+custodial solutions on Coinbase, right?
+
+255
+00:17:36,000 --> 00:17:39,000
+And the auditability there is a little
+foggy.
+
+256
+00:17:39,000 --> 00:17:44,000
+Somehow we've created a better custodial
+solution than most of the exchanges that
+
+257
+00:17:44,000 --> 00:17:49,000
+are working with Fortune 500 companies,
+which is kind of insane to think about,
+
+258
+00:17:49,000 --> 00:17:54,000
+but that's, I don't know, state of the
+space.
+
+259
+00:17:54,000 --> 00:17:56,000
+Yeah.
+
+260
+00:17:56,000 --> 00:17:58,000
+Yeah, man.
+
+261
+00:17:58,000 --> 00:17:59,000
+OK.
+
+262
+00:17:59,000 --> 00:18:07,000
+So long term, you're imagining Rosen
+connecting all the major layer ones.
+
+263
+00:18:07,000 --> 00:18:08,000
+Is that the goal?
+
+264
+00:18:08,000 --> 00:18:10,000
+Both.
+
+265
+00:18:10,000 --> 00:18:17,000
+If you look at product differentiation,
+there are a ton of bridges that work with
+
+266
+00:18:17,000 --> 00:18:24,000
+ETH because you have parallel logic via
+the EVM.
+
+267
+00:18:24,000 --> 00:18:26,000
+And so I think that if you're going to
+compete, you need some sort of competitive
+
+268
+00:18:26,000 --> 00:18:28,000
+advantage.
+
+269
+00:18:29,000 --> 00:18:32,000
+And one thing that Rosen
+
+270
+00:18:32,000 --> 00:18:38,000
+The natural advantage of Rosen itself is
+that it was designed to work across
+
+271
+00:18:38,000 --> 00:18:44,000
+non-compatible environments Right, so I
+look across at other projects that you
+
+272
+00:18:44,000 --> 00:18:50,000
+know are similar to Ergo and in terms of
+You know, they don't have this I'm gonna
+
+273
+00:18:50,000 --> 00:18:56,000
+call it an insider advantage in terms of
+working with a lot of partners in the
+
+274
+00:18:56,000 --> 00:19:02,000
+space but they're technically rich right
+and
+
+275
+00:19:02,000 --> 00:19:06,000
+You can look at proof of work projects,
+Nervos, Alephium, Kaspa, they're real
+
+276
+00:19:06,000 --> 00:19:10,000
+projects.
+
+277
+00:19:10,000 --> 00:19:16,000
+There's a lot of research, a ton of
+engineering that's just disrespected.
+
+278
+00:19:16,000 --> 00:19:19,000
+That's not what the space respects at
+this point.
+
+279
+00:19:19,000 --> 00:19:24,000
+And so I'm saying, okay, well, if I look
+across at different projects and I see
+
+280
+00:19:24,000 --> 00:19:29,000
+that they have these same friction points
+in terms of market access, building into
+
+281
+00:19:29,000 --> 00:19:34,000
+them creates a richer ecosystem with a lot
+more technical depth.
+
+282
+00:19:35,000 --> 00:19:39,000
+you know, versus, you know, you look at
+Binance and, you know, it's a combination
+
+283
+00:19:39,000 --> 00:19:43,000
+of food and animal items, you know, that
+they're listing today.
+
+284
+00:19:44,000 --> 00:19:47,000
+It's like, well, where, where is like the
+technical depth and engineering and like
+
+285
+00:19:47,000 --> 00:19:50,000
+development mind share there?
+
+286
+00:19:50,000 --> 00:19:51,000
+There's none.
+
+287
+00:19:51,000 --> 00:19:52,000
+There, there really is none.
+
+288
+00:19:52,000 --> 00:19:57,000
+And it kind of creates its own like
+idiocracy in crypto.
+
+289
+00:19:57,000 --> 00:20:01,000
+So I do think that using
+
+290
+00:20:01,000 --> 00:20:05,000
+So, Rosen is like, you're looking at the
+problem that you experienced as an
+
+291
+00:20:05,000 --> 00:20:09,000
+individual, recognize that everyone who is
+not operating under these perverse
+
+292
+00:20:09,000 --> 00:20:13,000
+incentives
+
+293
+00:20:14,000 --> 00:20:15,000
+also experiences that.
+
+294
+00:20:15,000 --> 00:20:18,000
+And so you're trying to really be a boon
+for the blockchain industry and for the
+
+295
+00:20:18,000 --> 00:20:21,000
+principles that you really agree with and
+saying, like, you don't have to jump
+
+296
+00:20:21,000 --> 00:20:24,000
+through all these hoops to take part in
+this revolution that's happening right
+
+297
+00:20:24,000 --> 00:20:27,000
+now.
+
+298
+00:20:29,000 --> 00:20:30,000
+That's really cool.
+
+299
+00:20:30,000 --> 00:20:35,000
+Yeah, I mean, like long-term, if we have
+the ability to backdoor where liquidity is
+
+300
+00:20:35,000 --> 00:20:40,000
+concentrated, we're no longer beholden to
+that aspect of the industry.
+
+301
+00:20:41,000 --> 00:20:45,000
+And I don't like to deal with them, you
+know, like I've had years of meetings with
+
+302
+00:20:45,000 --> 00:20:49,000
+teams where it's like they're, I don't
+know, they're focused on flashy metrics
+
+303
+00:20:49,000 --> 00:20:53,000
+that usually- They look like Mr. Burns
+like trying to take your money.
+
+304
+00:20:55,000 --> 00:20:56,000
+Yeah, kind of.
+
+305
+00:20:56,000 --> 00:21:00,000
+I mean, they're focused on flashy metrics
+that don't necessarily translate into
+
+306
+00:21:00,000 --> 00:21:04,000
+anything valuable other than like this
+ability to pseudo and honestly extract
+
+307
+00:21:04,000 --> 00:21:08,000
+value.
+
+308
+00:21:08,000 --> 00:21:09,000
+That's what I would say.
+
+309
+00:21:09,000 --> 00:21:15,000
+So, you know, it's hard to have a
+technical conversation, you know, versus,
+
+310
+00:21:15,000 --> 00:21:21,000
+I don't know, there's a value misalignment
+in crypto, in my opinion.
+
+311
+00:21:21,000 --> 00:21:25,000
+This is structural where it's like, if
+you look at how traditional finance
+
+312
+00:21:25,000 --> 00:21:29,000
+operates in like the VC world, they'll
+have like a five to 10 year window where
+
+313
+00:21:29,000 --> 00:21:33,000
+it's like, okay, you're gonna build this
+and then we're going to slowly push for
+
+314
+00:21:33,000 --> 00:21:37,000
+the adoption of, you know, whatever you're
+building.
+
+315
+00:21:38,000 --> 00:21:44,000
+And that adoption curve is not
+instantaneous.
+
+316
+00:21:44,000 --> 00:21:47,000
+And so a lot of VCs in crypto, because
+crypto has this amazing ability to create
+
+317
+00:21:47,000 --> 00:21:50,000
+liquidity right out of the gate, they're
+looking at the liquidity risk curve and
+
+318
+00:21:50,000 --> 00:21:53,000
+not the adoption curve.
+
+319
+00:21:55,000 --> 00:21:57,000
+So their focus is backwards.
+
+320
+00:21:57,000 --> 00:22:00,000
+And so then you have a lot of things that
+are introduced to market that have a lot
+
+321
+00:22:00,000 --> 00:22:03,000
+of marketing hype.
+
+322
+00:22:03,000 --> 00:22:07,000
+And they're very liquidity curve driven.
+
+323
+00:22:07,000 --> 00:22:11,000
+but they're not adoption focused.
+
+324
+00:22:11,000 --> 00:22:15,000
+Axie Infinity was like the biggest thing,
+you know, it's like, oh, like, cool,
+
+325
+00:22:15,000 --> 00:22:19,000
+didn't really do anything, made some
+people a ton of money.
+
+326
+00:22:19,000 --> 00:22:22,000
+Yeah, it doesn't relate to adoption.
+
+327
+00:22:22,000 --> 00:22:25,000
+And if like if you're focused on like the
+development side and you're looking at the
+
+328
+00:22:25,000 --> 00:22:28,000
+adoption curve, you have to realize, you
+know, okay, where is Rosen going to be in
+
+329
+00:22:28,000 --> 00:22:31,000
+five years?
+
+330
+00:22:31,000 --> 00:22:33,000
+That's, that's kind of the goal.
+
+331
+00:22:33,000 --> 00:22:35,000
+Where can Rosen be in 10 years?
+
+332
+00:22:35,000 --> 00:22:36,000
+That's the goal.
+
+333
+00:22:36,000 --> 00:22:40,000
+It's not like where is Rosen going to be
+on the five minute chart against Bitcoin?
+
+334
+00:22:40,000 --> 00:22:41,000
+You can't think like that.
+
+335
+00:22:41,000 --> 00:22:43,000
+Never build anything.
+
+336
+00:22:43,000 --> 00:22:47,000
+And your whole approach has been like,
+how do we build to withstand that 100-year
+
+337
+00:22:47,000 --> 00:22:51,000
+flood?
+
+338
+00:22:51,000 --> 00:22:54,000
+Not like what happened this past year.
+
+339
+00:22:54,000 --> 00:22:57,000
+And then think you're good.
+
+340
+00:22:57,000 --> 00:22:58,000
+I love it.
+
+341
+00:22:58,000 --> 00:23:01,000
+The crypto space is increasingly fragile,
+in my opinion.
+
+342
+00:23:01,000 --> 00:23:07,000
+As things become more mainstream and more
+subject to the whims and
+
+343
+00:23:07,000 --> 00:23:13,000
+like choices of like the political
+environment you know things are going to
+
+344
+00:23:13,000 --> 00:23:19,000
+potentially be more fragile right and so
+our goal is as like an industry at least
+
+345
+00:23:19,000 --> 00:23:25,000
+when i started was how do we create
+non-fragile systems to where
+
+346
+00:23:26,000 --> 00:23:28,000
+something that's not going to fall apart
+when the other team gets elected or
+
+347
+00:23:28,000 --> 00:23:30,000
+whatever.
+
+348
+00:23:30,000 --> 00:23:31,000
+Exactly.
+
+349
+00:23:31,000 --> 00:23:32,000
+Exactly.
+
+350
+00:23:32,000 --> 00:23:37,000
+We need to be able to withstand ideally
+state level attacks.
+
+351
+00:23:37,000 --> 00:23:39,000
+That's kind of the idea Bitcoin was
+founded on.
+
+352
+00:23:39,000 --> 00:23:44,000
+And so we've tried to follow design
+principles that will
+
+353
+00:23:44,000 --> 00:23:48,000
+support that in really harsh
+environments.
+
+354
+00:23:48,000 --> 00:23:50,000
+That was the goal of Rosen's.
+
+355
+00:23:50,000 --> 00:23:55,000
+How do we make unstoppable access that
+way if KuCoin gets their access to work
+
+356
+00:23:55,000 --> 00:24:00,000
+with Americans pulled and exchanges say,
+hey, you have this mixer on your chain
+
+357
+00:24:00,000 --> 00:24:05,000
+that we don't agree with, so we're going
+to delist you.
+
+358
+00:24:05,000 --> 00:24:09,000
+How can we navigate those type of attacks
+without losing our tether to larger
+
+359
+00:24:09,000 --> 00:24:13,000
+markets?
+
+360
+00:24:14,000 --> 00:24:18,000
+So, Rosen is kind of an ongoing attempt
+to harden, you know, make Ergo hard to
+
+361
+00:24:18,000 --> 00:24:22,000
+kill, basically.
+
+362
+00:24:23,000 --> 00:24:25,000
+Yeah, I love it, man.
+
+363
+00:24:25,000 --> 00:24:28,000
+That's good.
+
+364
+00:24:25,000 --> 00:24:31,000
+Okay, so I just wanted to jump into the
+Rosen site real quick and just kind of
+
+365
+00:24:31,000 --> 00:24:37,000
+show people what this is and maybe how to
+use it.
+
+366
+00:24:37,000 --> 00:24:41,000
+So, can you see that all right?
+
+367
+00:24:41,000 --> 00:24:45,000
+All right, so this is the list of locked
+assets.
+
+368
+00:24:45,000 --> 00:24:49,000
+So just to give people an idea, there are
+like over 40 different tokens that can be
+
+369
+00:24:49,000 --> 00:24:53,000
+sent and couple of coins.
+
+370
+00:24:53,000 --> 00:25:00,000
+And these are across Ergo, Cardano and
+Ethereum right now, is that correct?
+
+371
+00:25:00,000 --> 00:25:07,000
+And Binance is just now, yeah, Binance
+just now started.
+
+372
+00:25:07,000 --> 00:25:10,000
+What else is like coming down the pike?
+
+373
+00:25:10,000 --> 00:25:15,000
+So I think one of the most exciting
+things that we have been working towards
+
+374
+00:25:15,000 --> 00:25:20,000
+is been wallet integrations, right?
+
+375
+00:25:20,000 --> 00:25:24,000
+So right now we have this application
+that the user needs to go to find and it
+
+376
+00:25:24,000 --> 00:25:28,000
+kind of creates additional friction and
+complexity in terms of like the bridging
+
+377
+00:25:28,000 --> 00:25:32,000
+process.
+
+378
+00:25:32,000 --> 00:25:35,000
+You know, I've been like,
+
+379
+00:25:35,000 --> 00:25:38,000
+I don't know, on the Nautilus wallet team
+since that came out, and MHS, who's my
+
+380
+00:25:38,000 --> 00:25:41,000
+co-founder, has his own wallet actually,
+Minotaur, that he was working on in
+
+381
+00:25:41,000 --> 00:25:44,000
+parallel.
+
+382
+00:25:46,000 --> 00:25:51,000
+And so our goal long-term was to say,
+okay, let's get the Ergo ecosystem wallet
+
+383
+00:25:51,000 --> 00:25:56,000
+game kind of leveled up, and then we need
+to create an SDK to allow wallets to
+
+384
+00:25:56,000 --> 00:26:01,000
+actually integrate Rosen into the
+interface.
+
+385
+00:26:02,000 --> 00:26:07,000
+which hopefully will make the bridging
+process itself a lot simpler because it's
+
+386
+00:26:07,000 --> 00:26:12,000
+happening from a single UI rather than
+bouncing across the website and the web
+
+387
+00:26:12,000 --> 00:26:17,000
+extension or the node wallet or wherever
+you're coming in from.
+
+388
+00:26:17,000 --> 00:26:22,000
+I do think in terms of the front-facing
+aspect of Rosen, that's going to be a big
+
+389
+00:26:22,000 --> 00:26:27,000
+development in 2025.
+
+390
+00:26:27,000 --> 00:26:31,000
+You know, part of the reason why, you
+know, we were, I don't know, maybe a
+
+391
+00:26:31,000 --> 00:26:35,000
+little bit slow out of the gate with that
+is when you create an open SDK, you, I
+
+392
+00:26:35,000 --> 00:26:39,000
+don't know, you kind of create this
+parallel incentive to where
+
+393
+00:26:40,000 --> 00:26:43,000
+There's an opportunity for somebody to
+integrate a thing that looks like Rosen
+
+394
+00:26:43,000 --> 00:26:46,000
+wallet.
+
+395
+00:26:46,000 --> 00:26:49,000
+That's not right.
+
+396
+00:26:49,000 --> 00:26:52,000
+That's like the downside to open source
+code sometimes is it's like, okay, you've
+
+397
+00:26:52,000 --> 00:26:55,000
+just given this recipe that somebody can
+tweak with and say, okay, well now you're
+
+398
+00:26:55,000 --> 00:26:58,000
+using Rosen bridge, but actually you're
+bridging to my wallet.
+
+399
+00:27:00,000 --> 00:27:04,000
+Yeah, so you got to have enough there to
+like make it super obvious that yeah, we
+
+400
+00:27:04,000 --> 00:27:08,000
+need we need awareness in that because
+that does happen sometimes where you have
+
+401
+00:27:08,000 --> 00:27:12,000
+like fraudulent front ends and that type
+of that type of nonsense in the crypto
+
+402
+00:27:12,000 --> 00:27:16,000
+space.
+
+403
+00:27:16,000 --> 00:27:20,000
+But I think we finally matured enough, at
+least on the wallet side, where we have a
+
+404
+00:27:20,000 --> 00:27:24,000
+pretty good foundation to start plugging
+that into.
+
+405
+00:27:24,000 --> 00:27:27,000
+And then we can start working with
+external partners, right?
+
+406
+00:27:27,000 --> 00:27:32,000
+We can say, OK, some of the Cardano
+wallets that could potentially support
+
+407
+00:27:32,000 --> 00:27:37,000
+Rosen in the interface and long term.
+
+408
+00:27:37,000 --> 00:27:41,000
+My hope is that we can take a lot of
+these assets, you know, let's say Ergo as
+
+409
+00:27:41,000 --> 00:27:45,000
+an example that is traditionally seen some
+friction in terms of how to access Ergo,
+
+410
+00:27:45,000 --> 00:27:49,000
+how to buy it.
+
+411
+00:27:49,000 --> 00:27:54,000
+and put it in consumer facing, wallets
+that are very, you know, they, that have
+
+412
+00:27:54,000 --> 00:27:59,000
+adoption, you know, and when Ergo or RS
+ERG can be bought in Coinbase wallet and
+
+413
+00:27:59,000 --> 00:28:04,000
+phantom wallet and that it's like, okay,
+suddenly we can not only leverage the
+
+414
+00:28:04,000 --> 00:28:09,000
+liquidity of other environments, but we
+also have like this ability to use all the
+
+415
+00:28:09,000 --> 00:28:14,000
+tooling built around them, which is
+exciting.
+
+416
+00:28:18,000 --> 00:28:19,000
+Yeah, man.
+
+417
+00:28:19,000 --> 00:28:23,000
+And just like to that point, I was
+looking at this chart and I see is that 3
+
+418
+00:28:23,000 --> 00:28:27,000
+million ERG, 3 million ERG are currently
+on the bridge.
+
+419
+00:28:27,000 --> 00:28:34,000
+So one of my personal goals when we were
+designing Rosen is it was like, okay, at
+
+420
+00:28:34,000 --> 00:28:41,000
+some point I'm hoping that the liquidity
+in Rosen is equal or greater to the amount
+
+421
+00:28:41,000 --> 00:28:48,000
+that's held on exchanges, right?
+
+422
+00:28:48,000 --> 00:28:52,000
+Because I know the cost of those
+listings.
+
+423
+00:28:52,000 --> 00:28:56,000
+Right, so I can't just say hey, this is
+how much it was openly I'm sure people can
+
+424
+00:28:56,000 --> 00:29:00,000
+audit it because everything the Ergo
+Foundation did was transparent But it's
+
+425
+00:29:00,000 --> 00:29:04,000
+like that that gives me a real Like
+numerical value in terms of the market
+
+426
+00:29:04,000 --> 00:29:08,000
+that I've created and how much it would
+cost and pair work with a third party and
+
+427
+00:29:08,000 --> 00:29:12,000
+so right now You know Rosen is one of the
+largest
+
+428
+00:29:16,000 --> 00:29:19,000
+exchanges in simple terms.
+
+429
+00:29:19,000 --> 00:29:24,000
+So that kind of makes me look back and
+say, okay, well, the cost savings was
+
+430
+00:29:24,000 --> 00:29:29,000
+definitely worth it and market that no
+longer is beholden to regulations or a
+
+431
+00:29:29,000 --> 00:29:34,000
+company's internal risk assumptions.
+
+432
+00:29:35,000 --> 00:29:39,000
+Because at any point, any one of these
+exchanges could, in theory, pull an FTX
+
+433
+00:29:39,000 --> 00:29:43,000
+and blow up.
+
+434
+00:29:43,000 --> 00:29:46,000
+You know, not only do we have the
+regulatory risk, but you have their own
+
+435
+00:29:46,000 --> 00:29:49,000
+like internal risk in terms of how they
+manage assets and leverage and hacks and
+
+436
+00:29:49,000 --> 00:29:52,000
+all this.
+
+437
+00:29:52,000 --> 00:29:53,000
+Yeah.
+
+438
+00:29:53,000 --> 00:29:59,000
+And now you have this system that
+includes hundreds of people and is open to
+
+439
+00:29:59,000 --> 00:30:05,000
+including more people if they wish that is
+securing this portion of the supply.
+
+440
+00:30:05,000 --> 00:30:06,000
+That's really amazing.
+
+441
+00:30:06,000 --> 00:30:07,000
+Good work, man.
+
+442
+00:30:07,000 --> 00:30:08,000
+Thank you.
+
+443
+00:30:08,000 --> 00:30:11,000
+I thought this page was really
+interesting as well.
+
+444
+00:30:11,000 --> 00:30:15,000
+You can just like a live view of
+everything that's going on.
+
+445
+00:30:15,000 --> 00:30:20,000
+And you can see kind of what's getting
+sent from where to where.
+
+446
+00:30:20,000 --> 00:30:21,000
+You can check yours.
+
+447
+00:30:21,000 --> 00:30:22,000
+You send yours.
+
+448
+00:30:22,000 --> 00:30:23,000
+It's like, oh, it's been like 30 minutes.
+
+449
+00:30:23,000 --> 00:30:24,000
+What happened?
+
+450
+00:30:24,000 --> 00:30:27,000
+And you can see, OK, I'm good.
+
+451
+00:30:27,000 --> 00:30:28,000
+I'm good.
+
+452
+00:30:28,000 --> 00:30:30,000
+Just be patient.
+
+453
+00:30:30,000 --> 00:30:33,000
+And the whole thing is just really easy
+to use.
+
+454
+00:30:33,000 --> 00:30:38,000
+So when I look at this, it's really just
+picking, where am I going from?
+
+455
+00:30:38,000 --> 00:30:39,000
+Where am I going?
+
+456
+00:30:39,000 --> 00:30:43,000
+And then you plug your address in and
+then you select the token that you're
+
+457
+00:30:43,000 --> 00:30:47,000
+sending and the amount.
+
+458
+00:30:47,000 --> 00:30:51,000
+Then you get a depiction of your fees and
+the cost of transfer.
+
+459
+00:30:51,000 --> 00:30:58,000
+I know some people kind of, they didn't
+like the time.
+
+460
+00:30:58,000 --> 00:31:03,000
+They wanted it to be faster and then they
+also wanted it to be cheaper, of course.
+
+461
+00:31:03,000 --> 00:31:08,000
+But really this was really intentional
+and I think I understand why
+
+462
+00:31:08,000 --> 00:31:11,000
+things are the way they are and you know
+it's like you're paying for, you get what
+
+463
+00:31:11,000 --> 00:31:14,000
+you pay for.
+
+464
+00:31:14,000 --> 00:31:18,000
+Well you know even if you were to like
+spin up a phantom wallet right now and
+
+465
+00:31:18,000 --> 00:31:22,000
+build a bridge from say like Solana to
+Ethereum right in that inner wallet bridge
+
+466
+00:31:22,000 --> 00:31:26,000
+it's actually the exact same cost and the
+difference is instead of being distributed
+
+467
+00:31:26,000 --> 00:31:30,000
+to like a
+
+468
+00:31:31,000 --> 00:31:35,000
+open group of watchers, that just goes to
+one party.
+
+469
+00:31:35,000 --> 00:31:40,000
+So like on a fee footing, we're actually,
+you know, pretty much in alignment with
+
+470
+00:31:40,000 --> 00:31:45,000
+where the industry is, you know, in terms
+of like bridging.
+
+471
+00:31:46,000 --> 00:31:48,000
+The difference is where the payment goes.
+
+472
+00:31:48,000 --> 00:31:52,000
+Yeah, yeah, that's really good, man.
+
+473
+00:31:52,000 --> 00:31:53,000
+That's really good.
+
+474
+00:31:53,000 --> 00:31:54,000
+I get it.
+
+475
+00:31:54,000 --> 00:31:57,000
+I think what you're doing is important.
+
+476
+00:31:57,000 --> 00:32:02,000
+And and I hope that that people from the
+other ecosystems can
+
+477
+00:32:02,000 --> 00:32:06,000
+you know, watch this video, see other
+content and kind of recognize that it's
+
+478
+00:32:06,000 --> 00:32:10,000
+not just like us fighting them for like
+the 400th rank in market cap total or
+
+479
+00:32:10,000 --> 00:32:14,000
+whatever.
+
+480
+00:32:15,000 --> 00:32:20,000
+Like, like, like, no, man, we're trying
+to make, build some value and and really
+
+481
+00:32:20,000 --> 00:32:25,000
+like change what the whole top 100 top 50
+projects looks like.
+
+482
+00:32:26,000 --> 00:32:29,000
+Yeah.
+
+483
+00:32:26,000 --> 00:32:31,000
+And there's one little hidden bonus in
+Rosen that I really like.
+
+484
+00:32:31,000 --> 00:32:36,000
+That's just kind of a function of using
+the Ergo blockchain is and that's like
+
+485
+00:32:36,000 --> 00:32:41,000
+when we create the initial like threshold
+based report on Ergo.
+
+486
+00:32:42,000 --> 00:32:46,000
+we create a transaction that pays miners
+downstream.
+
+487
+00:32:46,000 --> 00:32:49,000
+But we also create a box that lives on
+Ergo for about four years and it does have
+
+488
+00:32:49,000 --> 00:32:52,000
+some ERG in it.
+
+489
+00:32:52,000 --> 00:32:57,000
+And then four years later, it's cleaned
+up and it pays miners again.
+
+490
+00:32:57,000 --> 00:33:02,000
+So every Rosen transaction technically
+will pay Ergo miners twice.
+
+491
+00:33:02,000 --> 00:33:03,000
+Wow.
+
+492
+00:33:03,000 --> 00:33:04,000
+Yeah, that's cool.
+
+493
+00:33:04,000 --> 00:33:06,000
+Storage rent strikes again.
+
+494
+00:33:06,000 --> 00:33:11,000
+Yeah, so long term, you know, it's like
+if we can connect to enough ecosystems and
+
+495
+00:33:11,000 --> 00:33:16,000
+get enough transactions through, we're
+actually paying miners twice for every
+
+496
+00:33:16,000 --> 00:33:21,000
+transaction, plus we're paying this, you
+know, set of watchers on top of Ergo.
+
+497
+00:33:21,000 --> 00:33:25,000
+And ultimately, I do think that profit
+distribution is the greatest power of
+
+498
+00:33:25,000 --> 00:33:29,000
+blockchain, right?
+
+499
+00:33:30,000 --> 00:33:36,000
+That's its superpower and unfortunately,
+I think more and more we're seeing profit
+
+500
+00:33:36,000 --> 00:33:42,000
+extraction being used as the superpower of
+blockchain, which is backwards.
+
+501
+00:33:42,000 --> 00:33:43,000
+Yeah.
+
+502
+00:33:43,000 --> 00:33:46,000
+Yeah.
+
+503
+00:33:46,000 --> 00:33:50,000
+So is there anything, any place we should
+send people who want to learn more about
+
+504
+00:33:50,000 --> 00:33:54,000
+Rosen, maybe how do you participate as a
+watcher or
+
+505
+00:33:54,000 --> 00:33:58,000
+How do you connect your chain, those
+types of things?
+
+506
+00:33:58,000 --> 00:33:59,000
+Sure.
+
+507
+00:33:59,000 --> 00:34:05,000
+I would say that in terms of the general
+public, if they want to learn about it, I
+
+508
+00:34:05,000 --> 00:34:11,000
+think one of the best places would be the
+Discord or Telegram for Rosen Bridge.
+
+509
+00:34:11,000 --> 00:34:15,000
+And part of the reason why is because we
+have all of these infrastructure providers
+
+510
+00:34:15,000 --> 00:34:19,000
+that are constantly checking and updating
+and actively providing system services to
+
+511
+00:34:19,000 --> 00:34:23,000
+Rosen.
+
+512
+00:34:23,000 --> 00:34:27,000
+And so you have like a depth of knowledge
+that is me plus 200.
+
+513
+00:34:27,000 --> 00:34:31,000
+And I would say collectively, the 200 are
+better than me actually at troubleshooting
+
+514
+00:34:31,000 --> 00:34:35,000
+and figuring out exactly what's going on
+with
+
+515
+00:34:36,000 --> 00:34:40,000
+you know, different problems, tweaks,
+aspects of the system because they're, you
+
+516
+00:34:40,000 --> 00:34:44,000
+know, like actively incentivized to
+participate.
+
+517
+00:34:45,000 --> 00:34:50,000
+You know, we do have Twitter where we try
+to keep like the news feed rolling.
+
+518
+00:34:50,000 --> 00:34:51,000
+You know, we have Discord.
+
+519
+00:34:51,000 --> 00:34:59,000
+So it's something to, you know, kind of
+dig into in terms of like if a ecosystem
+
+520
+00:34:59,000 --> 00:35:04,000
+wants to join one of the things I've kind
+of done in parallel and again it's just
+
+521
+00:35:04,000 --> 00:35:09,000
+based on like our own history at some
+point we were looking at bridges right and
+
+522
+00:35:09,000 --> 00:35:14,000
+so you had a variety of
+
+523
+00:35:14,000 --> 00:35:19,000
+Let's say documentation, sometimes coming
+from an external system that's unique into
+
+524
+00:35:19,000 --> 00:35:24,000
+something that's standardized is not
+really very straightforward.
+
+525
+00:35:25,000 --> 00:35:31,000
+And so we started really trying to cook
+documentation and onboarding stuff with
+
+526
+00:35:31,000 --> 00:35:37,000
+DogeChain, which is in the kind of
+integration stages of development.
+
+527
+00:35:38,000 --> 00:35:41,000
+We'll probably see that live.
+
+528
+00:35:41,000 --> 00:35:44,000
+I don't know.
+
+529
+00:35:41,000 --> 00:35:48,000
+I say two weeks just because we always
+need end-to-end tests and everything.
+
+530
+00:35:48,000 --> 00:35:52,000
+I'm hoping that that comes with
+sufficient documentation to where,
+
+531
+00:35:52,000 --> 00:35:56,000
+especially anything that's a Bitcoin fork,
+it should be relatively straightforward to
+
+532
+00:35:56,000 --> 00:36:00,000
+follow and say, okay, you know, that's
+potentially just that's a lot of value.
+
+533
+00:36:02,000 --> 00:36:05,000
+You have Bitcoin Cash Litecoin.
+
+534
+00:36:05,000 --> 00:36:10,000
+You know, I think Flux is a fork of
+Bitcoin, Namecoin, you know, a lot of
+
+535
+00:36:10,000 --> 00:36:15,000
+different stuff out there that use kind of
+the Bitcoin
+
+536
+00:36:16,000 --> 00:36:22,000
+model and extended it in some way and the
+same is true with the EVM right having
+
+537
+00:36:22,000 --> 00:36:28,000
+Ethereum integrated really opens us up to
+the potential to move across like EVM
+
+538
+00:36:28,000 --> 00:36:34,000
+compatible environments which I think will
+happen naturally but
+
+539
+00:36:36,000 --> 00:36:40,000
+Again, one of the greatest benefits of
+Ergo itself and, you know, Rosen is
+
+540
+00:36:40,000 --> 00:36:44,000
+non-compatible environment.
+
+541
+00:36:44,000 --> 00:36:48,000
+So how do we work with these systems that
+are, you know, really unique?
+
+542
+00:36:48,000 --> 00:36:52,000
+You know, one of my personal goals just
+for
+
+543
+00:36:52,000 --> 00:36:58,000
+I don't know, funsies, let's call it, is
+going to be to create thresholds on top of
+
+544
+00:36:58,000 --> 00:37:04,000
+Monero and relist Monero on different
+exchange environments.
+
+545
+00:37:05,000 --> 00:37:08,000
+Because that is ultimately going to be a
+great test of, OK, we tried to build the
+
+546
+00:37:08,000 --> 00:37:11,000
+system to be resilient.
+
+547
+00:37:11,000 --> 00:37:14,000
+So let's break a rule and see what
+happens, right?
+
+548
+00:37:14,000 --> 00:37:15,000
+Yep.
+
+549
+00:37:15,000 --> 00:37:17,000
+You've got to stress test it at some
+point.
+
+550
+00:37:17,000 --> 00:37:19,000
+And I think that's a great way to do it.
+
+551
+00:37:19,000 --> 00:37:24,000
+And also potentially say, hey, this is
+why we built the system.
+
+552
+00:37:24,000 --> 00:37:29,000
+Because Monero is famous for crossing the
+line and getting delisted from markets,
+
+553
+00:37:29,000 --> 00:37:34,000
+which has been kind of painful for them.
+
+554
+00:37:35,000 --> 00:37:38,000
+But their community has adapted really
+well.
+
+555
+00:37:38,000 --> 00:37:39,000
+Yeah.
+
+556
+00:37:39,000 --> 00:37:40,000
+Yeah.
+
+557
+00:37:40,000 --> 00:37:43,000
+Right on.
+
+558
+00:37:40,000 --> 00:37:43,000
+Hey, well, I think this was a lot of
+really good information, Joe.
+
+559
+00:37:43,000 --> 00:37:47,000
+I appreciate you taking the time to meet
+with me and explain all this stuff.
+
+560
+00:37:47,000 --> 00:37:49,000
+And also just like thanks.
+
+561
+00:37:49,000 --> 00:37:53,000
+Thanks for being a good representative of
+a lot of the same values that I try to put
+
+562
+00:37:53,000 --> 00:37:57,000
+out into the world and for doing just good
+work all around.
+
+563
+00:37:58,000 --> 00:37:59,000
+So good on you, man.
+
+564
+00:37:59,000 --> 00:38:00,000
+Appreciate it.
+
+565
+00:38:00,000 --> 00:38:03,000
+Yeah.
+
+566
+00:38:00,000 --> 00:38:01,000
+All right.
+
+567
+00:38:01,000 --> 00:38:02,000
+Have a good day, sir.
+
+568
+00:38:02,000 --> 00:38:05,000
+You too.
+

@@ -1,0 +1,2754 @@
+1
+00:00:00,000 --> 00:00:01,000
+Cool, cool.
+
+2
+00:00:01,000 --> 00:00:06,000
+Hey, welcome, everybody. We're just going
+to be going over Why Mine Ergo? A guide to
+
+3
+00:00:06,000 --> 00:00:11,000
+profitability, sustainability. Probably a
+lot of this stuff you're very familiar
+
+4
+00:00:11,000 --> 00:00:16,000
+with, but we're just going to go through
+it at a high level, as well as talk about
+
+5
+00:00:16,000 --> 00:00:21,000
+Sigmonauts mining pool.
+
+6
+00:00:21,000 --> 00:00:26,000
+Cool. And so what we're going to cover
+today is understanding Ergo, why it
+
+7
+00:00:26,000 --> 00:00:31,000
+matters, the basics of mining, the
+Autolykos algorithm, the technical setups
+
+8
+00:00:31,000 --> 00:00:36,000
+- so setting up the rig, the design of the
+rig, heat and power - as well as the
+
+9
+00:00:36,000 --> 00:00:41,000
+economics, so costs, breaking even,
+various analysis, emission schedule
+
+10
+00:00:41,000 --> 00:00:46,000
+impacts, and then as well as the
+Sigmonauts mining pool.
+
+11
+00:00:49,000 --> 00:00:54,000
+So who is this for? We have whoever's new
+to crypto, experienced miners, maybe
+
+12
+00:00:54,000 --> 00:00:59,000
+post-ETH merge. I think generally if
+you're interested in crypto, it's probably
+
+13
+00:00:59,000 --> 00:01:04,000
+worth looking into proof of work and then
+at a minimum maybe potentially even mining
+
+14
+00:01:04,000 --> 00:01:09,000
+it.
+
+15
+00:01:10,000 --> 00:01:15,000
+And so what is Ergo? As I'm sure most
+people know, but in case you don't, it's a
+
+16
+00:01:15,000 --> 00:01:20,000
+truly fair blockchain launched in 2019. No
+pre-mine, no ICO, no VC funding. Built by
+
+17
+00:01:20,000 --> 00:01:25,000
+experts, so former Chainlink and Cardano
+developers. We have the max supply around
+
+18
+00:01:25,000 --> 00:01:30,000
+97.7 million. Strictly capped. Mission is
+decentralized finance accessible to
+
+19
+00:01:30,000 --> 00:01:35,000
+everyone. Philosophy is fair launch,
+community driven, and proof of work
+
+20
+00:01:35,000 --> 00:01:40,000
+secured.
+
+21
+00:01:43,000 --> 00:01:49,000
+So Ergo is a blockchain done right, by
+the people for the people.
+
+22
+00:01:49,000 --> 00:01:53,000
+And so what is mining? The basics: Mining
+is securing the blockchain network. You
+
+23
+00:01:53,000 --> 00:01:57,000
+provide computational power, hash rate,
+and the network rewards you with ERG
+
+24
+00:01:57,000 --> 00:02:01,000
+tokens. Think of it as getting paid to run
+security for a digital bank. Your GPU
+
+25
+00:02:01,000 --> 00:02:05,000
+solves complex mathematical puzzles. The
+more puzzles you solve, the more you earn.
+
+26
+00:02:05,000 --> 00:02:09,000
+Without miners, the blockchain can't
+function.
+
+27
+00:02:13,000 --> 00:02:17,000
+So we've got to secure the transactions,
+validate the transactions, secure the
+
+28
+00:02:17,000 --> 00:02:21,000
+network. And so you're not just earning
+rewards, you're supporting a revolutionary
+
+29
+00:02:21,000 --> 00:02:25,000
+financial system that is Ergo.
+
+30
+00:02:27,000 --> 00:02:32,000
+And so what makes this so special? So
+it's ASIC resistant, memory hard, proof of
+
+31
+00:02:32,000 --> 00:02:37,000
+work. It's very GPU friendly. It's very
+cool. And so a lot of those factors, for
+
+32
+00:02:37,000 --> 00:02:42,000
+me at least, as to why mine Ergo make it a
+lot easier on the cards. I know ASIC
+
+33
+00:02:42,000 --> 00:02:47,000
+companies aren't necessarily going to come
+into Ergo and sort of rug us.
+
+34
+00:02:50,000 --> 00:02:56,000
+So no ASICs, like we say, right? Maybe
+potentially true decentralization because
+
+35
+00:02:56,000 --> 00:03:02,000
+essentially anybody can go off and buy a
+GPU. Anybody that generally has probably a
+
+36
+00:03:02,000 --> 00:03:08,000
+desktop computer potentially with a GPU,
+maybe a gaming computer.
+
+37
+00:03:09,000 --> 00:03:14,000
+So it's more accessible than potentially
+mining Bitcoin.
+
+38
+00:03:14,000 --> 00:03:19,000
+And so a critical factor here is the
+emission schedule. I believe when I first
+
+39
+00:03:19,000 --> 00:03:24,000
+started mining, it was probably about, I
+think, 75 or 60 ERG was the emission per
+
+40
+00:03:24,000 --> 00:03:29,000
+block all the way down to 12, I believe.
+The block time is still static, two
+
+41
+00:03:29,000 --> 00:03:34,000
+minutes. Going to be changing here soon, I
+believe. And then our reduction schedule
+
+42
+00:03:34,000 --> 00:03:39,000
+is going to be next.
+
+43
+00:03:40,000 --> 00:03:45,000
+So every three months it reduces by
+three. So nine to six to three should be
+
+44
+00:03:45,000 --> 00:03:50,000
+interesting as things sort of move in that
+direction.
+
+45
+00:03:50,000 --> 00:03:55,000
+So decreasing supply is going to enable
+scarcity. And so as miners start to mine
+
+46
+00:03:55,000 --> 00:04:00,000
+more and more of this asset, there'll be
+less and less from a daily perspective
+
+47
+00:04:00,000 --> 00:04:05,000
+being emitted into the ecosystem.
+
+48
+00:04:05,000 --> 00:04:09,000
+Understanding mining costs: you have your
+initial investment, but then you have
+
+49
+00:04:09,000 --> 00:04:13,000
+operating costs. Your initial investment
+is going to be your GPUs, your
+
+50
+00:04:13,000 --> 00:04:17,000
+motherboards, your CPUs, your power
+supply, the frame, everything that you
+
+51
+00:04:17,000 --> 00:04:21,000
+need for the complete compute unit. Then
+your operating costs are going to be
+
+52
+00:04:21,000 --> 00:04:25,000
+something to the effect of your
+electricity, which is going to be your
+
+53
+00:04:25,000 --> 00:04:29,000
+biggest operating cost. Your internet
+connection, cooling - I think ventilation
+
+54
+00:04:29,000 --> 00:04:33,000
+is definitely underexplored here, at least
+from my experience when I first started
+
+55
+00:04:33,000 --> 00:04:37,000
+mining. Maintenance and then of course
+pool fees, which generally is around 1%
+
+56
+00:04:37,000 --> 00:04:41,000
+depending upon which mining pools you go
+to.
+
+57
+00:04:45,000 --> 00:04:50,000
+So yeah, as we say here, electricity is
+the key determining factor for
+
+58
+00:04:50,000 --> 00:04:55,000
+profitability. A secondary, I suppose,
+might be price itself, right? Because if
+
+59
+00:04:55,000 --> 00:05:00,000
+the price is like, for ERG at like $100,
+that's going to be a little bit different.
+
+60
+00:05:00,000 --> 00:05:05,000
+But of course, the difficulty kind of
+changes.
+
+61
+00:05:05,000 --> 00:05:08,000
+So what you need to know about mining:
+your hash rate - so how fast your GPU
+
+62
+00:05:08,000 --> 00:05:11,000
+mines, that's going to be relative to how
+much ERG you actually earn. Your
+
+63
+00:05:11,000 --> 00:05:14,000
+electricity rate, the network difficulty -
+so how hard it is to find these specific
+
+64
+00:05:14,000 --> 00:05:17,000
+blocks. GPU power draw - so how much
+electricity you're actually going to be
+
+65
+00:05:17,000 --> 00:05:20,000
+physically using.
+
+66
+00:05:24,000 --> 00:05:29,000
+And there's differences whether you
+measure it from the actual device or is it
+
+67
+00:05:29,000 --> 00:05:34,000
+from the software? Obviously, you want to
+measure it from the device, so that's the
+
+68
+00:05:34,000 --> 00:05:39,000
+most sound measurement. Then, of course,
+current ERG price and then the block
+
+69
+00:05:39,000 --> 00:05:44,000
+reward. And again, the block reward is
+going to change every three months or so.
+
+70
+00:05:46,000 --> 00:05:51,000
+And so here is calculating cost to mine
+one ERG. And so why do you want to even
+
+71
+00:05:51,000 --> 00:05:56,000
+calculate the cost to mine one ERG? So the
+idea here is, say it costs $1.50 to mine
+
+72
+00:05:56,000 --> 00:06:01,000
+ERG, and the current cost is, I think,
+like 70 cents or even 60 cents, you are at
+
+73
+00:06:01,000 --> 00:06:06,000
+a loss. Cost to mine ERG is say a dollar,
+but ERG is $2. Well, then now you're
+
+74
+00:06:06,000 --> 00:06:11,000
+making 100% more.
+
+75
+00:06:12,000 --> 00:06:16,000
+And so this is what this formula is going
+to be calculating. And I think as miners,
+
+76
+00:06:16,000 --> 00:06:20,000
+we need to sort of look at it as like a
+business perspective and potentially even
+
+77
+00:06:20,000 --> 00:06:24,000
+at a minimum pay off your electricity
+costs. But I think additionally, miners
+
+78
+00:06:24,000 --> 00:06:28,000
+are also looking at a speculative bet. So,
+hey, maybe one day ERG is going to go up
+
+79
+00:06:28,000 --> 00:06:32,000
+to this mythical price. And if that's the
+case, then sell everything and go down and
+
+80
+00:06:32,000 --> 00:06:36,000
+move to the islands or something, right?
+Whatever other people's dreams are.
+
+81
+00:06:41,000 --> 00:06:45,000
+And so here it is. So it's your hash rate
+divided by the network hash, multiplied by
+
+82
+00:06:45,000 --> 00:06:49,000
+the block reward and then the blocks per
+day. So that's how much actual ERG you're
+
+83
+00:06:49,000 --> 00:06:53,000
+going to be getting. And then your daily
+electrical cost. And then once we have
+
+84
+00:06:53,000 --> 00:06:57,000
+those two specific numbers, right? So your
+daily electrical costs and then the daily
+
+85
+00:06:57,000 --> 00:07:01,000
+ERGs mined.
+
+86
+00:07:03,000 --> 00:07:09,000
+And so, for example, we have here 150
+mega hash consuming 150 watts. I think in
+
+87
+00:07:09,000 --> 00:07:15,000
+this example, we're just using kind of
+nice numbers. I think 150 watts at 150
+
+88
+00:07:15,000 --> 00:07:21,000
+mega hash is quite high. So with the - and
+I haven't validated these numbers, so -
+
+89
+00:07:21,000 --> 00:07:27,000
+but in any case, network hash rate 50 tera
+hash, the electricity is 12 cents per
+
+90
+00:07:27,000 --> 00:07:33,000
+kilowatt hour, block reward is 12. And so
+your daily ERG is about a quarter of an
+
+91
+00:07:33,000 --> 00:07:39,000
+ERG. Your daily cost is going to be 43
+cents. So then your cost per ERG is going
+
+92
+00:07:39,000 --> 00:07:45,000
+to be $1.67. So you're instantly paying
+more for your ERG.
+
+93
+00:07:47,000 --> 00:08:01,000
+That is that calculation. But again, this
+could be more of the speculative play. And
+
+94
+00:08:01,000 --> 00:08:15,000
+so, hey, maybe in 10 years ERG is going to
+be, $100, $1000. And I'm just going to sit
+
+95
+00:08:15,000 --> 00:08:29,000
+on this kind of like the idea of Bitcoin
+and miners back then.
+
+96
+00:08:31,000 --> 00:08:43,000
+Yeah, you're good to go. Pay a little
+premium.
+
+97
+00:08:43,000 --> 00:08:48,000
+Yeah, exactly. And that's the key
+takeaway, right? And so then if your ERG
+
+98
+00:08:48,000 --> 00:08:53,000
+price is greater than your cost to mine,
+like we were just saying, it's profitable.
+
+99
+00:08:53,000 --> 00:08:58,000
+Otherwise, you're at a loss. And then
+breakeven is also nice.
+
+100
+00:09:00,000 --> 00:09:03,000
+So yeah, variables change. So the price
+is going to fluctuate. That's why a lot of
+
+101
+00:09:03,000 --> 00:09:06,000
+miners, like Son of a Tech, he's always
+saying to pay off your electricity first,
+
+102
+00:09:06,000 --> 00:09:09,000
+because that first and foremost, it's a
+business. And then if there's any extra,
+
+103
+00:09:09,000 --> 00:09:12,000
+then just hold on to that. But everybody's
+game plan, I would say, is sort of
+
+104
+00:09:12,000 --> 00:09:15,000
+different.
+
+105
+00:09:18,000 --> 00:09:22,000
+You can certainly gamble by mining. You
+could say, forget it. I'm just going to
+
+106
+00:09:22,000 --> 00:09:26,000
+pay the electricity bill because I can pay
+that electricity bill and just gather as
+
+107
+00:09:26,000 --> 00:09:30,000
+much as I want and just kind of see what
+happens.
+
+108
+00:09:30,000 --> 00:09:34,000
+So yeah, other variables, right? The
+network difficulty increases, block
+
+109
+00:09:34,000 --> 00:09:38,000
+rewards. And then, of course, the
+electricity rate. They may come knock on
+
+110
+00:09:38,000 --> 00:09:42,000
+your door and say, hey, you're using way
+too much electricity. You're going to
+
+111
+00:09:42,000 --> 00:09:46,000
+start paying more prices, which I've heard
+is a thing.
+
+112
+00:09:49,000 --> 00:09:53,000
+So yeah, so we have long term
+considerations. Beyond daily profit, we
+
+113
+00:09:53,000 --> 00:09:57,000
+have hardware depreciation over time.
+These things are running 24/7. They're
+
+114
+00:09:57,000 --> 00:10:01,000
+going to be collecting dust, inherent
+entropy within the system. ERG
+
+115
+00:10:01,000 --> 00:10:05,000
+appreciation potential hopefully. Resale
+value of the mining GPUs - that certainly
+
+116
+00:10:05,000 --> 00:10:09,000
+has been the case.
+
+117
+00:10:12,000 --> 00:10:17,000
+I have seen that maybe less and less in
+the future. Like for example, I bought
+
+118
+00:10:17,000 --> 00:10:22,000
+these AMD cards and they were about $750
+in 2021 and now they're like $100. And so
+
+119
+00:10:22,000 --> 00:10:27,000
+maybe the resale value of mining GPUs,
+that could be the case, but currently I
+
+120
+00:10:27,000 --> 00:10:32,000
+don't believe it's the case.
+
+121
+00:10:34,000 --> 00:10:39,000
+Tax implications, of course, in the
+United States. So yeah, hodl strategy -
+
+122
+00:10:39,000 --> 00:10:44,000
+really just mine at the low prices. Forget
+your electricity costs, just pay that. And
+
+123
+00:10:44,000 --> 00:10:49,000
+then you have potential 10x returns,
+hopefully, we'll see. And then mining is
+
+124
+00:10:49,000 --> 00:10:54,000
+in a sense, right, dollar cost averaging
+into ERG.
+
+125
+00:10:55,000 --> 00:11:00,000
+And so, but I think there's certain
+byproducts potentially as a result of
+
+126
+00:11:00,000 --> 00:11:05,000
+that. So if you live in a colder climate,
+you could recapture a lot of this energy
+
+127
+00:11:05,000 --> 00:11:10,000
+that is the heat. You could then put that
+back into your house. I know a lot of
+
+128
+00:11:10,000 --> 00:11:15,000
+people do that. I used to do that when I
+lived in Colorado, kept my garage very
+
+129
+00:11:15,000 --> 00:11:20,000
+nice and toasty when it was close to zero
+degrees or 20 degrees.
+
+130
+00:11:20,000 --> 00:11:25,000
+And that's just kind of moving into here.
+Emission reduction impacts, so right now
+
+131
+00:11:25,000 --> 00:11:30,000
+we have 12 ERGs as the block reward, so
+8,640 ERGs a day. Then we move into nine
+
+132
+00:11:30,000 --> 00:11:35,000
+ERGs, so 6,400 ERGs a day, six ERGs,
+4,300, and then three ERGs forever is
+
+133
+00:11:35,000 --> 00:11:40,000
+going to be 2,160 ERGs.
+
+134
+00:11:43,000 --> 00:11:52,000
+And so there will most likely be some
+sort of squeeze in the amounts of just
+
+135
+00:11:52,000 --> 00:12:01,000
+scarcity, right? So early miners, we're
+saying here, have a massive advantage,
+
+136
+00:12:01,000 --> 00:12:10,000
+especially when we were mining at really
+high rates like 70 ERGs or 65 ERGs for the
+
+137
+00:12:10,000 --> 00:12:19,000
+block reward.
+
+138
+00:12:21,000 --> 00:12:25,000
+And so talking about the algorithm, it's
+a cool algorithm. So it's very good on
+
+139
+00:12:25,000 --> 00:12:29,000
+your specific hardware, which is great for
+longevity, because again, talking about
+
+140
+00:12:29,000 --> 00:12:33,000
+buying equipment, you potentially want to
+just buy this equipment and never have to
+
+141
+00:12:33,000 --> 00:12:37,000
+buy equipment again, but most likely
+you're going to be buying secondary used
+
+142
+00:12:37,000 --> 00:12:41,000
+GPUs that have been running for a very
+long time anyhow.
+
+143
+00:12:45,000 --> 00:12:49,000
+And so you want to run it on something
+that's going to be running 24/7, running
+
+144
+00:12:49,000 --> 00:12:53,000
+that's not really stress testing these
+GPUs who have already been most likely
+
+145
+00:12:53,000 --> 00:12:57,000
+abused.
+
+146
+00:12:57,000 --> 00:13:02,000
+Power efficiency, I think, again, is very
+critical. I used to mine, and I used to
+
+147
+00:13:02,000 --> 00:13:07,000
+say, oh, I just want the highest hash
+power. But in reality, especially with
+
+148
+00:13:07,000 --> 00:13:12,000
+economies of scale, you can start to get
+at maybe one or two GPUs, no big deal. But
+
+149
+00:13:12,000 --> 00:13:17,000
+you get 5, 10, 15, 30 GPUs. This economy
+of scale with the specific rigs and all
+
+150
+00:13:17,000 --> 00:13:22,000
+that electricity cost, it doesn't really
+make too much sense.
+
+151
+00:13:25,000 --> 00:13:28,000
+And so running cooler means your GPUs
+last maybe two to three years longer, 10
+
+152
+00:13:28,000 --> 00:13:31,000
+to 20% less power. You might have some
+less rewards within Ergo, but I think,
+
+153
+00:13:31,000 --> 00:13:34,000
+again, it's like we want to be able to -
+mining is like a game that you want to -
+
+154
+00:13:34,000 --> 00:13:37,000
+it's not like to win, you want to just
+like play the game. And so like, that's
+
+155
+00:13:37,000 --> 00:13:40,000
+like the goal here, not necessarily
+winners or losers - just want to keep
+
+156
+00:13:40,000 --> 00:13:43,000
+staying in business.
+
+157
+00:13:48,000 --> 00:13:53,000
+And so right, so that talks about
+longevity - thermal stress, fan longevity.
+
+158
+00:13:53,000 --> 00:13:58,000
+So if there's any inherent noise that you
+don't necessarily notice, that's inherent
+
+159
+00:13:58,000 --> 00:14:03,000
+entropy within the system. And so maybe
+something's off kilter. And so maybe every
+
+160
+00:14:03,000 --> 00:14:08,000
+six months it's good to have a plan and
+just take off the rigs apart, clean them
+
+161
+00:14:08,000 --> 00:14:13,000
+all off, put some isopropyl alcohol, get
+all the dust out of that, especially for
+
+162
+00:14:13,000 --> 00:14:18,000
+the fans, right?
+
+163
+00:14:19,000 --> 00:14:23,000
+Because if you have more mass, that is
+the dust spinning, they're going to have
+
+164
+00:14:23,000 --> 00:14:27,000
+to work harder, those motors are going to
+have to work harder, and that's just going
+
+165
+00:14:27,000 --> 00:14:31,000
+to put more inherent stress on the system.
+Not good for longevity.
+
+166
+00:14:32,000 --> 00:14:38,000
+So the, we have memory intensive mining.
+So how Autolykos works is a memory hard
+
+167
+00:14:38,000 --> 00:14:44,000
+computation, GPU core sits relatively
+idle, but we focus on VRAM - 6 gigabyte
+
+168
+00:14:44,000 --> 00:14:50,000
+minimum. 8 gigabyte plus optimal. Of
+course, different tuning. So underclock
+
+169
+00:14:50,000 --> 00:14:56,000
+the GPU, overclock the memory, reduce
+voltage. Again, highly recommend.
+
+170
+00:14:56,000 --> 00:15:02,000
+Efficiency is key here.
+
+171
+00:15:02,000 --> 00:15:08,000
+And so yeah, you want to find that
+optimization sweet spot. So you can get 80
+
+172
+00:15:08,000 --> 00:15:14,000
+to 90% of that max hash rate. So you can
+get 60 to 70% power. And that even kind of
+
+173
+00:15:14,000 --> 00:15:20,000
+talks about too, again, the longevity of
+things.
+
+174
+00:15:21,000 --> 00:15:31,000
+So if you've got a really nice electric
+rate and you're using less power, you can
+
+175
+00:15:31,000 --> 00:15:41,000
+actually put more cards on top of the
+entire electrical network that you have.
+
+176
+00:15:41,000 --> 00:15:51,000
+Because then in theory, instead of using
+the total capacity, you can maybe fit one
+
+177
+00:15:51,000 --> 00:16:01,000
+or two extra cards on there to make up for
+the lowered hash rate because of the
+
+178
+00:16:01,000 --> 00:16:11,000
+clocks.
+
+179
+00:16:11,000 --> 00:16:21,000
+Totally. Yeah, Ken was just talking about
+the efficiency of the cards compared to
+
+180
+00:16:21,000 --> 00:16:31,000
+something like Kapow and you really just
+want to take care of them. But you do have
+
+181
+00:16:31,000 --> 00:16:41,000
+a good point to where it's like, you want
+to maximize for this three month period,
+
+182
+00:16:41,000 --> 00:16:51,000
+because in the next three months, you're
+going to be getting arguably less. So then
+
+183
+00:16:51,000 --> 00:17:01,000
+you could even think about it as of like
+right now hey I'm just going to mine until
+
+184
+00:17:01,000 --> 00:17:11,000
+it hits the three. So then your electrical
+rate is essentially fluctuating because
+
+185
+00:17:11,000 --> 00:17:21,000
+now you're actually getting more. Like a
+year from now you're going to be getting
+
+186
+00:17:21,000 --> 00:17:31,000
+less and so you can recalculate what the
+actual cost would be to mine in the future
+
+187
+00:17:31,000 --> 00:17:41,000
+and do some weird accounting I'm sure.
+
+188
+00:17:42,000 --> 00:17:49,000
+Yeah, I don't know, maybe I'd push back
+on that, because NVIDIA came out with a
+
+189
+00:17:49,000 --> 00:17:56,000
+card solely for mining, and when they
+first came out with it - so it's the
+
+190
+00:17:56,000 --> 00:18:03,000
+CMP-170HX. It was five grand for that
+card. Now you were just showing me today,
+
+191
+00:18:03,000 --> 00:18:10,000
+it's like $300. So it's like, and that was
+maybe two or three years ago, and that's
+
+192
+00:18:10,000 --> 00:18:17,000
+like 400 mega hash for that one card
+versus I don't know what the newest cards
+
+193
+00:18:17,000 --> 00:18:24,000
+are pumping out, but...
+
+194
+00:18:27,000 --> 00:18:40,000
+Right. Yeah, it could be.
+
+195
+00:18:40,000 --> 00:18:44,000
+Right. But what's really nice about
+mining is we were kind of talking about it
+
+196
+00:18:44,000 --> 00:18:48,000
+a little bit yesterday in one of the side
+discussions - virgin coins, a virgin
+
+197
+00:18:48,000 --> 00:18:52,000
+wallet, where it's like, it's literally
+only ERG coming in here that's mined. So
+
+198
+00:18:52,000 --> 00:18:56,000
+there's no sense of - nobody knows where
+you're at. You're on your own island
+
+199
+00:18:56,000 --> 00:19:00,000
+except the mining pool, but there's no
+other transactions tied to that.
+
+200
+00:19:04,000 --> 00:19:09,000
+I kind of like that idea to where you
+build up a nice stack and then nobody can
+
+201
+00:19:09,000 --> 00:19:14,000
+tie that to me. I mean, you can use a
+mixer, I'm sure, but people can then see
+
+202
+00:19:14,000 --> 00:19:19,000
+you use the mixer. It's a very anonymous
+way to just dollar cost average into ERG.
+
+203
+00:19:21,000 --> 00:19:25,000
+You can even move to - they have hosting
+farms where they make deals with you and
+
+204
+00:19:25,000 --> 00:19:29,000
+you just send your stuff to them and
+they're like, oh, we'll give you this
+
+205
+00:19:29,000 --> 00:19:33,000
+electrical rate and then in return. But
+I'm seeing less and less GPUs do that -
+
+206
+00:19:33,000 --> 00:19:37,000
+more and more ASICs for sure.
+
+207
+00:19:39,000 --> 00:19:43,000
+So, but there's an opportunity, I think,
+with solar renewables. Great opportunity.
+
+208
+00:19:43,000 --> 00:19:47,000
+I think they're relatively cheap. You
+could build a nice solar farm, and the
+
+209
+00:19:47,000 --> 00:19:51,000
+next thing you know, you have free
+printing of ERG because then say all the
+
+210
+00:19:51,000 --> 00:19:55,000
+equipment's all paid off. And then if
+you've got all the other equipment for the
+
+211
+00:19:55,000 --> 00:19:59,000
+solar paid off. And then you're also
+routing that heat to heat your house - you
+
+212
+00:19:59,000 --> 00:20:03,000
+have this really nice efficient energy
+making machine where it's just printing
+
+213
+00:20:03,000 --> 00:20:07,000
+ERG, everything else is paid off, and then
+the heat is going back into it.
+
+214
+00:20:13,000 --> 00:20:19,000
+Definitely.
+
+215
+00:20:19,000 --> 00:20:25,000
+So ASIC resistance - fair mining, and I
+think that's a huge aspect because I came
+
+216
+00:20:25,000 --> 00:20:31,000
+into certain cryptocurrencies and then
+it's like, come to find out, you need to
+
+217
+00:20:31,000 --> 00:20:37,000
+buy so much to sort of be able to - in
+Cardano, if you want to create a stake
+
+218
+00:20:37,000 --> 00:20:43,000
+pool, you really kind of need so much ADA
+to create them and mine blocks.
+
+219
+00:20:43,000 --> 00:20:49,000
+Versus Ergo, you can just say, hey, I'm
+going to buy this GPU setup, just point to
+
+220
+00:20:49,000 --> 00:20:55,000
+the pool, and you're making money ready to
+go. And it could be even used as a burning
+
+221
+00:20:55,000 --> 00:21:01,000
+mechanism. You could be like, OK, hey,
+this guy needs some ERG, and just turn on
+
+222
+00:21:01,000 --> 00:21:07,000
+a rig, and then anonymously fund them, or
+something like that.
+
+223
+00:21:08,000 --> 00:21:14,000
+So fair competition - your GPU competes
+on an equal footing. True decentralization
+
+224
+00:21:14,000 --> 00:21:20,000
+- so mining power stays distributed
+globally, ideally. Dynamic protection - so
+
+225
+00:21:20,000 --> 00:21:26,000
+scheduled memory increase, brick any ASIC
+attempts. And then community focus - so
+
+226
+00:21:26,000 --> 00:21:32,000
+mining rewards stay with individual
+miners.
+
+227
+00:21:32,000 --> 00:21:40,000
+And I think that's a huge one. I think
+with the whole ASIC thing we really want
+
+228
+00:21:40,000 --> 00:21:48,000
+to - I think we've seen the rise and the
+fall of various chains that have then
+
+229
+00:21:48,000 --> 00:21:56,000
+said, okay, hey, we'll allow ASICs to come
+in. Here we have a hard...
+
+230
+00:21:56,000 --> 00:22:35,000
+Well, I think it's the algorithm, right?
+So it's like, we decided to use this
+
+231
+00:22:35,000 --> 00:23:14,000
+algorithm and then we'd have to fork it, I
+guess, to change the consensus layer that
+
+232
+00:23:14,000 --> 00:23:53,000
+is the algorithm.
+
+233
+00:23:53,000 --> 00:23:58,000
+Yeah. Only time will tell, I suppose.
+Hopefully. Yeah. Right. Yeah, absolutely.
+
+234
+00:23:58,000 --> 00:24:03,000
+Yeah, we can see all these things, but
+we'll see what comes out in the wash, I
+
+235
+00:24:03,000 --> 00:24:08,000
+suppose.
+
+236
+00:24:08,000 --> 00:24:13,000
+And so here's some of the hardware
+requirements at a minimum. I think we were
+
+237
+00:24:13,000 --> 00:24:18,000
+at four gigs for the VRAM, maybe a few
+years ago, and then it went up to six. And
+
+238
+00:24:18,000 --> 00:24:23,000
+so I had a couple of four gig cards that
+obviously wouldn't be able to support this
+
+239
+00:24:23,000 --> 00:24:28,000
+anymore. But I think that's an opportunity
+for some sort of side chains that's been
+
+240
+00:24:28,000 --> 00:24:33,000
+talked about.
+
+241
+00:24:35,000 --> 00:24:39,000
+So then we have single GPU and multi GPU.
+So yeah, your single GPU really is going
+
+242
+00:24:39,000 --> 00:24:43,000
+to be like your gaming PC, maybe your
+workstation, testing the waters, low
+
+243
+00:24:43,000 --> 00:24:47,000
+barrier to entry, ROI potentially 12 to 18
+months - we say typically, but who knows
+
+244
+00:24:47,000 --> 00:24:51,000
+in this market.
+
+245
+00:24:53,000 --> 00:24:58,000
+So it's sort of a smaller investment,
+depending on what sort of setup you have.
+
+246
+00:24:58,000 --> 00:25:03,000
+It could be zero because you could have
+already potentially have it.
+
+247
+00:25:04,000 --> 00:25:09,000
+Now your multi-GPU setup. This can be
+somebody - it's like, all right, I really
+
+248
+00:25:09,000 --> 00:25:14,000
+want to get into this. You have the
+electricity cost. That's one thing. It's
+
+249
+00:25:14,000 --> 00:25:19,000
+one thing to be like, hey, I'm going to do
+all this. I'm going to run five giga hash.
+
+250
+00:25:19,000 --> 00:25:24,000
+But then it's like, well, do you have the
+electricity to do it? Do you have a 30 amp
+
+251
+00:25:24,000 --> 00:25:29,000
+outlet? Can you pay for somebody to
+install the 30 amp? Do you need 50 amps?
+
+252
+00:25:29,000 --> 00:25:34,000
+What's the safe wattage to run on 30 amps?
+Knowing all that stuff.
+
+253
+00:25:34,000 --> 00:25:38,000
+Even the cords is extremely important
+because if you say, hey, I want this
+
+254
+00:25:38,000 --> 00:25:42,000
+specific card to run at 300 watts, but the
+cord is only good for 250, you're going to
+
+255
+00:25:42,000 --> 00:25:46,000
+start a good fire. Or even you're using a
+specific 3D printed hanger. So one time I
+
+256
+00:25:46,000 --> 00:25:50,000
+3D printed and created my own hangers and
+so they'd hang and you have an open
+
+257
+00:25:50,000 --> 00:25:54,000
+airframe kind of going through it.
+
+258
+00:25:55,000 --> 00:26:01,000
+And I was actually just at breakfast with
+my wife and I was looking at the camera
+
+259
+00:26:01,000 --> 00:26:07,000
+and then as I was looking at it one of the
+GPUs fell because after a couple months
+
+260
+00:26:07,000 --> 00:26:13,000
+and I was using PETG but after a couple
+months of just being warmed up, warmed up,
+
+261
+00:26:13,000 --> 00:26:19,000
+warmed up, the screws started to sort of
+create the hole a little bit bigger and
+
+262
+00:26:19,000 --> 00:26:25,000
+bigger and then eventually just would fall
+out.
+
+263
+00:26:27,000 --> 00:26:35,000
+So it's always good to have those sort of
+backups and cameras and things because it
+
+264
+00:26:35,000 --> 00:26:43,000
+would suck to put three to ten thousand
+dollars down into this, get it all set up,
+
+265
+00:26:43,000 --> 00:26:51,000
+brick a machine, brick a motherboard,
+create a fire for all of this sorts of
+
+266
+00:26:51,000 --> 00:26:59,000
+stuff. So definitely do the single GPU
+setup first. Get your feet wet.
+
+267
+00:27:02,000 --> 00:27:05,000
+Typically, right, yeah. Probably a lot
+longer now as of yesterday. These were
+
+268
+00:27:05,000 --> 00:27:08,000
+made a few days ago.
+
+269
+00:27:09,000 --> 00:27:13,000
+But yeah, I mean, I think that it's a
+good point. So Graham had mentioned
+
+270
+00:27:13,000 --> 00:27:17,000
+college students, they don't have to pay
+for their electricity. So that's a great
+
+271
+00:27:17,000 --> 00:27:21,000
+vector or even Airbnbs. I've heard people
+get Airbnbs. They see that they have a 30
+
+272
+00:27:21,000 --> 00:27:25,000
+amp outlet over their entire setup, get
+free electricity. It's a way to do it for
+
+273
+00:27:25,000 --> 00:27:29,000
+sure.
+
+274
+00:27:29,000 --> 00:27:33,000
+And so let's break down the different
+mining components. So we have open air,
+
+275
+00:27:33,000 --> 00:27:37,000
+which is nice, but it has a lot of
+different moving parts. And so I think
+
+276
+00:27:37,000 --> 00:27:41,000
+again, kind of going back to that idea of
+entropy, if you have a lot of components
+
+277
+00:27:41,000 --> 00:27:45,000
+moving within the system, something is
+bound to break and you're sort of as
+
+278
+00:27:45,000 --> 00:27:49,000
+strong as your weakest link.
+
+279
+00:27:52,000 --> 00:27:56,000
+So if a PCIe board riser goes out, well
+then that's down, but then you've got to
+
+280
+00:27:56,000 --> 00:28:00,000
+move everything. And if you've got - I've
+had at most 13 cards in there, and you
+
+281
+00:28:00,000 --> 00:28:04,000
+have the cords managed very nicely, it's
+kind of a pain in the butt to take one
+
+282
+00:28:04,000 --> 00:28:08,000
+card out, switch that out.
+
+283
+00:28:10,000 --> 00:28:18,000
+I prefer the server cases. On Amazon, you
+can get them, I think, for like $500. You
+
+284
+00:28:18,000 --> 00:28:26,000
+can put eight cards in there. It comes
+with fans. It runs Windows, but you can
+
+285
+00:28:26,000 --> 00:28:34,000
+put in, of course, HiveOS or anything like
+that. Highly recommended. And those are
+
+286
+00:28:34,000 --> 00:28:42,000
+stackable, then you can move them
+anywhere. Versus the open airframes,
+
+287
+00:28:42,000 --> 00:28:50,000
+definitely not the case.
+
+288
+00:28:51,000 --> 00:29:03,000
+Right. Yeah, a lot of aftermarket parts
+out there right now, probably for cheap,
+
+289
+00:29:03,000 --> 00:29:15,000
+you could just put something. Right. Yeah.
+
+290
+00:29:15,000 --> 00:29:19,000
+Definitely. The thing I think you'd need
+to worry about potentially with mining,
+
+291
+00:29:19,000 --> 00:29:23,000
+with that sort of approach, is there's a
+lot of move to LLMs being moved to local.
+
+292
+00:29:23,000 --> 00:29:27,000
+So I think before the video game group was
+getting upset with crypto people because
+
+293
+00:29:27,000 --> 00:29:31,000
+they're buying all the GPUs.
+
+294
+00:29:34,000 --> 00:29:37,000
+But now I think there's going to be a
+move to where now all the crypto guys are
+
+295
+00:29:37,000 --> 00:29:40,000
+going to be upset with the AI guys trying
+to buy all the GPUs, because I think there
+
+296
+00:29:40,000 --> 00:29:43,000
+really will be more of a privacy sort of
+thing with LLMs and being like, hey, I
+
+297
+00:29:43,000 --> 00:29:46,000
+want to run it on my stuff. I don't want
+people knowing what my prompts are and
+
+298
+00:29:46,000 --> 00:29:49,000
+things like that.
+
+299
+00:29:52,000 --> 00:29:57,000
+And I think the tools are generally
+moving more towards open source and being
+
+300
+00:29:57,000 --> 00:30:02,000
+able to run them sort of locally. And it's
+kind of pretty easy to do. We've done it
+
+301
+00:30:02,000 --> 00:30:07,000
+with a couple of websites. So just some
+sort of food for thought there.
+
+302
+00:30:08,000 --> 00:30:13,000
+And then I think that even kind of goes
+into the idea of like, hey, I could create
+
+303
+00:30:13,000 --> 00:30:18,000
+my own LLM setup. And then when my
+family's not using it, maybe from 10 PM to
+
+304
+00:30:18,000 --> 00:30:23,000
+6 AM, it's just mining Ergo. And it just
+has that script that's running. Okay,
+
+305
+00:30:23,000 --> 00:30:28,000
+cool. Turning off into offline mode. Now
+I'm just going to mine Ergo, turn it back
+
+306
+00:30:28,000 --> 00:30:33,000
+on. Now back to the home LLM or whatever
+the case.
+
+307
+00:30:35,000 --> 00:30:45,000
+Yeah, right. Yeah. Yeah. Yeah, home LLM
+or whatever LLM you want to call it.
+
+308
+00:30:45,000 --> 00:30:50,000
+Yeah, yeah, yeah, exactly. Because I
+think as we move further down with LLMs
+
+309
+00:30:50,000 --> 00:30:55,000
+and I know kind of varying off a little
+bit, but like, you could have your camera
+
+310
+00:30:55,000 --> 00:31:00,000
+set up with different MCP servers and your
+cameras in your house, you maybe want to
+
+311
+00:31:00,000 --> 00:31:05,000
+access that LLM to have that. But then now
+maybe Google or OpenAI or all these people
+
+312
+00:31:05,000 --> 00:31:10,000
+sort of have this data that is your kids
+or your family.
+
+313
+00:31:10,000 --> 00:31:17,000
+And so I think that's where the privacy
+is going to maybe potentially come in or
+
+314
+00:31:17,000 --> 00:31:24,000
+listening to you. And you just want to be
+able to say, Hey, home LLM XYZ, you don't
+
+315
+00:31:24,000 --> 00:31:31,000
+want it to...
+
+316
+00:31:31,000 --> 00:31:35,000
+Right. Yeah. Totally. And then it's like,
+cool, we have our own little LM setup. It
+
+317
+00:31:35,000 --> 00:31:39,000
+does whatever that needs to do. But that
+same infrastructure can then be flipped on
+
+318
+00:31:39,000 --> 00:31:43,000
+its head when we're not using it to then
+run at night and mine Ergo. And then plus
+
+319
+00:31:43,000 --> 00:31:47,000
+they're both are going to generate heat.
+So I think there's opportunity there to
+
+320
+00:31:47,000 --> 00:31:51,000
+create heat, especially for things like
+hot yoga - makes no sense to just have a
+
+321
+00:31:51,000 --> 00:31:55,000
+heater when you're just constantly going
+to be purposely heating something.
+
+322
+00:31:59,000 --> 00:32:03,000
+So it kind of maybe makes sense to have a
+bunch of miners running, even if you
+
+323
+00:32:03,000 --> 00:32:07,000
+are... And that's where I think the heat
+perspective, you could even flip the
+
+324
+00:32:07,000 --> 00:32:11,000
+electricity cost on its head because then
+it's like, well, I don't really care.
+
+325
+00:32:11,000 --> 00:32:15,000
+We're going to burn this electricity
+anyways. But now we get another asset to
+
+326
+00:32:15,000 --> 00:32:19,000
+go inside of it and we just get that and
+then we just actually get a discount now.
+
+327
+00:32:22,000 --> 00:32:26,000
+So it's I think a lot of the mining stuff
+is really kind of how you look at it. So
+
+328
+00:32:26,000 --> 00:32:30,000
+maybe one way it looks like a circle and
+then the other way it looks like a square
+
+329
+00:32:30,000 --> 00:32:34,000
+- sort of that kind of famous example,
+right? Just depends on how you're looking
+
+330
+00:32:34,000 --> 00:32:38,000
+at it.
+
+331
+00:32:38,000 --> 00:32:44,000
+So yeah, understanding the problem. So
+each GPU generates 100 to 200 watts of
+
+332
+00:32:44,000 --> 00:32:50,000
+heat. Six GPUs could produce 1200 watts of
+heat, equivalent to a space heater. And of
+
+333
+00:32:50,000 --> 00:32:56,000
+course, we're not even talking about
+noise. Noise is also a big problem.
+
+334
+00:32:58,000 --> 00:33:03,000
+So, I'll just continue here. So, single
+rig heat management, we're just talking
+
+335
+00:33:03,000 --> 00:33:08,000
+room positioning. So, keeping away from
+walls. I think one of the big things with
+
+336
+00:33:08,000 --> 00:33:13,000
+mining, people don't really think about is
+this concept called heat transfer.
+
+337
+00:33:15,000 --> 00:33:19,000
+And so really, it's the idea of you have
+something generating heat, but we're not
+
+338
+00:33:19,000 --> 00:33:23,000
+really thinking about how are we going to
+actively move that out of this system. And
+
+339
+00:33:23,000 --> 00:33:27,000
+you can think of this room as a closed
+system, I suppose. And if you have heat,
+
+340
+00:33:27,000 --> 00:33:31,000
+how is it going to generate and eventually
+assimilate to the main temperature?
+
+341
+00:33:34,000 --> 00:33:40,000
+So if you think of it like water, so if
+you have water that is room temperature
+
+342
+00:33:40,000 --> 00:33:46,000
+but then I pour a little bit of hot water,
+eventually it'll take some amount of time
+
+343
+00:33:46,000 --> 00:33:52,000
+for this whole water to be the same
+temperature. And so that's sort of what
+
+344
+00:33:52,000 --> 00:33:58,000
+heat transfer is. And you want to be able
+to effectively - especially if you're
+
+345
+00:33:58,000 --> 00:34:04,000
+trying to minimize the effect of the heat,
+you want to be able to understand - so
+
+346
+00:34:04,000 --> 00:34:10,000
+some people will create a rig room and
+then they'll create heat isolation and
+
+347
+00:34:10,000 --> 00:34:16,000
+then they'll create their exhaust. So
+they're kind of creating some insulation
+
+348
+00:34:16,000 --> 00:34:22,000
+sort of to help slow or help this
+translate the heat in some manner.
+
+349
+00:34:24,000 --> 00:34:30,000
+So yeah, multiple rigs, definitely a lot
+of heat. The challenge scales up. So 10
+
+350
+00:34:30,000 --> 00:34:36,000
+GPUs, almost close to 2,000 watts of heat.
+It is very hot, very loud. The
+
+351
+00:34:36,000 --> 00:34:42,000
+infrastructure needs, I mean, and that's a
+serious setup. Even 30 GPUs, it's like
+
+352
+00:34:42,000 --> 00:34:48,000
+sometimes they go down, you gotta turn
+them back on.
+
+353
+00:34:50,000 --> 00:34:54,000
+Some months they can run like no big
+deal. And then other months it's like,
+
+354
+00:34:54,000 --> 00:34:58,000
+dude, every week I gotta, all right, I'm
+messing with it. And it's like, hey,
+
+355
+00:34:58,000 --> 00:35:02,000
+honey, I'll be right back. I gotta do
+something to the rigs. And it'll be like a
+
+356
+00:35:02,000 --> 00:35:06,000
+few hours later. And it's like, okay, I'm
+finally done. There's a lot of problem
+
+357
+00:35:06,000 --> 00:35:10,000
+solving, but for me, I really enjoy that
+because it could be a bunch of different
+
+358
+00:35:10,000 --> 00:35:14,000
+things.
+
+359
+00:35:15,000 --> 00:35:20,000
+So yes, we have smart solutions. So yeah,
+maybe you got basement mining. So warm air
+
+360
+00:35:20,000 --> 00:35:25,000
+rises. So if you're gonna mine, put it
+into the lowest point that you can. So
+
+361
+00:35:25,000 --> 00:35:30,000
+eventually the heat will actually rise.
+Garage with ventilation. So I was mining
+
+362
+00:35:30,000 --> 00:35:35,000
+in my garage and so the warmer months I
+was actually able to open up both garages.
+
+363
+00:35:35,000 --> 00:35:40,000
+And so I was able to just draft that heat
+super fast, which was really, really nice.
+
+364
+00:35:43,000 --> 00:35:48,000
+But the problem with that is inherently
+that's a warm area. So bugs are going to
+
+365
+00:35:48,000 --> 00:35:53,000
+naturally attract to that spot. So for the
+open air sort of cases, I'd have to go in
+
+366
+00:35:53,000 --> 00:35:58,000
+there and get some air in a can and just
+clean that all up because otherwise that
+
+367
+00:35:58,000 --> 00:36:03,000
+organic matter will just collect up,
+create dust and eventually could catch
+
+368
+00:36:03,000 --> 00:36:08,000
+fire. No good.
+
+369
+00:36:09,000 --> 00:36:15,000
+It's one thing to get involved with
+mining and tell your wife, hey, we're
+
+370
+00:36:15,000 --> 00:36:21,000
+going to put 10K into mining, do all that
+stuff. It's another to cause a fire. How
+
+371
+00:36:21,000 --> 00:36:27,000
+stupid would you look, I guess?
+
+372
+00:36:27,000 --> 00:36:31,000
+So in hot climates, AC costs are going to
+probably kill a lot of profits. But I
+
+373
+00:36:31,000 --> 00:36:35,000
+think that is kind of where you need to
+put your engineering hat on and sort of
+
+374
+00:36:35,000 --> 00:36:39,000
+see how can you - so the idea here is you
+got to keep the actual cards cool, not
+
+375
+00:36:39,000 --> 00:36:43,000
+necessarily the exhaust.
+
+376
+00:36:44,000 --> 00:36:51,000
+And so if you can keep that airflow,
+what's called laminar, but also over the
+
+377
+00:36:51,000 --> 00:36:58,000
+card at that same temperature, whether
+it's 80 or 90 degrees Celsius, then that's
+
+378
+00:36:58,000 --> 00:37:05,000
+fine, as long as it doesn't skyrocket up.
+But it's definitely a hard problem to do,
+
+379
+00:37:05,000 --> 00:37:12,000
+so maybe mine at night.
+
+380
+00:37:13,000 --> 00:37:17,000
+Again, it's all about your specific where
+you are, where you're located. Maybe
+
+381
+00:37:17,000 --> 00:37:21,000
+there's an opportunity to build some sites
+on land. Maybe you can dig down in the
+
+382
+00:37:21,000 --> 00:37:25,000
+ground. You can actually build up vents
+and off gas that heat to some sort of
+
+383
+00:37:25,000 --> 00:37:29,000
+greenhouse, things like that.
+
+384
+00:37:31,000 --> 00:37:36,000
+There might be an opportunity, especially
+out here in Colorado. They grow a lot of
+
+385
+00:37:36,000 --> 00:37:41,000
+cannabis from my understanding. They
+probably spent a lot of money on heat. So
+
+386
+00:37:41,000 --> 00:37:46,000
+what if they had a bunch of Ergo miners
+underneath somewhere then off gassing that
+
+387
+00:37:46,000 --> 00:37:51,000
+heat and back into the grow house? And so
+that would be a huge net positive.
+
+388
+00:37:54,000 --> 00:37:59,000
+There was actually - I went on a tour to
+one of the dispensaries and they actually
+
+389
+00:37:59,000 --> 00:38:04,000
+built the heating mechanism outside of the
+property, which makes no sense because now
+
+390
+00:38:04,000 --> 00:38:09,000
+it's not even insulated. So now you have
+hot air leaving the building, going
+
+391
+00:38:09,000 --> 00:38:14,000
+outside to where it's cold, and then going
+back in. It's like, no, you should have
+
+392
+00:38:14,000 --> 00:38:19,000
+kept that inside. So again, it's all about
+efficiency, efficiency for the cards, but
+
+393
+00:38:19,000 --> 00:38:24,000
+then also efficiency from an environmental
+perspective.
+
+394
+00:38:27,000 --> 00:38:33,000
+Yeah, right. When we do Chain Cash, we'll
+buy a bunch of property and then maybe a
+
+395
+00:38:33,000 --> 00:38:39,000
+barter system to be like, okay, who's
+going to build the deck? Okay, Mark's
+
+396
+00:38:39,000 --> 00:38:45,000
+going to build the mining setup, and so on
+and so forth. We need a senior design
+
+397
+00:38:45,000 --> 00:38:51,000
+project or something, right?
+
+398
+00:38:51,000 --> 00:38:57,000
+So, electricity rates definitely matter
+the most, right? So, 5 cents to 10 cents.
+
+399
+00:38:57,000 --> 00:39:03,000
+I got 11 cents. I was okay with that at
+the time. And so I was running like five
+
+400
+00:39:03,000 --> 00:39:09,000
+giga hash, probably about a year ago. And
+I was probably about like three to 400
+
+401
+00:39:09,000 --> 00:39:15,000
+bucks a month. I don't remember how much
+ERG it was, but which is irrelevant, I
+
+402
+00:39:15,000 --> 00:39:21,000
+suppose now just because of the
+scheduling.
+
+403
+00:39:24,000 --> 00:39:30,000
+I don't know if that's a typo. So what
+are the rates? Many utilities charge...
+
+404
+00:39:30,000 --> 00:39:36,000
+oh, I see, right. So different rates. And
+so off peak times versus peak hours.
+
+405
+00:39:36,000 --> 00:39:41,000
+And so again, going back to that sort of
+LLM sort of concept, maybe it makes sense
+
+406
+00:39:41,000 --> 00:39:46,000
+to run it cheaper at night, the weekends,
+when not using it. So it's going to be a
+
+407
+00:39:46,000 --> 00:39:51,000
+lot cheaper versus peak hours. And then
+additionally, it's like a note about peak
+
+408
+00:39:51,000 --> 00:39:56,000
+hours. Peak hours are also correlated most
+likely with peak temperature hours.
+
+409
+00:39:58,000 --> 00:40:03,000
+So it's like, if I'm in a hot environment
+anyways, and then I'm also getting charged
+
+410
+00:40:03,000 --> 00:40:08,000
+a lot for electricity, probably doesn't
+make a lot of sense to be mining during
+
+411
+00:40:08,000 --> 00:40:13,000
+that time anyways. And I think it's okay
+to turn your rigs off. Sometimes maybe
+
+412
+00:40:13,000 --> 00:40:18,000
+you've had a bad month.
+
+413
+00:40:20,000 --> 00:40:25,000
+Yeah, so for most mining pools on Ergo,
+it's PPLNS, so it's pay per last N shares.
+
+414
+00:40:25,000 --> 00:40:30,000
+And so N is set by the mining pool, and
+ours right now is one half. And so you
+
+415
+00:40:30,000 --> 00:40:35,000
+could just think of this as a window. And
+so say the last 12 hours are all the
+
+416
+00:40:35,000 --> 00:40:40,000
+shares you're going to get calculated for.
+
+417
+00:40:41,000 --> 00:40:44,000
+So if you just started, you're not going
+to have a lot of shares within the last 12
+
+418
+00:40:44,000 --> 00:40:47,000
+hours. And so you get penalized for that.
+But if you get onboard to the pool after
+
+419
+00:40:47,000 --> 00:40:50,000
+those 12 hours, you now have the maximum
+full amount of shares that you could
+
+420
+00:40:50,000 --> 00:40:53,000
+possibly have.
+
+421
+00:40:55,000 --> 00:40:59,000
+But then if you onboard another giga
+hash, your shares amount potential then
+
+422
+00:40:59,000 --> 00:41:03,000
+increase because now you have more
+potential shares to be able to submit
+
+423
+00:41:03,000 --> 00:41:07,000
+within that 12-hour window. So if you turn
+it off, and it really depends, on
+
+424
+00:41:07,000 --> 00:41:11,000
+Sigmonauts mining pool, it just depends on
+when we find blocks.
+
+425
+00:41:12,000 --> 00:41:17,000
+So say for example, you're maxed out on
+your 12-hour window. We find a block and
+
+426
+00:41:17,000 --> 00:41:22,000
+that was high difficulty. Then we have
+high effort. Then we find another block
+
+427
+00:41:22,000 --> 00:41:27,000
+within an hour. Then we find another block
+- you're going to have a high
+
+428
+00:41:27,000 --> 00:41:32,000
+participation because you have the maximum
+amount of shares.
+
+429
+00:41:35,000 --> 00:41:40,000
+Let's say between the second and third
+block, you are turning off for the night,
+
+430
+00:41:40,000 --> 00:41:45,000
+you're still going to have, say, 90
+percent of that window covered because you
+
+431
+00:41:45,000 --> 00:41:50,000
+have one hour less, call it, or wherever
+the math works out to. But then it goes
+
+432
+00:41:50,000 --> 00:41:55,000
+from one hour to six hours. Well, now you
+have six hours left of those last shares.
+
+433
+00:41:57,000 --> 00:42:03,000
+And it really just depends on what the N
+is. And so again, ours is one half, but
+
+434
+00:42:03,000 --> 00:42:09,000
+you could put like four, which could be
+weeks. You could do months. So then, but
+
+435
+00:42:09,000 --> 00:42:15,000
+those are obviously really old shares. And
+it's like, we don't really care about
+
+436
+00:42:15,000 --> 00:42:21,000
+that. We just care about these more recent
+shares. So that's a way to do that.
+
+437
+00:42:21,000 --> 00:42:25,000
+So then we have solo mining versus pool
+mining. So you mine alone. If you get a
+
+438
+00:42:25,000 --> 00:42:29,000
+block, you get all the rewards. Very
+unpredictable, but really it's only
+
+439
+00:42:29,000 --> 00:42:33,000
+unpredictable in the sense of if you have
+a small amount - I mean, I'd say it is
+
+440
+00:42:33,000 --> 00:42:37,000
+predictable, but it's just, you're not
+going to get paid soon, because if you
+
+441
+00:42:37,000 --> 00:42:41,000
+have 100 giga hash, it's going to take 30
+days, but you could have luck within the
+
+442
+00:42:41,000 --> 00:42:45,000
+first hour.
+
+443
+00:42:46,000 --> 00:42:50,000
+That happened to me. I was like 500 giga
+hash and I found two blocks. And I was
+
+444
+00:42:50,000 --> 00:42:54,000
+doing a test pool and it was just me on
+there. It's just like, oh, well, that
+
+445
+00:42:54,000 --> 00:42:58,000
+works out.
+
+446
+00:42:58,000 --> 00:43:03,000
+And then pool mining, depending on the
+fee, you sort of split your hashrate and
+
+447
+00:43:03,000 --> 00:43:08,000
+then whenever anybody on the pool finds a
+block, then we all split that with respect
+
+448
+00:43:08,000 --> 00:43:13,000
+to our participation, which is calculated
+by the PPLNS calculation. And then we also
+
+449
+00:43:13,000 --> 00:43:18,000
+have the small fee.
+
+450
+00:43:19,000 --> 00:43:25,000
+So then we take that ERG reward. We
+calculate that fee. The pool keeps the
+
+451
+00:43:25,000 --> 00:43:31,000
+fee. And then from there, the PPLNS gets
+added to the shares of the database.
+
+452
+00:43:31,000 --> 00:43:35,000
+I thought I'd fix this, but at one point,
+the Sigmonauts mining pool was 1%. It's
+
+453
+00:43:35,000 --> 00:43:39,000
+variable. So if you want to vote it to 2,
+and it passes, we'll vote it to 2. If you
+
+454
+00:43:39,000 --> 00:43:43,000
+want to vote it to 0, we can vote it to 0.
+Any miner on our pool, if they want a DAO
+
+455
+00:43:43,000 --> 00:43:47,000
+token, we'll give it to you.
+
+456
+00:43:50,000 --> 00:43:56,000
+So we're distributing storage rent. We
+have bonus tokens, doing a bunch of other
+
+457
+00:43:56,000 --> 00:44:02,000
+different things. But then we also, of
+course, have Herominers, which I believe
+
+458
+00:44:02,000 --> 00:44:08,000
+they're also distributing or I know
+they're collecting Demarage. I don't know
+
+459
+00:44:08,000 --> 00:44:14,000
+how exactly they're distributing it.
+
+460
+00:44:14,000 --> 00:44:19,000
+Right, okay. Well, the way we do Demarage
+distribution is we do it one for one
+
+461
+00:44:19,000 --> 00:44:24,000
+participation. So, for that block, we'll
+calculate your participation. We'll then
+
+462
+00:44:24,000 --> 00:44:29,000
+take that same - we back calculate it, but
+we grab that value and then we multiply
+
+463
+00:44:29,000 --> 00:44:34,000
+that by whatever the ERG amount we got
+from Demarage.
+
+464
+00:44:37,000 --> 00:44:42,000
+So, if it's 10 ERG, and your
+participation was 10%, then you'll get
+
+465
+00:44:42,000 --> 00:44:47,000
+one. And then that's paid, traditionally
+that'll be paid every Tuesday, but there's
+
+466
+00:44:47,000 --> 00:44:52,000
+some sniping wars sort of happening.
+
+467
+00:44:53,000 --> 00:44:58,000
+Sorry, say that again?
+
+468
+00:44:58,000 --> 00:45:03,000
+Yeah, for sure. There was an opportunity
+a few months ago where there was this,
+
+469
+00:45:03,000 --> 00:45:08,000
+CannonQ can correct me, but I think there
+was like 1000 SigmaUSD in Demarage. Wasn't
+
+470
+00:45:08,000 --> 00:45:13,000
+it something like that? Or there was like
+a thousand in token value. Yeah, yeah,
+
+471
+00:45:13,000 --> 00:45:18,000
+yeah. So definitely the incentive is
+there. Okay, that's what it was, yeah,
+
+472
+00:45:18,000 --> 00:45:23,000
+SigRSV.
+
+473
+00:45:27,000 --> 00:45:39,000
+Okay, yeah.
+
+474
+00:45:39,000 --> 00:45:47,000
+Yeah. So let's see, it says Herominers,
+it's 2%. I think they do - does anybody
+
+475
+00:45:47,000 --> 00:45:55,000
+know what their payout is? It's not PPLNS,
+right? It's like Bitcoin. Isn't it like
+
+476
+00:45:55,000 --> 00:46:03,000
+Bitcoin pools do it? No? Okay. Fair
+enough.
+
+477
+00:46:03,000 --> 00:46:07,000
+Okay. So yeah, talking about the
+Sigmonauts. So we have a DAO run on
+
+478
+00:46:07,000 --> 00:46:11,000
+Paideia. Everybody has a say in the pool.
+We actually have 10,000 ERGs in our
+
+479
+00:46:11,000 --> 00:46:15,000
+treasury, which is awesome. Only pool
+right now distributing - well, that's not
+
+480
+00:46:15,000 --> 00:46:19,000
+true. Sorry, I thought I fixed the storage
+rent. But the only pool distributing bonus
+
+481
+00:46:19,000 --> 00:46:23,000
+tokens to our miners.
+
+482
+00:46:26,000 --> 00:46:31,000
+I think at one point we had 60 tokens
+that we'd airdrop all at once to, I think
+
+483
+00:46:31,000 --> 00:46:36,000
+at most we had 60 people. So that's kind
+of cool. We're supporting the ecosystem,
+
+484
+00:46:36,000 --> 00:46:41,000
+so fees fund Ergo development and
+community projects. All decisions voted on
+
+485
+00:46:41,000 --> 00:46:46,000
+by the community are all open, active,
+Discord and Telegram.
+
+486
+00:46:47,000 --> 00:46:51,000
+We have a bunch of different alerts. So
+every time we find a block. Really good
+
+487
+00:46:51,000 --> 00:46:55,000
+group of guys, if you're interested in
+mining, people are there from all over the
+
+488
+00:46:55,000 --> 00:46:59,000
+world. So if you have a question,
+generally somebody's on there to answer,
+
+489
+00:46:59,000 --> 00:47:03,000
+whether it be about mining. And something
+I really like about our mining community
+
+490
+00:47:03,000 --> 00:47:07,000
+is I like to think that all the miners are
+devs in hiding.
+
+491
+00:47:09,000 --> 00:47:13,000
+They just don't know it yet. They have
+the technical ability to be able to spin
+
+492
+00:47:13,000 --> 00:47:17,000
+up a miner, put up the OS, that takes some
+noodling within the terminal and things
+
+493
+00:47:17,000 --> 00:47:21,000
+like that. And so we were actually able to
+get two of our miners to join the last
+
+494
+00:47:21,000 --> 00:47:25,000
+hackathon. So that was pretty neat.
+
+495
+00:47:28,000 --> 00:47:34,000
+And so storage rent is Ergo's unique
+feature. So rent, this is also Demarage.
+
+496
+00:47:34,000 --> 00:47:40,000
+It's collected from unspent boxes older
+than four years. Prevents the blockchain
+
+497
+00:47:40,000 --> 00:47:46,000
+bloat and provides additional revenue for
+the miners. And so here's just some sample
+
+498
+00:47:46,000 --> 00:47:52,000
+current revenue. This is free money for
+the most part.
+
+499
+00:47:52,000 --> 00:47:57,000
+It's just there. It blows my mind that
+people don't consolidate their boxes that
+
+500
+00:47:57,000 --> 00:48:02,000
+are more than four years old, but maybe
+they left the community. And so yeah, on
+
+501
+00:48:02,000 --> 00:48:07,000
+Sigmonauts mining pool, I wrote a script
+that will distribute it all proportionally
+
+502
+00:48:07,000 --> 00:48:12,000
+to the Sigmonauts miners based upon our
+participation in the database.
+
+503
+00:48:14,000 --> 00:48:19,000
+It increases your effective earnings. I
+guess we're the only – well, I guess
+
+504
+00:48:19,000 --> 00:48:24,000
+Grayman said they're distributing it, but
+equally. I'd be curious to see how
+
+505
+00:48:24,000 --> 00:48:29,000
+exactly.
+
+506
+00:48:29,000 --> 00:48:34,000
+Right. It would be good on us to put a,
+from a transparency perspective, be like,
+
+507
+00:48:34,000 --> 00:48:39,000
+hey, this is exactly how we're doing this,
+all the FAQs and stuff. I'll have to take
+
+508
+00:48:39,000 --> 00:48:44,000
+a note of that.
+
+509
+00:48:44,000 --> 00:48:48,000
+But yeah, our fee is 1%. So sorry for all
+the spam of the 0.9. Our minimum threshold
+
+510
+00:48:48,000 --> 00:48:52,000
+is 0.5. We did create this protocol. I
+don't know if it's really a protocol, but
+
+511
+00:48:52,000 --> 00:48:56,000
+essentially you could mint an NFT. You
+could then inscribe in this NFT your
+
+512
+00:48:56,000 --> 00:49:00,000
+minimum or your payout threshold.
+
+513
+00:49:03,000 --> 00:49:07,000
+And then our system would then pick that
+up based off our collection ID. And then
+
+514
+00:49:07,000 --> 00:49:11,000
+from there it would automatically change
+your payout threshold without having to
+
+515
+00:49:11,000 --> 00:49:15,000
+message me or anything like that. So a
+little bit more permissionless sort of
+
+516
+00:49:15,000 --> 00:49:19,000
+payout thresholds.
+
+517
+00:49:19,000 --> 00:49:24,000
+Because we have some miners, right? They
+might have 50 giga hash and they might be
+
+518
+00:49:24,000 --> 00:49:29,000
+making 10, 20, 30 ERGs a day. And if it's
+0.5, they're just getting a lot of spam.
+
+519
+00:49:29,000 --> 00:49:34,000
+And so from maybe even a tax perspective,
+it's nicer to have it in one transaction
+
+520
+00:49:34,000 --> 00:49:39,000
+as opposed to five transactions a day.
+
+521
+00:49:39,000 --> 00:49:45,000
+Plus from the mining pool perspective,
+I'd say we don't want to make five
+
+522
+00:49:45,000 --> 00:49:51,000
+transactions a day if we can just make the
+one to save on the TX cost, I suppose.
+
+523
+00:49:51,000 --> 00:49:56,000
+So, yeah, if you need to get help, we're
+pretty active on Telegram and Discord.
+
+524
+00:49:56,000 --> 00:50:01,000
+Let's see. Mining with Sigmonauts isn't
+just about profit. It's about supporting
+
+525
+00:50:01,000 --> 00:50:06,000
+the true decentralization and being part
+of the community that believes in Ergo's
+
+526
+00:50:06,000 --> 00:50:11,000
+vision. Mining fees fund ecosystem
+development, not just corporate profits.
+
+527
+00:50:12,000 --> 00:50:15,000
+And then, of course, we can vote on those
+specific developments. Something like,
+
+528
+00:50:15,000 --> 00:50:18,000
+hey, I want to do this and we're going to
+spend this, it needs to be voted on by
+
+529
+00:50:18,000 --> 00:50:21,000
+everybody.
+
+530
+00:50:23,000 --> 00:50:28,000
+So if you want to get started with mining
+Ergo, you need a mining wallet. So
+
+531
+00:50:28,000 --> 00:50:33,000
+Nautilus is what I would recommend. Get a
+mining software. Really kind of depends if
+
+532
+00:50:33,000 --> 00:50:38,000
+it's NVIDIA or AMD. Mine to the Sigmonauts
+mining pool. Check out, I think it's
+
+533
+00:50:38,000 --> 00:50:43,000
+ergo-miners.com is our dashboard.
+
+534
+00:50:43,000 --> 00:50:47,000
+Configure the miner within your wallet,
+start mining and monitoring the pool
+
+535
+00:50:47,000 --> 00:50:51,000
+dashboard. Again, join our socials.
+
+536
+00:50:52,000 --> 00:50:59,000
+So here's a couple of different mining
+options. Just kind of for the sake of
+
+537
+00:50:59,000 --> 00:51:06,000
+time, kind of get through these. So yeah,
+optimize again for efficiency here.
+
+538
+00:51:06,000 --> 00:51:10,000
+So yeah, why Ergo? So we've got the
+cooler algorithm, better for GPUs,
+
+539
+00:51:10,000 --> 00:51:14,000
+declining emissions, so scarcity. So I
+think that's been a big thing for a while.
+
+540
+00:51:14,000 --> 00:51:18,000
+And so now we're actually like in the next
+year, we're going to see that play out.
+
+541
+00:51:18,000 --> 00:51:22,000
+And is that sort of narrative true? I
+don't know. We'll find out.
+
+542
+00:51:25,000 --> 00:51:34,000
+ASIC resistance, storage rent income, an
+active ecosystem, no pre-mine or ICO.
+
+543
+00:51:34,000 --> 00:51:43,000
+We're gonna be mining until 2045. And
+expert developers.
+
+544
+00:51:43,000 --> 00:51:53,000
+So resource and links. Start your mining
+journey today. Comments, questions,
+
+545
+00:51:53,000 --> 00:52:03,000
+concerns.
+
+546
+00:52:03,000 --> 00:52:08,000
+What is my - yeah, I think it's pretty
+cool. I think, Sigmonauts. I think we
+
+547
+00:52:08,000 --> 00:52:13,000
+probably have - I'm thinking about it.
+We'd have two separate options and I'm
+
+548
+00:52:13,000 --> 00:52:18,000
+still sort of fuzzy on the entirety,
+aspects, but I think we could probably
+
+549
+00:52:18,000 --> 00:52:23,000
+have Sigmonauts mining pool is how we run
+it today. But then also...
+
+550
+00:52:25,000 --> 00:52:47,000
+Yeah, I think we could do that,
+irrespective, but we could probably have
+
+551
+00:52:47,000 --> 00:53:09,000
+to do a DAO vote if we want to do one or
+the other or do both. I'm completely open
+
+552
+00:53:09,000 --> 00:53:31,000
+with what the DAO wants to do. So, kind of
+open to. So, absolutely.
+
+553
+00:53:33,000 --> 00:53:38,000
+Yeah. Yeah. I mean, that'd be a really -
+I'm not sure if mining core does that. I
+
+554
+00:53:38,000 --> 00:53:43,000
+mean, Geez, do you know? Like is this...
+
+555
+00:53:44,000 --> 00:54:01,000
+Okay. Sick. Right.
+
+556
+00:54:01,000 --> 00:54:25,000
+Totally.
+
+557
+00:54:25,000 --> 00:54:35,000
+Yeah, some guy named Oliver.
+
+558
+00:54:35,000 --> 00:54:43,000
+Yeah, that'd be a really cool idea. Can
+you overstuff the transaction? So if I'm
+
+559
+00:54:43,000 --> 00:54:51,000
+in the pool and you're saying, hey, I want
+to make the transaction, could I put as
+
+560
+00:54:51,000 --> 00:54:59,000
+much as I want in there? And then that
+would essentially push out...
+
+561
+00:55:00,000 --> 00:55:06,000
+Right, right, right. Yeah, that'd be a
+cool idea because right now for our bonus
+
+562
+00:55:06,000 --> 00:55:12,000
+tokens, we're doing that once a week
+and...
+
+563
+00:55:12,000 --> 00:55:17,000
+Okay. Yeah, that's definitely a good -
+I'll be relying on Geez there to help us
+
+564
+00:55:17,000 --> 00:55:22,000
+out.
+
+565
+00:55:22,000 --> 00:55:34,000
+Sweet. Alright, cool. Any questions
+online? I don't think so.
+
+566
+00:55:34,000 --> 00:55:37,000
+Alright, cool.
+

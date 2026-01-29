@@ -1,0 +1,724 @@
+1
+00:00:13,000 --> 00:00:19,000
+Hey guys, I am Cheese Enthusiast and
+today I'm here to talk about Lithos.
+
+2
+00:00:19,000 --> 00:00:23,000
+Now I've made videos before but today I
+want to give a bit of a different
+
+3
+00:00:23,000 --> 00:00:27,000
+perspective. Since the testnet is getting
+close to coming out I wanted to do a video
+
+4
+00:00:27,000 --> 00:00:31,000
+for potential miners and what type of
+information they're gonna need when they
+
+5
+00:00:31,000 --> 00:00:35,000
+start using the testnet. Just so you guys
+have a better idea of what to do and what
+
+6
+00:00:35,000 --> 00:00:39,000
+kind of options you have.
+
+7
+00:00:40,000 --> 00:00:45,000
+Quick overview for those of you who don't
+know, Lithos is a decentralized mining
+
+8
+00:00:45,000 --> 00:00:50,000
+pool protocol, which allows miners to
+connect to smart contract-based mining
+
+9
+00:00:50,000 --> 00:00:55,000
+pools. These smart contracts ensure
+fairness, they give complete control of
+
+10
+00:00:55,000 --> 00:01:00,000
+block production to individual miners, and
+miners using Lithos can select storage
+
+11
+00:01:00,000 --> 00:01:05,000
+rent, they can select transactions, and
+they can even earn ERG through
+
+12
+00:01:05,000 --> 00:01:10,000
+collateralization.
+
+13
+00:01:10,000 --> 00:01:14,000
+This is just another overview of what we
+already talked about, but yeah, in terms
+
+14
+00:01:14,000 --> 00:01:18,000
+of the benefits of Lithos, you get
+complete control of block production on
+
+15
+00:01:18,000 --> 00:01:22,000
+the side of the miners. That means that
+miners can select transactions, gain ERG
+
+16
+00:01:22,000 --> 00:01:26,000
+through MEV, and they can choose what
+UTXOs they want to claim for demurrage or
+
+17
+00:01:26,000 --> 00:01:30,000
+storage rent.
+
+18
+00:01:32,000 --> 00:01:36,000
+In Lithos, payments are completely
+controlled by smart contracts and that
+
+19
+00:01:36,000 --> 00:01:40,000
+means that you know you're never getting
+cheated out of any ERG. It's fully
+
+20
+00:01:40,000 --> 00:01:44,000
+transparent and it's fully fair.
+
+21
+00:01:44,000 --> 00:01:49,000
+Lithos also uses collateralized mining
+pools. This is used to ensure
+
+22
+00:01:49,000 --> 00:01:54,000
+decentralization but it also means that
+miners and people not involved in mining
+
+23
+00:01:54,000 --> 00:01:59,000
+can earn ERG through collateralizing
+different mining pools and essentially
+
+24
+00:01:59,000 --> 00:02:04,000
+you're giving the ERG to the mining pool
+so that they can help create the block and
+
+25
+00:02:04,000 --> 00:02:09,000
+doing that allows you to earn a fee.
+
+26
+00:02:11,000 --> 00:02:15,000
+Now point four, this is what I really
+want to focus on for this presentation.
+
+27
+00:02:15,000 --> 00:02:19,000
+It's that Lithos or rather the Lithos
+client is a locally run program. Now,
+
+28
+00:02:19,000 --> 00:02:23,000
+obviously that means latency and stale
+shares are not a factor when mining on
+
+29
+00:02:23,000 --> 00:02:27,000
+Lithos. But more importantly, it also
+means that miners get full control over
+
+30
+00:02:27,000 --> 00:02:31,000
+the difficulty parameter. And that
+parameter is going to be really important
+
+31
+00:02:31,000 --> 00:02:35,000
+when using Lithos because it can tweak
+your profit levels. So let's talk about
+
+32
+00:02:35,000 --> 00:02:39,000
+that.
+
+33
+00:02:42,000 --> 00:02:47,000
+When you're mining on Lithos, you have
+obviously the stratum server on your PC.
+
+34
+00:02:47,000 --> 00:02:52,000
+And inside the stratum server, you have
+the ability to control the difficulty of
+
+35
+00:02:52,000 --> 00:02:57,000
+the shares you produce. In Lithos, this
+difficulty parameter is called D. And
+
+36
+00:02:57,000 --> 00:03:02,000
+unlike other mining pools where the share
+difficulty is more about how many shares
+
+37
+00:03:02,000 --> 00:03:07,000
+you create and whether or not it's
+overloading your network or whatever,
+
+38
+00:03:07,000 --> 00:03:12,000
+that's not so important on Lithos. What's
+really important about the difficulty is
+
+39
+00:03:12,000 --> 00:03:17,000
+that it can help you manipulate your
+reward consistency and the amount of ERG
+
+40
+00:03:17,000 --> 00:03:22,000
+you get per block.
+
+41
+00:03:24,000 --> 00:03:30,000
+So let's talk about using difficulty and
+why it works differently on Lithos. So
+
+42
+00:03:30,000 --> 00:03:36,000
+Lithos is not using traditional miner
+payment systems. If you've been on other
+
+43
+00:03:36,000 --> 00:03:42,000
+mining pools, you may know about systems
+like pay per share, pay per last end
+
+44
+00:03:42,000 --> 00:03:48,000
+shares, et cetera. Lithos uses a new
+system based on non-interactive share
+
+45
+00:03:48,000 --> 00:03:54,000
+proofs. Now, not going to get into weeds
+here about what that is exactly, but the
+
+46
+00:03:54,000 --> 00:04:00,000
+important part for miners is that changing
+the difficulty inside this payment system
+
+47
+00:04:00,000 --> 00:04:06,000
+changes how you are paid and how much
+you're paid.
+
+48
+00:04:07,000 --> 00:04:12,000
+Now, when you first start mining using
+the Lithos client, your difficulty
+
+49
+00:04:12,000 --> 00:04:17,000
+parameter will be automatically set based
+on your hash rate. For example, if you
+
+50
+00:04:17,000 --> 00:04:22,000
+have a hash rate of 500 mega hashes, your
+difficulty parameter in the configuration
+
+51
+00:04:22,000 --> 00:04:27,000
+file for the Lithos client, it'll just say
+500M. Once it's been set, you're free to
+
+52
+00:04:27,000 --> 00:04:32,000
+adjust the difficulty up or down according
+to your own preferences.
+
+53
+00:04:36,000 --> 00:04:41,000
+So let's talk about what exactly
+adjusting the difficulty will do. So this
+
+54
+00:04:41,000 --> 00:04:46,000
+is a pretty simplified table, but it gives
+us all the important information. So let's
+
+55
+00:04:46,000 --> 00:04:51,000
+assume a miner with 500 mega hashes
+decides to try mining on Lithos. Let's say
+
+56
+00:04:51,000 --> 00:04:56,000
+the Lithos pool in total is one gigahash.
+So this miner is representing 50% of the
+
+57
+00:04:56,000 --> 00:05:01,000
+hash rate for the pool. The table below
+shows how changing this miner's difficulty
+
+58
+00:05:01,000 --> 00:05:06,000
+changes the total number of payments he
+gets, along with the amount of ERG he gets
+
+59
+00:05:06,000 --> 00:05:11,000
+per payment.
+
+60
+00:05:15,000 --> 00:05:22,000
+So when this miner first starts using
+Lithos, their difficulty will be
+
+61
+00:05:22,000 --> 00:05:29,000
+automatically set to 500M. Now this table
+shows a sample of how this miner's
+
+62
+00:05:29,000 --> 00:05:36,000
+payments might look over 100 blocks. So
+when the miner sets their difficulty to
+
+63
+00:05:36,000 --> 00:05:43,000
+500M, they were able to get 98 payments.
+They got around 7 ERG per payment and the
+
+64
+00:05:43,000 --> 00:05:50,000
+total amount of ERG they got was 686 ERG.
+This is again over 100 blocks and the
+
+65
+00:05:50,000 --> 00:05:57,000
+block reward was 14 ERG for these blocks.
+So considering this miner represents 50%
+
+66
+00:05:57,000 --> 00:06:04,000
+of the hash rate, they're getting 7.0 ERG
+per payment.
+
+67
+00:06:06,000 --> 00:06:12,000
+Now, if you look at the 300M difficulty,
+which is obviously significantly lower,
+
+68
+00:06:12,000 --> 00:06:18,000
+the miner got 100 payments, they got 4.3
+ERG per payment, and a total ERG of 430.
+
+69
+00:06:18,000 --> 00:06:24,000
+As for the 700M, the miner got 84
+payments, 9.8 ERG per payment, and they
+
+70
+00:06:24,000 --> 00:06:30,000
+got a total of 823 ERG. So as you can see,
+adjusting the difficulty value essentially
+
+71
+00:06:30,000 --> 00:06:36,000
+proportionally increases the amount of ERG
+you get per payment, while it's inversely
+
+72
+00:06:36,000 --> 00:06:42,000
+proportional to the number of payments you
+get. So increasing difficulty means you
+
+73
+00:06:42,000 --> 00:06:48,000
+get more ERG per payment, but less
+payments. Decreasing difficulty means that
+
+74
+00:06:48,000 --> 00:06:54,000
+you get less ERG per payments, but more
+payments.
+
+75
+00:06:59,000 --> 00:07:05,000
+Now, that's not exactly the full story.
+So yes, difficulty affects how much you
+
+76
+00:07:05,000 --> 00:07:11,000
+get paid and increasing the diff gives you
+more ERG per payment. But in reality, the
+
+77
+00:07:11,000 --> 00:07:17,000
+instability of payments with a high
+difficulty balances out the increase you
+
+78
+00:07:17,000 --> 00:07:23,000
+get in ERG. So this new table below shows
+what's called the max potential. And this
+
+79
+00:07:23,000 --> 00:07:29,000
+is the maximum amount of ERG the miner
+could have made within 100 blocks. So as
+
+80
+00:07:29,000 --> 00:07:35,000
+you can see for 300M, they could have made
+a maximum of 430 ERG, which in this case
+
+81
+00:07:35,000 --> 00:07:41,000
+they did because they got paid for all 100
+blocks. For the 500M difficulty miner,
+
+82
+00:07:41,000 --> 00:07:47,000
+maximum they could have made is 700 ERG
+over 100 blocks. And for the 700M miner,
+
+83
+00:07:47,000 --> 00:07:53,000
+the maximum amount of ERG they could have
+made in 100 blocks is 980.
+
+84
+00:07:58,000 --> 00:08:04,000
+So that looks good, obviously, but
+reaching the max potential is extremely
+
+85
+00:08:04,000 --> 00:08:10,000
+unlikely because it requires that the
+miner is paid for all 100 blocks, which is
+
+86
+00:08:10,000 --> 00:08:16,000
+significantly less likely the higher the
+miner's difficulty is. So what this means
+
+87
+00:08:16,000 --> 00:08:22,000
+is that, generally, increasing the
+difficulty makes payments less stable,
+
+88
+00:08:22,000 --> 00:08:28,000
+even though it increases the amount of ERG
+you get per payment. So it's very
+
+89
+00:08:28,000 --> 00:08:34,000
+unlikely, in the end, that someone hits
+their max potential. So increasing your
+
+90
+00:08:34,000 --> 00:08:40,000
+diff doesn't necessarily guarantee you
+more money over a long period of time.
+
+91
+00:08:42,000 --> 00:08:48,000
+And you can see that below with what's
+called the real potential. And that's the
+
+92
+00:08:48,000 --> 00:08:54,000
+average ERG per 100 blocks. So the maximum
+potential is the real amount of ERG that
+
+93
+00:08:54,000 --> 00:09:00,000
+somebody could get in 100 blocks, assuming
+that they're paid for every single block.
+
+94
+00:09:00,000 --> 00:09:06,000
+In reality, that's unlikely, and the real
+potential shows the average amount of ERG
+
+95
+00:09:06,000 --> 00:09:12,000
+they're going to get per 100 blocks over a
+long period of time. So you can see that
+
+96
+00:09:12,000 --> 00:09:18,000
+for 300M, the miner can still only make a
+maximum of 430 ERG. For 500M, they can
+
+97
+00:09:18,000 --> 00:09:24,000
+make a maximum of 700 ERG per 100 blocks.
+And the same thing for the 700M.
+
+98
+00:09:27,000 --> 00:09:32,000
+So as you can see, increasing the
+difficulty doesn't necessarily guarantee
+
+99
+00:09:32,000 --> 00:09:37,000
+you more ERG. Instead, it changes the
+consistency of your payments, and it
+
+100
+00:09:37,000 --> 00:09:42,000
+changes the local instability in the
+amount of ERG you get for a small period
+
+101
+00:09:42,000 --> 00:09:47,000
+of time. But as you can see, over a long
+period of time, it all balances out in the
+
+102
+00:09:47,000 --> 00:09:52,000
+end.
+
+103
+00:09:54,000 --> 00:09:59,000
+So what this means is that Lithos doesn't
+let you cheat to get more ERG than you're
+
+104
+00:09:59,000 --> 00:10:04,000
+deserved, right? If you have 500 mega
+hashes and you're mining at a 700M
+
+105
+00:10:04,000 --> 00:10:09,000
+difficulty, you're not going to get more
+ERG per time. In the end, it all balances
+
+106
+00:10:09,000 --> 00:10:14,000
+out that you're still gonna be getting the
+amount of ERG that's proportional to your
+
+107
+00:10:14,000 --> 00:10:19,000
+share of the pool's hash rate.
+
+108
+00:10:21,000 --> 00:10:28,000
+And the table also shows that decreasing
+difficulty reduces your earnings, so it's
+
+109
+00:10:28,000 --> 00:10:35,000
+not necessarily useful for a level like
+300M, but there may be times where your
+
+110
+00:10:35,000 --> 00:10:42,000
+default difficulty level that you have is
+maybe a little bit too high and you feel
+
+111
+00:10:42,000 --> 00:10:49,000
+that your payments are a bit too unstable.
+In that case, you may want to decrease
+
+112
+00:10:49,000 --> 00:10:56,000
+your difficulty because then you'll be
+getting more payments and you'll just have
+
+113
+00:10:56,000 --> 00:11:03,000
+a better idea and a better stability in
+terms of how often you get paid.
+
+114
+00:11:04,000 --> 00:11:08,000
+Now, this sounds too complicated. I
+wouldn't worry. Using the default value is
+
+115
+00:11:08,000 --> 00:11:12,000
+probably good for most people. But if you
+want to try and maximize what you can get
+
+116
+00:11:12,000 --> 00:11:16,000
+out of Lithos, I would definitely look
+into playing around with the difficulty.
+
+117
+00:11:16,000 --> 00:11:20,000
+And if you're on the testnet especially, I
+would really appreciate if you could try
+
+118
+00:11:20,000 --> 00:11:24,000
+to mess around with the difficulty as much
+as possible, see how you could break
+
+119
+00:11:24,000 --> 00:11:28,000
+things in a way.
+
+120
+00:11:33,000 --> 00:11:38,000
+This is a new protocol so there's always
+going to be unexpected emergent properties
+
+121
+00:11:38,000 --> 00:11:43,000
+that could come out so I think it's good
+if you're on the Lithos testnet it'll be
+
+122
+00:11:43,000 --> 00:11:48,000
+good for you to play around with different
+difficulty values, see whether or not you
+
+123
+00:11:48,000 --> 00:11:53,000
+can maybe get lucky if you increase the
+difficulty, maybe you hit a lot of
+
+124
+00:11:53,000 --> 00:11:58,000
+earnings. Or if you feel that things are
+unstable, you could try decreasing your
+
+125
+00:11:58,000 --> 00:12:03,000
+difficulty and see if that helps with
+that.
+
+126
+00:12:07,000 --> 00:12:13,000
+Just in general, I think it's good to
+mess around with the difficulty. You'll
+
+127
+00:12:13,000 --> 00:12:19,000
+probably be able to get more out of your
+mining that way as well. And specifically
+
+128
+00:12:19,000 --> 00:12:25,000
+for Autolykos 2, if you can try to factor
+in the table generation time into your
+
+129
+00:12:25,000 --> 00:12:31,000
+mining and your hash rate, you can figure
+out probably a better difficulty for your
+
+130
+00:12:31,000 --> 00:12:37,000
+specific hardware because table generation
+time can vary depending on your hardware.
+
+131
+00:12:37,000 --> 00:12:43,000
+So if you can factor that in, you can get
+a better difficulty value that works
+
+132
+00:12:43,000 --> 00:12:49,000
+better for your machine and that'll
+maximize your profits in the end.
+
+133
+00:12:55,000 --> 00:13:01,000
+So lastly, let's just talk about the
+mining features that'll be available in
+
+134
+00:13:01,000 --> 00:13:07,000
+the Lithos testnet. So as we've stated
+here, we'll have difficulty adjustment and
+
+135
+00:13:07,000 --> 00:13:13,000
+I'm working on this right now, but we'll
+have demurrage in the Lithos testnet
+
+136
+00:13:13,000 --> 00:13:19,000
+client as well. For demurrage, it'll
+automatically be collected by the Lithos
+
+137
+00:13:19,000 --> 00:13:25,000
+client, so there shouldn't be anything
+that you need to do specifically. Just
+
+138
+00:13:25,000 --> 00:13:31,000
+watch out for it and make sure that things
+are working smoothly.
+
+139
+00:13:32,000 --> 00:13:38,000
+For MEV and transaction selection, those
+aren't our biggest priorities at the
+
+140
+00:13:38,000 --> 00:13:44,000
+moment. So they won't be integrated into
+the UI and testnet, but theoretically, if
+
+141
+00:13:44,000 --> 00:13:50,000
+you wanted to, it's possible to manually
+implement it. It's obviously completely
+
+142
+00:13:50,000 --> 00:13:56,000
+possible by the protocol. It's just not
+supported by the UI yet.
+
+143
+00:13:56,000 --> 00:14:01,000
+Thanks for watching guys. Hopefully
+you're able to learn more about how to use
+
+144
+00:14:01,000 --> 00:14:06,000
+Lithos for the upcoming testnet and maybe
+you can play around with the difficulty
+
+145
+00:14:06,000 --> 00:14:11,000
+values there and see how mining on Lithos
+feels compared to normal pools. Anyway, so
+
+146
+00:14:11,000 --> 00:14:16,000
+thanks, thank you again for watching and
+keep updated with Lithos. We'll have more
+
+147
+00:14:16,000 --> 00:14:21,000
+news coming out soon about the testnet.
+See you guys.
+

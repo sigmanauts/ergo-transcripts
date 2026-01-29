@@ -1,0 +1,422 @@
+1
+00:00:13,000 --> 00:00:18,000
+Hi everyone, it's Josemi and in this
+video I'm going to present Beene, a proof
+
+2
+00:00:18,000 --> 00:00:23,000
+of funding platform designed to support
+projects in raising funds and fairly
+
+3
+00:00:23,000 --> 00:00:28,000
+rewarding their contributions.
+
+4
+00:00:29,000 --> 00:00:35,000
+So, Beene enables any project to receive
+funding from the community and
+
+5
+00:00:35,000 --> 00:00:41,000
+automatically distributes proof of funding
+tokens to contributors in real time.
+
+6
+00:00:41,000 --> 00:00:47,000
+These tokens serve as contribution
+accounting tokens, providing who
+
+7
+00:00:47,000 --> 00:00:53,000
+contributed and how much.
+
+8
+00:00:53,000 --> 00:00:59,000
+Here's how the platform works.
+
+9
+00:00:59,000 --> 00:01:07,000
+Project owners create a funding vault and
+define the funding token, for example,
+
+10
+00:01:07,000 --> 00:01:15,000
+ERG, a minimum funding goal, a deadline,
+the proof of funding token to distribute
+
+11
+00:01:15,000 --> 00:01:23,000
+and a rate of how many proof tokens are
+given per funding token.
+
+12
+00:01:23,000 --> 00:01:36,000
+Once a vault is created, project owners
+can add or remove reward tokens.
+
+13
+00:01:36,000 --> 00:01:42,000
+Contributors can deposit any amount of
+funding tokens and they immediately
+
+14
+00:01:42,000 --> 00:01:48,000
+receive proof of funding token vouchers
+that represent their proof of funding
+
+15
+00:01:48,000 --> 00:01:54,000
+tokens.
+
+16
+00:01:54,000 --> 00:02:00,000
+So if the funding goal is reached, the
+project owner can withdraw the funds and
+
+17
+00:02:00,000 --> 00:02:06,000
+contributors can exchange their funding
+token vouchers with the same amount of
+
+18
+00:02:06,000 --> 00:02:12,000
+funding tokens.
+
+19
+00:02:13,000 --> 00:02:22,000
+And if the goal isn't reached by the
+deadline, contributors can return their
+
+20
+00:02:22,000 --> 00:02:31,000
+proof of funding token vouchers and
+recover their contributions.
+
+21
+00:02:31,000 --> 00:02:36,000
+So let's visualize this on a chart where
+the horizontal axis is time and the
+
+22
+00:02:36,000 --> 00:02:41,000
+vertical axis is the amount of funding
+token raised.
+
+23
+00:02:42,000 --> 00:02:49,000
+So you can see the actions that become
+available depending on whether the goal
+
+24
+00:02:49,000 --> 00:02:56,000
+has been reached or the deadline has
+passed.
+
+25
+00:02:57,000 --> 00:03:06,000
+So let's see a real example. We used
+Beene to raise funds for Gluon Gold.
+
+26
+00:03:06,000 --> 00:03:17,000
+So the team needed 5,000 ERG to develop
+an SDK. A vault was created with a goal of
+
+27
+00:03:17,000 --> 00:03:28,000
+5,000 ERGs at a rate of one Gluon per ERG
+and a two-week deadline.
+
+28
+00:03:29,000 --> 00:03:36,000
+Once the goal was met, contributors had
+already received their Gluons and the
+
+29
+00:03:36,000 --> 00:03:43,000
+project owner could immediately access the
+funds.
+
+30
+00:03:43,000 --> 00:03:53,000
+Another example could be a group that
+wants to write between 5 and 20 articles
+
+31
+00:03:53,000 --> 00:04:03,000
+about Ergo, where each article costs 100
+ERG.
+
+32
+00:04:04,000 --> 00:04:18,000
+So they might call their token the Ergo
+Articles Token and create a vault with a
+
+33
+00:04:18,000 --> 00:04:32,000
+goal of 500 ERGs, a rate of 1 EAT per ERG,
+and a deadline of 2 weeks.
+
+34
+00:04:33,000 --> 00:04:44,000
+And after reaching 500 ERGs, the team
+starts writing articles. And if the
+
+35
+00:04:44,000 --> 00:04:55,000
+community is happy, more people contribute
+and more tokens get distributed so they
+
+36
+00:04:55,000 --> 00:05:06,000
+can even increase the vault capacity to
+support up to 100 articles, for example.
+
+37
+00:05:06,000 --> 00:05:18,000
+Now a cautionary example. A team promises
+something revolutionary and asks for 5
+
+38
+00:05:18,000 --> 00:05:30,000
+million ERGs with a flashy token reward,
+called SuperDuper Blockchain Token.
+
+39
+00:05:30,000 --> 00:05:38,000
+And after one week, they raise 3 million
+ERGs. But the project is exposed as
+
+40
+00:05:38,000 --> 00:05:46,000
+nonsense because it's only a soup of
+buzzwords.
+
+41
+00:05:47,000 --> 00:05:56,000
+So thanks to Beene's rules, because the
+minimum amount of 5 million ERGs was not
+
+42
+00:05:56,000 --> 00:06:05,000
+raised after the deadline, contributors
+can return their proof of funding tokens,
+
+43
+00:06:05,000 --> 00:06:14,000
+the SuperDuper Blockchain Token, and get
+their ERG back.
+
+44
+00:06:15,000 --> 00:06:23,000
+So Beene can be used in many ways. One
+can be donations, where proof tokens
+
+45
+00:06:23,000 --> 00:06:31,000
+represent your support to a cause.
+
+46
+00:06:32,000 --> 00:06:37,000
+Another use case can be crowdfunding,
+where proof tokens can be exchanged for
+
+47
+00:06:37,000 --> 00:06:42,000
+goods later.
+
+48
+00:06:42,000 --> 00:06:52,000
+Startup funding, selling tokens at a
+fixed price. Event tickets, where proof of
+
+49
+00:06:52,000 --> 00:07:02,000
+funding tokens act as tickets to an event
+with a minimum and maximum capacity.
+
+50
+00:07:03,000 --> 00:07:11,000
+And collaborative projects or
+benefactions - that is the original use
+
+51
+00:07:11,000 --> 00:07:19,000
+case that made us develop this platform.
+
+52
+00:07:19,000 --> 00:07:26,000
+So this idea of working together on
+different projects and where labor and
+
+53
+00:07:26,000 --> 00:07:33,000
+capital to these projects are both
+rewarded equally with contribution
+
+54
+00:07:33,000 --> 00:07:40,000
+accounting tokens.
+
+55
+00:07:42,000 --> 00:07:49,000
+Okay, so this is the landing page for the
+project. We have implementations on
+
+56
+00:07:49,000 --> 00:07:56,000
+Ethereum and on Ergo.
+
+57
+00:07:57,000 --> 00:08:08,000
+There is some basic information about it,
+links to social media. Both projects are
+
+58
+00:08:08,000 --> 00:08:19,000
+open source and available on GitHub.
+
+59
+00:08:20,000 --> 00:08:28,000
+So the Beene on Ergo implementation is a
+web app. It's only running with observers
+
+60
+00:08:28,000 --> 00:08:36,000
+only in the browser and connecting
+directly to the Ergo blockchain.
+
+61
+00:08:37,000 --> 00:08:45,000
+It makes it slower but more fault
+tolerant too.
+
+62
+00:08:45,000 --> 00:08:51,000
+There are some projects. This is the
+Gluon Gold security audit that we realized
+
+63
+00:08:51,000 --> 00:08:57,000
+a few months ago.
+
+64
+00:08:58,000 --> 00:09:12,000
+Okay, so let's create a project to show
+it. So for example, this PFT project will
+
+65
+00:09:12,000 --> 00:09:26,000
+be our PFT. Let's put this amount of PFT,
+the exchange rate of this, the minimum of,
+
+66
+00:09:26,000 --> 00:09:40,000
+for example, half and one day limit, so
+the deadline will be tomorrow at the same
+
+67
+00:09:40,000 --> 00:09:54,000
+time.
+
+68
+00:09:55,000 --> 00:10:34,000
+Test project. So for the creation it
+needs two transactions.
+
+69
+00:10:34,000 --> 00:10:45,000
+Okay, now we can sign the transaction,
+the second transaction, and this
+
+70
+00:10:45,000 --> 00:10:56,000
+transaction will create our Beene project.
+
+71
+00:10:56,000 --> 00:11:18,000
+Okay, so the transaction is confirmed.
+Now we can check it, reloading the
+
+72
+00:11:18,000 --> 00:11:40,000
+projects.
+
+73
+00:11:40,000 --> 00:11:49,000
+Demo test project. So it's only 23 hours
+for the deadline. So we are the owners of
+
+74
+00:11:49,000 --> 00:11:58,000
+this project too.
+
+75
+00:11:58,000 --> 00:12:06,000
+So we can see these actions. We could add
+PFT tokens or withdraw them. So for
+
+76
+00:12:06,000 --> 00:12:14,000
+example if we want to block more
+contributions we could extract the amount
+
+77
+00:12:14,000 --> 00:12:22,000
+that is currently on the contract. But now
+as users, as contributors, we are going to
+
+78
+00:12:22,000 --> 00:12:30,000
+contribute.
+
+79
+00:12:32,000 --> 00:12:50,000
+So there are 0.6 PFTs, so we are going to
+contribute with 1. We are going to get 0.1
+
+80
+00:12:50,000 --> 00:13:08,000
+contributions, sending this amount of
+ERGs.
+
+81
+00:13:09,000 --> 00:13:16,000
+And we will get an auxiliary token, the
+PFT voucher. This token will serve to us
+
+82
+00:13:16,000 --> 00:13:23,000
+as the voucher to get the PFT token after
+the deadline if the minimum amount is
+
+83
+00:13:23,000 --> 00:13:30,000
+raised.
+
+84
+00:13:30,000 --> 00:14:19,000
+Okay, the contribution transaction is
+confirmed. So we can reload the project.
+
+85
+00:14:19,000 --> 00:14:35,000
+Perfect, so we can see now that there is
+some contribution and it's not at minimum.
+
+86
+00:14:35,000 --> 00:14:51,000
+So for now, when the deadline is reached,
+we should be able to refund our ERGs.
+
+87
+00:14:51,000 --> 00:14:56,000
+And that's it. So follow us on social
+media, join our channels and get in touch
+
+88
+00:14:56,000 --> 00:15:01,000
+if you would like to work with us. Thanks
+for watching.
+

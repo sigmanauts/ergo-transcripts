@@ -1,0 +1,1533 @@
+1
+00:00:11,000 --> 00:00:13,000
+Okay, so here we are on the computer.
+
+2
+00:00:13,000 --> 00:00:16,000
+Now, I've got my Ergo Mempool website
+open, and this is really what it looks
+
+3
+00:00:16,000 --> 00:00:19,000
+like.
+
+4
+00:00:19,000 --> 00:00:21,000
+Now, let me talk you through some of the
+things.
+
+5
+00:00:21,000 --> 00:00:24,000
+Here at the top, I just put a temporary
+logo here at the top left.
+
+6
+00:00:24,000 --> 00:00:28,000
+I can probably do a better job at making
+it pretty, not really my strong suit.
+
+7
+00:00:28,000 --> 00:00:32,000
+I've got some buttons. I'm quite keen to
+show you guys how these buttons work.
+
+8
+00:00:32,000 --> 00:00:34,000
+There's a test transaction, so that's
+basically if you want to send a test
+
+9
+00:00:34,000 --> 00:00:36,000
+transaction, see it pop up in the mempool.
+
+10
+00:00:37,000 --> 00:00:39,000
+You can also connect your wallet. So
+again, I'll show you guys how that
+
+11
+00:00:39,000 --> 00:00:41,000
+functionality works.
+
+12
+00:00:42,000 --> 00:00:47,000
+Again, pretty cool. I'm super stoked that
+I managed to get it working.
+
+13
+00:00:47,000 --> 00:00:51,000
+So here at the bottom or just below that
+is the block section.
+
+14
+00:00:51,000 --> 00:00:53,000
+So these are the mining blocks. So on
+Ergo, more or less every two minutes,
+
+15
+00:00:53,000 --> 00:00:55,000
+there is a block.
+
+16
+00:00:56,000 --> 00:01:00,000
+So on the left-hand side here is the
+block that is yet to be mined.
+
+17
+00:01:00,000 --> 00:01:05,000
+The next to it is in purple here, all the
+four blocks that have been mined.
+
+18
+00:01:05,000 --> 00:01:09,000
+So you can see the block numbers
+associated to them.
+
+19
+00:01:09,000 --> 00:01:12,000
+Underneath it, it's showing you the
+actual size of the block.
+
+20
+00:01:12,000 --> 00:01:15,000
+So what you would see here is a typical,
+I think the max size of an Ergo block is
+
+21
+00:01:15,000 --> 00:01:18,000
+two megabytes.
+
+22
+00:01:18,000 --> 00:01:23,000
+So you can see that you just saw the
+animation as a block got mined.
+
+23
+00:01:23,000 --> 00:01:27,000
+So anyway, so if I come back, the size, I
+think an Ergo block can hold two
+
+24
+00:01:27,000 --> 00:01:31,000
+megabytes.
+
+25
+00:01:31,000 --> 00:01:36,000
+So you can sort of get a feel for how it
+is utilized or how full the blocks are.
+
+26
+00:01:36,000 --> 00:01:39,000
+Some of the stuff that I would love to
+add in the future is sort of a visual
+
+27
+00:01:39,000 --> 00:01:42,000
+indication around how percentage full a
+block is based on some animation.
+
+28
+00:01:43,000 --> 00:01:45,000
+So that's some stuff that I would like to
+do.
+
+29
+00:01:45,000 --> 00:01:48,000
+Underneath that is the total reward.
+
+30
+00:01:48,000 --> 00:01:52,000
+Now, what I'm showing there at the moment
+is a combination of let's call it the
+
+31
+00:01:52,000 --> 00:01:56,000
+subsidy or the block rewards which at
+least at this specific point in time is
+
+32
+00:01:56,000 --> 00:02:00,000
+about 15 ERG and then at the bottom is all
+of the transaction fees so it's not an
+
+33
+00:02:00,000 --> 00:02:04,000
+awful lot transaction fees for the miners
+at the moment, but that's sort of what it
+
+34
+00:02:04,000 --> 00:02:08,000
+is underneath that I'm showing the amount
+of transactions within the block and then
+
+35
+00:02:08,000 --> 00:02:12,000
+sort of the time since that block and then
+the mining pool and associated or that
+
+36
+00:02:12,000 --> 00:02:16,000
+found that block.
+
+37
+00:02:19,000 --> 00:02:22,000
+So I've got sort of addresses around what
+the mining pools are and then I've got the
+
+38
+00:02:22,000 --> 00:02:25,000
+little logo next to it.
+
+39
+00:02:26,000 --> 00:02:29,000
+Again on these blocks you can actually go
+click on them and it should show you the
+
+40
+00:02:29,000 --> 00:02:32,000
+transactions that make up that specific
+block.
+
+41
+00:02:33,000 --> 00:02:38,000
+The total fees as you probably saw from
+my screen. I'm a big fan of the Sigma
+
+42
+00:02:38,000 --> 00:02:43,000
+Spaces website so I've got most of my
+links pointing to this at the moment until
+
+43
+00:02:43,000 --> 00:02:48,000
+I further build out my own type of view of
+this information.
+
+44
+00:02:50,000 --> 00:02:54,000
+So that's sort of what this top section
+shows.
+
+45
+00:02:54,000 --> 00:02:57,000
+Again, some of the cool stuff here is a
+little animation. As soon as a block is
+
+46
+00:02:57,000 --> 00:03:00,000
+mined, you can see it sort of shifting
+across.
+
+47
+00:03:01,000 --> 00:03:05,000
+Now, underneath that is the mempool
+visualizer.
+
+48
+00:03:05,000 --> 00:03:09,000
+So this is again, at the moment, it's
+showing you the mempool on Ergo.
+
+49
+00:03:09,000 --> 00:03:15,000
+So for those that don't know, these are
+transactions that people have submitted
+
+50
+00:03:15,000 --> 00:03:21,000
+that is yet to be put into the blockchain
+or on the ledger.
+
+51
+00:03:22,000 --> 00:03:26,000
+So they're sort of in limbo here at the
+moment until it gets picked up.
+
+52
+00:03:26,000 --> 00:03:29,000
+Hopefully with sub-blocks in the near
+future, I'm not exactly sure how this is
+
+53
+00:03:29,000 --> 00:03:32,000
+going to impact this application but I'm
+sure I'll figure it out now so some of the
+
+54
+00:03:32,000 --> 00:03:35,000
+stuff that you see in the mempool
+visualizer and again I've played around
+
+55
+00:03:35,000 --> 00:03:38,000
+with a lot of things here I actually want
+to make it a lot prettier than what it is
+
+56
+00:03:38,000 --> 00:03:41,000
+at the moment I was thinking of tetris
+game or some building happening here with
+
+57
+00:03:41,000 --> 00:03:44,000
+the blocks just to give you a little bit
+more information, but you can get a view
+
+58
+00:03:44,000 --> 00:03:47,000
+of how many transactions are waiting at
+the moment.
+
+59
+00:03:53,000 --> 00:03:56,000
+You can see that is sort of correlating
+to what is in the block.
+
+60
+00:03:56,000 --> 00:04:00,000
+I've got two types of formats here based
+on the size of the block.
+
+61
+00:04:00,000 --> 00:04:05,000
+So you can see this one is bigger, so 629
+bytes versus 630.
+
+62
+00:04:05,000 --> 00:04:07,000
+You can also do it on value.
+
+63
+00:04:07,000 --> 00:04:12,000
+So it gives you an idea of how big these
+transactions are or how small they are.
+
+64
+00:04:12,000 --> 00:04:15,000
+So this is the mempool visualizer.
+
+65
+00:04:15,000 --> 00:04:20,000
+Again, I'd love to make this a little bit
+better in the future or make it more fun.
+
+66
+00:04:20,000 --> 00:04:23,000
+There's another block that literally just
+got mined.
+
+67
+00:04:23,000 --> 00:04:26,000
+Now, what you see at the bottom here,
+again, is just these transaction IDs at
+
+68
+00:04:26,000 --> 00:04:29,000
+the bottom.
+
+69
+00:04:29,000 --> 00:04:32,000
+These are the transactions that relate to
+this.
+
+70
+00:04:32,000 --> 00:04:36,000
+Again, I can click on any one of these,
+then it should open up, again, the Sigma
+
+71
+00:04:36,000 --> 00:04:40,000
+Spaces view of that transaction.
+
+72
+00:04:41,000 --> 00:04:45,000
+That's what that does for me at the
+moment.
+
+73
+00:04:45,000 --> 00:04:48,000
+This is the main aim of the website or at
+least the minimal viable product that I
+
+74
+00:04:48,000 --> 00:04:51,000
+developed in the last couple of days to
+get it up, but it literally just shows
+
+75
+00:04:51,000 --> 00:04:54,000
+this button.
+
+76
+00:04:55,000 --> 00:04:59,000
+At the bottom here is the link to the
+GitHub.
+
+77
+00:04:59,000 --> 00:05:04,000
+This is obviously open source. Anybody
+can go ahead and see how bad this is.
+
+78
+00:05:04,000 --> 00:05:06,000
+Again, I'm not really a developer.
+
+79
+00:05:06,000 --> 00:05:10,000
+The real developers probably looking at
+this thing and saying, oh, this is the
+
+80
+00:05:10,000 --> 00:05:14,000
+worst thing ever, but I'm super proud of
+it, created it.
+
+81
+00:05:14,000 --> 00:05:18,000
+But again, it's not the end, it's really
+the start.
+
+82
+00:05:18,000 --> 00:05:21,000
+But this is the GitHub, this is open
+source, the last bit of code I committed
+
+83
+00:05:21,000 --> 00:05:24,000
+earlier today to sort out that block
+transition that you see at the top, so
+
+84
+00:05:24,000 --> 00:05:27,000
+make it a little bit smoother.
+
+85
+00:05:27,000 --> 00:05:34,000
+I also have this page I'll probably take
+away once the Ergo hack is done, which is
+
+86
+00:05:34,000 --> 00:05:41,000
+just the presentation section, which I got
+AI to go and create this for me.
+
+87
+00:05:41,000 --> 00:05:45,000
+So it just literally just shows some of
+the features and all sorts of fluff
+
+88
+00:05:45,000 --> 00:05:49,000
+associated to the website.
+
+89
+00:05:49,000 --> 00:05:52,000
+Again, I probably don't need this much
+longer.
+
+90
+00:05:52,000 --> 00:05:54,000
+And then there's a donation button.
+
+91
+00:05:54,000 --> 00:05:57,000
+So again, that talks to you some of the
+functionality of the tool, which I will
+
+92
+00:05:57,000 --> 00:06:00,000
+show you guys next.
+
+93
+00:06:00,000 --> 00:06:03,000
+Okay, so let's test some of these
+features.
+
+94
+00:06:03,000 --> 00:06:07,000
+So as I mentioned this is the mempool
+visualizer.
+
+95
+00:06:07,000 --> 00:06:09,000
+So there is a couple of websites
+available on Ergo where you can have a
+
+96
+00:06:09,000 --> 00:06:11,000
+look at the mempool.
+
+97
+00:06:11,000 --> 00:06:15,000
+And they basically just show the section
+here that I've got at the bottom.
+
+98
+00:06:15,000 --> 00:06:18,000
+So at least now you get them in a block
+format.
+
+99
+00:06:18,000 --> 00:06:22,000
+But some of the other cool stuff is what
+I wanted to show you guys.
+
+100
+00:06:22,000 --> 00:06:25,000
+So what I'm going to try and do is click
+on the test transaction here.
+
+101
+00:06:25,000 --> 00:06:28,000
+It's going to say, oh, I need to go and
+select the wallet.
+
+102
+00:06:28,000 --> 00:06:33,000
+So I've built this at least with the
+Nautilus integration.
+
+103
+00:06:33,000 --> 00:06:35,000
+I'll talk about some of the tools that I
+used.
+
+104
+00:06:35,000 --> 00:06:38,000
+But I first need to connect the wallet,
+so I'm just going to hit Connect here.
+
+105
+00:06:38,000 --> 00:06:40,000
+Unfortunately, I've already connected one
+of my Nautilus wallets, so it remembers
+
+106
+00:06:40,000 --> 00:06:42,000
+that.
+
+107
+00:06:42,000 --> 00:06:46,000
+So it's probably something that I need to
+go and look at or file under bugs that I
+
+108
+00:06:46,000 --> 00:06:50,000
+need to clear the cache as soon as you
+disconnect from it.
+
+109
+00:06:50,000 --> 00:06:53,000
+But yes, this is one of my testing
+Nautilus wallets.
+
+110
+00:06:53,000 --> 00:06:56,000
+I'm going to click on the test
+transaction now.
+
+111
+00:06:56,000 --> 00:06:59,000
+It's going to come up with a small amount
+of ERG and then a wallet.
+
+112
+00:06:59,000 --> 00:07:01,000
+So you can actually change this wallet
+address in case you wanted to send it to
+
+113
+00:07:01,000 --> 00:07:03,000
+some different wallet.
+
+114
+00:07:04,000 --> 00:07:07,000
+I'm just defaulting a wallet. I don't
+even think this one is mine, but either
+
+115
+00:07:07,000 --> 00:07:10,000
+way, we're going to send a small amount.
+
+116
+00:07:11,000 --> 00:07:14,000
+So I'm going to hit Send Transaction.
+
+117
+00:07:14,000 --> 00:07:17,000
+It's going to build a transaction at the
+top. It's going to ask me to sign.
+
+118
+00:07:17,000 --> 00:07:18,000
+So it shows you the details. So you can
+sort of see exactly how much you're
+
+119
+00:07:18,000 --> 00:07:19,000
+sending.
+
+120
+00:07:20,000 --> 00:07:23,000
+I'm going to go and put in a password.
+
+121
+00:07:23,000 --> 00:07:26,000
+And then I am going to sign it.
+
+122
+00:07:26,000 --> 00:07:31,000
+So what that does, you can see there it's
+now created a test transaction.
+
+123
+00:07:31,000 --> 00:07:35,000
+So if we give it a couple of seconds,
+hopefully soon we should see at the back
+
+124
+00:07:35,000 --> 00:07:39,000
+end I've got a couple of APIs.
+
+125
+00:07:39,000 --> 00:07:41,000
+So most of the APIs is built in Python.
+
+126
+00:07:41,000 --> 00:07:44,000
+So it's going to go and hit the main
+explorer and go and try and find all these
+
+127
+00:07:44,000 --> 00:07:47,000
+unconfirmed transactions.
+
+128
+00:07:48,000 --> 00:07:51,000
+So basically everything that's within the
+mempool.
+
+129
+00:07:51,000 --> 00:07:57,000
+At the moment, I'm just pointing it to
+the main explorer, I guess.
+
+130
+00:07:57,000 --> 00:08:02,000
+If I did point it to my own node, it
+probably would be a lot faster.
+
+131
+00:08:02,000 --> 00:08:06,000
+What I do expect here is in the next
+second or two, it should go ahead and
+
+132
+00:08:06,000 --> 00:08:10,000
+create a transaction, and I should
+actually see it in here.
+
+133
+00:08:10,000 --> 00:08:14,000
+Every couple of seconds, that API is
+going to go and have a look and see if it
+
+134
+00:08:14,000 --> 00:08:18,000
+finds any new transactions.
+
+135
+00:08:19,000 --> 00:08:23,000
+I can force the fact here. So I can go
+ahead and refresh.
+
+136
+00:08:23,000 --> 00:08:26,000
+Again, I'm going to go ahead and do that.
+
+137
+00:08:26,000 --> 00:08:30,000
+At the moment, it's not picked up my
+transaction just yet.
+
+138
+00:08:30,000 --> 00:08:34,000
+So we'll give it a second. And I guess
+I'll talk to the other function here.
+
+139
+00:08:34,000 --> 00:08:40,000
+So what I'm going to do is also donate.
+They work very similar.
+
+140
+00:08:40,000 --> 00:08:42,000
+So I'm just going to go click on this
+Donate button here just to show you that
+
+141
+00:08:42,000 --> 00:08:44,000
+while we wait for that transaction to pop
+up in here.
+
+142
+00:08:45,000 --> 00:08:48,000
+See if I hit Donate. Again, same type of
+thing.
+
+143
+00:08:48,000 --> 00:08:53,000
+This is actually definitely one of my
+addresses that I know for sure.
+
+144
+00:08:53,000 --> 00:08:57,000
+So I'm just going to go and put in. I'll
+just hit Cancel for a second.
+
+145
+00:08:57,000 --> 00:09:00,000
+So as you can see, at least that test
+transaction is now popping up in the
+
+146
+00:09:00,000 --> 00:09:03,000
+mempool.
+
+147
+00:09:03,000 --> 00:09:06,000
+So what you can see here is it is
+highlighted here as a gold color within
+
+148
+00:09:06,000 --> 00:09:09,000
+the blocks here.
+
+149
+00:09:09,000 --> 00:09:13,000
+If I hover my mouse, you would see there
+is my test transaction.
+
+150
+00:09:13,000 --> 00:09:16,000
+You can see it's also labeled it as a
+test transaction.
+
+151
+00:09:16,000 --> 00:09:20,000
+So it's pretty cool. So it highlights. It
+does two things in this visualizer.
+
+152
+00:09:20,000 --> 00:09:22,000
+Number one, if it finds a transaction
+that you have created, it's going to
+
+153
+00:09:22,000 --> 00:09:24,000
+highlight it.
+
+154
+00:09:25,000 --> 00:09:27,000
+It will just be this gold color, what
+you're seeing here at the moment, or
+
+155
+00:09:27,000 --> 00:09:29,000
+that's what it is.
+
+156
+00:09:29,000 --> 00:09:31,000
+And it will highlight the transaction in
+the list.
+
+157
+00:09:31,000 --> 00:09:35,000
+If it is the test transaction that you've
+created, it puts that little, I don't even
+
+158
+00:09:35,000 --> 00:09:39,000
+know what the English word is, that little
+probe thing inside of it.
+
+159
+00:09:39,000 --> 00:09:42,000
+Now, the donation works basically the
+same.
+
+160
+00:09:42,000 --> 00:09:45,000
+I'm just going to go back and donate
+myself.
+
+161
+00:09:45,000 --> 00:09:49,000
+Also, a small amount, I'm going to hit
+Donate.
+
+162
+00:09:49,000 --> 00:09:51,000
+It's going to build the transaction. It's
+going to ask me again to sign that
+
+163
+00:09:51,000 --> 00:09:53,000
+transaction.
+
+164
+00:09:54,000 --> 00:09:58,000
+I'm going to do exactly that.
+
+165
+00:09:58,000 --> 00:10:04,000
+Then it's going to submit the transaction
+starting with 2E3733 or whatever.
+
+166
+00:10:04,000 --> 00:10:08,000
+Again, similar thing is we just need to
+be a little patient, but that should also
+
+167
+00:10:08,000 --> 00:10:12,000
+pop up within the mempool.
+
+168
+00:10:13,000 --> 00:10:15,000
+So it's pretty cool.
+
+169
+00:10:15,000 --> 00:10:18,000
+At least I am super excited, I know, for
+real developers. And I'm not a real
+
+170
+00:10:18,000 --> 00:10:21,000
+developer.
+
+171
+00:10:21,000 --> 00:10:24,000
+By nature, I don't develop in my day job.
+
+172
+00:10:24,000 --> 00:10:28,000
+I did study a little bit of development
+in the past.
+
+173
+00:10:28,000 --> 00:10:32,000
+So you can see our previous transaction
+got confirmed. Our transaction is gone.
+
+174
+00:10:32,000 --> 00:10:35,000
+It is now within this block.
+
+175
+00:10:35,000 --> 00:10:40,000
+But what you can see is the donation
+transaction has popped up in here.
+
+176
+00:10:40,000 --> 00:10:43,000
+So it's pretty cool. So it's got a heart
+here.
+
+177
+00:10:43,000 --> 00:10:46,000
+So again, this is just sort of
+visualizing that type of thing.
+
+178
+00:10:46,000 --> 00:10:51,000
+So again, I think it's super cool that
+you can create the app that connects with
+
+179
+00:10:51,000 --> 00:10:56,000
+the Ergo blockchain actually create and
+submit transactions.
+
+180
+00:10:57,000 --> 00:10:59,000
+So it is pretty cool.
+
+181
+00:10:59,000 --> 00:11:02,000
+And that's really what the functionality
+is looking like at the moment.
+
+182
+00:11:02,000 --> 00:11:07,000
+So again, I'm not a real developer on a
+daily basis.
+
+183
+00:11:07,000 --> 00:11:09,000
+I did study a little bit of programming.
+
+184
+00:11:09,000 --> 00:11:12,000
+I've got a Bachelor of Science degree in
+IT, which had a major in programming in
+
+185
+00:11:12,000 --> 00:11:15,000
+Java, but it's been 20 years.
+
+186
+00:11:16,000 --> 00:11:20,000
+I haven't touched a code at least for
+work related stuff so I don't code for
+
+187
+00:11:20,000 --> 00:11:24,000
+work but anyway so that's sort of what it
+looks like there's a lot of things that
+
+188
+00:11:24,000 --> 00:11:28,000
+I'm hoping that I can improve but at least
+for this week's project this is sort of at
+
+189
+00:11:28,000 --> 00:11:32,000
+least what the functionality looks like
+and again to recap basically just looks at
+
+190
+00:11:32,000 --> 00:11:36,000
+the mempool gives you some information
+around what was the latest blocks who's
+
+191
+00:11:36,000 --> 00:11:40,000
+mined how much transactions was in there
+what was the fees that's sort of the
+
+192
+00:11:40,000 --> 00:11:44,000
+visual cues again if it detects your
+wallet if you've connected your wallet
+
+193
+00:11:44,000 --> 00:11:48,000
+that is it's going to highlight at least
+some of the transactions here associated
+
+194
+00:11:48,000 --> 00:11:52,000
+to your wallet okay so next up let's talk
+about tooling so how did I come up with
+
+195
+00:11:52,000 --> 00:11:56,000
+this so no surprise I have used I mean I
+just use VS Code.
+
+196
+00:12:05,000 --> 00:12:10,000
+So it's within here, I publish it from
+GitHub or to GitHub from here.
+
+197
+00:12:10,000 --> 00:12:14,000
+In terms of AI, what AI have I used to
+help me create this?
+
+198
+00:12:14,000 --> 00:12:16,000
+I definitely use some AI, as I mentioned
+before.
+
+199
+00:12:16,000 --> 00:12:19,000
+I'm not really a developer in day to day,
+so I'm definitely rusty, but I get the
+
+200
+00:12:19,000 --> 00:12:22,000
+general idea.
+
+201
+00:12:22,000 --> 00:12:27,000
+Most of the AI, let's call it 90% of the
+AI, I've used via continue.
+
+202
+00:12:27,000 --> 00:12:35,000
+So I've got Ollama installed on my
+computer and I host all my own models.
+
+203
+00:12:35,000 --> 00:12:39,000
+So as you can see here, if I go to the
+model section, the main models that I've
+
+204
+00:12:39,000 --> 00:12:43,000
+used is Qwen 2.5 Coder, the 14b model.
+
+205
+00:12:43,000 --> 00:12:47,000
+One of the other ones, I guess it's not
+in here, and then let me just drop down so
+
+206
+00:12:47,000 --> 00:12:51,000
+you can actually see it, is the DeepSeek
+one.
+
+207
+00:12:52,000 --> 00:12:56,000
+I think the DeepSeek one, at least from
+an open model perspective, is probably the
+
+208
+00:12:56,000 --> 00:13:00,000
+best one, or at least in my opinion, is
+definitely better than Qwen 2.5, but it's
+
+209
+00:13:00,000 --> 00:13:04,000
+hard for me to run that.
+
+210
+00:13:04,000 --> 00:13:08,000
+Now, how it works, it's really cool,
+super interesting.
+
+211
+00:13:08,000 --> 00:13:13,000
+So if I go back and go to last session or
+just close this model and just go back to
+
+212
+00:13:13,000 --> 00:13:18,000
+chat and then ask it a question.
+
+213
+00:13:19,000 --> 00:13:25,000
+So if I just start a new question and say
+something like, I don't know, how do you
+
+214
+00:13:25,000 --> 00:13:31,000
+start a Flask app as an example.
+
+215
+00:13:32,000 --> 00:13:35,000
+So it's going to use that now.
+
+216
+00:13:35,000 --> 00:13:39,000
+And if I open up my task manager, you
+will see it hit my computer pretty hard.
+
+217
+00:13:39,000 --> 00:13:42,000
+First up, you can see it hits my GPU
+memory.
+
+218
+00:13:42,000 --> 00:13:43,000
+So I've got a 7900 XTX.
+
+219
+00:13:43,000 --> 00:13:45,000
+So it's going to load that up.
+
+220
+00:13:45,000 --> 00:13:48,000
+All 24 gigs of VRAM is going to load up
+most of that and you can see also my
+
+221
+00:13:48,000 --> 00:13:51,000
+system RAM gets used.
+
+222
+00:13:52,000 --> 00:13:56,000
+So running these models locally, it's
+pretty cool like that.
+
+223
+00:13:56,000 --> 00:13:59,000
+It gives you an answer. It's pretty quick
+as well responding.
+
+224
+00:13:59,000 --> 00:14:01,000
+So I'm a big fan of this.
+
+225
+00:14:01,000 --> 00:14:04,000
+So 90% of what I've developed, I
+basically used Qwen 2.5 for majority of
+
+226
+00:14:04,000 --> 00:14:07,000
+the stuff.
+
+227
+00:14:07,000 --> 00:14:12,000
+DeepSeek again, I can run, but it maxes
+out my PC.
+
+228
+00:14:12,000 --> 00:14:15,000
+So I can't ask it more than four
+questions on the same topic without having
+
+229
+00:14:15,000 --> 00:14:18,000
+to restart.
+
+230
+00:14:18,000 --> 00:14:22,000
+So this computer was obviously not built
+for AI related stuff It's more of a gaming
+
+231
+00:14:22,000 --> 00:14:26,000
+PC and it's getting old a little bit at
+least on the CPU side on the RAM side But
+
+232
+00:14:26,000 --> 00:14:30,000
+this is what I've used for the majority of
+my AI stuff I also used at least the guys
+
+233
+00:14:30,000 --> 00:14:34,000
+in the Sigmanauts mining pool.
+
+234
+00:14:35,000 --> 00:14:39,000
+They were raving about how good Claude is
+and I don't really want to pay for
+
+235
+00:14:39,000 --> 00:14:43,000
+something if I've got a computer and I can
+actually use some of these AI features.
+
+236
+00:14:44,000 --> 00:14:49,000
+But I did use the free version of Claude
+a little bit, but probably 90 percent I
+
+237
+00:14:49,000 --> 00:14:54,000
+used these self-hosted models via Ollama.
+
+238
+00:14:54,000 --> 00:15:01,000
+Some other tools that I used on the Ergo
+side, I used this dApp connector.
+
+239
+00:15:01,000 --> 00:15:03,000
+So this is awesome.
+
+240
+00:15:03,000 --> 00:15:07,000
+This Nautilus share that is also within
+the Ergo documentation.
+
+241
+00:15:07,000 --> 00:15:08,000
+So this is fantastic.
+
+242
+00:15:08,000 --> 00:15:11,000
+Obviously, I use the Ergo documentation
+for the APIs.
+
+243
+00:15:11,000 --> 00:15:13,000
+So that's why I've got majority APIs.
+
+244
+00:15:13,000 --> 00:15:16,000
+But in terms of getting the wallet
+connected in the app, this is what I've
+
+245
+00:15:16,000 --> 00:15:19,000
+used.
+
+246
+00:15:19,000 --> 00:15:24,000
+I spent a lot of time trying to figure
+out how to make that work in Python.
+
+247
+00:15:24,000 --> 00:15:28,000
+That's probably where I wasted a lot of
+time, but this works.
+
+248
+00:15:28,000 --> 00:15:32,000
+I did try and use the FleetSDK a little
+bit.
+
+249
+00:15:32,000 --> 00:15:38,000
+There's a lot of things in here, probably
+a lot of things that I don't need to use.
+
+250
+00:15:38,000 --> 00:15:41,000
+I mainly use the dApp connector.
+
+251
+00:15:41,000 --> 00:15:45,000
+And the other thing that I did use, which
+I think is fantastic, some of the again,
+
+252
+00:15:45,000 --> 00:15:49,000
+another miner, he's creating also a
+different application around ciphers and
+
+253
+00:15:49,000 --> 00:15:53,000
+securing your passwords and seed phrases
+and stuff like that.
+
+254
+00:15:54,000 --> 00:15:57,000
+So he has a guide.
+
+255
+00:15:57,000 --> 00:16:01,000
+So he helped me get the transaction to
+actually build a transaction.
+
+256
+00:16:01,000 --> 00:16:03,000
+So I got stuck.
+
+257
+00:16:03,000 --> 00:16:06,000
+I should probably know the UTXO stuff a
+little better, but in this example here,
+
+258
+00:16:06,000 --> 00:16:09,000
+it's got code of exactly how do you go
+about building a transaction so that it
+
+259
+00:16:09,000 --> 00:16:12,000
+actually gets picked up.
+
+260
+00:16:14,000 --> 00:16:16,000
+So this saved me a ton of work.
+
+261
+00:16:16,000 --> 00:16:19,000
+I don't know how long I spent, probably a
+couple of hours trying to get this
+
+262
+00:16:19,000 --> 00:16:22,000
+transaction to build or getting it to
+build blindly.
+
+263
+00:16:22,000 --> 00:16:24,000
+I don't know what I needed to do
+necessarily.
+
+264
+00:16:24,000 --> 00:16:27,000
+So this helped me a ton because it shows
+you practically around which boxes you
+
+265
+00:16:27,000 --> 00:16:30,000
+should be using and which not.
+
+266
+00:16:31,000 --> 00:16:32,000
+So this was super cool.
+
+267
+00:16:32,000 --> 00:16:35,000
+So that's again in terms of the some of
+the tools on the Ergo site that I use in
+
+268
+00:16:35,000 --> 00:16:38,000
+order to make this work.
+
+269
+00:16:38,000 --> 00:16:41,000
+So again, big thanks to all the guys that
+create some of these things.
+
+270
+00:16:41,000 --> 00:16:44,000
+It's easy then for a novice like me just
+to go and pick up this dApp connector,
+
+271
+00:16:44,000 --> 00:16:47,000
+let's say, and just hook it up to the
+site.
+
+272
+00:16:48,000 --> 00:16:50,000
+So it's awesome like that.
+
+273
+00:16:50,000 --> 00:16:53,000
+In terms of, again, the application, I
+mean, it's mainly Python, not for any real
+
+274
+00:16:53,000 --> 00:16:56,000
+reason.
+
+275
+00:16:56,000 --> 00:17:00,000
+As I mentioned, I'm not a programmer by
+day, so I'm sure there's better for these
+
+276
+00:17:00,000 --> 00:17:04,000
+type of website apps, there's way better
+stuff to use.
+
+277
+00:17:04,000 --> 00:17:08,000
+Again, I'm not in the know of what is the
+best thing out there and what I should be
+
+278
+00:17:08,000 --> 00:17:12,000
+using and what's the most efficient and
+all of those type of stuff.
+
+279
+00:17:12,000 --> 00:17:13,000
+This is just easy for me to understand.
+
+280
+00:17:13,000 --> 00:17:15,000
+I can follow it.
+
+281
+00:17:15,000 --> 00:17:18,000
+I can do it a little bit by myself
+without having to ask AI to create some
+
+282
+00:17:18,000 --> 00:17:21,000
+dumb stuff for me.
+
+283
+00:17:21,000 --> 00:17:23,000
+I can do a lot of this myself.
+
+284
+00:17:23,000 --> 00:17:24,000
+That's really what it is.
+
+285
+00:17:24,000 --> 00:17:27,000
+But again, probably longer term, I need
+to go and try and use at least what the
+
+286
+00:17:27,000 --> 00:17:30,000
+cool kids are using.
+
+287
+00:17:30,000 --> 00:17:34,000
+In terms of hosting, I'm hosting this on
+the Flux network.
+
+288
+00:17:34,000 --> 00:17:35,000
+It's pretty cool.
+
+289
+00:17:35,000 --> 00:17:37,000
+If I just jump to the dashboard here, I
+host some of the other apps that I've
+
+290
+00:17:37,000 --> 00:17:39,000
+created also on here.
+
+291
+00:17:39,000 --> 00:17:42,000
+I've got the ErgoMempool on here as well.
+
+292
+00:17:42,000 --> 00:17:48,000
+If I just show you guys what that looks
+like, I've got it deployed at the moment.
+
+293
+00:17:48,000 --> 00:17:51,000
+With Flux, I mean, you can get a lot of
+instances.
+
+294
+00:17:51,000 --> 00:17:54,000
+I think you can get like 100, but at
+least for now, the lowest option that you
+
+295
+00:17:54,000 --> 00:17:57,000
+can have is three instances.
+
+296
+00:17:57,000 --> 00:18:00,000
+Again, it's pretty cool from a
+decentralization point of view.
+
+297
+00:18:00,000 --> 00:18:05,000
+You can also go ahead and manage it here,
+so it's sort of what your details are, how
+
+298
+00:18:05,000 --> 00:18:10,000
+long are you going to be running it, what
+your hardware requirements are.
+
+299
+00:18:10,000 --> 00:18:12,000
+I didn't give it restrictions, you can
+give it geolocking and all sorts of funky
+
+300
+00:18:12,000 --> 00:18:14,000
+stuff like that.
+
+301
+00:18:14,000 --> 00:18:17,000
+Again, this is not really a flux video,
+but that's where I've got it hosted at the
+
+302
+00:18:17,000 --> 00:18:20,000
+moment.
+
+303
+00:18:21,000 --> 00:18:23,000
+In terms of running instances, as I
+mentioned, there's there's four at the
+
+304
+00:18:23,000 --> 00:18:25,000
+moment.
+
+305
+00:18:25,000 --> 00:18:29,000
+There's three in the US and one in Spain
+at the moment.
+
+306
+00:18:29,000 --> 00:18:31,000
+So again, I'm hosting it via Flux.
+
+307
+00:18:31,000 --> 00:18:34,000
+I've got some Flux. It's pretty cheap.
+
+308
+00:18:34,000 --> 00:18:37,000
+So that's what I'm using in terms of
+hosting.
+
+309
+00:18:37,000 --> 00:18:40,000
+So that's really what my application
+looks like.
+
+310
+00:18:40,000 --> 00:18:43,000
+So as I mentioned, I'm not really a
+developer.
+
+311
+00:18:43,000 --> 00:18:46,000
+So if any of the developers are watching
+this, again, thanks for open-sourcing a
+
+312
+00:18:46,000 --> 00:18:49,000
+lot of your stuff so that people like me
+can pick it up.
+
+313
+00:18:50,000 --> 00:18:54,000
+Again, if you're a developer and you
+think I'm doing a bad job, please give me
+
+314
+00:18:54,000 --> 00:18:58,000
+some pointers, make comments, or give me a
+couple of tips.
+
+315
+00:18:58,000 --> 00:19:02,000
+If you want to help me with some of this
+stuff, please reach out and help.
+
+316
+00:19:02,000 --> 00:19:06,000
+I'm definitely not going to say no for
+any help.
+
+317
+00:19:06,000 --> 00:19:11,000
+But at least for now, I'm going to try
+and build it out a little bit more and
+
+318
+00:19:11,000 --> 00:19:16,000
+explore at least some other platforms that
+is maybe not Flask / Python related.
+
+319
+00:19:16,000 --> 00:19:18,000
+But that's really what my app looks like.
+
+320
+00:19:18,000 --> 00:19:22,000
+It was super fun for the last couple of
+days to work with some of the Ergo tooling
+
+321
+00:19:22,000 --> 00:19:26,000
+and create something that, at least for
+me, I think is super cool.
+
+322
+00:19:27,000 --> 00:19:32,000
+It visualizes the Ergo mempool and I can
+also send an interact and send
+
+323
+00:19:32,000 --> 00:19:37,000
+transactions on the Ergo blockchain, which
+again, I think is super cool.
+
+324
+00:19:37,000 --> 00:19:40,000
+But that's really what the Ergo Mempool
+project or entry within the Ergo hack
+
+325
+00:19:40,000 --> 00:19:43,000
+does.
+

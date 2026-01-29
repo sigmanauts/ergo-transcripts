@@ -1,0 +1,3044 @@
+1
+00:00:18,000 --> 00:00:22,000
+Good morning, Ergo community.
+
+2
+00:00:22,000 --> 00:00:25,000
+Excuse me, got a frog in my throat over
+there.
+
+3
+00:00:25,000 --> 00:00:30,000
+Welcome to the 10th, 11th consecutive
+community AMA, hosted by anybody who wants
+
+4
+00:00:30,000 --> 00:00:35,000
+to join and talk.
+
+5
+00:00:35,000 --> 00:00:40,000
+Today we have kushti, Richi, and Grayman.
+
+6
+00:00:40,000 --> 00:00:44,000
+It's good to see you guys. How you doing?
+
+7
+00:00:44,000 --> 00:00:46,000
+Doing well, doing well. How about you?
+
+8
+00:00:46,000 --> 00:00:51,000
+Hanging in there, a little sleepy, but
+otherwise hanging in there.
+
+9
+00:00:51,000 --> 00:00:56,000
+Grayman was about to say hi too, Grayman.
+
+10
+00:00:56,000 --> 00:00:58,000
+I'm alive.
+
+11
+00:00:58,000 --> 00:01:03,000
+We here in the U.S. are suffering from
+some crazy made-up time scheme called
+
+12
+00:01:03,000 --> 00:01:08,000
+daylight savings time. So it's 8 o'clock
+for us in the morning as opposed to 9
+
+13
+00:01:08,000 --> 00:01:13,000
+o'clock, which doesn't seem like it makes
+a difference, but it makes a big
+
+14
+00:01:13,000 --> 00:01:18,000
+difference on the first couple of days
+when you're all thrown about.
+
+15
+00:01:18,000 --> 00:01:25,000
+It's better than losing an hour honestly.
+But it is what it is. We fall back and we
+
+16
+00:01:25,000 --> 00:01:32,000
+spring ahead, is the term. Lose an hour in
+the spring, gain an hour in the fall.
+
+17
+00:01:32,000 --> 00:01:36,000
+What new things are happening in the
+ecosystem, guys?
+
+18
+00:01:36,000 --> 00:01:44,000
+So a lot of, starting from
+infrastructure, there's going to be more
+
+19
+00:01:44,000 --> 00:01:52,000
+and more talks about AI, right, in
+different aspects. Quite natural because,
+
+20
+00:01:52,000 --> 00:02:00,000
+well, Ergo is GPU minable, right, so,
+well, a lot of intersections with AI
+
+21
+00:02:00,000 --> 00:02:08,000
+inference.
+
+22
+00:02:11,000 --> 00:02:20,000
+Here, then, I also believe that currently
+payments in AI are mostly corporate owned,
+
+23
+00:02:20,000 --> 00:02:29,000
+right? And it's not quite acceptable. And
+actually, I believe we have a lot of
+
+24
+00:02:29,000 --> 00:02:38,000
+solutions here because, well, after all,
+the Ergo community is working on
+
+25
+00:02:38,000 --> 00:02:47,000
+programmable money for many years and a
+lot of useful solutions for the AI space.
+
+26
+00:02:49,000 --> 00:02:58,000
+And, well, having a lot of talks with
+different developers around the community.
+
+27
+00:02:58,000 --> 00:03:07,000
+Unfortunately, most are not so public, so
+I believe, well, if we are going to act as
+
+28
+00:03:07,000 --> 00:03:16,000
+an open source money movement, then there
+is need to communicate publicly, right?
+
+29
+00:03:16,000 --> 00:03:25,000
+Express ideas, get feedback and store all
+those things in logs because some things
+
+30
+00:03:25,000 --> 00:03:34,000
+are actually revived a few years after,
+right, and getting implemented.
+
+31
+00:03:36,000 --> 00:03:41,000
+So, well, everything is quite useful
+here. Well, most of information, I
+
+32
+00:03:41,000 --> 00:03:46,000
+believe.
+
+33
+00:03:47,000 --> 00:03:51,000
+We even have an AI game coming up this
+weekend. Tim Erg's AI game Sigma Quest
+
+34
+00:03:51,000 --> 00:03:55,000
+starts this weekend, Sunday morning.
+
+35
+00:03:56,000 --> 00:04:01,000
+Oh, what is that? Can you elaborate on
+what that is, Grayman?
+
+36
+00:04:01,000 --> 00:04:06,000
+I don't know fully. I wish he were here
+to explain it because he'd do a better
+
+37
+00:04:06,000 --> 00:04:11,000
+job. But in essence, it's sort of a
+scavenger hunt type deal where you solve
+
+38
+00:04:11,000 --> 00:04:16,000
+three problems, probably with the help of
+AI.
+
+39
+00:04:17,000 --> 00:04:22,000
+And if you manage to solve them for each
+one, you get a few of the keywords from an
+
+40
+00:04:22,000 --> 00:04:27,000
+ergo wallet that currently contains 200
+ERG, but everybody who participates has to
+
+41
+00:04:27,000 --> 00:04:32,000
+kick in 20 ERG, 15 of which goes into the
+pot.
+
+42
+00:04:33,000 --> 00:04:39,000
+So if you got 10 people playing, you
+could stand to win 350 ERG, which is not a
+
+43
+00:04:39,000 --> 00:04:45,000
+small amount of money, so worth it if
+you're in the mood to have some fun.
+
+44
+00:04:46,000 --> 00:04:52,000
+Essentially, it's not like Game of
+Prompts, but it's similar. I think you
+
+45
+00:04:52,000 --> 00:04:58,000
+have to solve these problems in order to
+win. There was something sort of game
+
+46
+00:04:58,000 --> 00:05:04,000
+theory-ish about how it worked, because if
+you got one of them and not the others,
+
+47
+00:05:04,000 --> 00:05:10,000
+then you had an advantage. And you could
+share with other players. You could share
+
+48
+00:05:10,000 --> 00:05:16,000
+your seed phrase in order to leapfrog to
+the win.
+
+49
+00:05:16,000 --> 00:05:17,000
+But I have to read the rules again before
+it starts. It's on Sunday, if anybody's
+
+50
+00:05:17,000 --> 00:05:18,000
+interested.
+
+51
+00:05:18,000 --> 00:05:22,000
+I'm looking at it right now. There's a
+couple of different ones. There's yes-no,
+
+52
+00:05:22,000 --> 00:05:26,000
+oracle version, narrative escape version,
+sigma-not-guardian version. I see yes-no
+
+53
+00:05:26,000 --> 00:05:30,000
+version is dealing with an AI that is
+damaged and can only respond yes or no to
+
+54
+00:05:30,000 --> 00:05:34,000
+your questions. That's pretty neat.
+
+55
+00:05:36,000 --> 00:05:41,000
+90% goes to the community pot prize, 10%
+goes to the project treasury. Each
+
+56
+00:05:41,000 --> 00:05:46,000
+completed guardian rewards players with
+five seed phrases. Oh, so there's three
+
+57
+00:05:46,000 --> 00:05:51,000
+guardians. So yes, no, oracle, the
+narrative escape, and the sigma knot
+
+58
+00:05:51,000 --> 00:05:56,000
+guardian.
+
+59
+00:05:59,000 --> 00:06:05,000
+This is pretty cool. Did he start this in
+the last Ergo hack? Was that what this is?
+
+60
+00:06:05,000 --> 00:06:10,000
+Yes. And unfortunately, he was right
+about to release it. And it turns out that
+
+61
+00:06:10,000 --> 00:06:15,000
+he discovered that there were some ways to
+kind of cheat it. And so he called it off
+
+62
+00:06:15,000 --> 00:06:20,000
+and said, let me get my hack together.
+
+63
+00:06:20,000 --> 00:06:27,000
+And so he regrouped. I think Tim, like
+everybody else in the Ergo ecosystem, has
+
+64
+00:06:27,000 --> 00:06:34,000
+his own job and his own life, which is,
+we're a collection of interesting people,
+
+65
+00:06:34,000 --> 00:06:41,000
+not VC funded with a team of five coders
+and then a bunch of Red Bulls and pizzas
+
+66
+00:06:41,000 --> 00:06:48,000
+and trying to knock out solutions for the
+VC if they crack a whip.
+
+67
+00:06:48,000 --> 00:06:52,000
+That's not our go. So he's got his own
+life. It took him a couple of months to
+
+68
+00:06:52,000 --> 00:06:56,000
+get it back up and running, but here we
+are.
+
+69
+00:06:57,000 --> 00:07:00,000
+He's using Lovable, I think, AI to help
+him write it. I just put the link to the
+
+70
+00:07:00,000 --> 00:07:03,000
+Ergo website where they have an article on
+this game in chat if people want to see
+
+71
+00:07:03,000 --> 00:07:06,000
+that. But it looks pretty fun.
+
+72
+00:07:08,000 --> 00:07:13,000
+I remember the fun puzzle games that
+Maverick used to do. Those are really
+
+73
+00:07:13,000 --> 00:07:18,000
+incredible and fun and well thought out.
+I've seen Maverick pop up in chat
+
+74
+00:07:18,000 --> 00:07:23,000
+recently.
+
+75
+00:07:24,000 --> 00:07:30,000
+Yeah, I did. Yeah, that guy's cool. He's
+also somebody who's, his real life sort of
+
+76
+00:07:30,000 --> 00:07:36,000
+interrupted for a while. But he poked his
+head up again in chat recently, said he's
+
+77
+00:07:36,000 --> 00:07:42,000
+doing great.
+
+78
+00:07:44,000 --> 00:07:49,000
+Oh, we got somebody in the waiting room.
+Let's see if this person's a spammer.
+
+79
+00:07:49,000 --> 00:07:54,000
+We'll give it a try. Yeah, what else
+happened this week?
+
+80
+00:07:54,000 --> 00:08:01,000
+We had a good kind of choke this week
+about, for those of you who don't know,
+
+81
+00:08:01,000 --> 00:08:08,000
+some of our infrastructure is on Hetzner,
+and historically it's been paid for by the
+
+82
+00:08:08,000 --> 00:08:15,000
+EF, and there was a billing issue midweek
+or end of last week. They went down, which
+
+83
+00:08:15,000 --> 00:08:22,000
+shouldn't be a problem because we
+literally have like eight other backup
+
+84
+00:08:22,000 --> 00:08:29,000
+explorers kicking around.
+
+85
+00:08:29,000 --> 00:08:33,000
+And if you saw chats, you saw that I
+posted all those APIs and GraphQLs and
+
+86
+00:08:33,000 --> 00:08:37,000
+Explorer endpoints in chat in hopes that
+in the future, dApps will just use a
+
+87
+00:08:37,000 --> 00:08:41,000
+rollover technique if they can't reach one
+explorer to go to the other.
+
+88
+00:08:43,000 --> 00:08:46,000
+But that was interesting to see the choke
+points, right? Because we witnessed a
+
+89
+00:08:46,000 --> 00:08:49,000
+choke point from Amazon and Microsoft a
+couple weeks ago as well. But I think we
+
+90
+00:08:49,000 --> 00:08:52,000
+can be completely resilient to that kind
+of stuff, right?
+
+91
+00:08:54,000 --> 00:08:59,000
+Eventually, so the way the infrastructure
+is going to work, hopefully, is that there
+
+92
+00:08:59,000 --> 00:09:04,000
+will still be a choke point at CloudFlare
+load balancer, right? The DNS has to point
+
+93
+00:09:04,000 --> 00:09:09,000
+to somewhere to go and then load balance
+to the 10, 11, 12, exploring instances
+
+94
+00:09:09,000 --> 00:09:14,000
+that are out there across the globe.
+
+95
+00:09:14,000 --> 00:09:19,000
+So the way around that as well is create
+unique IDs for each one of those load
+
+96
+00:09:19,000 --> 00:09:24,000
+balance endpoints. So that while we can't,
+if we're going to rely on Cloudflare for
+
+97
+00:09:24,000 --> 00:09:29,000
+the load balancer or some other single
+load point for the load balancer, at least
+
+98
+00:09:29,000 --> 00:09:34,000
+dApps can build in the individual load
+balance machines as well.
+
+99
+00:09:36,000 --> 00:09:40,000
+So if a dApp tries to hit the load
+balancer first for a user and goes
+
+100
+00:09:40,000 --> 00:09:44,000
+geographically to the right location
+nearest the person for the best speed, if
+
+101
+00:09:44,000 --> 00:09:48,000
+that doesn't work because Cloudflare is
+down, then it'll just roll over to one of
+
+102
+00:09:48,000 --> 00:09:52,000
+the load balancers directly and have
+direct access to it.
+
+103
+00:09:53,000 --> 00:09:58,000
+So that's a hope there, that we're
+completely impervious to that kind of
+
+104
+00:09:58,000 --> 00:10:03,000
+outage, those centralized outages.
+
+105
+00:10:03,000 --> 00:10:08,000
+We've got, as I said last week, those
+three machines shipped out. And I think
+
+106
+00:10:08,000 --> 00:10:13,000
+two of the people got them. Maybe all
+three did. They'll be syncing their nodes.
+
+107
+00:10:13,000 --> 00:10:18,000
+Once that happens, there is some database
+optimizations we have to do to them all at
+
+108
+00:10:18,000 --> 00:10:23,000
+once so that there are a couple of queries
+that are really database intensive and
+
+109
+00:10:23,000 --> 00:10:28,000
+fail if the database hasn't been optimized
+in a certain way.
+
+110
+00:10:29,000 --> 00:10:35,000
+So once that's done and we do those tests
+and make sure it's good, then either we
+
+111
+00:10:35,000 --> 00:10:41,000
+repoint the Ergo platform explorers
+through the peer-to-peer network, kind of
+
+112
+00:10:41,000 --> 00:10:47,000
+like we did this week for a little bit to
+test, and then we burn them down. And we
+
+113
+00:10:47,000 --> 00:10:53,000
+stop that $700 a month drain to pay for
+those things. And the community takes it
+
+114
+00:10:53,000 --> 00:10:59,000
+over which I think is absolutely amazing
+and how it should be, right?
+
+115
+00:11:03,000 --> 00:11:05,000
+Grayman, you were talking about joining
+the network as well weren't you at some
+
+116
+00:11:05,000 --> 00:11:07,000
+point?
+
+117
+00:11:08,000 --> 00:11:13,000
+I can't use one of my customers fiber
+lines for this purpose. I'd have to get my
+
+118
+00:11:13,000 --> 00:11:18,000
+own and I live out in the county. So it's
+coming my way. But apparently the company
+
+119
+00:11:18,000 --> 00:11:23,000
+that was going to roll it out here got
+bought out by T-Mobile. So God knows how
+
+120
+00:11:23,000 --> 00:11:28,000
+long it's going to take.
+
+121
+00:11:28,000 --> 00:11:31,000
+You don't want to run a node off a cell
+connection?
+
+122
+00:11:31,000 --> 00:11:37,000
+It's cable, but it's asymmetric. So the
+upload speed is just too slow to support.
+
+123
+00:11:37,000 --> 00:11:41,000
+I don't want to join and be a worthless
+limping piece.
+
+124
+00:11:41,000 --> 00:11:45,000
+At least the way Cloudflare works,
+Grayman, is we can weight you a little
+
+125
+00:11:45,000 --> 00:11:49,000
+bit. So if we have a geographic location
+and you're sharing it in the US with, it's
+
+126
+00:11:49,000 --> 00:11:53,000
+going to be five or six other people, we
+can actually give you a weighted average
+
+127
+00:11:53,000 --> 00:11:57,000
+of how many times people hit you so that
+you're not equally hit as many as other
+
+128
+00:11:57,000 --> 00:12:01,000
+people.
+
+129
+00:12:05,000 --> 00:12:10,000
+So if I'm on, the three here that I have
+are on a 10 gigabit connection
+
+130
+00:12:10,000 --> 00:12:15,000
+asymmetrical, so I can give myself more
+weight as opposed to you. I can give you
+
+131
+00:12:15,000 --> 00:12:20,000
+10% of the weight of the pool so that
+you're not hit as much. So to the user,
+
+132
+00:12:20,000 --> 00:12:25,000
+it's going to feel the same, right?
+Because not being crowded or jumped up.
+
+133
+00:12:27,000 --> 00:12:30,000
+So think about it, Grayman, if you want
+to do it.
+
+134
+00:12:30,000 --> 00:12:33,000
+I am an old school IT guy. For the last
+five years, that's mostly about migrating
+
+135
+00:12:33,000 --> 00:12:36,000
+people to the cloud.
+
+136
+00:12:37,000 --> 00:12:42,000
+Now you're coming home, Grayman, you're
+coming home.
+
+137
+00:12:42,000 --> 00:12:48,000
+I miss the good old days. So maybe I'm
+helping you.
+
+138
+00:12:48,000 --> 00:12:53,000
+All right, sweet. I think in the
+corporate environment here or the
+
+139
+00:12:53,000 --> 00:12:58,000
+educational environment, there's been a
+big push, I'd say, in the last, well, I've
+
+140
+00:12:58,000 --> 00:13:03,000
+been here 17, 18 years at Cornell. There's
+been a big push to make everything easier
+
+141
+00:13:03,000 --> 00:13:08,000
+by going to the cloud, right? And I fought
+it since the beginning simply because it's
+
+142
+00:13:08,000 --> 00:13:13,000
+used as an excuse to drain the most
+important thing from the institution and
+
+143
+00:13:13,000 --> 00:13:18,000
+that's institutional knowledge, right?
+
+144
+00:13:21,000 --> 00:13:24,000
+If you can pay Microsoft to run your
+mail, why do you need two mail experts on
+
+145
+00:13:24,000 --> 00:13:27,000
+staff here, right? You can fire them and
+you can hire somebody at 30, 40, $50,000
+
+146
+00:13:27,000 --> 00:13:30,000
+that just pushes buttons and calls
+Microsoft support when they need help,
+
+147
+00:13:30,000 --> 00:13:33,000
+right?
+
+148
+00:13:36,000 --> 00:13:41,000
+But if they were running an exchange
+server before, it's not like this is holy
+
+149
+00:13:41,000 --> 00:13:46,000
+knowledge to know how to run Exchange
+2013.
+
+150
+00:13:46,000 --> 00:13:50,000
+I love that that shit's outsourced. God,
+I hate it. SharePoint was the worst, and
+
+151
+00:13:50,000 --> 00:13:54,000
+now that's somebody else's problem.
+
+152
+00:13:55,000 --> 00:13:59,000
+True, but it makes a huge hole in that.
+And maybe exchange was a bad example for
+
+153
+00:13:59,000 --> 00:14:03,000
+that. But I understand that. But it goes
+for many other things as well. A lot of
+
+154
+00:14:03,000 --> 00:14:07,000
+expertise has dropped.
+
+155
+00:14:09,000 --> 00:14:15,000
+There was an article one day about 15, 16
+years ago from somebody in the education
+
+156
+00:14:15,000 --> 00:14:21,000
+training department here at Cornell and
+the article literally was we do not need
+
+157
+00:14:21,000 --> 00:14:27,000
+IT people on staff anymore at Cornell
+because we just need IT architects and the
+
+158
+00:14:27,000 --> 00:14:33,000
+way they described that was people who
+they could bring in that knew how to
+
+159
+00:14:33,000 --> 00:14:39,000
+design and call Dell and something breaks,
+send it to Dell or get a Dell parts locker
+
+160
+00:14:39,000 --> 00:14:45,000
+here or ship it over here or set this up.
+
+161
+00:14:45,000 --> 00:14:51,000
+So sure, it's another method, but again,
+it's an institutional drain. And actually,
+
+162
+00:14:51,000 --> 00:14:57,000
+I think that person's now CIO of some
+college somewhere, unfortunately.
+
+163
+00:14:57,000 --> 00:15:02,000
+But back to the cloud computing idea.
+Cloud computing really enables that for
+
+164
+00:15:02,000 --> 00:15:07,000
+corporate and educational institutions.
+And I don't embrace that for most things.
+
+165
+00:15:07,000 --> 00:15:12,000
+I think if we can build things to an open
+framework that is shareable and we design
+
+166
+00:15:12,000 --> 00:15:17,000
+things that can be designed well enough to
+where if somebody from another department
+
+167
+00:15:17,000 --> 00:15:22,000
+says, hey, I like what you're doing there.
+It's really cool. Can we share it?
+
+168
+00:15:23,000 --> 00:15:26,000
+And I click a button because I've already
+designed it in the framework that's
+
+169
+00:15:26,000 --> 00:15:29,000
+shareable like that. Or I say, yeah,
+here's my git, go for it, do what you
+
+170
+00:15:29,000 --> 00:15:32,000
+need. And maybe they make something better
+than me and I come back and I clone their
+
+171
+00:15:32,000 --> 00:15:35,000
+repository and go from that kind of thing.
+
+172
+00:15:36,000 --> 00:15:41,000
+So that's my belief that expertise and
+things like that should stay local.
+
+173
+00:15:41,000 --> 00:15:46,000
+Exactly like we saw when two weeks ago
+when Amazon went out and Solana and those
+
+174
+00:15:46,000 --> 00:15:51,000
+chains are scrambling and shitting their
+pants because it's another sample of just
+
+175
+00:15:51,000 --> 00:15:56,000
+in time inventory.
+
+176
+00:15:56,000 --> 00:16:01,000
+It's just the way that things are done in
+the modern world. And it is fragile, but
+
+177
+00:16:01,000 --> 00:16:06,000
+it's effective. I mean, and it's a
+nuisance when something goes wrong because
+
+178
+00:16:06,000 --> 00:16:11,000
+nobody that's in the chain of solution has
+any idea what they're doing aside from
+
+179
+00:16:11,000 --> 00:16:16,000
+their little part of the chain.
+
+180
+00:16:17,000 --> 00:16:21,000
+So coming from the old world and having
+to troubleshoot this stuff, which is what
+
+181
+00:16:21,000 --> 00:16:25,000
+I do all the time, because I'm where the
+rubber meets the road at the end user at
+
+182
+00:16:25,000 --> 00:16:29,000
+the client level. And so it's solving all
+these weird problems.
+
+183
+00:16:30,000 --> 00:16:34,000
+And the tools that I have are not reading
+the manual or futzing with stuff and
+
+184
+00:16:34,000 --> 00:16:38,000
+trying to fix it on a test server. It's
+just patience and knowing what to Google
+
+185
+00:16:38,000 --> 00:16:42,000
+and talking nicely to this person in the
+chain who is part of the solution and all
+
+186
+00:16:42,000 --> 00:16:46,000
+those types of stuff.
+
+187
+00:16:48,000 --> 00:16:53,000
+It's turned my job into a touchy-feely
+thing that I hate, which is why I'm here
+
+188
+00:16:53,000 --> 00:16:58,000
+in Ergo. And so maybe it's not
+coincidental that I'm interested in going
+
+189
+00:16:58,000 --> 00:17:03,000
+back to peer-to-peer and local solutions
+as opposed to this. Maybe it's my
+
+190
+00:17:03,000 --> 00:17:08,000
+subconscious is telling me that I want to
+escape my corporate job.
+
+191
+00:17:09,000 --> 00:17:15,000
+That could be. Yeah, I mean, think about
+scaling, right? If you want to spread
+
+192
+00:17:15,000 --> 00:17:21,000
+yourself like with a chain that requires
+cloud infrastructure, think about the cost
+
+193
+00:17:21,000 --> 00:17:27,000
+of spreading your assets over Amazon, over
+Microsoft, over some other cloud provider,
+
+194
+00:17:27,000 --> 00:17:33,000
+hoping that there's not some choke point
+in between that they both use, right?
+
+195
+00:17:34,000 --> 00:17:39,000
+So the cost there versus scaling it over
+a system of peer-to-peer users who built
+
+196
+00:17:39,000 --> 00:17:44,000
+the nodes themselves so they know how they
+function, they know how to spin things up
+
+197
+00:17:44,000 --> 00:17:49,000
+and down, and they know hopefully why
+things break, and the redundancy there. I
+
+198
+00:17:49,000 --> 00:17:54,000
+think that speaks for itself in times like
+a couple weeks ago with the great crash of
+
+199
+00:17:54,000 --> 00:17:59,000
+AWS.
+
+200
+00:18:03,000 --> 00:18:06,000
+So it's really excited about that.
+That'll be really good to be able to boast
+
+201
+00:18:06,000 --> 00:18:09,000
+that kind of thing that all our main
+infrastructure is held by the peers that
+
+202
+00:18:09,000 --> 00:18:12,000
+are part of the network. So that'll be a
+good bragging point.
+
+203
+00:18:14,000 --> 00:18:23,000
+Infrastructure-wise, we need to do some
+maintenance work and bug fix for Explorer.
+
+204
+00:18:23,000 --> 00:18:32,000
+Well, the first pull request just got in
+the Explorer backend repository.
+
+205
+00:18:33,000 --> 00:18:40,000
+Also, we are looking for maintainers of
+Ergo Wallet. I believe for now it makes
+
+206
+00:18:40,000 --> 00:18:47,000
+sense to update Android SDK and so on and
+publish new versions of Ergo Wallet at
+
+207
+00:18:47,000 --> 00:18:54,000
+least.
+
+208
+00:18:56,000 --> 00:19:03,000
+Then we will consider what wallets of
+future should be like, right, especially
+
+209
+00:19:03,000 --> 00:19:10,000
+in the presence of AI agents which can
+make with certain things.
+
+210
+00:19:11,000 --> 00:19:22,000
+So, well, for humans, it's not so
+convenient to have and to operate with
+
+211
+00:19:22,000 --> 00:19:33,000
+hundreds of tokens in your wallet, right?
+But for AI agents, it's kind of trivial.
+
+212
+00:19:33,000 --> 00:19:44,000
+So, well, money for AI systems could be
+done very differently from what we have
+
+213
+00:19:44,000 --> 00:19:55,000
+now, and it could lead to more efficient
+economic interactions.
+
+214
+00:19:58,000 --> 00:20:13,000
+Then I need to think with MHS monitor our
+team, right? Maybe we can find ways to
+
+215
+00:20:13,000 --> 00:20:28,000
+publish that mobile wallets also. Right,
+because it's quite amazing. It's
+
+216
+00:20:28,000 --> 00:20:43,000
+supporting multi-sig, right, and so on. So
+it makes sense maybe to add multi-sig
+
+217
+00:20:43,000 --> 00:20:58,000
+support to ergo wallet as well but we also
+need to publish monitor, I believe.
+
+218
+00:21:00,000 --> 00:21:02,000
+Yeah, that was supposed to come out of
+the mobile soon, I think.
+
+219
+00:21:02,000 --> 00:21:06,000
+Those are two important infrastructure
+pieces, right? So I'll explore on the
+
+220
+00:21:06,000 --> 00:21:10,000
+wallets.
+
+221
+00:21:11,000 --> 00:21:18,000
+And, well, I'm also in talks with
+different, well, guys, teams, circles and
+
+222
+00:21:18,000 --> 00:21:25,000
+so on. Well, with Grayman and Thomas on
+real-world assets tokenization. Quite
+
+223
+00:21:25,000 --> 00:21:32,000
+specific and not like what most of
+so-called crypto industry is doing, right?
+
+224
+00:21:32,000 --> 00:21:39,000
+So for chain cache basis, I'm still
+testing and polishing things with white
+
+225
+00:21:39,000 --> 00:21:46,000
+coding, now small step. But I think, well,
+some things can be announced in coming
+
+226
+00:21:46,000 --> 00:21:53,000
+days.
+
+227
+00:21:54,000 --> 00:22:00,000
+And for sub blocks. We are going to
+launch Dev Nets in a few days, now bigger.
+
+228
+00:22:00,000 --> 00:22:06,000
+Now we have some contributors with
+Raspberry Pis. Well, we have a few people
+
+229
+00:22:06,000 --> 00:22:12,000
+from different continents, so it will be
+quite funny. And well, from that, we can
+
+230
+00:22:12,000 --> 00:22:18,000
+plan further.
+
+231
+00:22:21,000 --> 00:22:29,000
+What to do after white paper release and
+welcoming to discussions, right? So a lot
+
+232
+00:22:29,000 --> 00:22:37,000
+of things going on in parallel and it's
+November and Richi has plans also for the
+
+233
+00:22:37,000 --> 00:22:45,000
+USE DexUSD stablecoin launch.
+
+234
+00:22:46,000 --> 00:22:56,000
+So Richi, what are the current plans?
+
+235
+00:22:56,000 --> 00:23:04,000
+Yeah, hello. Can you hear me? Yeah, thank
+you. So the current plans are to have a
+
+236
+00:23:04,000 --> 00:23:12,000
+large event called CLB, which was
+presented in Ergo Hack 9.
+
+237
+00:23:13,000 --> 00:23:19,000
+So as long as we sort out the technical
+part, and we understand that there will be
+
+238
+00:23:19,000 --> 00:23:25,000
+no basically delays launching the coin or
+maybe we can even mint some coins but just
+
+239
+00:23:25,000 --> 00:23:31,000
+don't activate the smart contract or don't
+activate the off-chain part whatever just
+
+240
+00:23:31,000 --> 00:23:37,000
+waiting for the initial bootstrap event.
+
+241
+00:23:40,000 --> 00:23:48,000
+So as soon as we know this we will start
+probably two weeks marketing campaign. And
+
+242
+00:23:48,000 --> 00:23:56,000
+then we will go into a so-called CLB
+community liquidity bootstrap event, which
+
+243
+00:23:56,000 --> 00:24:04,000
+will offer people to participate with the
+ERG on ERGO as well as rsERG on Cardano.
+
+244
+00:24:04,000 --> 00:24:10,000
+And in exchange they will be getting CLB
+tokens as well as some other airdrops,
+
+245
+00:24:10,000 --> 00:24:16,000
+bonus airdrops, but the main one they will
+be getting CLB token.
+
+246
+00:24:16,000 --> 00:24:22,000
+In total I plan to have only 100 CLB
+tokens minted with nine decimals, so it
+
+247
+00:24:22,000 --> 00:24:28,000
+will be 100 CLB tokens minted with nine
+decimals and it will be distributed
+
+248
+00:24:28,000 --> 00:24:34,000
+proportionally to everyone who contributes
+their ERGs to the initial bootstrap of
+
+249
+00:24:34,000 --> 00:24:40,000
+liquidity pool.
+
+250
+00:24:41,000 --> 00:24:49,000
+So, as an example, if you contributed 100
+ERGs and total overall contribution is
+
+251
+00:24:49,000 --> 00:24:57,000
+10,000 ERGs, right, to bootstrap the pool.
+I'm sure there will be more, but just as
+
+252
+00:24:57,000 --> 00:25:05,000
+an example. Then your part is 1% and you
+will get one CLB token airdropped to you.
+
+253
+00:25:07,000 --> 00:25:14,000
+What CLB token means it will represent
+your part in the liquidity pool. So after
+
+254
+00:25:14,000 --> 00:25:21,000
+that all liquidity collected will be used
+to start the USE liquidity pool, initial
+
+255
+00:25:21,000 --> 00:25:28,000
+pool, bank.
+
+256
+00:25:28,000 --> 00:25:33,000
+So half of the ERGs collected will go to
+bank reserves, and another half will be
+
+257
+00:25:33,000 --> 00:25:38,000
+collected, will be connected with the
+liquidity of the minted tokens. And that
+
+258
+00:25:38,000 --> 00:25:43,000
+liquidity tokens that will be created will
+be locked for two years. And instead, you
+
+259
+00:25:43,000 --> 00:25:48,000
+will get the CLB representation.
+
+260
+00:25:50,000 --> 00:25:54,000
+It may sound confusing if you're not
+familiar with how the system works. But
+
+261
+00:25:54,000 --> 00:25:58,000
+basically the whole idea is to have a big
+pool of liquidity locked for two years and
+
+262
+00:25:58,000 --> 00:26:02,000
+then reward people who participated in the
+bootstrap with the so-called
+
+263
+00:26:02,000 --> 00:26:06,000
+representation token.
+
+264
+00:26:09,000 --> 00:26:14,000
+Now that CLB token can be traded on Ergo
+DEXes. So like I said, there will be only
+
+265
+00:26:14,000 --> 00:26:19,000
+100 tokens created and each token will
+represent 1% of the liquidity pool. So
+
+266
+00:26:19,000 --> 00:26:24,000
+these tokens will be traded on Ergo DEXes.
+
+267
+00:26:26,000 --> 00:26:32,000
+So they will have value. And after two
+years, the smart contract, redeemed smart
+
+268
+00:26:32,000 --> 00:26:38,000
+contract will start working. So if after
+two years, you own CLB token, you will be
+
+269
+00:26:38,000 --> 00:26:44,000
+able to redeem liquidity from USE ERG
+liquidity pool.
+
+270
+00:26:45,000 --> 00:26:50,000
+So with this approach, what we're trying
+to achieve is we're trying to bootstrap
+
+271
+00:26:50,000 --> 00:26:55,000
+liquidity initially. That's very important
+to have lots of liquidity from the start
+
+272
+00:26:55,000 --> 00:27:00,000
+of that stable coin. And because of that,
+our free mint and arbitrage mint and all
+
+273
+00:27:00,000 --> 00:27:05,000
+the bank actions will work nicely.
+
+274
+00:27:08,000 --> 00:27:13,000
+So people will launch economics and
+things like that on top of that. So I
+
+275
+00:27:13,000 --> 00:27:18,000
+don't know if people who are familiar with
+this might understand what I was trying to
+
+276
+00:27:18,000 --> 00:27:23,000
+describe. People who are hearing this for
+the first time may be confused.
+
+277
+00:27:24,000 --> 00:27:30,000
+But we will be talking more about it and
+we'll be talking more about how to launch.
+
+278
+00:27:30,000 --> 00:27:36,000
+And I already started the white paper, so
+I will publish it about the CLB and the
+
+279
+00:27:36,000 --> 00:27:42,000
+event. And also on Twitter, there will be
+more announcements.
+
+280
+00:27:42,000 --> 00:27:46,000
+So, but at the moment what we are waiting
+is for kushti to tell us a go ahead saying
+
+281
+00:27:46,000 --> 00:27:50,000
+that yes, all the technical part is clear
+and we are basically on a finish line to
+
+282
+00:27:50,000 --> 00:27:54,000
+launch this protocol.
+
+283
+00:27:56,000 --> 00:28:02,000
+What will be the order of magnitude of
+the amount of ERG that is required to be
+
+284
+00:28:02,000 --> 00:28:08,000
+part of these liquidity provisions to get
+one of these tokens?
+
+285
+00:28:09,000 --> 00:28:19,000
+Right, so there will always be 100
+tokens. It depends how many are collected.
+
+286
+00:28:19,000 --> 00:28:25,000
+I'm just saying, what are you shooting
+for? If there's 100 tokens, are you
+
+287
+00:28:25,000 --> 00:28:31,000
+looking for 100,000 ERG? Do you need
+10,000 per person?
+
+288
+00:28:32,000 --> 00:28:37,000
+Everyone will get proportionally to the
+contribution. There are only 100 tokens,
+
+289
+00:28:37,000 --> 00:28:42,000
+but they have nine decimals. So if your
+contribution part is very small, you will
+
+290
+00:28:42,000 --> 00:28:47,000
+get 0.0 something of this token, but it
+will be your representation part.
+
+291
+00:28:47,000 --> 00:28:54,000
+So my goal would be to collect around
+300,000 to 400,000. So one token will be
+
+292
+00:28:54,000 --> 00:29:01,000
+worth, so you can just divide it by 100,
+right? So if we collect 300,000 ERGs, so
+
+293
+00:29:01,000 --> 00:29:08,000
+one token would be worth 3,000, right? So
+3,000 ERGs would be one token. And you
+
+294
+00:29:08,000 --> 00:29:15,000
+will get proportionately to your part of
+that overall contribution.
+
+295
+00:29:17,000 --> 00:29:22,000
+I hope that answers the question.
+
+296
+00:29:22,000 --> 00:29:27,000
+Yeah, I guess really what I was just
+asking is, what is the order of magnitude
+
+297
+00:29:27,000 --> 00:29:32,000
+of the initial bootstrap liquidity? So
+you're saying that you have to part with
+
+298
+00:29:32,000 --> 00:29:37,000
+3,000 ERGs, and two years later, you can
+then draw them out of this. So what is my
+
+299
+00:29:37,000 --> 00:29:42,000
+incentive? Do I make additional earnings
+on these tokens if I get one of these?
+
+300
+00:29:44,000 --> 00:29:49,000
+Yes, that's a good question. So what you
+will get if you participate? So first of
+
+301
+00:29:49,000 --> 00:29:54,000
+all, you will get CLB token, which will be
+representing your part of your
+
+302
+00:29:54,000 --> 00:29:59,000
+contribution. Anyway, after that, you'll
+get some airdrops from our partners
+
+303
+00:29:59,000 --> 00:30:04,000
+additional as a bonus.
+
+304
+00:30:06,000 --> 00:30:11,000
+And then your liquidity pool is
+bootstrapped with 0.3% fee. So during
+
+305
+00:30:11,000 --> 00:30:16,000
+these two years, all the fees will be
+accumulated for all the people who will be
+
+306
+00:30:16,000 --> 00:30:21,000
+trading USE tokens with ERGs back and
+forth, right? And I hope there will be
+
+307
+00:30:21,000 --> 00:30:26,000
+lots of trading going on in that pool.
+
+308
+00:30:26,000 --> 00:30:33,000
+All that fee will be accumulated and then
+after two years, you will be able to
+
+309
+00:30:33,000 --> 00:30:40,000
+withdraw your part of liquidity with your
+CLB token with all the collected fees as
+
+310
+00:30:40,000 --> 00:30:47,000
+well as all the airdrop bonuses that you
+will get in the stock, right?
+
+311
+00:30:48,000 --> 00:30:53,000
+Now, if you don't want to wait two years,
+you need something early. There will be a
+
+312
+00:30:53,000 --> 00:30:58,000
+secondary market for CLB tokens. I'm sure
+a lot of people will want to buy those
+
+313
+00:30:58,000 --> 00:31:03,000
+tokens cheap and sell them high because
+they clearly have the value. So each token
+
+314
+00:31:03,000 --> 00:31:08,000
+has a clear value because it's connected
+to your liquidity pool.
+
+315
+00:31:08,000 --> 00:31:13,000
+So people will be trading it on the
+MewFinance Spectrum on all our DEXes. And
+
+316
+00:31:13,000 --> 00:31:18,000
+yes, it will have a value. So if you don't
+want to wait, you just contribute, you
+
+317
+00:31:18,000 --> 00:31:23,000
+collect your bonus airdrop, and after
+that, you sell your CLB token on the
+
+318
+00:31:23,000 --> 00:31:28,000
+secondary market. And then there
+definitely will be people who will want to
+
+319
+00:31:28,000 --> 00:31:33,000
+buy it. You don't need to wait.
+
+320
+00:31:34,000 --> 00:31:38,000
+Or you can hold it. Or if you think there
+is lots of potential, and then there will
+
+321
+00:31:38,000 --> 00:31:42,000
+be lots of fees accumulated, you can buy
+it from the secondary market as well, the
+
+322
+00:31:42,000 --> 00:31:46,000
+CLB tokens, as much as possible. And that
+your part in the liquidity pool will grow
+
+323
+00:31:46,000 --> 00:31:50,000
+with it.
+
+324
+00:31:52,000 --> 00:31:55,000
+I hope that sounds clear.
+
+325
+00:31:55,000 --> 00:32:00,000
+So after two years, what happens? These
+tokens still exist and you still get
+
+326
+00:32:00,000 --> 00:32:05,000
+rewards based on them? I'm still not
+getting it. What's my incentive to be one
+
+327
+00:32:05,000 --> 00:32:10,000
+of the initial liquidity providers if I
+can just buy these tokens on the secondary
+
+328
+00:32:10,000 --> 00:32:15,000
+market in one and a half years?
+
+329
+00:32:15,000 --> 00:32:19,000
+What unlocks in that second year if
+there's a secondary? What am I getting? I
+
+330
+00:32:19,000 --> 00:32:23,000
+still don't get it. What happens after the
+second year?
+
+331
+00:32:24,000 --> 00:32:29,000
+So after the second year, when you
+construct liquidity, you get liquidity
+
+332
+00:32:29,000 --> 00:32:34,000
+tokens like LP tokens. These LP tokens
+will be locked in a redeemed smart
+
+333
+00:32:34,000 --> 00:32:39,000
+contract with CLB tokens for two years.
+
+334
+00:32:41,000 --> 00:32:46,000
+So after two years, the smart contract
+will unlock the redeem function. So you
+
+335
+00:32:46,000 --> 00:32:51,000
+will be able to exchange your CLB token to
+liquidity token and after that,
+
+336
+00:32:51,000 --> 00:32:56,000
+conventionally remove liquidity from
+liquidity pool. Okay? So with all the fees
+
+337
+00:32:56,000 --> 00:33:01,000
+accumulated.
+
+338
+00:33:01,000 --> 00:33:08,000
+Now, if you participate in the initial
+liquidity bootstrap rather than buying on
+
+339
+00:33:08,000 --> 00:33:15,000
+the secondary market, you will get some
+bonus airdrops, which at the moment we
+
+340
+00:33:15,000 --> 00:33:22,000
+expect to be about between 5 to 10% of the
+value of your contribution.
+
+341
+00:33:24,000 --> 00:33:28,000
+And is that just done by like a database
+that you have a list of wallets that
+
+342
+00:33:28,000 --> 00:33:32,000
+contributed and ignores the tokens that
+are in people's wallets that they might
+
+343
+00:33:32,000 --> 00:33:36,000
+have purchased from the secondary market?
+
+344
+00:33:37,000 --> 00:33:41,000
+Well, people can purchase tokens from the
+secondary market. It means someone sold
+
+345
+00:33:41,000 --> 00:33:45,000
+it. Did they get the air drops?
+
+346
+00:33:46,000 --> 00:33:53,000
+Yes, so if you contribute ERGs during the
+initial bootstrap, you will get Airdrop
+
+347
+00:33:53,000 --> 00:34:00,000
+and the CLB token. After that, CLB token
+will be traded on the secondary market.
+
+348
+00:34:01,000 --> 00:34:06,000
+So if you want to buy it on the secondary
+market, obviously you buy it as usual
+
+349
+00:34:06,000 --> 00:34:11,000
+token, right? Nothing different. Also, if
+you want to sell, if you can sell your CLB
+
+350
+00:34:11,000 --> 00:34:16,000
+tokens straight away as well as sell all
+your airdrop tokens, and then possibly you
+
+351
+00:34:16,000 --> 00:34:21,000
+can even make like quick money on it.
+
+352
+00:34:22,000 --> 00:34:26,000
+So possibly there will be like, you will
+probably make a little bit of money if you
+
+353
+00:34:26,000 --> 00:34:30,000
+just sell CLB tokens straight away on the
+secondary market as well as all your
+
+354
+00:34:30,000 --> 00:34:34,000
+airdrops, because airdrops are meant to
+cover between 5% and 10% of your
+
+355
+00:34:34,000 --> 00:34:38,000
+contribution.
+
+356
+00:34:38,000 --> 00:34:42,000
+So I'm too dumb to chase quick profits.
+But I do wonder, like, so after the two
+
+357
+00:34:42,000 --> 00:34:46,000
+years are up, then this thing unlocks. And
+at that point, is there any purpose left
+
+358
+00:34:46,000 --> 00:34:50,000
+to these original tokens? Or does
+everything just become normal liquidity
+
+359
+00:34:50,000 --> 00:34:54,000
+provisions in the DEX?
+
+360
+00:34:55,000 --> 00:35:00,000
+No, these tokens, so this contract will
+exist forever, right? The redemption
+
+361
+00:35:00,000 --> 00:35:05,000
+contract. So you can redeem the portion of
+liquidity pool of liquidity tokens and
+
+362
+00:35:05,000 --> 00:35:10,000
+then redeem liquidity or you just can keep
+these tokens in your wallet for 10 years
+
+363
+00:35:10,000 --> 00:35:15,000
+and just accumulate fees.
+
+364
+00:35:18,000 --> 00:35:23,000
+Your LP tokens will be locked in the
+original USE LP liquidity pool and they
+
+365
+00:35:23,000 --> 00:35:28,000
+will stay there until you decide to redeem
+them. So it's essentially like keeping
+
+366
+00:35:28,000 --> 00:35:33,000
+liquidity tokens in your wallet as long as
+you want.
+
+367
+00:35:34,000 --> 00:35:40,000
+That's some good questions, Grayman, and
+I hope people who will be listening to
+
+368
+00:35:40,000 --> 00:35:46,000
+this podcast will start digging into it
+more.
+
+369
+00:35:47,000 --> 00:35:56,000
+Actually, I think maybe it makes sense to
+have Twitter spaces next week, and
+
+370
+00:35:56,000 --> 00:36:05,000
+specifically about the USE launch, and so
+on, the Dexy design, because still, I
+
+371
+00:36:05,000 --> 00:36:14,000
+believe, many people don't quite follow
+even the basics, right, and so on.
+
+372
+00:36:14,000 --> 00:36:18,000
+And during the week, well, we can promote
+Dexy Gold, right, so people will have a
+
+373
+00:36:18,000 --> 00:36:22,000
+chance to play with the protocol, then ask
+questions and so on. How does it sound,
+
+374
+00:36:22,000 --> 00:36:26,000
+Richi?
+
+375
+00:36:28,000 --> 00:36:37,000
+So next week is busy because we have a
+Cardano Summit and then some traveling.
+
+376
+00:36:37,000 --> 00:36:45,000
+I see, maybe in two weeks then. So closer
+to launch and next week maybe we can do
+
+377
+00:36:45,000 --> 00:36:53,000
+spaces on basis changes, all that stuff,
+so there is need to provide updates and
+
+378
+00:36:53,000 --> 00:37:01,000
+some digestible forms.
+
+379
+00:37:03,000 --> 00:37:12,000
+The recent weeks I am mostly just coding
+and providing short updates. I think after
+
+380
+00:37:12,000 --> 00:37:21,000
+some more polishing and testing it makes
+sense to provide more details on the
+
+381
+00:37:21,000 --> 00:37:30,000
+protocol, answer questions, and promoted
+around, well, people interested in, well,
+
+382
+00:37:30,000 --> 00:37:39,000
+local payment systems as well as, well,
+payment systems for AI.
+
+383
+00:37:42,000 --> 00:37:47,000
+For peer-to-peer payments now, quite big
+topic and so on, right? So it's quite a
+
+384
+00:37:47,000 --> 00:37:52,000
+big trend now. Let's ride on it.
+
+385
+00:37:53,000 --> 00:37:58,000
+Yeah, sounds good.
+
+386
+00:37:58,000 --> 00:38:01,000
+Richi, somebody in the chat says, what's
+the hardest part of launch right now and
+
+387
+00:38:01,000 --> 00:38:04,000
+how can they help?
+
+388
+00:38:04,000 --> 00:38:11,000
+So, launch will be done with MewFinance.
+So, we already, actually, since ErgoHack
+
+389
+00:38:11,000 --> 00:38:18,000
+9, it's almost one year since we did this
+presentation, ErgoHack 9, I encourage
+
+390
+00:38:18,000 --> 00:38:25,000
+everyone to go and just go to Ergo YouTube
+channel, and look at the ErgoHack 9. I
+
+391
+00:38:25,000 --> 00:38:32,000
+explain how this launch will work. The
+video is there.
+
+392
+00:38:34,000 --> 00:38:41,000
+And I'll be publishing more papers on
+that. So the basis is already done,
+
+393
+00:38:41,000 --> 00:38:48,000
+everything for the launch. So, actually,
+it's not much needed. How it will look,
+
+394
+00:38:48,000 --> 00:38:55,000
+you will see some UI. I can probably share
+some UI how it will look, but it will be
+
+395
+00:38:55,000 --> 00:39:02,000
+similar to the other token launch paths
+that they have.
+
+396
+00:39:05,000 --> 00:39:10,000
+Yes, when you look into MewFinance, you
+will need, if you are contributing with
+
+397
+00:39:10,000 --> 00:39:15,000
+original ergo on ergo blockchain, you will
+just need to leave your ergo wallet from
+
+398
+00:39:15,000 --> 00:39:20,000
+which one you will be doing the payment.
+
+399
+00:39:22,000 --> 00:39:27,000
+You will contribute your ERG, you will
+transfer your ERG and then after that you
+
+400
+00:39:27,000 --> 00:39:32,000
+will immediately see how much ERG you
+contributed and total ERG contributed so
+
+401
+00:39:32,000 --> 00:39:37,000
+you will know your share.
+
+402
+00:39:39,000 --> 00:39:44,000
+After two days, so I plan to run it for
+three days, after three days we will
+
+403
+00:39:44,000 --> 00:39:49,000
+basically the final number will be known
+and you will get your contribution part.
+
+404
+00:39:49,000 --> 00:39:54,000
+So for example 1%, 1.234% and you will get
+CLB tokens as well as some other sponsored
+
+405
+00:39:54,000 --> 00:39:59,000
+tokens airdropped to your wallet.
+
+406
+00:40:02,000 --> 00:40:08,000
+And after that the secondary market will
+be created and then you can trade this CLB
+
+407
+00:40:08,000 --> 00:40:14,000
+in a secondary market or hold it as well
+as just enjoy the small little bonus.
+
+408
+00:40:15,000 --> 00:40:22,000
+How can you help at the moment? Just
+attend spaces and subscribe to my Twitter,
+
+409
+00:40:22,000 --> 00:40:29,000
+USE Twitter account. So it's there. I'll
+be posting some updates with my USE
+
+410
+00:40:29,000 --> 00:40:36,000
+account on Twitter, specifically dedicated
+to this stable coin.
+
+411
+00:40:38,000 --> 00:40:43,000
+And just follow up on the news and you
+will not miss this event. I think it will
+
+412
+00:40:43,000 --> 00:40:48,000
+be quite interesting. It's very novel to
+current DeFi.
+
+413
+00:40:49,000 --> 00:40:53,000
+Actually, let me tell you a little bit.
+Let's spend a couple of minutes talking
+
+414
+00:40:53,000 --> 00:40:57,000
+about USE and it's very novel and it's
+trying to solve very big problems in the
+
+415
+00:40:57,000 --> 00:41:01,000
+current DeFi.
+
+416
+00:41:01,000 --> 00:41:05,000
+All stable coins that we have are
+basically centralized, right? There are no
+
+417
+00:41:05,000 --> 00:41:09,000
+decentralized tokens. There are some kind
+of attempts like Athena, but their
+
+418
+00:41:09,000 --> 00:41:13,000
+resources are also centralized.
+
+419
+00:41:13,000 --> 00:41:19,000
+So USE or Dexy has very unique design and
+it's a lot of great minds behind it from
+
+420
+00:41:19,000 --> 00:41:25,000
+design perspective, as well as from trying
+to build the trading experience and
+
+421
+00:41:25,000 --> 00:41:31,000
+launch, et cetera.
+
+422
+00:41:31,000 --> 00:41:37,000
+It will be working with Rosen. We will be
+working with Rosen to make sure that the
+
+423
+00:41:37,000 --> 00:41:43,000
+distribution of this stablecoin is as wide
+as possible. And as you could have
+
+424
+00:41:43,000 --> 00:41:49,000
+guessed, the launch itself, the CLB event
+is also quite unique in DeFi space.
+
+425
+00:41:49,000 --> 00:41:54,000
+So what we're trying to do is not just
+copy paste something that's going on on
+
+426
+00:41:54,000 --> 00:41:59,000
+Ethereum, but create something really
+unique and sometimes unique DeFi.
+
+427
+00:41:59,000 --> 00:42:05,000
+If this project succeeds, obviously,
+there will be so much recognition to Ergo
+
+428
+00:42:05,000 --> 00:42:11,000
+and I'll be doing everything possible to
+get us there. Because all this technology,
+
+429
+00:42:11,000 --> 00:42:17,000
+we were talking for years about the great
+technology and all our first principles
+
+430
+00:42:17,000 --> 00:42:23,000
+and P2P finance and things like that.
+
+431
+00:42:24,000 --> 00:42:29,000
+But for most of the world, what do they
+see? They see us on a coin market cap. And
+
+432
+00:42:29,000 --> 00:42:34,000
+that's all. And they don't know about our
+products. Maybe some people know about
+
+433
+00:42:34,000 --> 00:42:39,000
+Rosen. But mostly, that's it, right?
+
+434
+00:42:39,000 --> 00:42:44,000
+And we're trying to reach a wide
+audience. Because for people, having
+
+435
+00:42:44,000 --> 00:42:49,000
+stable coin is very clear. You understand
+what stable coin is, right? Okay, so you
+
+436
+00:42:49,000 --> 00:42:54,000
+know, okay, this coin is $1. That's all I
+need to know. I'm not interested if ERG's
+
+437
+00:42:54,000 --> 00:42:59,000
+price goes to 10 or 0.1. I know that this
+stablecoin is always $1.
+
+438
+00:42:59,000 --> 00:43:06,000
+And I'm interested in it because I use
+the dollars daily, right? So with that, I
+
+439
+00:43:06,000 --> 00:43:13,000
+am trying to capture a big audience and
+lots of eyes are looking to Ergo because,
+
+440
+00:43:13,000 --> 00:43:20,000
+like I said, the technology is very unique
+that we have. We have great minds. We just
+
+441
+00:43:20,000 --> 00:43:27,000
+need a little bit more recognition and
+then more attention.
+
+442
+00:43:29,000 --> 00:43:33,000
+Very interesting, Richi. I'm looking
+forward to the launch.
+
+443
+00:43:33,000 --> 00:43:40,000
+From what I've heard, I think it makes
+sense if you are non-dev and willing to
+
+444
+00:43:40,000 --> 00:43:47,000
+help maybe to watch those ErgoHack
+presentations, right, and make some
+
+445
+00:43:47,000 --> 00:43:54,000
+simpler versions like a one-pager and so
+on, right, so could be doable with manual
+
+446
+00:43:54,000 --> 00:44:01,000
+recheck by some dev.
+
+447
+00:44:04,000 --> 00:44:15,000
+Well, they I also I don't like that much,
+but okay. So, well, I think, well, a lot
+
+448
+00:44:15,000 --> 00:44:26,000
+of help could be there, right, and in the
+space of doing more and more materials.
+
+449
+00:44:27,000 --> 00:44:37,000
+So back in the days of SigmaUSD launch,
+the community did some amazing job by
+
+450
+00:44:37,000 --> 00:44:47,000
+promoting, doing one-pagers all those
+things and promoting them.
+
+451
+00:44:48,000 --> 00:44:55,000
+One comment if you allow me on that. So I
+actually really like Ergo community and I
+
+452
+00:44:55,000 --> 00:45:02,000
+see how they're trying to promote it. I
+like the initiative that people starting
+
+453
+00:45:02,000 --> 00:45:09,000
+with bootstrapping liquidity on Binance
+chain, on Ethereum, trying to do
+
+454
+00:45:09,000 --> 00:45:16,000
+something.
+
+455
+00:45:17,000 --> 00:45:21,000
+And how we collected ergs for MC, it was
+amazing. So what I'm trying to say is ergo
+
+456
+00:45:21,000 --> 00:45:25,000
+has a very nice community and people do
+participate. Even for free, they just
+
+457
+00:45:25,000 --> 00:45:29,000
+donate.
+
+458
+00:45:29,000 --> 00:45:33,000
+Now, CLB will not be a donation. You will
+actually make money with it. But people
+
+459
+00:45:33,000 --> 00:45:37,000
+are willing to donate. What we need in
+their case is a little bit more
+
+460
+00:45:37,000 --> 00:45:41,000
+coordination and more like coordinated
+effort.
+
+461
+00:45:43,000 --> 00:45:47,000
+And I think we can go a long way with it.
+So I hope the launch of this stable coin
+
+462
+00:45:47,000 --> 00:45:51,000
+will be like a coordinated effort where
+all the community can pick it up. And we
+
+463
+00:45:51,000 --> 00:45:55,000
+may see some amazing results with it.
+
+464
+00:45:55,000 --> 00:46:00,000
+There are still lots of plans. I have a
+very, very long roadmap. I cannot say
+
+465
+00:46:00,000 --> 00:46:05,000
+everything now. Let's go step by step. But
+let's start with the successful launch,
+
+466
+00:46:05,000 --> 00:46:10,000
+both from technical point of view and the
+initial bootstrap. But there will be lots
+
+467
+00:46:10,000 --> 00:46:15,000
+of amazing things coming up down the road.
+
+468
+00:46:16,000 --> 00:46:30,000
+So we're here to shake the space. So stay
+tuned.
+
+469
+00:46:30,000 --> 00:46:39,000
+Pretty much agree. So, well, for
+coordination, we are discussing this all
+
+470
+00:46:39,000 --> 00:46:48,000
+the time, right? We are trying different
+things. So, well, with many new faces now
+
+471
+00:46:48,000 --> 00:46:57,000
+joining the community. Well, there is need
+always, I guess, to reconsider and
+
+472
+00:46:57,000 --> 00:47:06,000
+reshuffle some things, right? Not to be
+like some old, I don't know, bureaucratic
+
+473
+00:47:06,000 --> 00:47:15,000
+kind of a rotten kind of environment.
+
+474
+00:47:17,000 --> 00:47:21,000
+There was a question on YouTube about
+privacy from Mohit Tanwar. He says, as far
+
+475
+00:47:21,000 --> 00:47:25,000
+as privacy coins are concerned, almost
+every privacy coin is booming. What's
+
+476
+00:47:25,000 --> 00:47:29,000
+wrong with ergo? When will we see the
+booming price action in ergo? I know we
+
+477
+00:47:29,000 --> 00:47:33,000
+aren't supposed to talk about price, but I
+do think it makes sense to talk about
+
+478
+00:47:33,000 --> 00:47:37,000
+privacy.
+
+479
+00:47:37,000 --> 00:47:42,000
+And it's true that privacy coins like
+Zcash and Ergo, for that matter, yesterday
+
+480
+00:47:42,000 --> 00:47:47,000
+was trending on CoinGecko right along with
+Zcash. But it does seem like our narrative
+
+481
+00:47:47,000 --> 00:47:52,000
+around privacy is different than the one
+that is currently capturing the attention
+
+482
+00:47:52,000 --> 00:47:57,000
+of the market.
+
+483
+00:47:57,000 --> 00:48:07,000
+And you were talking about this a little
+bit, I think, yesterday on Telegram. So I
+
+484
+00:48:07,000 --> 00:48:17,000
+figured that'd be a good way to prompt you
+with a question.
+
+485
+00:48:18,000 --> 00:48:22,000
+I mean, my take on privacy in Ergo is
+that it's at the app layer. I mean, it is
+
+486
+00:48:22,000 --> 00:48:26,000
+built into the core, into ErgoScript.
+There's privacy tooling, and you can
+
+487
+00:48:26,000 --> 00:48:30,000
+certainly talk much more in depth about
+that than I can.
+
+488
+00:48:30,000 --> 00:48:36,000
+But that it's good that it's optional,
+because that means that if there's
+
+489
+00:48:36,000 --> 00:48:42,000
+optional privacy, that's optional
+transparency as well. And so to the extent
+
+490
+00:48:42,000 --> 00:48:48,000
+that we're going to use Ergo for public
+money systems, that transparency is very
+
+491
+00:48:48,000 --> 00:48:54,000
+important.
+
+492
+00:48:55,000 --> 00:49:01,000
+But eventually at the business layer, of
+course, people want privacy. I don't want
+
+493
+00:49:01,000 --> 00:49:07,000
+my competitors to see how I spend my
+money, where and when. I'm happy to report
+
+494
+00:49:07,000 --> 00:49:13,000
+my taxes to the IRS if that's what we have
+to do for the last 100 plus years in
+
+495
+00:49:13,000 --> 00:49:19,000
+America, even though I wonder about how
+that jives with the Fifth Amendment.
+
+496
+00:49:21,000 --> 00:49:25,000
+Nevertheless, I don't want my taxes that
+I report to the IRS and all of that
+
+497
+00:49:25,000 --> 00:49:29,000
+transaction to be open on chain for
+everybody to see. I do want privacy. I
+
+498
+00:49:29,000 --> 00:49:33,000
+appreciate optional privacy.
+
+499
+00:49:34,000 --> 00:49:39,000
+But at the same time, to even have an IRS
+or a government money system, you need to
+
+500
+00:49:39,000 --> 00:49:44,000
+have transparency. Otherwise, you end up
+with the worst examples of the Cantillon
+
+501
+00:49:44,000 --> 00:49:49,000
+effect and all these backroom deals, and
+you get right back to the system that we
+
+502
+00:49:49,000 --> 00:49:54,000
+have right now.
+
+503
+00:49:54,000 --> 00:49:59,000
+It's important that Bitcoin was
+transparent. It's not a flaw. It may be a
+
+504
+00:49:59,000 --> 00:50:04,000
+limitation, but it's not a flaw. It was
+important. It would not be where it is
+
+505
+00:50:04,000 --> 00:50:09,000
+right now had it been Monero and
+completely opaque, in my opinion. What do
+
+506
+00:50:09,000 --> 00:50:14,000
+you think?
+
+507
+00:50:14,000 --> 00:50:23,000
+So in many cases it's transparency,
+right? What does matter? Especially we are
+
+508
+00:50:23,000 --> 00:50:32,000
+talking about blockchain. So all those
+talks are quite strange. So well, it's at
+
+509
+00:50:32,000 --> 00:50:41,000
+the same time people praise blockchain for
+transparency, right?
+
+510
+00:50:42,000 --> 00:50:50,000
+Then, well, there is need for privacy for
+money. So I think, well, if we consider
+
+511
+00:50:50,000 --> 00:50:58,000
+blockchain as kind of a layer for reserves
+mostly, right, so kind of digital
+
+512
+00:50:58,000 --> 00:51:06,000
+commodities then, well, in most cases
+probably it should be transparent, right,
+
+513
+00:51:06,000 --> 00:51:14,000
+even then you need to privacy on cash
+layer so basically something like basis,
+
+514
+00:51:14,000 --> 00:51:22,000
+right, so the privacy maybe even enforced
+should be considered on the base layer.
+
+515
+00:51:26,000 --> 00:51:31,000
+So we have optional privacy, actually a
+lot of tooling, so native support for
+
+516
+00:51:31,000 --> 00:51:36,000
+thresholds and ring signatures with
+zero-knowledge properties being preserved,
+
+517
+00:51:36,000 --> 00:51:41,000
+unlike Bitcoin and so on, multi-sig, so as
+far as I know, Ergo is the only one with
+
+518
+00:51:41,000 --> 00:51:46,000
+such properties.
+
+519
+00:51:49,000 --> 00:51:56,000
+A lot of applications for privacy
+protocols that are done as applications
+
+520
+00:51:56,000 --> 00:52:03,000
+such as ErgoMixer, so non-custodial and
+non-interactive tool to restore
+
+521
+00:52:03,000 --> 00:52:10,000
+fungibility of coins then. Stealth
+addresses, so a tool to have privacy of
+
+522
+00:52:10,000 --> 00:52:17,000
+recipients and so on.
+
+523
+00:52:19,000 --> 00:52:27,000
+To be fair to Zcash they are optional
+privacy.
+
+524
+00:52:27,000 --> 00:52:32,000
+And they are mostly transparent. So I
+don't know about these days, but a few
+
+525
+00:52:32,000 --> 00:52:37,000
+years after launch, last time when I
+checked, it was like 2% of total supply
+
+526
+00:52:37,000 --> 00:52:42,000
+was shielded.
+
+527
+00:52:44,000 --> 00:52:48,000
+So on the other hand, they are mined by
+ASICs and that might explain their price
+
+528
+00:52:48,000 --> 00:52:52,000
+action, which touches on a whole other
+topic, but again, price is not what we're
+
+529
+00:52:52,000 --> 00:52:56,000
+supposed to be discussing on the AMA.
+
+530
+00:52:57,000 --> 00:53:03,000
+Some people are now coming and demanding
+for full privacy in Ergo, mandatory
+
+531
+00:53:03,000 --> 00:53:09,000
+privacy, but then I'm asking those people,
+are they using ErgoMixer even or whatever,
+
+532
+00:53:09,000 --> 00:53:15,000
+so it seems. Well, there is no real
+interest in privacy, so people are just
+
+533
+00:53:15,000 --> 00:53:21,000
+chasing the popular trends.
+
+534
+00:53:24,000 --> 00:53:30,000
+Well, to put a check on that, though,
+it's not very easy to use Mixer. That
+
+535
+00:53:30,000 --> 00:53:36,000
+might be a really good candidate for a
+dApp in a browser. In a browser wallet, or
+
+536
+00:53:36,000 --> 00:53:42,000
+even on a cell phone wallet.
+
+537
+00:53:42,000 --> 00:53:47,000
+But having the Mixer so that it would be
+easy for an end user to just devote part
+
+538
+00:53:47,000 --> 00:53:52,000
+of their stash, part of their ergo, into
+the Mixer so they can say, this is sort of
+
+539
+00:53:52,000 --> 00:53:57,000
+my private portion of my of my cash that I
+can spend because it all spits out into
+
+540
+00:53:57,000 --> 00:54:02,000
+the stealth address and I can use that for
+stuff that I don't want to be tracked and
+
+541
+00:54:02,000 --> 00:54:07,000
+traced on and having that be so not easy,
+but.
+
+542
+00:54:11,000 --> 00:54:15,000
+Because you should never make it too
+easy. People should think about what
+
+543
+00:54:15,000 --> 00:54:19,000
+they're doing and understand their
+assumptions. But right now, it feels like
+
+544
+00:54:19,000 --> 00:54:23,000
+for somebody who's non-technical, the
+mixer is maybe a bridge too far. So they
+
+545
+00:54:23,000 --> 00:54:27,000
+might genuinely be interested in privacy
+and want that option.
+
+546
+00:54:28,000 --> 00:54:33,000
+I think what they're expressing is that
+it's just too hard for them to implement
+
+547
+00:54:33,000 --> 00:54:38,000
+it and understand it. I sort of feel that
+way. I've used the mixer a little bit, but
+
+548
+00:54:38,000 --> 00:54:43,000
+not really. It's a pain in the ass.
+
+549
+00:54:43,000 --> 00:54:51,000
+But in general, there were some arrests
+of Monero users because of networking
+
+550
+00:54:51,000 --> 00:54:59,000
+security, right? Well, for the whole
+stack, it's not easy at all to use all
+
+551
+00:54:59,000 --> 00:55:07,000
+those things. Even maybe if you are using
+Tor, right, which is kind of red flag for
+
+552
+00:55:07,000 --> 00:55:15,000
+surveillance already.
+
+553
+00:55:18,000 --> 00:55:26,000
+There are a lot of things to consider
+here, well, in regards with networking
+
+554
+00:55:26,000 --> 00:55:34,000
+security. So maybe we need to do some
+encryption services and Ergo peer-to-peer
+
+555
+00:55:34,000 --> 00:55:42,000
+network rights to hide the source of
+transactions with non-interactive and
+
+556
+00:55:42,000 --> 00:55:50,000
+non-custodial mixer. It could be the
+weakest point here.
+
+557
+00:55:50,000 --> 00:55:58,000
+And then, mixer is not easy to use and
+you need for counterparty if you mix large
+
+558
+00:55:58,000 --> 00:56:06,000
+enough chunk of liquidity and so on. Then
+there are certain practices and maybe
+
+559
+00:56:06,000 --> 00:56:14,000
+default settings are suboptimal and so on.
+
+560
+00:56:15,000 --> 00:56:20,000
+So there is a kind of complex science
+here, right? And not just in Ergo, but
+
+561
+00:56:20,000 --> 00:56:25,000
+here in general. So if you want to have
+privacy in computer networks, then it's
+
+562
+00:56:25,000 --> 00:56:30,000
+not user friendly at all.
+
+563
+00:56:32,000 --> 00:56:39,000
+I have to say there are certain things
+which we can do and should do but, well, a
+
+564
+00:56:39,000 --> 00:56:46,000
+lot of work ahead and not just here in
+Ergo based on what's happening right
+
+565
+00:56:46,000 --> 00:56:53,000
+around and so for a few years also the
+topic was basically silenced, right, in
+
+566
+00:56:53,000 --> 00:57:00,000
+the Ergo community as well.
+
+567
+00:57:03,000 --> 00:57:12,000
+So, good to see a revival of those talks
+and, well, let's consider continue from
+
+568
+00:57:12,000 --> 00:57:21,000
+basically 2020 because, well. Regulatory
+climate in America was very different a
+
+569
+00:57:21,000 --> 00:57:30,000
+year ago. Well, in the US, but then also a
+lot of exchanges.
+
+570
+00:57:30,000 --> 00:57:38,000
+There were even certain attempts to
+delist Ergo from some centralized
+
+571
+00:57:38,000 --> 00:57:46,000
+exchanges because they considered Ergo as
+privacy coins. Well, it did not happen,
+
+572
+00:57:46,000 --> 00:57:54,000
+but there was a risk to get delisted from
+some biggest exchanges by volume even now.
+
+573
+00:57:55,000 --> 00:58:03,000
+So, well, it was quite tricky even to
+talk about privacy rights, well,
+
+574
+00:58:03,000 --> 00:58:11,000
+especially in public. I like tweeting
+anything or whatever so for that you can
+
+575
+00:58:11,000 --> 00:58:19,000
+get ERG delisted rights from centralized
+exchange or whatever.
+
+576
+00:58:20,000 --> 00:58:28,000
+So happily now it's a different climate
+and we can continue basically from 2020
+
+577
+00:58:28,000 --> 00:58:36,000
+from that state and, well, it's good after
+all. And, well, still it's not outdated
+
+578
+00:58:36,000 --> 00:58:44,000
+stack and so on. So we can continue.
+
+579
+00:58:46,000 --> 00:58:51,000
+kushti, let's just give a quick props to
+the devs before we close out today. I just
+
+580
+00:58:51,000 --> 00:58:56,000
+popped a few things. We're a little late,
+but we did start a little late. Let me
+
+581
+00:58:56,000 --> 00:59:01,000
+just roll through them really quickly in a
+minute, just to give a heads up to people.
+
+582
+00:59:03,000 --> 00:59:07,000
+Let's see, kushti worked on R&D, reviewed
+and opened an issue, worked on some sub
+
+583
+00:59:07,000 --> 00:59:11,000
+blocks, re-worked forking logic, continued
+to work on white paper, and he worked on
+
+584
+00:59:11,000 --> 00:59:15,000
+Sigma SDK polishing and going to publish
+more examples, and he got a review up
+
+585
+00:59:15,000 --> 00:59:19,000
+there.
+
+586
+00:59:19,000 --> 00:59:25,000
+Big update from Rosen Bridge. The final
+test milestone for Bitcoin Runes release
+
+587
+00:59:25,000 --> 00:59:31,000
+has started. They hope to finish important
+ones and start Bitcoin Runes development
+
+588
+00:59:31,000 --> 00:59:37,000
+deployment procedure. Awesome, by next
+week. On chain token map they worked on
+
+589
+00:59:37,000 --> 00:59:43,000
+all supported tokens of the bridge is to
+find an adjacent structured file very
+
+590
+00:59:43,000 --> 00:59:49,000
+cool. Let's see a UI app summary. They
+added a new extracted a fetch token map
+
+591
+00:59:49,000 --> 00:59:55,000
+boxes Added callback to Rosen service and
+added a wrap token map Rosen bridge guard
+
+592
+00:59:55,000 --> 01:00:01,000
+app they updated and they updated the
+Rosen bridge app as well very cool.
+
+593
+01:00:01,000 --> 01:00:10,000
+So then ergo wallet and so there is need
+to update ergo wallet and, well, consider
+
+594
+01:00:10,000 --> 01:00:19,000
+maintenance and then development, right?
+So, well, if you guys know any kotlin java
+
+595
+01:00:19,000 --> 01:00:28,000
+android developers so, well, so try to get
+them to our...
+
+596
+01:00:28,000 --> 01:00:33,000
+I'll talk to kushti. Awesome. We've got
+Updating I think one of the last ones from
+
+597
+01:00:33,000 --> 01:00:38,000
+cyberverse. They're trucking along still
+making their in-game battles a thing
+
+598
+01:00:38,000 --> 01:00:43,000
+They've completed their first version of a
+death system low HP neutral Neural
+
+599
+01:00:43,000 --> 01:00:48,000
+distortion and visual corruption. Yes
+collapse sequence and hospital response
+
+600
+01:00:48,000 --> 01:00:53,000
+and recovery breathing fogger. So that's
+pretty cool. Very cool And that's it for
+
+601
+01:00:53,000 --> 01:00:58,000
+the dev updates and we are definitely over
+time guys
+
+602
+01:01:00,000 --> 01:01:06,000
+And there are also updates from Git
+circles, Lithos and so on. So we need to
+
+603
+01:01:06,000 --> 01:01:12,000
+push the teams to publish over the dev
+chat. Not just them. And by the way, so we
+
+604
+01:01:12,000 --> 01:01:18,000
+can also do Twitter space on Lithos,
+right? Because they have planned to launch
+
+605
+01:01:18,000 --> 01:01:24,000
+a test at mining soon.
+
+606
+01:01:24,000 --> 01:01:28,000
+Yeah, we should do that. That should be
+some afternoon sometime. So Joe and Cheese
+
+607
+01:01:28,000 --> 01:01:32,000
+can be awake and participate and talk
+about Lithos. That'd be great. I can ping
+
+608
+01:01:32,000 --> 01:01:36,000
+them right now before I forget.
+
+609
+01:01:36,000 --> 01:01:41,000
+Alright guys, thanks so much for joining
+us. We'll see you next week around the
+
+610
+01:01:41,000 --> 01:01:46,000
+same time Thanks for those that popped on
+for those that come into the waiting room
+
+611
+01:01:46,000 --> 01:01:51,000
+and chat And we bring you in and then you
+leave I can't tell if you're a spammer or
+
+612
+01:01:51,000 --> 01:01:56,000
+not So if you want to chat and have your
+video here of your audio here coming
+
+613
+01:01:56,000 --> 01:02:01,000
+before the start of the meeting is always
+the easiest and Pop on your audio or you
+
+614
+01:02:01,000 --> 01:02:06,000
+video in chat with us for a bit so we can
+verify you're not a racist spammer drawing
+
+615
+01:02:06,000 --> 01:02:11,000
+bad things on the screen or sharing
+pornography standard on on just Following
+
+616
+01:02:11,000 --> 01:02:16,000
+the chat or the one that's on youtube Or
+maybe you do on youtube and then that way
+
+617
+01:02:16,000 --> 01:02:21,000
+people can participate but we just
+
+618
+01:02:22,000 --> 01:02:26,000
+You know, we copy those because
+otherwise, I don't know. Oh, I was
+
+619
+01:02:26,000 --> 01:02:30,000
+reading. I've got the questions. I've got
+a question. You pasted them in chat before
+
+620
+01:02:30,000 --> 01:02:34,000
+I could get before I did. But we put
+questions up. I think we're following
+
+621
+01:02:34,000 --> 01:02:38,000
+these. I mean people who want to come in
+person and push in and talk with audio.
+
+622
+01:02:38,000 --> 01:02:42,000
+Great man is what I was referring to.
+
+623
+01:02:46,000 --> 01:02:48,000
+We hope to have more of them as long as
+it works.
+
+624
+01:02:48,000 --> 01:02:51,000
+It's a proof of work, though. So you
+actually have to work to show us that
+
+625
+01:02:51,000 --> 01:02:54,000
+you're not going to spam us or scam us on
+the live stream, that's for sure.
+
+626
+01:02:55,000 --> 01:02:58,000
+In this regard, maybe Twitter space is
+better, right? So it's immediately seen
+
+627
+01:02:58,000 --> 01:03:01,000
+there, I mean, in some history. Who you
+are.
+
+628
+01:03:02,000 --> 01:03:04,000
+That's true. That is true. Maybe we can
+try that next week. That's probably a good
+
+629
+01:03:04,000 --> 01:03:06,000
+idea, kushti.
+
+630
+01:03:07,000 --> 01:03:12,000
+Okay, great, everybody. Thanks so much
+everybody have a good day and week ciao
+

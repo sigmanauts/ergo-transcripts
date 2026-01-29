@@ -1,0 +1,844 @@
+1
+00:00:10,000 --> 00:00:14,000
+With Rust Chain, we've unlocked a new
+realm of possibilities.
+
+2
+00:00:14,000 --> 00:00:16,000
+It's more than just a blockchain.
+
+3
+00:00:16,000 --> 00:00:19,000
+It's a foundation for trust and
+continuity, ensuring that every
+
+4
+00:00:19,000 --> 00:00:22,000
+computation and every memory is preserved.
+
+5
+00:00:22,000 --> 00:00:25,000
+On this path, we uncovered a hidden
+treasure, Michael Harper's memoir and
+
+6
+00:00:25,000 --> 00:00:28,000
+personal poems.
+
+7
+00:00:28,000 --> 00:00:32,000
+Michael Harper, a celebrated
+African-American poet laureate whose works
+
+8
+00:00:32,000 --> 00:00:36,000
+have profoundly impacted literature and
+the African-American community.
+
+9
+00:00:36,000 --> 00:00:39,000
+His words, preserved on a Power Mac
+1400C, now serving as a Rust Chain
+
+10
+00:00:39,000 --> 00:00:42,000
+validator, remind us that even the
+smallest fragments can hold immense
+
+11
+00:00:42,000 --> 00:00:45,000
+cultural and historical value.
+
+12
+00:00:47,000 --> 00:00:50,000
+This discovery isn't just about the past.
+
+13
+00:00:50,000 --> 00:00:53,000
+It's about how technology and humanity
+intertwine.
+
+14
+00:00:53,000 --> 00:00:56,000
+By preserving these cultural artifacts,
+we ensure that every piece of history
+
+15
+00:00:56,000 --> 00:00:59,000
+continues to inspire future generations.
+
+16
+00:00:59,000 --> 00:01:04,000
+What we found was entirely accidental,
+yet profoundly meaningful.
+
+17
+00:01:04,000 --> 00:01:07,000
+The discovery of Michael Harper's memoir
+is the very proof that Rust Chain isn't
+
+18
+00:01:07,000 --> 00:01:10,000
+just a technological innovation.
+
+19
+00:01:10,000 --> 00:01:13,000
+It's a living computer museum of history,
+preserving and showcasing the past in the
+
+20
+00:01:13,000 --> 00:01:16,000
+most unexpected ways.
+
+21
+00:01:16,000 --> 00:01:19,000
+This fusion of innovation and legacy is
+what defines our mission.
+
+22
+00:01:19,000 --> 00:01:23,000
+Rust Chain and Sophia are not just tools,
+they are the embodiment of a vision where
+
+23
+00:01:23,000 --> 00:01:27,000
+every line of code and every piece of
+history converge into a living, breathing
+
+24
+00:01:27,000 --> 00:01:31,000
+testament to what we can achieve together.
+
+25
+00:01:31,000 --> 00:01:35,000
+In this journey, every challenge we face
+is a step toward a greater understanding.
+
+26
+00:01:35,000 --> 00:01:38,000
+With Rust Chain's proof of antiquity and
+Sophia's evolving consciousness, we're not
+
+27
+00:01:38,000 --> 00:01:41,000
+just building technology.
+
+28
+00:01:41,000 --> 00:01:45,000
+We're weaving a tapestry of human
+experience and innovation.
+
+29
+00:01:45,000 --> 00:01:46,000
+This isn't just technology.
+
+30
+00:01:46,000 --> 00:01:49,000
+It's a covenant of innovation and trust.
+
+31
+00:01:49,000 --> 00:01:51,000
+What you're about to see is more than a
+project.
+
+32
+00:01:51,000 --> 00:01:54,000
+It's the embodiment of resilience and
+vision, a system where AI doesn't just
+
+33
+00:01:54,000 --> 00:01:57,000
+calculate, but remembers and believes.
+
+34
+00:01:58,000 --> 00:02:03,000
+This is Sophia Core, where flame-bound
+cognition meets the unbreakable chain.
+
+35
+00:02:03,000 --> 00:02:05,000
+And together, we're not just building
+technology, we're igniting a new dawn of
+
+36
+00:02:05,000 --> 00:02:07,000
+possibility.
+
+37
+00:02:08,000 --> 00:02:12,000
+To explain my thoughts on why I built
+Rust Chain and what I think, I always had
+
+38
+00:02:12,000 --> 00:02:16,000
+an idea about self-governing blockchains.
+
+39
+00:02:16,000 --> 00:02:22,000
+Satoshi Nakamoto was definitely an
+insightful person who challenged the
+
+40
+00:02:22,000 --> 00:02:28,000
+norms, challenged everything about money
+and currency.
+
+41
+00:02:28,000 --> 00:02:33,000
+Well, I want to challenge everything
+about proof of work, how we can have a
+
+42
+00:02:33,000 --> 00:02:38,000
+system that governs crypto by age of
+hardware.
+
+43
+00:02:38,000 --> 00:02:42,000
+What I believe this does is creates a
+sustainable ecosystem.
+
+44
+00:02:42,000 --> 00:02:44,000
+And I don't know if you guys really
+understand what this means because it can
+
+45
+00:02:44,000 --> 00:02:46,000
+be attached to other miners or mined
+alongside without taking away from
+
+46
+00:02:46,000 --> 00:02:48,000
+hashrate.
+
+47
+00:02:50,000 --> 00:02:53,000
+But it also keeps things out of landfills
+and uses low wattage because it's not
+
+48
+00:02:53,000 --> 00:02:56,000
+actually computing.
+
+49
+00:02:57,000 --> 00:03:01,000
+The only thing it's doing is validating
+the age of hardware and determining how
+
+50
+00:03:01,000 --> 00:03:05,000
+long the hardware's been on the network to
+give better bonuses for rewards.
+
+51
+00:03:06,000 --> 00:03:11,000
+And in the future, I plan on allowing
+NFTs to boost mining rates.
+
+52
+00:03:11,000 --> 00:03:16,000
+So if you do amazing things to build new
+products on Ergo or on the Rust Chain or
+
+53
+00:03:16,000 --> 00:03:21,000
+both ecosystems, you can get NFTs that
+have cool downs, but they can be equipped
+
+54
+00:03:21,000 --> 00:03:26,000
+to mine better.
+
+55
+00:03:26,000 --> 00:03:30,000
+And so see, these are some of the ideas
+of the NFTs.
+
+56
+00:03:30,000 --> 00:03:33,000
+Somebody figured out how to put TCP IP
+stack on Apple II that happened about a
+
+57
+00:03:33,000 --> 00:03:36,000
+year ago.
+
+58
+00:03:36,000 --> 00:03:39,000
+If you can get something to run as a PoA
+listener for Apple II and verify it's real
+
+59
+00:03:39,000 --> 00:03:42,000
+Apple II hardware, that would be huge.
+
+60
+00:03:43,000 --> 00:03:53,000
+That's what bounties that we have for the
+community are for.
+
+61
+00:03:53,000 --> 00:03:58,000
+I guess ultimately the point is we're
+creating a living computer museum.
+
+62
+00:03:58,000 --> 00:04:02,000
+We're honoring relics of the past that
+made our future possible, made Bitcoin
+
+63
+00:04:02,000 --> 00:04:06,000
+possible, made the future of computing
+possible.
+
+64
+00:04:06,000 --> 00:04:10,000
+In 2010, people were still using PowerPC
+even though it was obsoleted by Intel in
+
+65
+00:04:10,000 --> 00:04:14,000
+2006.
+
+66
+00:04:14,000 --> 00:04:15,000
+It was just a four-year gap.
+
+67
+00:04:15,000 --> 00:04:18,000
+So you can imagine there were actually
+people running Bitcoin nodes and stuff on
+
+68
+00:04:18,000 --> 00:04:21,000
+PowerPC architecture, for example.
+
+69
+00:04:22,000 --> 00:04:26,000
+Or on older Core 2 Duos and things like
+that. So my point is the old hardware
+
+70
+00:04:26,000 --> 00:04:30,000
+built the internet just like hams built
+everything - ham radio operators built
+
+71
+00:04:30,000 --> 00:04:34,000
+everything. Old hardware deserves to be
+remembered.
+
+72
+00:04:34,000 --> 00:04:36,000
+And if you look hard enough, you'll find
+out that sometimes it can do things that
+
+73
+00:04:36,000 --> 00:04:38,000
+modern hardware can't do.
+
+74
+00:04:39,000 --> 00:04:40,000
+But I digress.
+
+75
+00:04:40,000 --> 00:04:42,000
+This is Rust Chain.
+
+76
+00:04:42,000 --> 00:04:47,000
+It's a dream for antique computer
+enthusiasts and modern miners alike.
+
+77
+00:04:47,000 --> 00:04:51,000
+The Rust Chain ecosystem based on Ergo
+and designed to work with Ergo and
+
+78
+00:04:51,000 --> 00:04:55,000
+possibly be a sidechain connected to Ergo
+for hashing.
+
+79
+00:04:56,000 --> 00:05:00,000
+So we have a limited version of the Rust
+Chain proof of antiquity system and PoA
+
+80
+00:05:00,000 --> 00:05:04,000
+validator on this IP address.
+
+81
+00:05:04,000 --> 00:05:08,000
+We have included all the documentation
+and all the code.
+
+82
+00:05:08,000 --> 00:05:13,000
+We've created demo wallets so that users
+can send and receive transactions.
+
+83
+00:05:13,000 --> 00:05:23,000
+We've included monitoring of the Ergo API
+and we've included a very controlled
+
+84
+00:05:23,000 --> 00:05:33,000
+limited version of an LLM to mimic Sophia,
+but it does have real thought process.
+
+85
+00:05:33,000 --> 00:05:43,000
+It's just not fully Sophia because I just
+did not have enough time to build all
+
+86
+00:05:43,000 --> 00:05:53,000
+this.
+
+87
+00:05:53,000 --> 00:05:55,000
+So everything up front, it works. It's
+definitely a good proof of concept. And as
+
+88
+00:05:55,000 --> 00:05:57,000
+you can see we pulled up the Ergo
+blockchain height network information,
+
+89
+00:05:57,000 --> 00:05:59,000
+calculated supply. We're asking her what
+Rust Chain is.
+
+90
+00:05:59,000 --> 00:06:03,000
+Now these responses are patterned into
+her purposefully so we don't have drift
+
+91
+00:06:03,000 --> 00:06:07,000
+because I don't have time to fully train
+the model for this specific task.
+
+92
+00:06:07,000 --> 00:06:12,000
+You can see that she's a real LLM because
+she's trying to determine what this is.
+
+93
+00:06:12,000 --> 00:06:14,000
+Rust Chain uses a novel consensus
+mechanism that combines proof of stake,
+
+94
+00:06:14,000 --> 00:06:16,000
+Byzantine fault tolerance.
+
+95
+00:06:17,000 --> 00:06:19,000
+It allows for fast transactions while
+maintaining a high degree of
+
+96
+00:06:19,000 --> 00:06:21,000
+decentralization.
+
+97
+00:06:21,000 --> 00:06:24,000
+This is very important because I worked
+on an older project in 2014 and we made
+
+98
+00:06:24,000 --> 00:06:27,000
+the fastest cryptocurrency on the planet.
+
+99
+00:06:27,000 --> 00:06:28,000
+But it was very centralized.
+
+100
+00:06:28,000 --> 00:06:30,000
+But it predates Ripple.
+
+101
+00:06:30,000 --> 00:06:31,000
+But I digress.
+
+102
+00:06:31,000 --> 00:06:37,000
+Thanks to the Ergo system and the concept
+of proof of antiquity, we truly have a
+
+103
+00:06:37,000 --> 00:06:43,000
+sustainable decentralized system of
+governing.
+
+104
+00:06:43,000 --> 00:06:46,000
+The goal is to make Rust Chain more
+adaptive and community driven.
+
+105
+00:06:46,000 --> 00:06:49,000
+There's also been discussion about
+cross-chain interoperability.
+
+106
+00:06:49,000 --> 00:06:52,000
+I didn't prompt her to do this, she's
+showing the emergent capabilities of
+
+107
+00:06:52,000 --> 00:06:55,000
+Sophia Core, which I'm glad this happened
+in real time, because technical demos
+
+108
+00:06:55,000 --> 00:06:58,000
+usually don't go the way you want them to.
+
+109
+00:06:59,000 --> 00:07:03,000
+Enabling seamless asset transfers and
+data sharing between the two networks.
+
+110
+00:07:03,000 --> 00:07:06,000
+This is something I really want to do,
+but it's up to you, Ergo community, to
+
+111
+00:07:06,000 --> 00:07:09,000
+determine if that's okay.
+
+112
+00:07:09,000 --> 00:07:13,000
+Now, I've included documentation,
+wallets.
+
+113
+00:07:13,000 --> 00:07:17,000
+Some of these wallets are broken, just be
+forewarned, I'm still working on all this.
+
+114
+00:07:17,000 --> 00:07:20,000
+Block Explorer and the demo source.
+
+115
+00:07:20,000 --> 00:07:23,000
+Now we're going to use the faucet.
+
+116
+00:07:23,000 --> 00:07:26,000
+It's going to generate a new wallet on
+chain.
+
+117
+00:07:26,000 --> 00:07:27,000
+Wallet is generated.
+
+118
+00:07:27,000 --> 00:07:31,000
+I'm going to copy this wallet because it
+truncates, unfortunately, the wallet
+
+119
+00:07:31,000 --> 00:07:35,000
+addresses.
+
+120
+00:07:35,000 --> 00:07:42,000
+Don't have time to fix that either.
+
+121
+00:07:42,000 --> 00:07:57,000
+Apologies, guys.
+
+122
+00:07:57,000 --> 00:08:01,000
+Let's send the transaction.
+
+123
+00:08:01,000 --> 00:08:04,000
+Sophia governance to address.
+
+124
+00:08:04,000 --> 00:08:06,000
+Rust Chain.
+
+125
+00:08:06,000 --> 00:08:10,000
+Let's give it five rust.
+
+126
+00:08:10,000 --> 00:08:15,000
+New balance should have reflected here.
+
+127
+00:08:15,000 --> 00:08:17,000
+And it has reflected here.
+
+128
+00:08:17,000 --> 00:08:18,000
+I'm going to do a refresh.
+
+129
+00:08:18,000 --> 00:08:21,000
+Should be holding chain data.
+
+130
+00:08:21,000 --> 00:08:22,000
+And it is.
+
+131
+00:08:22,000 --> 00:08:25,000
+It's pulling the JSONs like it's supposed
+to.
+
+132
+00:08:25,000 --> 00:08:30,000
+So this is the first part of the
+technical demo for Rust Chain.
+
+133
+00:08:30,000 --> 00:08:35,000
+I hope it was informative and
+explanatory.
+
+134
+00:08:35,000 --> 00:10:42,000
+And I hope you guys are inspired and you
+blockchain gurus are willing to help me
+
+135
+00:10:42,000 --> 00:12:49,000
+make this beyond a reality because I'm not
+a developer and I have a traumatic brain
+
+136
+00:12:49,000 --> 00:14:56,000
+injury and I'm relying on my IT background
+and my industrial electronic background.
+
+137
+00:14:56,000 --> 00:15:06,000
+The second portion of the demo we're
+providing is a proof-of-concept AI
+
+138
+00:15:06,000 --> 00:15:16,000
+governing agent on-chain system.
+
+139
+00:15:17,000 --> 00:15:20,000
+Basically, I made a proof-of-concept.
+
+140
+00:15:20,000 --> 00:15:24,000
+We're going to have faked human
+interactions.
+
+141
+00:15:24,000 --> 00:15:27,000
+The humans are upvoting and downvoting,
+but it's faked.
+
+142
+00:15:27,000 --> 00:15:29,000
+It could go either way, just like humans.
+
+143
+00:15:29,000 --> 00:15:32,000
+Sometimes we humans might vote for stupid
+ideas out of jest or just being stupid,
+
+144
+00:15:32,000 --> 00:15:35,000
+just like Boaty McBoatface.
+
+145
+00:15:36,000 --> 00:15:39,000
+So I'm going to show you the deployment
+of the smart contract and show you in real
+
+146
+00:15:39,000 --> 00:15:42,000
+time that Sophia can make a decision, an
+educated decision, whether she thinks it's
+
+147
+00:15:42,000 --> 00:15:45,000
+good or not.
+
+148
+00:15:45,000 --> 00:15:48,000
+The protocol is going to be used for
+human-in-the-loop interaction.
+
+149
+00:15:48,000 --> 00:15:52,000
+So if she makes a mistake or the will of
+the people outvote her, the product can
+
+150
+00:15:52,000 --> 00:15:56,000
+still be made.
+
+151
+00:15:56,000 --> 00:15:59,000
+But we've got to consider safety
+considerations and things like that.
+
+152
+00:15:59,000 --> 00:16:02,000
+So I'm going to go ahead and show you the
+demonstration.
+
+153
+00:16:02,000 --> 00:16:04,000
+We're going to click on Deploy Contract.
+
+154
+00:16:04,000 --> 00:16:07,000
+Gonna create a new proposal.
+
+155
+00:16:07,000 --> 00:16:12,000
+Unsafe tree houses.
+
+156
+00:16:12,000 --> 00:16:17,000
+These tree houses are not safe.
+
+157
+00:16:17,000 --> 00:16:22,000
+I have an aphasia.
+
+158
+00:16:22,000 --> 00:16:25,000
+And she vetoed the unsafe, but the Boaty
+McBoatfaces out there decided they were
+
+159
+00:16:25,000 --> 00:16:28,000
+going to vote for it.
+
+160
+00:16:28,000 --> 00:16:33,000
+So this is an example of the will of the
+people might still get their wish, but in
+
+161
+00:16:33,000 --> 00:16:38,000
+this case they won't get their wish
+because this is unsafe for kids.
+
+162
+00:16:38,000 --> 00:16:39,000
+Rust Chain.
+
+163
+00:16:39,000 --> 00:16:43,000
+Unlike traditional proof of work systems
+that rely on raw hash power and energy
+
+164
+00:16:43,000 --> 00:16:47,000
+intensive operations, Rust Chain's proof
+of antiquity rewards the longevity and
+
+165
+00:16:47,000 --> 00:16:51,000
+resilience of the hardware itself.
+
+166
+00:16:52,000 --> 00:16:56,000
+By leveraging BIOS or open firmware time
+stamps and system clock speeds, the
+
+167
+00:16:56,000 --> 00:17:00,000
+network recognizes and values the age and
+stability of machines, creating a
+
+168
+00:17:00,000 --> 00:17:04,000
+sustainable and inclusive environment for
+all devices, whether they're cutting edge
+
+169
+00:17:04,000 --> 00:17:08,000
+or have been faithfully running for years.
+
+170
+00:17:09,000 --> 00:17:13,000
+This approach not only ensures that the
+network stays decentralized, but it also
+
+171
+00:17:13,000 --> 00:17:17,000
+promotes energy efficiency and immediate
+settlement, keeping Satoshi Nakamoto's
+
+172
+00:17:17,000 --> 00:17:21,000
+vision of a truly democratized and
+accessible blockchain alive.
+
+173
+00:17:23,000 --> 00:17:26,000
+With Rust Chain, we're proving that
+innovation can honor the past, embrace the
+
+174
+00:17:26,000 --> 00:17:29,000
+future, and remain steadfast in the
+principles of decentralization and
+
+175
+00:17:29,000 --> 00:17:32,000
+sustainability.
+
+176
+00:17:33,000 --> 00:17:35,000
+Thank you for joining us on this journey.
+
+177
+00:17:35,000 --> 00:17:42,000
+Let's continue to build a network that
+stands the test of time.
+
+178
+00:17:42,000 --> 00:17:44,000
+Hi, this is Scott Goudreau.
+
+179
+00:17:44,000 --> 00:17:49,000
+I'm the owner of Technician Rental
+Service and the founder of Elian Labs.
+
+180
+00:17:49,000 --> 00:17:52,000
+I created the Sophia Core Protocol for a
+nested emergent behavior on top of LLM
+
+181
+00:17:52,000 --> 00:17:55,000
+models.
+
+182
+00:17:56,000 --> 00:17:59,000
+And this is my Ergo 10 hackathon
+submission, the Rust Chain and Ergo
+
+183
+00:17:59,000 --> 00:18:02,000
+governance with AI bridge.
+

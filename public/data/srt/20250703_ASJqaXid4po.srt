@@ -1,0 +1,1815 @@
+1
+00:00:12,000 --> 00:00:15,000
+Happy Ergoversary everybody.
+
+2
+00:00:15,000 --> 00:00:21,000
+I'm QX and with me we have Dan, the man
+from ZenGate, Dan Friedman.
+
+3
+00:00:21,000 --> 00:00:26,000
+You might recognize him from Dan. I love
+the hat. Where'd you get that hat from?
+
+4
+00:00:26,000 --> 00:00:30,000
+This one weirdo gave it to me at some
+event or something like that. I don't
+
+5
+00:00:30,000 --> 00:00:34,000
+know. You know, it's just, well, what does
+it say anyway? What is that?
+
+6
+00:00:35,000 --> 00:00:37,000
+Make mining great again.
+
+7
+00:00:37,000 --> 00:00:42,000
+Oh, okay. It's MGA.
+
+8
+00:00:42,000 --> 00:00:47,000
+All right, Dan, let's, you know, as
+somebody who's in the ecosystem as myself,
+
+9
+00:00:47,000 --> 00:00:52,000
+sometimes I find that I miss out on things
+or I'm not completely clear on things. So
+
+10
+00:00:52,000 --> 00:00:57,000
+I think this is a great opportunity to
+talk to you about what the hell ZenGate
+
+11
+00:00:57,000 --> 00:01:02,000
+is, what the heck Palmyra is, how Ergo
+helps those kinds of things be possible.
+
+12
+00:01:02,000 --> 00:01:07,000
+Let's start at the top. What's ZenGate,
+Dan?
+
+13
+00:01:07,000 --> 00:01:12,000
+Well, ZenGate is actually right behind
+me. We're in the ZenGate office right now.
+
+14
+00:01:12,000 --> 00:01:17,000
+In Japan. Yeah, in Japan. So this is
+ZenGate Japan behind me. We have a couple
+
+15
+00:01:17,000 --> 00:01:22,000
+other ZenGate offices, but this is the
+main one.
+
+16
+00:01:22,000 --> 00:01:28,000
+I mean, just, you know, long story short,
+we're a technology company utilizing
+
+17
+00:01:28,000 --> 00:01:34,000
+various different technologies like Web2
+and Web3 to fulfill one of our core
+
+18
+00:01:34,000 --> 00:01:40,000
+missions, one of them being opportunity
+inclusion for MSMEs, micro, small and
+
+19
+00:01:40,000 --> 00:01:46,000
+mid-sized enterprises, which are
+businesses that mostly produce
+
+20
+00:01:46,000 --> 00:01:52,000
+commodities, although we're not limited to
+commodities, but they're kind of like the
+
+21
+00:01:52,000 --> 00:01:58,000
+bedrock, they're the lifeblood of the
+world.
+
+22
+00:02:01,000 --> 00:02:06,000
+And so I thought that I was going to
+build a company, was going to work with
+
+23
+00:02:06,000 --> 00:02:11,000
+that sector because that's where the most
+impact is. And again, another big first
+
+24
+00:02:11,000 --> 00:02:16,000
+principle of ours is real world impact,
+RWI, which is again, what our technology
+
+25
+00:02:16,000 --> 00:02:21,000
+is here to provide.
+
+26
+00:02:23,000 --> 00:02:28,000
+Yeah, and so that's translated in a
+series of products, which we call the
+
+27
+00:02:28,000 --> 00:02:33,000
+Palmyra ecosystem and the Web3 part of
+that, which is the Palm Economy. And
+
+28
+00:02:33,000 --> 00:02:38,000
+essentially, it's a platform that again
+creates opportunity inclusion for MSMEs.
+
+29
+00:02:38,000 --> 00:02:43,000
+We largely deal with commodity and
+commodity producers in developing
+
+30
+00:02:43,000 --> 00:02:48,000
+economies.
+
+31
+00:02:51,000 --> 00:02:58,000
+And we do everything from giving them
+more market access through the Palmyra
+
+32
+00:02:58,000 --> 00:03:05,000
+platform, Palmyra that app, which is
+basically a commodities trading and
+
+33
+00:03:05,000 --> 00:03:12,000
+purchasing platform that utilizes Web2 and
+Web3 for traceability, for authentication,
+
+34
+00:03:12,000 --> 00:03:19,000
+for logistics, to essentially bring, to
+cut all the waste, cut all the gray area,
+
+35
+00:03:19,000 --> 00:03:26,000
+cut all the black box-ness out of the
+process and essentially just connect the
+
+36
+00:03:26,000 --> 00:03:33,000
+producer with the buyer, with the consumer
+and to make both happy, to make sure that
+
+37
+00:03:33,000 --> 00:03:40,000
+the producer gets the most optimal value
+for their commodity and so that the buyer
+
+38
+00:03:40,000 --> 00:03:47,000
+gets the most optimal value for the money
+they spend and get what they pay for what
+
+39
+00:03:47,000 --> 00:03:54,000
+they're buying.
+
+40
+00:03:56,000 --> 00:03:59,000
+What's blockchain have to do this? Why?
+Why blockchain? And you could do this on
+
+41
+00:03:59,000 --> 00:04:02,000
+some sort of proprietary system.
+
+42
+00:04:02,000 --> 00:04:07,000
+So basically, I mean, one of the core
+components of this is traceability. And we
+
+43
+00:04:07,000 --> 00:04:12,000
+all know the traceability is something
+that blockchain is really, really well
+
+44
+00:04:12,000 --> 00:04:17,000
+positioned for - immutable traceability.
+One of the main issues with commodity
+
+45
+00:04:17,000 --> 00:04:22,000
+trade is the lack of transparency and the
+lack of traceability and essentially
+
+46
+00:04:22,000 --> 00:04:27,000
+adulteration and counterfeiting.
+
+47
+00:04:30,000 --> 00:04:36,000
+This happens across the commodity sector
+everywhere you go. And I'm not just
+
+48
+00:04:36,000 --> 00:04:42,000
+talking about commodities that are traded
+on commodities exchanges like the golds
+
+49
+00:04:42,000 --> 00:04:48,000
+and the silvers of the world. But say, for
+example, a commodity like honey. This is
+
+50
+00:04:48,000 --> 00:04:54,000
+one of our pilots right now is with a
+Zambian honey firm called Nature's Nectar.
+
+51
+00:04:56,000 --> 00:05:02,000
+And so what we did was we put several
+thousand producers on chain for
+
+52
+00:05:02,000 --> 00:05:08,000
+traceability and authentication purposes
+for the honey because statistically honey
+
+53
+00:05:08,000 --> 00:05:14,000
+is one of the most adulterated foodstuffs
+in the world. It's literally one of the
+
+54
+00:05:14,000 --> 00:05:20,000
+most adulterated foodstuffs because of the
+lack of transparency between what happens
+
+55
+00:05:20,000 --> 00:05:26,000
+from the producer, the bee hive keeper and
+the producer that is say in Zambia, to
+
+56
+00:05:26,000 --> 00:05:32,000
+when it hits the shelf at your local
+wherever you go shopping over there in
+
+57
+00:05:32,000 --> 00:05:38,000
+upstate New York.
+
+58
+00:05:41,000 --> 00:05:45,000
+So when you say that you mean that the
+honey farmer is going to get a tiny bit of
+
+59
+00:05:45,000 --> 00:05:49,000
+the pie when it's on the shelf, it's going
+to be 10, 20, 30 times more than that guy
+
+60
+00:05:49,000 --> 00:05:53,000
+sold it to them for.
+
+61
+00:05:53,000 --> 00:05:58,000
+Well, it's not just that. It's not just
+that it's going to be 10, 20, 30 times
+
+62
+00:05:58,000 --> 00:06:03,000
+more expensive than what they actually
+sold it for. It's also not going to be the
+
+63
+00:06:03,000 --> 00:06:08,000
+same product in many cases. It is going to
+be mixed in with syrups, with other
+
+64
+00:06:08,000 --> 00:06:13,000
+substances. In fact, there was a study
+that I bring up quite often that was done
+
+65
+00:06:13,000 --> 00:06:18,000
+a few years back that says that
+potentially almost 80% of all honey in the
+
+66
+00:06:18,000 --> 00:06:23,000
+West is not real honey. It is honey
+flavored syrup or it might have a
+
+67
+00:06:23,000 --> 00:06:28,000
+percentage of honey in it, but it's
+actually not real honey. It's not 100%
+
+68
+00:06:28,000 --> 00:06:33,000
+pure honey.
+
+69
+00:06:34,000 --> 00:06:39,000
+And so this is why it is so important to
+have traceability, because in the end, the
+
+70
+00:06:39,000 --> 00:06:44,000
+producer wants to give you honey. They
+want you to buy their honey. But what
+
+71
+00:06:44,000 --> 00:06:49,000
+happens between when the producer sells
+and when you get is what needs to be,
+
+72
+00:06:49,000 --> 00:06:54,000
+that's where the transparency comes in,
+and that's where transparency is lacking.
+
+73
+00:06:57,000 --> 00:07:02,000
+Basically blockchain, one of the things
+that blockchain does is it helps create
+
+74
+00:07:02,000 --> 00:07:07,000
+that transparency. And so what we have is
+called a Winter Protocol, which was built
+
+75
+00:07:07,000 --> 00:07:12,000
+on Ergo and it's a full traceability and
+tokenization protocol. And so this
+
+76
+00:07:12,000 --> 00:07:17,000
+protocol is being used to track and trace
+in this case, and it has many different
+
+77
+00:07:17,000 --> 00:07:22,000
+uses, but in this case it's used to track
+and trace the honey literally from the
+
+78
+00:07:22,000 --> 00:07:27,000
+beehive because the actual beehive is on
+chain to when it actually ends up with you
+
+79
+00:07:27,000 --> 00:07:32,000
+and in fact this honey is going to be
+available through another one of our
+
+80
+00:07:32,000 --> 00:07:37,000
+portals called Palmyra Express really soon
+and we're going to have it at Rare Evo
+
+81
+00:07:37,000 --> 00:07:42,000
+which is coming up in less than two
+months, I think.
+
+82
+00:07:46,000 --> 00:07:49,000
+Is that a site that any normal consumer
+could go to and just buy like a
+
+83
+00:07:49,000 --> 00:07:52,000
+marketplace?
+
+84
+00:07:52,000 --> 00:07:57,000
+Yeah. So up until now, all of our
+products have been and all of our
+
+85
+00:07:57,000 --> 00:08:02,000
+commodities have been B2B. A lot of our
+business has been B2B oriented. There were
+
+86
+00:08:02,000 --> 00:08:07,000
+minimum quantities that you could purchase
+for various reasons, because a lot of
+
+87
+00:08:07,000 --> 00:08:12,000
+these guys are not retail stores. They're
+bulk producers. So, you know, you can't
+
+88
+00:08:12,000 --> 00:08:17,000
+ask them to send you, like a half a kilo
+of tea. You can ask them to send you 100
+
+89
+00:08:17,000 --> 00:08:22,000
+kilos of tea, 50 kilos, but not a half a
+kilo.
+
+90
+00:08:27,000 --> 00:08:32,000
+However, we got so much, so many requests
+from our community members saying that,
+
+91
+00:08:32,000 --> 00:08:37,000
+hey, guys, I just want to try this stuff.
+Can I just buy this stuff? And so what we
+
+92
+00:08:37,000 --> 00:08:42,000
+actually did was we created an internal
+infrastructure where we ourselves purchase
+
+93
+00:08:42,000 --> 00:08:47,000
+from these producers and then create
+limited quantity offerings to the
+
+94
+00:08:47,000 --> 00:08:52,000
+community through Palmyra Express and
+that's expressed with an X.
+
+95
+00:08:56,000 --> 00:09:01,000
+And so you can get there several places.
+I don't even know which domain name we're
+
+96
+00:09:01,000 --> 00:09:06,000
+going to put out there, but I registered
+all the different variations of it. So you
+
+97
+00:09:06,000 --> 00:09:11,000
+can go to palmyra.express. To get to it,
+you can go to palmyra.express with an X
+
+98
+00:09:11,000 --> 00:09:16,000
+because the actual branding is with X, but
+then, you know, some people might get that
+
+99
+00:09:16,000 --> 00:09:21,000
+wrong and want to just have an express.
+You can also go to palmyraexpress.com,
+
+100
+00:09:21,000 --> 00:09:26,000
+just palmyraexpress, then
+palmyraexpress.com. All roads lead to
+
+101
+00:09:26,000 --> 00:09:31,000
+Palmyra. That's basically what it is.
+
+102
+00:09:37,000 --> 00:09:41,000
+How does this work from a logistic
+standpoint? Do you have like locations in
+
+103
+00:09:41,000 --> 00:09:45,000
+the United States or that kind of
+continents there? Yeah, somewhere in
+
+104
+00:09:45,000 --> 00:09:49,000
+Europe and you store them there and then
+ship from there. You're not like shipping
+
+105
+00:09:49,000 --> 00:09:53,000
+right from the producer immediately one
+off to somebody in the US or one off to
+
+106
+00:09:53,000 --> 00:09:57,000
+somebody in Europe.
+
+107
+00:09:57,000 --> 00:10:03,000
+It depends on the actual commodity.
+Sometimes it's going to be directly from
+
+108
+00:10:03,000 --> 00:10:09,000
+the producer, sometimes it's going to be
+from us because we're going to set up a
+
+109
+00:10:09,000 --> 00:10:15,000
+fulfillment operation as well. Now for
+these particular offerings that we have,
+
+110
+00:10:15,000 --> 00:10:21,000
+what we're going to be doing is we're
+actually going to be purchasing from our
+
+111
+00:10:21,000 --> 00:10:27,000
+producers through our U.S. company and
+then we'll be able to resell this directly
+
+112
+00:10:27,000 --> 00:10:33,000
+to the community that is in the U.S. and
+Canada.
+
+113
+00:10:34,000 --> 00:10:39,000
+And so these orders are going to be
+fulfilled through the ZenGate U.S. entity.
+
+114
+00:10:39,000 --> 00:10:44,000
+And so like I said, sometimes it's
+directly from the producer, sometimes it's
+
+115
+00:10:44,000 --> 00:10:49,000
+through us because it takes a really long
+time to get it from the producer because
+
+116
+00:10:49,000 --> 00:10:54,000
+of various different reasons. Like say the
+producer might be in a developing economy
+
+117
+00:10:54,000 --> 00:10:59,000
+that just does not have expedient
+logistics. And so, of course, you know,
+
+118
+00:10:59,000 --> 00:11:04,000
+while, you know, if you want to get this
+stuff directly from the producer, you take
+
+119
+00:11:04,000 --> 00:11:09,000
+it into account. You don't want to have
+somebody who's buying, you know, a jar of
+
+120
+00:11:09,000 --> 00:11:14,000
+honey wait to have to wait a month to get
+it.
+
+121
+00:11:17,000 --> 00:11:22,000
+So, I mean, honey is good forever,
+though, you know, in fairness.
+
+122
+00:11:22,000 --> 00:11:26,000
+Yeah, actually, yes. That's actually
+something that many people don't know.
+
+123
+00:11:26,000 --> 00:11:30,000
+Honey does not have an expiration date. It
+is it does not expire unless there is, you
+
+124
+00:11:30,000 --> 00:11:34,000
+know, other outside things that are
+introduced into it that can go bad. But
+
+125
+00:11:34,000 --> 00:11:38,000
+pure honey itself does not expire.
+
+126
+00:11:39,000 --> 00:11:42,000
+So I remember as a kid, we had we had a
+beehive in my house when I was a kid and
+
+127
+00:11:42,000 --> 00:11:45,000
+we used to grab the old honey off the
+shelf that was all crystallized. And my
+
+128
+00:11:45,000 --> 00:11:48,000
+mom would just put it in a little double
+boiler for like 20, 30 minutes and it'd be
+
+129
+00:11:48,000 --> 00:11:51,000
+normal honey again.
+
+130
+00:11:53,000 --> 00:11:57,000
+It's all the same. it's sort of the same
+with maple syrup as well you know maple
+
+131
+00:11:57,000 --> 00:12:01,000
+syrup or literally do put expiration dates
+on it it literally just turns to you know
+
+132
+00:12:01,000 --> 00:12:05,000
+turns to the crystal turns to sugar right
+yeah and sugar doesn't have an expiration
+
+133
+00:12:05,000 --> 00:12:09,000
+date and so yeah to bring it back to life
+like i had this you know, big, giant thing
+
+134
+00:12:09,000 --> 00:12:13,000
+of Canadian maple syrup, I probably had
+for the past, like, eight years, you know,
+
+135
+00:12:13,000 --> 00:12:17,000
+and it's still like half full, because I
+don't really use that much corn syrup or
+
+136
+00:12:17,000 --> 00:12:21,000
+maple syrup. But once in a while, I'll
+have some pancakes.
+
+137
+00:12:27,000 --> 00:12:30,000
+And I'm like, shit, man, I gotta get once
+in a while, you'll have some pancakes,
+
+138
+00:12:30,000 --> 00:12:33,000
+Dan, let's be honest here.
+
+139
+00:12:33,000 --> 00:12:39,000
+Well, when I'm in the U.S., okay, but I'm
+saying I'm not in the U.S., yeah, of
+
+140
+00:12:39,000 --> 00:12:45,000
+course. When I'm in the U.S., the pancakes
+are a regular thing, but that's because I
+
+141
+00:12:45,000 --> 00:12:51,000
+compensate. I try to increase the pancake
+intake, and then some people. Some people,
+
+142
+00:12:51,000 --> 00:12:57,000
+although I invite them to IHOP, I invite
+them to my pancake breakfast, give me shit
+
+143
+00:12:57,000 --> 00:13:03,000
+about, oh, it's so far away, oh, wait a
+second.
+
+144
+00:13:03,000 --> 00:13:06,000
+I only missed it once, Dan. I've been
+every other time, just once.
+
+145
+00:13:06,000 --> 00:13:09,000
+Yeah, you missed it once, and that's one
+time too many QX.
+
+146
+00:13:09,000 --> 00:13:13,000
+All right, so tell me, give me, give me,
+I've never heard a specific rundown
+
+147
+00:13:13,000 --> 00:13:17,000
+exactly just from what I've read and in my
+head of actual traceability of how it
+
+148
+00:13:17,000 --> 00:13:21,000
+works. Can you take us through a journey
+of a baby tea leaf in Sri Lanka and when
+
+149
+00:13:21,000 --> 00:13:25,000
+it gets, when it gets registered on chain,
+what steps along the way it also gets
+
+150
+00:13:25,000 --> 00:13:29,000
+registered on chain when the initial
+registration happens, all that kind of
+
+151
+00:13:29,000 --> 00:13:33,000
+goodness. Give us, give us that. Let's
+name the little tiny tea leaf Earl, we'll
+
+152
+00:13:33,000 --> 00:13:37,000
+call them Earl as an Earl Grey.
+
+153
+00:13:42,000 --> 00:13:48,000
+It's a he what if he doesn't identify as
+they them, they they they. Thank you.
+
+154
+00:13:48,000 --> 00:13:54,000
+Thank you. Come on. Come on. 21st century
+got to be inclusive.
+
+155
+00:13:55,000 --> 00:14:00,000
+Okay, so again, it's not. Well, again, I
+don't know if I said it this time, but
+
+156
+00:14:00,000 --> 00:14:05,000
+traceability is not like a one size fits
+all solution. So in different cases, you
+
+157
+00:14:05,000 --> 00:14:10,000
+can have different levels and granularity
+of traceability. And in the end, you get
+
+158
+00:14:10,000 --> 00:14:15,000
+down to like, is it really necessary? I
+mean, how deep do you wanna go? Because
+
+159
+00:14:15,000 --> 00:14:20,000
+you can go really deep with traceability,
+but in the end it's like, okay, yeah, but
+
+160
+00:14:20,000 --> 00:14:25,000
+if you go this deep, I mean, really, what
+is the value here? What are the chances if
+
+161
+00:14:25,000 --> 00:14:30,000
+you go this deep that this particular part
+is actually adulterated or screws up? And
+
+162
+00:14:30,000 --> 00:14:35,000
+sometimes you're like, okay, yeah, there's
+a, you know, it's like a 2% chance
+
+163
+00:14:35,000 --> 00:14:40,000
+something's going to go bad if you don't
+have traceability at this point. But you
+
+164
+00:14:40,000 --> 00:14:45,000
+think about it, well, 98 out of 100 is
+still pretty, pretty damn good. So you
+
+165
+00:14:45,000 --> 00:14:50,000
+have that, you know, you have that
+threshold that you come up with.
+
+166
+00:14:55,000 --> 00:15:00,000
+Now, if you are at they, a tea leaf that
+is being traced, again, it could start all
+
+167
+00:15:00,000 --> 00:15:05,000
+the way from the orchard. And so the way
+they do it is they utilize a protocol
+
+168
+00:15:05,000 --> 00:15:10,000
+through what we call Palmyra Pro. And so
+the Palmyra Pro is part of the Palmyra
+
+169
+00:15:10,000 --> 00:15:15,000
+suite that utilizes traceability and
+really is tailored for, it's producer
+
+170
+00:15:15,000 --> 00:15:20,000
+focused.
+
+171
+00:15:23,000 --> 00:15:29,000
+So a lot of data gathering and a lot of
+data processing happens when it's still in
+
+172
+00:15:29,000 --> 00:15:35,000
+production, right? So for example, with
+tea, it's not just like a robotic process,
+
+173
+00:15:35,000 --> 00:15:41,000
+right? Sometimes it is, but really with
+the finer teas, what you have is a special
+
+174
+00:15:41,000 --> 00:15:47,000
+formula for when it is picked, which tea
+leaves are used for which types of teas,
+
+175
+00:15:47,000 --> 00:15:53,000
+which grades of teas, how the tea is
+dehydrated, how the tea is cured, how the
+
+176
+00:15:53,000 --> 00:15:59,000
+tea is stored, how the tea is packaged and
+processed.
+
+177
+00:16:04,000 --> 00:16:09,000
+All of these things can create a unique
+taste and a unique variant of the tea. And
+
+178
+00:16:09,000 --> 00:16:14,000
+so one of the main things that, for
+example, happens with tea is producers
+
+179
+00:16:14,000 --> 00:16:19,000
+often have to record the process of how
+the tea was cured. And then when the tea
+
+180
+00:16:19,000 --> 00:16:24,000
+comes out, they taste it and they see,
+okay, so this batch came out really well.
+
+181
+00:16:24,000 --> 00:16:29,000
+What was the process? What was the
+humidity? What was the hydration time?
+
+182
+00:16:29,000 --> 00:16:34,000
+What kind of process we used for
+dehydration? Which kind of crop was it?
+
+183
+00:16:34,000 --> 00:16:39,000
+Where was the crop from? Like all these
+different things, they take into account
+
+184
+00:16:39,000 --> 00:16:44,000
+because all these different things have an
+effect on what it tastes like.
+
+185
+00:16:50,000 --> 00:16:55,000
+And so what you want to have, especially
+in premium blends and brands, you want to
+
+186
+00:16:55,000 --> 00:17:00,000
+have that premium consistency. And so that
+is like, for example, for tea, that is
+
+187
+00:17:00,000 --> 00:17:05,000
+important. That's why traceability is
+important for that. And so what they do is
+
+188
+00:17:05,000 --> 00:17:10,000
+a lot of times they'll just start right
+from the orchard. There is, there are
+
+189
+00:17:10,000 --> 00:17:15,000
+places like say Sri Lanka that have year
+round tea harvesting, you know, just it
+
+190
+00:17:15,000 --> 00:17:20,000
+happens in batches. And that's how they
+set up these tea orchards.
+
+191
+00:17:20,000 --> 00:17:27,000
+And so you can start with actually
+registering all the different tea
+
+192
+00:17:27,000 --> 00:17:34,000
+orchards, site A1, site A2, site A3, in
+whatever batches you have, however your
+
+193
+00:17:34,000 --> 00:17:41,000
+tea bush is organized. And then you can
+put in things like, say, for example, pH
+
+194
+00:17:41,000 --> 00:17:48,000
+and weather patterns that were present
+when the tea was growing. Then you put in
+
+195
+00:17:48,000 --> 00:17:55,000
+information, again, using Palmyra Pro,
+when the tea was picked and how it was
+
+196
+00:17:55,000 --> 00:18:02,000
+picked. Was it machine picked? Was it hand
+picked? Which part of the tea leaf was
+
+197
+00:18:02,000 --> 00:18:09,000
+picked? at what time in the day, at what
+elevation.
+
+198
+00:18:13,000 --> 00:18:18,000
+And again, elevation, they have low, mid,
+and high elevation teas, again, that
+
+199
+00:18:18,000 --> 00:18:23,000
+create different types of crops. And all
+of this is gathered through Palmyra Pro.
+
+200
+00:18:23,000 --> 00:18:28,000
+All this data is gathered through Palmyra
+Pro. So what does that do? Number one, and
+
+201
+00:18:28,000 --> 00:18:33,000
+again, it goes all the way to when the tea
+is packaged and shipped off. And it can go
+
+202
+00:18:33,000 --> 00:18:38,000
+beyond that. You can put in logistics
+information. You can put in a warehouse
+
+203
+00:18:38,000 --> 00:18:43,000
+storage information, say if you want to.
+
+204
+00:18:44,000 --> 00:18:50,000
+For example, you can use IoT devices. And
+again, a lot of this uses IoT devices for
+
+205
+00:18:50,000 --> 00:18:56,000
+obvious reasons. You can check the
+humidity level of the warehouse that it
+
+206
+00:18:56,000 --> 00:19:02,000
+was being stored in. You can put that on
+chain. You can then also do shelf life.
+
+207
+00:19:02,000 --> 00:19:08,000
+Tea has, I believe, something like a
+two-year shelf life. So you have to also
+
+208
+00:19:08,000 --> 00:19:14,000
+go and put that on chain if you want to.
+
+209
+00:19:16,000 --> 00:19:21,000
+And so all this information goes on
+chain. And again, you decide how granular
+
+210
+00:19:21,000 --> 00:19:26,000
+you want. You might not want to put all of
+it on chain. You might want to put some of
+
+211
+00:19:26,000 --> 00:19:31,000
+it on chain. Again, it's up to the
+producer utilizing Palmyra Pro to gather
+
+212
+00:19:31,000 --> 00:19:36,000
+the information, to process the
+information, to catalog the information
+
+213
+00:19:36,000 --> 00:19:41,000
+and then to present the information to the
+producer themselves for various reasons,
+
+214
+00:19:41,000 --> 00:19:46,000
+for internal stock keeping, for recording
+and processing of different crops and what
+
+215
+00:19:46,000 --> 00:19:51,000
+comes out.
+
+216
+00:19:53,000 --> 00:19:58,000
+Regulations and compliance, for example,
+they have to go to say the Sri Lankan tea
+
+217
+00:19:58,000 --> 00:20:03,000
+board and they have to bring records of
+how the tea was grown to get a
+
+218
+00:20:03,000 --> 00:20:08,000
+certification of some sort to exports, you
+know, getting export certificates and
+
+219
+00:20:08,000 --> 00:20:13,000
+where they have to fulfill different
+various different in some situations,
+
+220
+00:20:13,000 --> 00:20:18,000
+like, for example, exporting to the EU and
+the US, they have to fill various
+
+221
+00:20:18,000 --> 00:20:23,000
+different regulation requirements, right,
+reporting requirements.
+
+222
+00:20:25,000 --> 00:20:31,000
+One of them is called EUDR. It's the
+European Union Deforestation Regulation.
+
+223
+00:20:31,000 --> 00:20:37,000
+And it goes into effect, I believe, next
+year. And so while tea is not a commodity,
+
+224
+00:20:37,000 --> 00:20:43,000
+it's on that list, there is a list of
+essential commodities that are on that
+
+225
+00:20:43,000 --> 00:20:49,000
+list. Anyway, there's about, I think,
+yeah, but almost a dozen commodities.
+
+226
+00:20:52,000 --> 00:20:57,000
+And so these commodities starting next
+year, they're going to be required to have
+
+227
+00:20:57,000 --> 00:21:02,000
+mandatory traceability information to be
+able to sell in the EU. And if they don't
+
+228
+00:21:02,000 --> 00:21:07,000
+have this information, they cannot sell in
+the EU. And in fact, if they don't have
+
+229
+00:21:07,000 --> 00:21:12,000
+this information and they bring products
+into the EU and try to sell them, they
+
+230
+00:21:12,000 --> 00:21:17,000
+could actually be permanently banished
+from being able to sell in the EU.
+
+231
+00:21:21,000 --> 00:21:25,000
+And so this is really scary for people
+who like, they're gonna like, okay, so how
+
+232
+00:21:25,000 --> 00:21:29,000
+do we do this? Because there is no, you
+know, the EU didn't say, okay, yeah, so
+
+233
+00:21:29,000 --> 00:21:33,000
+just use this system right here and you're
+gonna be able to comply through it. It's
+
+234
+00:21:33,000 --> 00:21:37,000
+like, no, you have to have traceability
+information. It's like, okay, how do we do
+
+235
+00:21:37,000 --> 00:21:41,000
+that? You figure that out. That's
+basically what they did. And so that's
+
+236
+00:21:41,000 --> 00:21:45,000
+also Palmyra, Palmyra Pro, that's what it
+does. And again, under the hood, all this
+
+237
+00:21:45,000 --> 00:21:49,000
+is run on the Winter Protocol, which is on
+Ergo.
+
+238
+00:21:52,000 --> 00:21:56,000
+So Dan, so I have a friend in the paper
+business. And one of the big things that
+
+239
+00:21:56,000 --> 00:22:00,000
+this big, he works for connecting paper
+suppliers, paper mills to the actual
+
+240
+00:22:00,000 --> 00:22:04,000
+people who, you know, cut and package the
+paper after that, they'll sell the huge,
+
+241
+00:22:04,000 --> 00:22:08,000
+huge like, you know, six foot tall,
+massive rolls in the truck to the company
+
+242
+00:22:08,000 --> 00:22:12,000
+who will then slice them up into paper
+sheets or whatever, depending on what they
+
+243
+00:22:12,000 --> 00:22:16,000
+want kind of thing.
+
+244
+00:22:19,000 --> 00:22:22,000
+And the thing that his company does is
+they have their own traceability protocol
+
+245
+00:22:22,000 --> 00:22:25,000
+that's proprietary, right? And the
+advantage of that is all these companies
+
+246
+00:22:25,000 --> 00:22:28,000
+that they're with and these mills are
+with, all their data is stored in that
+
+247
+00:22:28,000 --> 00:22:31,000
+proprietary system. If they want to find
+somebody else to do their stuff, it's
+
+248
+00:22:31,000 --> 00:22:34,000
+probably going to be a headache, right?
+It's probably going to be a probably going
+
+249
+00:22:34,000 --> 00:22:37,000
+to rethink that kind of thing.
+
+250
+00:22:41,000 --> 00:22:44,000
+So do you feel that the trade-offs of
+using a blockchain where everything's
+
+251
+00:22:44,000 --> 00:22:47,000
+open, where another company could come in
+and maybe offer more of a service, maybe
+
+252
+00:22:47,000 --> 00:22:50,000
+offer some different things and just say,
+oh yeah, your database about all your
+
+253
+00:22:50,000 --> 00:22:53,000
+traceability is public right now. We can
+just copy exactly what's going on there.
+
+254
+00:22:53,000 --> 00:22:56,000
+And that's what we do. And you'll just
+continue to add to your traceability
+
+255
+00:22:56,000 --> 00:22:59,000
+history right on that same chain that you
+were doing it before. And you're not going
+
+256
+00:22:59,000 --> 00:23:02,000
+to notice a difference kind of thing.
+
+257
+00:23:08,000 --> 00:23:13,000
+So do you feel the trade-offs of using
+the blockchain where something like Ergo
+
+258
+00:23:13,000 --> 00:23:18,000
+where what we've had like zero downtime
+since launch kind of thing and the
+
+259
+00:23:18,000 --> 00:23:23,000
+cheapness of creating the traceability on
+chain outweighs those benefits of trying
+
+260
+00:23:23,000 --> 00:23:28,000
+to keep something close to us and trap
+that customer in essentially?
+
+261
+00:23:29,000 --> 00:23:35,000
+Well, the thing about that is I mean,
+aside from just information being on
+
+262
+00:23:35,000 --> 00:23:41,000
+chain, it's all about how it gets there,
+right? And so there's a term that is used,
+
+263
+00:23:41,000 --> 00:23:47,000
+it's called minimum viable ecosystem, MVE.
+And so for you to be able to actually
+
+264
+00:23:47,000 --> 00:23:53,000
+create an optimal or an efficient way of
+reporting, you have to have that minimal
+
+265
+00:23:53,000 --> 00:23:59,000
+viable ecosystem for this to happen. And
+that happens when people are trained. That
+
+266
+00:23:59,000 --> 00:24:05,000
+happens when people are onboarded onto
+something like Palmyra Pro. That happens
+
+267
+00:24:05,000 --> 00:24:11,000
+when there are processes in place that
+utilize Palmyra Pro. And so you can't just
+
+268
+00:24:11,000 --> 00:24:17,000
+switch it out for something else just
+because the information is on chain. It's
+
+269
+00:24:17,000 --> 00:24:23,000
+how it gets on chain is also important.
+
+270
+00:24:24,000 --> 00:24:29,000
+And so, yeah, of course, I mean, there
+could always, I mean, there's always going
+
+271
+00:24:29,000 --> 00:24:34,000
+to be competition out there. But it's not
+just about the pure information that's on
+
+272
+00:24:34,000 --> 00:24:39,000
+chain. It's about how that information is
+gathered. It's about how the minimal
+
+273
+00:24:39,000 --> 00:24:44,000
+viable ecosystem is deployed. It's about
+the onboarding. It's about the integration
+
+274
+00:24:44,000 --> 00:24:49,000
+into it. A lot of companies will not just
+go, oh, that's just cheaper and let's just
+
+275
+00:24:49,000 --> 00:24:54,000
+do that. They will look at all of this.
+Okay, yeah, it might be cheaper, say, per
+
+276
+00:24:54,000 --> 00:24:59,000
+month to utilize this, but what is it
+going to cost us to actually switch over
+
+277
+00:24:59,000 --> 00:25:04,000
+to this? Or what is that company, for
+example, what are they going to do to grow
+
+278
+00:25:04,000 --> 00:25:09,000
+with us? Because you also have to be able
+to grow with these businesses and
+
+279
+00:25:09,000 --> 00:25:14,000
+understand what they need.
+
+280
+00:25:20,000 --> 00:25:25,000
+For example, when we integrate and when
+we deploy Palmyra Pro with our producers.
+
+281
+00:25:25,000 --> 00:25:30,000
+We work with the producers. It's not just
+like one of those things like, you know,
+
+282
+00:25:30,000 --> 00:25:35,000
+you sign up and tomorrow you're using it.
+
+283
+00:25:35,000 --> 00:25:36,000
+Right. Right.
+
+284
+00:25:36,000 --> 00:25:40,000
+I mean, you could create that type of
+version and eventually we will have
+
+285
+00:25:40,000 --> 00:25:44,000
+something more just a bare bones type of
+thing where you just kind of DIY the whole
+
+286
+00:25:44,000 --> 00:25:48,000
+thing. But to really have that really big
+value add that comes from on chain
+
+287
+00:25:48,000 --> 00:25:52,000
+traceability, you have to work with the
+producer, you have to understand the
+
+288
+00:25:52,000 --> 00:25:56,000
+particular use case. And you have to
+understand all the nuances. And so that's
+
+289
+00:25:56,000 --> 00:26:00,000
+actually where a lot of the work is.
+
+290
+00:26:04,000 --> 00:26:07,000
+Yeah, it sounds like we have this
+discussion, I think a couple of weeks ago
+
+291
+00:26:07,000 --> 00:26:10,000
+on the AMA about, you know, with open
+source software, it's not necessarily the
+
+292
+00:26:10,000 --> 00:26:13,000
+tech part of the project that you're
+selling to the customer, you're selling
+
+293
+00:26:13,000 --> 00:26:16,000
+your service and something better than
+somebody else can provide at the time kind
+
+294
+00:26:16,000 --> 00:26:19,000
+of thing.
+
+295
+00:26:21,000 --> 00:26:26,000
+Yeah. Yeah. I mean, essentially it's,
+it's that, you know, it's not just about
+
+296
+00:26:26,000 --> 00:26:31,000
+the pure functionality. It's about the
+experience that is around the UX, that's,
+
+297
+00:26:31,000 --> 00:26:36,000
+that's surrounded. And a lot of times, the
+UX just cannot be copy pasted. You know,
+
+298
+00:26:36,000 --> 00:26:41,000
+it's, it's, you can't, you can copy and
+paste an ecosystem. Yeah. That has to be
+
+299
+00:26:41,000 --> 00:26:46,000
+built. That has to be organic or else it's
+not going to work.
+
+300
+00:26:49,000 --> 00:26:53,000
+Yeah. So besides the cheapest, I
+remember, I remember affordability. I
+
+301
+00:26:53,000 --> 00:26:57,000
+remember MGPi speaking about when he was
+working on something where he was doing
+
+302
+00:26:57,000 --> 00:27:01,000
+something for Ethereum and then for
+Cardano and then for Ergo. And he said
+
+303
+00:27:01,000 --> 00:27:05,000
+something that I always remember. He said
+something like, yep, in Ergo, I did it in
+
+304
+00:27:05,000 --> 00:27:09,000
+a week in Cardano. It took like four
+weeks. And on Ethereum, it took, you know,
+
+305
+00:27:09,000 --> 00:27:13,000
+like a month or two months kind of thing.
+And just speaks to the like, turn around
+
+306
+00:27:13,000 --> 00:27:17,000
+the amount of quick time you can really
+get these kind of things set up and going
+
+307
+00:27:17,000 --> 00:27:21,000
+on Ergo.
+
+308
+00:27:27,000 --> 00:27:30,000
+Yeah. And again, this is one of the main
+reasons why I started building this thing
+
+309
+00:27:30,000 --> 00:27:33,000
+on Ergo is because it was just all really
+straightforward. You know, you just go
+
+310
+00:27:33,000 --> 00:27:36,000
+there, you figure out. I mean, it's
+it's...
+
+311
+00:27:36,000 --> 00:27:39,000
+You even started it. I remember you
+starting to yourself that I remember you
+
+312
+00:27:39,000 --> 00:27:42,000
+sitting down. Yeah, I did. I did. You were
+punching it out there for a couple of
+
+313
+00:27:42,000 --> 00:27:45,000
+weeks getting at the base started there.
+
+314
+00:27:46,000 --> 00:27:51,000
+Yeah, I did. I did. I started it because
+because it's been some years when I, you
+
+315
+00:27:51,000 --> 00:27:56,000
+know, since I actually set down to code
+and I found out that some of the
+
+316
+00:27:56,000 --> 00:28:01,000
+development environments I was using are
+no longer used. And so I had to kind of
+
+317
+00:28:01,000 --> 00:28:06,000
+like, you know, I do a refresher and I'm
+like, why the hell isn't this working?
+
+318
+00:28:06,000 --> 00:28:11,000
+Like Alex is, oh yeah, they don't really
+use that development environment. Okay,
+
+319
+00:28:11,000 --> 00:28:16,000
+well, I guess, you know, 2015 called.
+
+320
+00:28:16,000 --> 00:28:20,000
+But, you know, eventually, I mean, and
+again, with the help of the community and
+
+321
+00:28:20,000 --> 00:28:24,000
+who I ended up actually hiring later on,
+like for example, Luca was really helpful,
+
+322
+00:28:24,000 --> 00:28:28,000
+you know, from the start, explaining just
+how to utilize all the different tools on
+
+323
+00:28:28,000 --> 00:28:32,000
+Ergo. And so eventually I just said, Hey,
+why don't we just have Luca work with us?
+
+324
+00:28:32,000 --> 00:28:36,000
+And so that's how that happened. You know,
+and, you know, the same thing happened. We
+
+325
+00:28:36,000 --> 00:28:40,000
+should share same thing happened with,
+with several people that are, that are
+
+326
+00:28:40,000 --> 00:28:44,000
+working at ZenGate. These people came from
+the community, you know, and that's
+
+327
+00:28:44,000 --> 00:28:48,000
+because these people were, were so helpful
+in the beginning that I thought that,
+
+328
+00:28:48,000 --> 00:28:52,000
+yeah, I just want to keep working with
+them.
+
+329
+00:28:56,000 --> 00:29:00,000
+Yeah. Well, that's awesome, Dan. So I
+think ZenGate and other things in Ergo are
+
+330
+00:29:00,000 --> 00:29:04,000
+really doing what is going to make or
+break blockchains, right? You know, I feel
+
+331
+00:29:04,000 --> 00:29:08,000
+like blockchain at this point in time,
+cryptocurrency is on the teeter of have
+
+332
+00:29:08,000 --> 00:29:12,000
+VCs pumped and pulled and sucked enough
+value out of these chains to where we're
+
+333
+00:29:12,000 --> 00:29:16,000
+finally hitting a point where people, as
+kushti's preaching, people are sick of
+
+334
+00:29:16,000 --> 00:29:20,000
+these VC dumps, and they're looking for
+something that actually provides value and
+
+335
+00:29:20,000 --> 00:29:24,000
+that can bring something to, like you say,
+you say RWIs, right? You say real, what
+
+336
+00:29:24,000 --> 00:29:28,000
+was your term?
+
+337
+00:29:35,000 --> 00:29:36,000
+Real world impact, that's right.
+
+338
+00:29:36,000 --> 00:29:39,000
+Yeah, you got it. They have real world,
+but I really feel like ZenGate
+
+339
+00:29:39,000 --> 00:29:42,000
+accomplishes that.
+
+340
+00:29:42,000 --> 00:29:47,000
+You know, I mean, a lot of this stuff is
+noise. A lot of this stuff is noise. You
+
+341
+00:29:47,000 --> 00:29:52,000
+really get into it and you just realize
+that there's so much noise out there in
+
+342
+00:29:52,000 --> 00:29:57,000
+the crypto space that you really have to
+understand what really matters. And what
+
+343
+00:29:57,000 --> 00:30:02,000
+really matters in the end is when you
+build things like this, that's why we're
+
+344
+00:30:02,000 --> 00:30:07,000
+in this. That's why we're building this is
+because that's what makes sense. That's
+
+345
+00:30:07,000 --> 00:30:12,000
+what makes sense in the long term.
+
+346
+00:30:16,000 --> 00:30:21,000
+And really those of us that got into this
+movement because we saw the big picture.
+
+347
+00:30:21,000 --> 00:30:26,000
+Sometimes we'll get distracted, you know,
+and we'll think, oh, you know, it's over,
+
+348
+00:30:26,000 --> 00:30:31,000
+it's over because of all this, you know,
+useless bullshit that's out there. And
+
+349
+00:30:31,000 --> 00:30:36,000
+then again, you get back to it's like,
+well, no, but the core mission, the core
+
+350
+00:30:36,000 --> 00:30:41,000
+technology is still there. It's waiting to
+be used just because it's being used in an
+
+351
+00:30:41,000 --> 00:30:46,000
+idiotic way doesn't mean that it
+invalidates its core mission, purpose, and
+
+352
+00:30:46,000 --> 00:30:51,000
+possibilities.
+
+353
+00:30:53,000 --> 00:30:56,000
+I agree, Dan. Well, anything you want to
+say to Ergo or to ZenGate or to the
+
+354
+00:30:56,000 --> 00:30:59,000
+community before we close up here?
+
+355
+00:31:00,000 --> 00:31:03,000
+Well, look, I'd like to wish everybody a
+happy Ergoversary. Six years old, I think,
+
+356
+00:31:03,000 --> 00:31:06,000
+right?
+
+357
+00:31:07,000 --> 00:31:11,000
+2019? Something like that. Six years old,
+yeah.
+
+358
+00:31:11,000 --> 00:31:16,000
+Six years old. I'm going to be ready for
+first grade soon. It's been an honor and a
+
+359
+00:31:16,000 --> 00:31:21,000
+privilege to be part of the community, to
+be able to build a business on Ergo, to be
+
+360
+00:31:21,000 --> 00:31:26,000
+able to build on Ergo. I mean, I just hope
+more people out there in the community
+
+361
+00:31:26,000 --> 00:31:31,000
+take that extra step and really start
+building a business because I think that's
+
+362
+00:31:31,000 --> 00:31:36,000
+really what this needs.
+
+363
+00:31:40,000 --> 00:31:46,000
+I always say that Ergo is the US Steel of
+blockchains. You might not know it by
+
+364
+00:31:46,000 --> 00:31:52,000
+name, but a bunch of stuff that you use is
+built with it. So I think that that's a
+
+365
+00:31:52,000 --> 00:31:58,000
+damn fine place to be in. I think that's
+essentially that puts it as one of the
+
+366
+00:31:58,000 --> 00:32:04,000
+core building blocks of the entire
+blockchain movement. And like I said, I
+
+367
+00:32:04,000 --> 00:32:10,000
+still strongly believe that and I hope
+that others will join me and they believe
+
+368
+00:32:10,000 --> 00:32:16,000
+it so much that they will spend their
+time, their money and their energy in
+
+369
+00:32:16,000 --> 00:32:22,000
+building a business on Ergo.
+
+370
+00:32:22,000 --> 00:32:25,000
+Amazing well said Dan can't top that.
+Thanks so much for joining us and happy
+
+371
+00:32:25,000 --> 00:32:28,000
+birthday Ergo Thank you very much.
+
+372
+00:32:29,000 --> 00:32:32,000
+Yep. Happy birthday Ergo.
+

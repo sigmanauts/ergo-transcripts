@@ -1,0 +1,215 @@
+1
+00:00:13,000 --> 00:00:16,000
+Hi everyone, happy anniversary Ergo.
+
+2
+00:00:16,000 --> 00:00:20,000
+Today I'm going to give you a few updates
+about Gluon.
+
+3
+00:00:20,000 --> 00:00:24,000
+Gluon is a new stablecoin protocol and
+Gluon Golden Ergo is the first
+
+4
+00:00:24,000 --> 00:00:28,000
+implementation of this protocol.
+
+5
+00:00:28,000 --> 00:00:31,000
+It's the first autonomous gold-backed
+stablecoin.
+
+6
+00:00:31,000 --> 00:00:34,000
+To try it, visit gluon.gold.
+
+7
+00:00:34,000 --> 00:00:37,000
+To learn more about how the protocol
+works, check my previous talks in previous
+
+8
+00:00:37,000 --> 00:00:40,000
+Ergo summits.
+
+9
+00:00:40,000 --> 00:00:43,000
+In this talk, I will just report our
+recent progress in the research and
+
+10
+00:00:43,000 --> 00:00:46,000
+development of Gluon.
+
+11
+00:00:47,000 --> 00:00:51,000
+One recent good news is that
+implementation of Gluon on Ergo was
+
+12
+00:00:51,000 --> 00:00:55,000
+independently audited by Krasavice Blazen
+and no further vulnerabilities have been
+
+13
+00:00:55,000 --> 00:00:59,000
+found.
+
+14
+00:00:59,000 --> 00:01:02,000
+The audit included not only inspection of
+the code, but also a simulation of the
+
+15
+00:01:02,000 --> 00:01:05,000
+protocol itself.
+
+16
+00:01:06,000 --> 00:01:11,000
+Here in this slide, you can see part of
+the audit report and also a part of the
+
+17
+00:01:11,000 --> 00:01:16,000
+Python simulation code.
+
+18
+00:01:17,000 --> 00:01:20,000
+On the research side, we have already
+proven five out of the six stability
+
+19
+00:01:20,000 --> 00:01:23,000
+theorems that we intend to prove.
+
+20
+00:01:24,000 --> 00:01:28,000
+And the last theorem is almost proven as
+well.
+
+21
+00:01:28,000 --> 00:01:32,000
+Here you can see parts of the paper
+showing the definition of the protocol,
+
+22
+00:01:32,000 --> 00:01:36,000
+lemma one, and also part of theorem one.
+
+23
+00:01:37,000 --> 00:01:41,000
+We are also formally verifying these
+proofs in Coq.
+
+24
+00:01:41,000 --> 00:01:47,000
+This turned out to be much more time
+consuming than we originally anticipated.
+
+25
+00:01:47,000 --> 00:01:52,000
+Here you can see the beginning and the
+end of the formal proof of theorem five.
+
+26
+00:01:52,000 --> 00:02:01,000
+As you can see, it's almost 1000 lines of
+Coq code to prove this theorem.
+
+27
+00:02:01,000 --> 00:02:05,000
+If we finish the proofs on time, we are
+planning to submit the Gluon paper with
+
+28
+00:02:05,000 --> 00:02:09,000
+all the proofs and formal verification to
+the first stability workshop.
+
+29
+00:02:10,000 --> 00:02:15,000
+This is a new academic workshop that I'm
+organizing and everyone is welcome to
+
+30
+00:02:15,000 --> 00:02:20,000
+participate and submit a paper.
+
+31
+00:02:20,000 --> 00:02:24,000
+And the update that is probably most
+relevant for users of Gluon Gold is the
+
+32
+00:02:24,000 --> 00:02:28,000
+release of the new frontend.
+
+33
+00:02:28,000 --> 00:02:33,000
+It's still in beta and it still has some
+issues, but we decided to already replace
+
+34
+00:02:33,000 --> 00:02:38,000
+the old frontend because it's already
+significantly better.
+
+35
+00:02:38,000 --> 00:02:43,000
+Notable improvements of this new frontend
+include the fact that it has no dependency
+
+36
+00:02:43,000 --> 00:02:48,000
+on a backend anymore, so it's more
+decentralized.
+
+37
+00:02:49,000 --> 00:02:52,000
+There's more transparency in the
+calculation of fees, as you can see in
+
+38
+00:02:52,000 --> 00:02:55,000
+some of the screenshots here.
+
+39
+00:02:55,000 --> 00:03:02,000
+The dashboard also displays now the
+protocol's state, showing information such
+
+40
+00:03:02,000 --> 00:03:09,000
+as the reserve ratio, the total value
+locked, and the volume - information that
+
+41
+00:03:09,000 --> 00:03:16,000
+is relevant to decide whether to mint
+stable coins or to redeem stable coins.
+
+42
+00:03:17,000 --> 00:03:25,000
+And also, one other thing that this
+frontend has, which is something that
+
+43
+00:03:25,000 --> 00:03:33,000
+people had been asking, is a more familiar
+swap style UI/UX.
+
+44
+00:03:33,000 --> 00:03:34,000
+That's all for today.
+
+45
+00:03:34,000 --> 00:03:39,000
+And for more, join us in Gluon Gold
+Telegram.
+
+46
+00:03:39,000 --> 00:03:42,000
+Thanks.
+

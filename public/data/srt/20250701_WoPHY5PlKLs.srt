@@ -1,0 +1,396 @@
+1
+00:00:13,000 --> 00:00:14,000
+What's up, everybody?
+
+2
+00:00:14,000 --> 00:00:16,000
+This is Mick from BlitzTCG.
+
+3
+00:00:16,000 --> 00:00:21,000
+It's been a little while since we've had
+any sort of a real update from Blitz.
+
+4
+00:00:21,000 --> 00:00:25,000
+First, I want to say pretty much all my
+fault.
+
+5
+00:00:25,000 --> 00:00:30,000
+My life has been quite busy, and to
+demonstrate that fact, I thought I'd start
+
+6
+00:00:30,000 --> 00:00:35,000
+with something I know pretty much no other
+update's going to give you, and that is a
+
+7
+00:00:35,000 --> 00:00:40,000
+look at my life and what I've been up to
+for the past four to six months.
+
+8
+00:00:40,000 --> 00:00:42,000
+Where do I start?
+
+9
+00:00:42,000 --> 00:00:49,000
+I moved back in November. I changed jobs
+back in November. I'm getting married so
+
+10
+00:00:49,000 --> 00:00:56,000
+that's a thing. I started building this
+horse pasture, putting in these posts by
+
+11
+00:00:56,000 --> 00:01:03,000
+hand - some of my 225 posts. I built this
+horse shed.
+
+12
+00:01:05,000 --> 00:01:08,000
+This is sort of like a work-in-progress
+picture. Let's see if we can find a newer
+
+13
+00:01:08,000 --> 00:01:11,000
+one, or I guess a more completed one.
+
+14
+00:01:12,000 --> 00:01:14,000
+Here's a more completed one.
+
+15
+00:01:14,000 --> 00:01:17,000
+Here's the horses themselves.
+
+16
+00:01:17,000 --> 00:01:20,000
+So needless to say, I've been quite busy.
+
+17
+00:01:20,000 --> 00:01:25,000
+Funds have been quite lacking, as you
+might imagine, just given the state of the
+
+18
+00:01:25,000 --> 00:01:30,000
+world, number one, the state of crypto,
+number two, and Blitz is of course a
+
+19
+00:01:30,000 --> 00:01:35,000
+project that requires funding to complete,
+primarily because I am not talented enough
+
+20
+00:01:35,000 --> 00:01:40,000
+by myself to do the very many things that
+need to be done to make the game
+
+21
+00:01:40,000 --> 00:01:45,000
+successful, and of course to highlight
+that here, any of you are welcome to sort
+
+22
+00:01:45,000 --> 00:01:50,000
+of peruse the many people that have helped
+bring Blitz to where it is today.
+
+23
+00:01:52,000 --> 00:01:56,000
+That all is to say though, at the end of
+the day, Blitz is still a passion project
+
+24
+00:01:56,000 --> 00:02:00,000
+for me, still near and dear to my heart.
+
+25
+00:02:00,000 --> 00:02:04,000
+I still hope to complete it in totality
+sometime in the near future.
+
+26
+00:02:04,000 --> 00:02:08,000
+It is slow going, of course you all will
+know that from those of you who are still
+
+27
+00:02:08,000 --> 00:02:12,000
+following along.
+
+28
+00:02:12,000 --> 00:02:15,000
+But I do keep it up to date
+security-wise. Everything's still working
+
+29
+00:02:15,000 --> 00:02:18,000
+on the integrations, APIs, the back end,
+so on and so forth. We're all still
+
+30
+00:02:18,000 --> 00:02:21,000
+working as you would expect.
+
+31
+00:02:22,000 --> 00:02:26,000
+There have been some minor updates here
+and there. In fact, development was pretty
+
+32
+00:02:26,000 --> 00:02:30,000
+much continuing up until, I want to say,
+April.
+
+33
+00:02:31,000 --> 00:02:35,000
+And then I had to pause again due to some
+funding issues where I think about - I
+
+34
+00:02:35,000 --> 00:02:39,000
+don't want to overstate, but maybe about
+halfway into completing all the abilities
+
+35
+00:02:39,000 --> 00:02:43,000
+necessary for Blitz.
+
+36
+00:02:44,000 --> 00:02:46,000
+So that's a positive.
+
+37
+00:02:46,000 --> 00:02:50,000
+And then the game itself, as many of you
+know, is already downloadable, technically
+
+38
+00:02:50,000 --> 00:02:54,000
+playable, but you of course know if you
+have played it, it's not in a great state
+
+39
+00:02:54,000 --> 00:02:58,000
+right now just because everything isn't
+done.
+
+40
+00:03:00,000 --> 00:03:03,000
+So you can still log in, and I actually
+added some animations. Animations are
+
+41
+00:03:03,000 --> 00:03:06,000
+freaking expensive, by the way, for any of
+you who are curious about how much
+
+42
+00:03:06,000 --> 00:03:09,000
+hand-drawn animations are.
+
+43
+00:03:11,000 --> 00:03:13,000
+They're a lot.
+
+44
+00:03:13,000 --> 00:03:16,000
+The metrics screen is up there. I updated
+some buttons to take you to the website
+
+45
+00:03:16,000 --> 00:03:19,000
+and stuff.
+
+46
+00:03:19,000 --> 00:03:22,000
+Deck Builder still works. I think I made
+some updates to this to make it a little
+
+47
+00:03:22,000 --> 00:03:25,000
+bit more snappy and also a little bit more
+accurate for the cards you actually own
+
+48
+00:03:25,000 --> 00:03:28,000
+versus those that you don't.
+
+49
+00:03:30,000 --> 00:03:32,000
+So you can see I own one of those.
+
+50
+00:03:32,000 --> 00:03:36,000
+I fixed all the hover to discover options
+at one point or another. So basically you
+
+51
+00:03:36,000 --> 00:03:40,000
+can hover over each of these different
+things and it'll tell you what they mean
+
+52
+00:03:40,000 --> 00:03:44,000
+because there's a lot of different things
+going on.
+
+53
+00:03:45,000 --> 00:03:49,000
+And Blitz that get a little confusing
+depending on how knowledgeable you are
+
+54
+00:03:49,000 --> 00:03:53,000
+about the game.
+
+55
+00:03:53,000 --> 00:03:55,000
+So all that's still in place.
+
+56
+00:03:55,000 --> 00:03:57,000
+Oh, and all the game boards are
+programmed, so you can actually use all
+
+57
+00:03:57,000 --> 00:03:59,000
+the game boards now if you haven't played
+around with that.
+
+58
+00:04:00,000 --> 00:04:03,000
+So a few things have happened.
+
+59
+00:04:03,000 --> 00:04:08,000
+But of course, I'm not going to beat
+around the bush and make it out like we've
+
+60
+00:04:08,000 --> 00:04:13,000
+done everything that needs to be done.
+We've done a lot. There's still a lot left
+
+61
+00:04:13,000 --> 00:04:18,000
+to do despite the game being in, I'd say,
+a semi-decent state right now.
+
+62
+00:04:18,000 --> 00:04:22,000
+What else? I think that's really it. As
+soon as, I don't know, the market bounces
+
+63
+00:04:22,000 --> 00:04:26,000
+even just a little bit, and I have some
+more free time on my hands, I hope to pick
+
+64
+00:04:26,000 --> 00:04:30,000
+this back up.
+
+65
+00:04:30,000 --> 00:04:34,000
+I'm a little bit anxious to get my hands
+back on the keyboard and do a little bit
+
+66
+00:04:34,000 --> 00:04:38,000
+more programming here. It's been a while
+since I've really gotten into the weeds of
+
+67
+00:04:38,000 --> 00:04:42,000
+things, so hope to get back into the weeds
+of things soon.
+
+68
+00:04:42,000 --> 00:04:45,000
+I'll keep you all updated when I have
+updates.
+
+69
+00:04:45,000 --> 00:04:51,000
+The Discord knows that I don't post
+updates too often, but if you do have
+
+70
+00:04:51,000 --> 00:04:57,000
+questions or you have any concerns or just
+want to talk things out, I am available in
+
+71
+00:04:57,000 --> 00:05:03,000
+the Discord pretty much 24-7 and will
+respond to you if you reach out.
+
+72
+00:05:04,000 --> 00:05:07,000
+What do I want to end this?
+
+73
+00:05:07,000 --> 00:05:10,000
+Let's just say the Ergo community is near
+and dear to my heart. I really appreciate
+
+74
+00:05:10,000 --> 00:05:13,000
+all of you. I hope to see all of us
+succeed.
+
+75
+00:05:14,000 --> 00:05:16,000
+I hope to see Ergo succeed.
+
+76
+00:05:16,000 --> 00:05:21,000
+And I hope to see all of you doing and
+building on Ergo succeed.
+
+77
+00:05:21,000 --> 00:05:26,000
+I mean it's a lot of work to even bring
+something to this degree live on a
+
+78
+00:05:26,000 --> 00:05:31,000
+blockchain and on a backend and on a front
+end and with a website - it's a lot of
+
+79
+00:05:31,000 --> 00:05:36,000
+work. So make sure you all don't knock our
+community developers too hard because a
+
+80
+00:05:36,000 --> 00:05:41,000
+lot of work goes into this stuff even if
+some of these projects aren't maybe to the
+
+81
+00:05:41,000 --> 00:05:46,000
+point you want them to be quite yet. All
+that being said, thank you all again.
+
+82
+00:05:46,000 --> 00:05:51,000
+Truly hope everybody's life is going
+towards the positive in these crazy times.
+
+83
+00:05:54,000 --> 00:06:02,000
+I'll stay in touch and best of luck in
+the year folks. Take it easy.
+
+84
+00:06:02,000 --> 00:06:05,000
+Bye.
+

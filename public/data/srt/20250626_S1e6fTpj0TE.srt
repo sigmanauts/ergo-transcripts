@@ -1,0 +1,250 @@
+1
+00:00:10,000 --> 00:00:12,000
+Introducing Pulse.
+
+2
+00:00:12,000 --> 00:00:15,000
+Decentralized messaging on the Ergo
+blockchain.
+
+3
+00:00:15,000 --> 00:00:18,000
+True peer-to-peer communication without
+central servers.
+
+4
+00:00:18,000 --> 00:00:25,000
+Private, secure, and unstoppable
+messaging for the decentralized web.
+
+5
+00:00:25,000 --> 00:00:27,000
+The problem.
+
+6
+00:00:27,000 --> 00:00:31,000
+Centralized messaging platforms control
+your data.
+
+7
+00:00:31,000 --> 00:00:36,000
+Big tech companies control your
+conversations, data, and privacy.
+
+8
+00:00:36,000 --> 00:00:41,000
+Messages can be deleted, accounts banned,
+and communications monitored.
+
+9
+00:00:41,000 --> 00:00:48,000
+Your messages are stored on corporate
+servers and can be accessed.
+
+10
+00:00:48,000 --> 00:00:49,000
+The solution?
+
+11
+00:00:49,000 --> 00:00:51,000
+Pulse.
+
+12
+00:00:51,000 --> 00:00:55,000
+Decentralized messaging on the Ergo
+blockchain.
+
+13
+00:00:55,000 --> 00:00:58,000
+No central servers are required.
+
+14
+00:00:58,000 --> 00:01:02,000
+End-to-end encryption with stealth
+addresses provides ultimate privacy.
+
+15
+00:01:02,000 --> 00:01:08,000
+And a decentralized infrastructure means
+no single point of failure.
+
+16
+00:01:08,000 --> 00:01:12,000
+Pulse has advanced features that go
+beyond basic messaging.
+
+17
+00:01:12,000 --> 00:01:15,000
+It is a complete Web3 social platform.
+
+18
+00:01:15,000 --> 00:01:18,000
+Stealth mode offers anonymous messaging
+with stealth addresses for ultimate
+
+19
+00:01:18,000 --> 00:01:21,000
+privacy protection.
+
+20
+00:01:21,000 --> 00:01:25,000
+Live streaming is possible where you can
+engage with audiences in real time.
+
+21
+00:01:25,000 --> 00:01:28,000
+You can send or receive ERG tokens as
+digital gifts to streamers and content
+
+22
+00:01:28,000 --> 00:01:31,000
+creators with animated effects.
+
+23
+00:01:32,000 --> 00:01:37,000
+On-chain achievement system tracks user
+engagement and unlocks special features.
+
+24
+00:01:37,000 --> 00:01:39,000
+Intelligent chatbot integration for
+answering questions and providing
+
+25
+00:01:39,000 --> 00:01:41,000
+assistance.
+
+26
+00:01:42,000 --> 00:01:50,000
+Reply to specific messages and create
+organized conversation threads.
+
+27
+00:01:50,000 --> 00:01:52,000
+Key features.
+
+28
+00:01:52,000 --> 00:01:57,000
+Multiple wallet support, connect via
+extension wallets or import seed phrases.
+
+29
+00:01:57,000 --> 00:02:01,000
+Create public channels or encrypted
+private rooms.
+
+30
+00:02:01,000 --> 00:02:04,000
+Anonymous messaging with stealth
+addresses.
+
+31
+00:02:04,000 --> 00:02:09,000
+Real-time updates provide live messaging
+synchronization across devices.
+
+32
+00:02:09,000 --> 00:02:15,000
+A modern, responsive UI with light and
+dark themes.
+
+33
+00:02:15,000 --> 00:02:19,000
+Technical Innovation Ergo smart contracts
+make use of multi-UTXO transaction
+
+34
+00:02:19,000 --> 00:02:23,000
+building, custom box value optimization,
+advanced register management and Fleet SDK
+
+35
+00:02:23,000 --> 00:02:27,000
+integration.
+
+36
+00:02:28,000 --> 00:02:32,000
+Real-time sync makes use of mempool
+message tracking, optimistic UI updates,
+
+37
+00:02:32,000 --> 00:02:36,000
+message conflict resolution and
+auto-refresh mechanisms.
+
+38
+00:02:37,000 --> 00:02:42,000
+Advanced UX features mobile-first
+responsive design, context-aware
+
+39
+00:02:42,000 --> 00:02:47,000
+notifications, keyboard navigation support
+and accessibility compliance.
+
+40
+00:02:47,000 --> 00:02:52,000
+Privacy features include end-to-end
+encryption, stealth address generation,
+
+41
+00:02:52,000 --> 00:02:57,000
+anonymous messaging modes and data
+minimization.
+
+42
+00:02:57,000 --> 00:03:00,000
+An exceptional user experience, designed
+for both crypto natives and mainstream
+
+43
+00:03:00,000 --> 00:03:03,000
+users.
+
+44
+00:03:03,000 --> 00:03:06,000
+One-click wallet connection via Nautilus.
+
+45
+00:03:06,000 --> 00:03:08,000
+Optional stealth mode for privacy.
+
+46
+00:03:08,000 --> 00:03:12,000
+Easy token tipping with forward slash tip
+commands.
+
+47
+00:03:12,000 --> 00:03:15,000
+Powerful message search across rooms.
+
+48
+00:03:15,000 --> 00:03:18,000
+Fully responsive mobile design.
+
+49
+00:03:18,000 --> 00:03:24,000
+Dark and light theme support.
+
+50
+00:03:24,000 --> 00:03:29,000
+Built with cutting-edge Web3
+technologies, Ergo Blockchain, Next.js,
+
+51
+00:03:29,000 --> 00:03:34,000
+Svelte, Web3, and TypeScript.
+
+52
+00:03:35,000 --> 00:03:42,000
+100% decentralized.
+
+53
+00:03:42,000 --> 00:03:45,000
+Ready to experience Web3 messaging?
+
+54
+00:03:45,000 --> 00:03:49,000
+Join the decentralized communication
+revolution and start messaging on Pulse.
+

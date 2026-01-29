@@ -1,0 +1,2950 @@
+1
+00:00:00,000 --> 00:00:05,000
+Hey guys, so that was a great speech from
+Joe and thank you to Joe and the Sigma
+
+2
+00:00:05,000 --> 00:00:10,000
+Knots for sponsoring and hosting this
+event.
+
+3
+00:00:10,000 --> 00:00:14,000
+It's wonderful to finally see some faces.
+
+4
+00:00:14,000 --> 00:00:21,000
+So today we're going to be talking about
+Palm staking on the UTXO model.
+
+5
+00:00:21,000 --> 00:00:26,000
+So over the last year or so, I worked on
+implementing a native token staking
+
+6
+00:00:26,000 --> 00:00:31,000
+platform on Cardano.
+
+7
+00:00:32,000 --> 00:00:34,000
+And as you know, Cardano and Ergo are
+very similar in terms of how their
+
+8
+00:00:34,000 --> 00:00:36,000
+contracts work.
+
+9
+00:00:37,000 --> 00:00:41,000
+And they all share the UTXO model.
+
+10
+00:00:41,000 --> 00:00:47,000
+So I'll try to keep this as easy to
+understand as possible so everyone can
+
+11
+00:00:47,000 --> 00:00:53,000
+understand.
+
+12
+00:00:53,000 --> 00:00:59,000
+So we have some existing implementations
+of staking already.
+
+13
+00:00:59,000 --> 00:01:04,000
+So if you guys don't know, over the last
+cycle DeFi summer, we had sushi swap and
+
+14
+00:01:04,000 --> 00:01:09,000
+pancake swap.
+
+15
+00:01:09,000 --> 00:01:16,000
+And for really anyone new here, pancake
+swap was like how Solana is today.
+
+16
+00:01:16,000 --> 00:01:20,000
+They had all the memes and they were
+going crazy with all the meme coins, all
+
+17
+00:01:20,000 --> 00:01:24,000
+the launches, and staking with those meme
+coins.
+
+18
+00:01:25,000 --> 00:01:31,000
+And before PancakeSwap, we had SushiSwap,
+which really was a Uniswap clone, but they
+
+19
+00:01:31,000 --> 00:01:37,000
+actually did some research and they were
+the first ones to implement this modern
+
+20
+00:01:37,000 --> 00:01:43,000
+native token staking or ERC20 staking. So
+SushiSwap had this staking which really is
+
+21
+00:01:43,000 --> 00:01:49,000
+to incentivize people, right? Because
+staking makes people hold their tokens, so
+
+22
+00:01:49,000 --> 00:01:55,000
+it kind of stabilizes price movements. And
+SushiSwap pioneered this and then we got
+
+23
+00:01:55,000 --> 00:02:01,000
+PancakeSwap which basically copied it and
+made some improvements and really brought
+
+24
+00:02:01,000 --> 00:02:07,000
+it to the mass users, right?
+
+25
+00:02:13,000 --> 00:02:17,000
+Tons of people were just making meme
+coins and having staking with it.
+
+26
+00:02:17,000 --> 00:02:25,000
+So you don't sell those meme coins and
+it's kind of like inflation and Ponzi
+
+27
+00:02:25,000 --> 00:02:33,000
+scheme and so on.
+
+28
+00:02:33,000 --> 00:02:38,000
+All right, let's try to get to the next
+slide.
+
+29
+00:02:38,000 --> 00:02:41,000
+So let's have a refresher.
+
+30
+00:02:41,000 --> 00:02:46,000
+So what is the account model? And what is
+the UTXO model?
+
+31
+00:02:46,000 --> 00:02:52,000
+So the account model is, all right, let's
+start with UTXO.
+
+32
+00:02:52,000 --> 00:02:54,000
+So what are UTXOs?
+
+33
+00:02:54,000 --> 00:02:57,000
+UTXOs were pioneered by Bitcoin.
+
+34
+00:02:57,000 --> 00:03:02,000
+That's how they started their entire
+system.
+
+35
+00:03:02,000 --> 00:03:07,000
+So UTXOs stand for unspent transaction
+outputs.
+
+36
+00:03:07,000 --> 00:03:12,000
+And it's basically the outputs of the
+previous transaction you did.
+
+37
+00:03:12,000 --> 00:03:16,000
+So when you submit a transaction, you
+have a bunch of metadata. You have what
+
+38
+00:03:16,000 --> 00:03:20,000
+went into the transaction and what came
+out of the transaction.
+
+39
+00:03:21,000 --> 00:03:28,000
+And the outputs of this transaction are
+referred to as UTXOs.
+
+40
+00:03:28,000 --> 00:03:35,000
+And the transaction model really is an
+exact digital analogy to cash.
+
+41
+00:03:35,000 --> 00:03:41,000
+So let's say I have a $10 bill, and I
+want to pay for $6 coffee.
+
+42
+00:03:41,000 --> 00:03:45,000
+It's probably $8 now, inflation.
+
+43
+00:03:45,000 --> 00:03:48,000
+And if I want to pay for $6 of coffee
+with my $10 bill, I can't just rip the
+
+44
+00:03:48,000 --> 00:03:51,000
+bill in half.
+
+45
+00:03:52,000 --> 00:03:55,000
+I have to spend the entire $10 bill.
+
+46
+00:03:55,000 --> 00:03:56,000
+So what do I do?
+
+47
+00:03:56,000 --> 00:03:59,000
+I give the cashier my entire bill, and
+that's it.
+
+48
+00:03:59,000 --> 00:04:00,000
+They have the bill.
+
+49
+00:04:00,000 --> 00:04:03,000
+They're not going to rip it in half or
+anything.
+
+50
+00:04:03,000 --> 00:04:04,000
+It's just gone.
+
+51
+00:04:04,000 --> 00:04:07,000
+But they're going to give me back $4.
+
+52
+00:04:07,000 --> 00:04:10,000
+And this $4 is completely new.
+
+53
+00:04:10,000 --> 00:04:13,000
+It's not the original bill, it's just
+completely new.
+
+54
+00:04:13,000 --> 00:04:16,000
+The $10 I had, it's gone.
+
+55
+00:04:16,000 --> 00:04:19,000
+So this is how you can think of the UTXO
+model.
+
+56
+00:04:19,000 --> 00:04:23,000
+When you have an input, it always must be
+spent.
+
+57
+00:04:23,000 --> 00:04:24,000
+It's always unique.
+
+58
+00:04:24,000 --> 00:04:26,000
+You cannot spend an input more than once.
+
+59
+00:04:26,000 --> 00:04:30,000
+Unlike cash, I guess the cashier could
+spend it in other places.
+
+60
+00:04:30,000 --> 00:04:36,000
+But in the UTXO model, it can be only
+spent once.
+
+61
+00:04:36,000 --> 00:04:43,000
+And another analogy that I like is with
+the old fashioned piggy banks.
+
+62
+00:04:43,000 --> 00:04:46,000
+So you would have savings in a piggy
+bank.
+
+63
+00:04:46,000 --> 00:04:50,000
+And if you ever wanted to spend it, you
+would have to smash it open.
+
+64
+00:04:50,000 --> 00:04:52,000
+It's like a one time thing.
+
+65
+00:04:52,000 --> 00:04:55,000
+So you can also think of that. I have $10
+in my piggy bank, the piggy bank is the
+
+66
+00:04:55,000 --> 00:04:58,000
+UTXO.
+
+67
+00:04:58,000 --> 00:05:00,000
+And that's like the input.
+
+68
+00:05:00,000 --> 00:05:04,000
+And then if I want to actually spend it,
+I would smash the piggy bank open.
+
+69
+00:05:04,000 --> 00:05:06,000
+And it's gone. Just one time.
+
+70
+00:05:06,000 --> 00:05:12,000
+So that's really a brief overview of the
+UTXO model and Cardano and Ergo both make
+
+71
+00:05:12,000 --> 00:05:18,000
+use of this.
+
+72
+00:05:19,000 --> 00:05:21,000
+So what's the account model?
+
+73
+00:05:21,000 --> 00:05:28,000
+Account model is really the newer model
+and it was pioneered by Ethereum.
+
+74
+00:05:28,000 --> 00:05:33,000
+And account model really is analogous to
+your bank account where you just have a
+
+75
+00:05:33,000 --> 00:05:38,000
+list of transactions saying that maybe $10
+was deposited and you're spending $1 and
+
+76
+00:05:38,000 --> 00:05:43,000
+you have a list of transaction history.
+
+77
+00:05:45,000 --> 00:05:52,000
+So addresses are seen as accounts, and
+you just have a direct tally of balance.
+
+78
+00:05:52,000 --> 00:05:55,000
+And the thing with this, and I think of
+it as a problem, is that you need global
+
+79
+00:05:55,000 --> 00:05:58,000
+state.
+
+80
+00:05:59,000 --> 00:06:02,000
+So you need to know the history of
+everything from the start, when the
+
+81
+00:06:02,000 --> 00:06:05,000
+account got funded, to how much you have
+now, to know how much you have at this
+
+82
+00:06:05,000 --> 00:06:08,000
+moment.
+
+83
+00:06:08,000 --> 00:06:11,000
+You have to do some calculations, some
+balance add, balance deductions, and so
+
+84
+00:06:11,000 --> 00:06:14,000
+on.
+
+85
+00:06:15,000 --> 00:06:22,000
+So but this is overall how the account
+model works and it is also quite popular.
+
+86
+00:06:22,000 --> 00:06:29,000
+All the Ethereum forks use that and Solana
+uses that and all the newer blockchains
+
+87
+00:06:29,000 --> 00:06:36,000
+also use that. For those of you following
+Cardano there have a new blockchain called
+
+88
+00:06:36,000 --> 00:06:43,000
+Midnight that they're probably going to
+launch next quarter or so and Midnight
+
+89
+00:06:43,000 --> 00:06:50,000
+uses a hybrid of account model and UTXO,
+so it's quite popular.
+
+90
+00:06:51,000 --> 00:06:59,000
+Let's talk about the advantage of account
+model in the context of this staking.
+
+91
+00:06:59,000 --> 00:07:04,000
+Staking is more analogous to a
+client-server interaction.
+
+92
+00:07:04,000 --> 00:07:07,000
+What that means is that a server is
+really just a computer that never turns
+
+93
+00:07:07,000 --> 00:07:10,000
+off.
+
+94
+00:07:10,000 --> 00:07:11,000
+It's always running in the background.
+
+95
+00:07:11,000 --> 00:07:17,000
+Client is really the people who hit that
+server.
+
+96
+00:07:17,000 --> 00:07:19,000
+You need to talk to that server to do
+something.
+
+97
+00:07:19,000 --> 00:07:24,000
+For example, if you're logging into your
+email account, you're accessing a server
+
+98
+00:07:24,000 --> 00:07:29,000
+which holds all your emails.
+
+99
+00:07:29,000 --> 00:07:30,000
+You're the client.
+
+100
+00:07:30,000 --> 00:07:32,000
+You're trying to log in from your laptop.
+
+101
+00:07:32,000 --> 00:07:35,000
+That's a client-server interaction.
+
+102
+00:07:35,000 --> 00:07:39,000
+So staking is similar to this
+interaction, where the stakers are the
+
+103
+00:07:39,000 --> 00:07:43,000
+clients.
+
+104
+00:07:43,000 --> 00:07:47,000
+And they deposit their tokens to a
+contract.
+
+105
+00:07:47,000 --> 00:07:51,000
+And this contract, you can think of it as
+a server, in the sense that the contract
+
+106
+00:07:51,000 --> 00:07:55,000
+has to manage all the global state.
+
+107
+00:07:55,000 --> 00:08:00,000
+It has to track the balance so it knows
+how much rewards that you get, because
+
+108
+00:08:00,000 --> 00:08:05,000
+rewards are a function of how much tokens
+you deposit and how long you have
+
+109
+00:08:05,000 --> 00:08:10,000
+deposited them for.
+
+110
+00:08:10,000 --> 00:08:18,000
+Solidity is a very popular smart contract
+language that runs on this account model.
+
+111
+00:08:18,000 --> 00:08:21,000
+Solidity is perfect.
+
+112
+00:08:21,000 --> 00:08:25,000
+It has a single authoritative contract
+storage.
+
+113
+00:08:25,000 --> 00:08:28,000
+You have something called a map.
+
+114
+00:08:28,000 --> 00:08:32,000
+And a map is a very basic data structure
+that you have a key.
+
+115
+00:08:32,000 --> 00:08:38,000
+So a key is like the user, like your
+user, your wallet address.
+
+116
+00:08:38,000 --> 00:08:42,000
+So if you access the data within that
+wallet address, you have a bunch of data,
+
+117
+00:08:42,000 --> 00:08:46,000
+like how much they have deposited in the
+contract and how long they had the tokens
+
+118
+00:08:46,000 --> 00:08:50,000
+on and all sorts of useful information,
+perfect for this.
+
+119
+00:08:52,000 --> 00:08:58,000
+And then this doesn't translate well to
+something in the UTXO model.
+
+120
+00:08:58,000 --> 00:09:03,000
+So for UTXO contracts, you have a single
+UTXO.
+
+121
+00:09:03,000 --> 00:09:07,000
+And each UTXO, you can think of it as its
+own entity.
+
+122
+00:09:07,000 --> 00:09:11,000
+So each UTXO can have its own contract.
+
+123
+00:09:11,000 --> 00:09:18,000
+So a contract's state really is with
+respect to the UTXO it's inside of.
+
+124
+00:09:18,000 --> 00:09:21,000
+So a UTXO has this bottleneck.
+
+125
+00:09:21,000 --> 00:09:24,000
+You can't just store infinite data in it.
+
+126
+00:09:24,000 --> 00:09:27,000
+The UTXO, you have a size limit.
+
+127
+00:09:27,000 --> 00:09:32,000
+And you also have a broader transaction
+size limit, because you can argue that,
+
+128
+00:09:32,000 --> 00:09:37,000
+hey, why don't you have a bunch of UTXOs,
+this single UTXOs interact with?
+
+129
+00:09:37,000 --> 00:09:40,000
+So you can have a bunch of data.
+
+130
+00:09:40,000 --> 00:09:44,000
+So if a UTXO data size limit is like 4
+kilobytes, you can be like, OK, why don't
+
+131
+00:09:44,000 --> 00:09:48,000
+we just do 1,000 UTXOs?
+
+132
+00:09:48,000 --> 00:09:53,000
+Why not make it like 4 gigabytes or
+something?
+
+133
+00:09:53,000 --> 00:09:59,000
+No, that's not possible because you're
+bottlenecked by transaction size limits.
+
+134
+00:09:59,000 --> 00:10:04,000
+You can only deal with a specific amount
+of UTXOs per transaction.
+
+135
+00:10:04,000 --> 00:10:08,000
+And then on top of that, you also got the
+block size limit.
+
+136
+00:10:08,000 --> 00:10:12,000
+So you can only have a certain amount of
+transactions per block.
+
+137
+00:10:12,000 --> 00:10:14,000
+So a lot of bottlenecks here.
+
+138
+00:10:14,000 --> 00:10:18,000
+So how can we move on with this?
+
+139
+00:10:18,000 --> 00:10:20,000
+It almost seems impossible to bring
+something that needs such a large global
+
+140
+00:10:20,000 --> 00:10:22,000
+state.
+
+141
+00:10:23,000 --> 00:10:30,000
+Because remember, this might work for 10
+users, 100 users.
+
+142
+00:10:30,000 --> 00:10:34,000
+But how are we going to scale to 10,000
+users?
+
+143
+00:10:34,000 --> 00:10:39,000
+Because each user are going to have some
+size of data that's not going to scale.
+
+144
+00:10:39,000 --> 00:10:45,000
+So how do we do this?
+
+145
+00:10:45,000 --> 00:10:50,000
+So I had to rethink staking on the UTXO
+model.
+
+146
+00:10:50,000 --> 00:10:55,000
+So data stored for the global variables,
+so for all sorts of staking calculations,
+
+147
+00:10:55,000 --> 00:11:00,000
+they need to be bound to a constant size
+limit.
+
+148
+00:11:01,000 --> 00:11:04,000
+You can't have it scale with the amount
+of users.
+
+149
+00:11:04,000 --> 00:11:09,000
+So you can't be like, OK, one user is
+like one gigabyte of data.
+
+150
+00:11:09,000 --> 00:11:11,000
+10,000 users is 10,000 gigabytes.
+
+151
+00:11:11,000 --> 00:11:13,000
+We can't scale like that.
+
+152
+00:11:13,000 --> 00:11:16,000
+It has to be one user is like one
+gigabyte of data.
+
+153
+00:11:16,000 --> 00:11:20,000
+A million users is still one gigabyte of
+data.
+
+154
+00:11:20,000 --> 00:11:21,000
+How can we make that happen?
+
+155
+00:11:21,000 --> 00:11:23,000
+It has to be constant.
+
+156
+00:11:23,000 --> 00:11:29,000
+So a clear solution, which several
+projects on Cardano and Ergo follow.
+
+157
+00:11:29,000 --> 00:11:34,000
+So I think, what was it? The people
+behind Crux Finance, I'm forgetting their
+
+158
+00:11:34,000 --> 00:11:39,000
+name.
+
+159
+00:11:39,000 --> 00:11:43,000
+I think they're shut down now, but they
+pioneered a staking model.
+
+160
+00:11:43,000 --> 00:11:48,000
+And then a bunch of Cardano projects have
+their own staking.
+
+161
+00:11:48,000 --> 00:11:49,000
+So what do they do?
+
+162
+00:11:49,000 --> 00:11:54,000
+So they have some sort of position or
+UTXO or NFT that you can think of which
+
+163
+00:11:54,000 --> 00:11:59,000
+indicates a share of how much they have
+staked.
+
+164
+00:12:00,000 --> 00:12:04,000
+So let's say you stake a certain amount
+of tokens, you'll get back like a unique
+
+165
+00:12:04,000 --> 00:12:08,000
+token saying that, hey, this person staked
+like 100 tokens on the platform at this
+
+166
+00:12:08,000 --> 00:12:12,000
+time.
+
+167
+00:12:12,000 --> 00:12:16,000
+So if you ever want to claim that stake
+back, make an update, you have to deposit
+
+168
+00:12:16,000 --> 00:12:20,000
+that unique token you got back into the
+contract.
+
+169
+00:12:21,000 --> 00:12:27,000
+And this is a pretty straightforward and
+well-known solution to this problem.
+
+170
+00:12:27,000 --> 00:12:34,000
+However, this was not ideal for ZenGate's
+purpose because of legal conflicts.
+
+171
+00:12:34,000 --> 00:12:38,000
+The problem is that you can have
+derivative markets of something like a
+
+172
+00:12:38,000 --> 00:12:42,000
+position token because I can take my
+position token and I can be like okay I
+
+173
+00:12:42,000 --> 00:12:46,000
+don't want to be in this anymore but I
+don't want to lose that accumulation of
+
+174
+00:12:46,000 --> 00:12:50,000
+rewards. Like maybe the longer you stake
+the faster you earn rewards or something,
+
+175
+00:12:50,000 --> 00:12:54,000
+it keeps compounding so maybe I sell it to
+someone else or just give it to someone
+
+176
+00:12:54,000 --> 00:12:58,000
+else.
+
+177
+00:13:03,000 --> 00:13:05,000
+So you create these derivative markets,
+and it's a conflict from a legal
+
+178
+00:13:05,000 --> 00:13:07,000
+standpoint.
+
+179
+00:13:08,000 --> 00:13:11,000
+I don't know why, but it is what it is.
+
+180
+00:13:11,000 --> 00:13:15,000
+It's a very gray area in general,
+unfortunately.
+
+181
+00:13:15,000 --> 00:13:21,000
+So I thought of this data structure
+called a Merkle tree.
+
+182
+00:13:21,000 --> 00:13:23,000
+And this was absolutely perfect.
+
+183
+00:13:23,000 --> 00:13:27,000
+So on Ergo, you have the AVL tree.
+
+184
+00:13:27,000 --> 00:13:33,000
+And it's quite similar, so it can just
+translate to Ergo.
+
+185
+00:13:33,000 --> 00:13:38,000
+Also, what's actually really interesting
+is that the Merkle Tree data structure is
+
+186
+00:13:38,000 --> 00:13:43,000
+something that was just implemented at a
+contract level on Cardano.
+
+187
+00:13:43,000 --> 00:13:46,000
+However, on Ergo, ErgoScript, you have
+AVL tree as a native data structure within
+
+188
+00:13:46,000 --> 00:13:49,000
+the language.
+
+189
+00:13:50,000 --> 00:13:54,000
+So what that means is that basically you
+can trust the data structure on Ergo more
+
+190
+00:13:54,000 --> 00:13:58,000
+because the core team, so basically
+kushti, made the implementation in the
+
+191
+00:13:58,000 --> 00:14:02,000
+compiler itself.
+
+192
+00:14:04,000 --> 00:14:08,000
+So it's not like a third-party code that
+you're trusting to be correct, which is
+
+193
+00:14:08,000 --> 00:14:12,000
+the case on Cardano.
+
+194
+00:14:13,000 --> 00:14:22,000
+So let's see what is a Merkle tree,
+because I honestly barely knew about it
+
+195
+00:14:22,000 --> 00:14:31,000
+until I did this.
+
+196
+00:14:31,000 --> 00:14:36,000
+All right, so a Merkle tree is a
+tree-based data structure.
+
+197
+00:14:36,000 --> 00:14:39,000
+And a tree-based data structure, you can
+really think of it having a root at the
+
+198
+00:14:39,000 --> 00:14:42,000
+top.
+
+199
+00:14:43,000 --> 00:14:45,000
+And it has branches pointing to more
+roots.
+
+200
+00:14:45,000 --> 00:14:49,000
+So you can kind of see that data
+structure in the diagram behind me.
+
+201
+00:14:49,000 --> 00:14:52,000
+And the boxes, they're called nodes.
+
+202
+00:14:52,000 --> 00:14:54,000
+So you have one root node.
+
+203
+00:14:54,000 --> 00:14:56,000
+It's the main node on top.
+
+204
+00:14:56,000 --> 00:14:59,000
+Then you have those lines are called
+branches.
+
+205
+00:14:59,000 --> 00:15:02,000
+And then you have another node that's
+connected by branches.
+
+206
+00:15:02,000 --> 00:15:05,000
+They're like intermediary nodes.
+
+207
+00:15:05,000 --> 00:15:07,000
+And all the way at the bottom, you can
+see a bunch of nodes, like the final
+
+208
+00:15:07,000 --> 00:15:09,000
+nodes.
+
+209
+00:15:10,000 --> 00:15:12,000
+Those are called the leaves.
+
+210
+00:15:12,000 --> 00:15:16,000
+That's just a very well-known data
+structure in computer science.
+
+211
+00:15:16,000 --> 00:15:20,000
+So a Merkle tree is a variant of this
+data structure.
+
+212
+00:15:20,000 --> 00:15:24,000
+And it's made by hashing hashes of data.
+
+213
+00:15:24,000 --> 00:15:25,000
+So I know that's confusing.
+
+214
+00:15:25,000 --> 00:15:28,000
+So let's break that down.
+
+215
+00:15:28,000 --> 00:15:33,000
+So behind me, you can see that you have a
+block of data, like a block of files.
+
+216
+00:15:33,000 --> 00:15:38,000
+So A.txt, B.txt, C.txt, D.txt.
+
+217
+00:15:38,000 --> 00:15:41,000
+And you hash this block of data.
+
+218
+00:15:41,000 --> 00:15:46,000
+And hashing really means is that you take
+data of any size and you convert it into a
+
+219
+00:15:46,000 --> 00:15:51,000
+fixed-sized string of a certain data size.
+
+220
+00:15:52,000 --> 00:15:58,000
+So in this, or in most cases, it's always
+32 bytes of data.
+
+221
+00:15:58,000 --> 00:16:01,000
+So it's like a string of 64 characters.
+
+222
+00:16:01,000 --> 00:16:04,000
+And the cool part about this, which is
+really important in security context, is
+
+223
+00:16:04,000 --> 00:16:07,000
+that it's irreversible.
+
+224
+00:16:08,000 --> 00:16:12,000
+So if you have this fixed size string,
+you can't get the data back.
+
+225
+00:16:12,000 --> 00:16:13,000
+It's impossible.
+
+226
+00:16:13,000 --> 00:16:17,000
+But that's beyond the scope of this
+presentation.
+
+227
+00:16:17,000 --> 00:16:20,000
+So again, you have a data, and you
+transform it into a fixed size, unique
+
+228
+00:16:20,000 --> 00:16:23,000
+string.
+
+229
+00:16:23,000 --> 00:16:31,000
+So you can see A.txt has a hash H1, B.txt
+has its own hash, and so on.
+
+230
+00:16:31,000 --> 00:16:34,000
+So how does this translate to a Merkle
+tree?
+
+231
+00:16:34,000 --> 00:16:37,000
+So look at the tree behind me.
+
+232
+00:16:37,000 --> 00:16:39,000
+All the way at the bottom, the leaf
+nodes, you can see that we brought those
+
+233
+00:16:39,000 --> 00:16:41,000
+hashes over.
+
+234
+00:16:42,000 --> 00:16:47,000
+The H1Z2Y77A and so on.
+
+235
+00:16:47,000 --> 00:16:51,000
+So those are the hashes brought to the
+node, and they're at the bottom.
+
+236
+00:16:51,000 --> 00:16:57,000
+So now you look at the left side, the
+bottom left side of the tree.
+
+237
+00:16:57,000 --> 00:17:08,000
+So we take the hashes. Those are the
+hashes for A.txt, B.txt.
+
+238
+00:17:08,000 --> 00:17:11,000
+So we take those hashes and we
+concatenate them.
+
+239
+00:17:11,000 --> 00:17:12,000
+We put them together.
+
+240
+00:17:12,000 --> 00:17:15,000
+And we take the hash of that.
+
+241
+00:17:15,000 --> 00:17:19,000
+So the hash of that, you can see, is
+right above those two.
+
+242
+00:17:19,000 --> 00:17:23,000
+So it's U67R on the left side.
+
+243
+00:17:23,000 --> 00:17:27,000
+And again, we do this exact thing on the
+right side.
+
+244
+00:17:27,000 --> 00:17:32,000
+So for C.txt and D.txt, and we get a
+hash.
+
+245
+00:17:32,000 --> 00:17:35,000
+Now those hashes in the middle, again, we
+take them, we concatenate them, and we get
+
+246
+00:17:35,000 --> 00:17:38,000
+the hash.
+
+247
+00:17:38,000 --> 00:17:44,000
+And that final hash is called the root
+hash.
+
+248
+00:17:44,000 --> 00:17:48,000
+So why this is really cool is because you
+can find differences between two states,
+
+249
+00:17:48,000 --> 00:17:52,000
+so meaning like two different trees.
+
+250
+00:17:53,000 --> 00:17:58,000
+So if you made any modifications, you can
+find the difference between them really
+
+251
+00:17:58,000 --> 00:18:03,000
+fast because think of it logically. If you
+have two pieces of data, what do you have
+
+252
+00:18:03,000 --> 00:18:08,000
+to do? You have to iterate through them,
+like one bit at a time, like the smallest
+
+253
+00:18:08,000 --> 00:18:13,000
+unit of difference. You have to iterate
+through them so if there's like a million
+
+254
+00:18:13,000 --> 00:18:18,000
+pieces of data you have to make at least
+at most a million iterations. It doesn't
+
+255
+00:18:18,000 --> 00:18:23,000
+scale so with this it's a lot faster. It's
+like the log of a million maybe that's
+
+256
+00:18:23,000 --> 00:18:28,000
+like a thousand or ten thousand. I don't
+know, but it's significantly faster.
+
+257
+00:18:33,000 --> 00:18:38,000
+So let me explain this further. So you
+can see that we had the text files, and we
+
+258
+00:18:38,000 --> 00:18:43,000
+changed the contents of C.txt.
+
+259
+00:18:44,000 --> 00:18:45,000
+And what does that do?
+
+260
+00:18:45,000 --> 00:18:47,000
+We got a new hash.
+
+261
+00:18:47,000 --> 00:18:51,000
+So you can see A4W12.
+
+262
+00:18:51,000 --> 00:18:54,000
+So on the right side of the Merkle tree,
+you can see that all the way at the
+
+263
+00:18:54,000 --> 00:18:57,000
+bottom, that changed.
+
+264
+00:18:57,000 --> 00:18:59,000
+It's in yellow.
+
+265
+00:18:59,000 --> 00:19:04,000
+And now, since that changed, the hash
+above it, which is, remember, made by
+
+266
+00:19:04,000 --> 00:19:09,000
+concatenating the hash of C.txt and D.txt,
+that also changed.
+
+267
+00:19:09,000 --> 00:19:13,000
+And since that changed, the root hash
+also changed.
+
+268
+00:19:13,000 --> 00:19:16,000
+So you can see here that when you
+traverse the tree, you first check the
+
+269
+00:19:16,000 --> 00:19:19,000
+left side.
+
+270
+00:19:19,000 --> 00:19:21,000
+And you're like, oh, the left side's
+exactly the same.
+
+271
+00:19:21,000 --> 00:19:26,000
+So you know that A.txt and B.txt is
+clearly unchanged.
+
+272
+00:19:26,000 --> 00:19:31,000
+But then you go to the right side and you
+can see that, okay, D.txt isn't changed.
+
+273
+00:19:31,000 --> 00:19:33,000
+At the bottom, it's still the same.
+
+274
+00:19:33,000 --> 00:19:38,000
+So then you know really quickly that
+C.txt is changed.
+
+275
+00:19:38,000 --> 00:19:41,000
+So it's a really clever data structure.
+
+276
+00:19:41,000 --> 00:19:44,000
+It actually powers so much of the modern
+infrastructure.
+
+277
+00:19:44,000 --> 00:19:45,000
+You just don't know it.
+
+278
+00:19:45,000 --> 00:19:52,000
+But that's a quick introduction to a
+Merkle tree.
+
+279
+00:19:52,000 --> 00:19:55,000
+So you can see here the comparisons made.
+
+280
+00:19:55,000 --> 00:19:58,000
+So on the left side was the original
+tree, and the right side is the tree with
+
+281
+00:19:58,000 --> 00:20:01,000
+the C.txt changed.
+
+282
+00:20:02,000 --> 00:20:05,000
+So you can see we just make three
+comparisons.
+
+283
+00:20:05,000 --> 00:20:13,000
+So this scales really well.
+
+284
+00:20:13,000 --> 00:20:17,000
+All right, so now what we actually use
+for the staking is something called the
+
+285
+00:20:17,000 --> 00:20:21,000
+Merkle Patricia Trie.
+
+286
+00:20:21,000 --> 00:20:29,000
+And what this is is basically an
+optimized version of the Merkle Tree.
+
+287
+00:20:29,000 --> 00:20:34,000
+So a trie really is a, you can think of
+it as like a key value map, indexed by the
+
+288
+00:20:34,000 --> 00:20:39,000
+key's nibble.
+
+289
+00:20:39,000 --> 00:20:42,000
+So it's just like a bunch of characters,
+like ASCII characters.
+
+290
+00:20:42,000 --> 00:20:45,000
+And that's what a trie is.
+
+291
+00:20:45,000 --> 00:20:49,000
+And Patricia is just an optimization of
+the path.
+
+292
+00:20:49,000 --> 00:20:53,000
+So it's a very optimized structure.
+
+293
+00:20:53,000 --> 00:20:59,000
+So you make even less. So in the previous
+slide, we made like three traversals.
+
+294
+00:20:59,000 --> 00:21:03,000
+So this makes it even smaller, like maybe
+like one or two.
+
+295
+00:21:03,000 --> 00:21:08,000
+And then Merkle is from what we discussed
+before.
+
+296
+00:21:08,000 --> 00:21:13,000
+And then the proof is the path of nodes
+that you traversed.
+
+297
+00:21:13,000 --> 00:21:17,000
+So in the previous slide, we traversed
+through like three nodes.
+
+298
+00:21:17,000 --> 00:21:20,000
+So that's like the proof, you can think
+of it as that.
+
+299
+00:21:20,000 --> 00:21:22,000
+And then proving.
+
+300
+00:21:22,000 --> 00:21:24,000
+What is the action of proving?
+
+301
+00:21:24,000 --> 00:21:27,000
+So you have the inputs of the known root
+hash.
+
+302
+00:21:27,000 --> 00:21:30,000
+So the hash all the way at the top, you
+have that.
+
+303
+00:21:30,000 --> 00:21:33,000
+And then you provide the proof, so you
+provide that path.
+
+304
+00:21:33,000 --> 00:21:38,000
+And then you provide the key and the
+claimed value.
+
+305
+00:21:38,000 --> 00:21:44,000
+So you walk through from the root node to
+until you get to the key.
+
+306
+00:21:44,000 --> 00:21:46,000
+You walk through the tree.
+
+307
+00:21:46,000 --> 00:21:50,000
+And then once you reach to the value, you
+stop.
+
+308
+00:21:50,000 --> 00:21:55,000
+And then you compute the root hashes from
+that traversal.
+
+309
+00:21:55,000 --> 00:21:58,000
+You can do that same hashing from the
+scratch.
+
+310
+00:21:58,000 --> 00:21:59,000
+And then you compare it.
+
+311
+00:21:59,000 --> 00:22:04,000
+Hey, is the thing I computed, does it
+match what I already know?
+
+312
+00:22:04,000 --> 00:22:07,000
+And if yes, then you know that
+everything's correct, like no one's
+
+313
+00:22:07,000 --> 00:22:10,000
+messing with anything.
+
+314
+00:22:10,000 --> 00:22:16,000
+And yeah, so membership is proven when
+the computed root equals the known root.
+
+315
+00:22:16,000 --> 00:22:23,000
+And the known root is what you passed in.
+
+316
+00:22:23,000 --> 00:22:27,000
+So let's talk about how this integrates
+into staking.
+
+317
+00:22:27,000 --> 00:22:34,000
+So client balances are stored in this
+trie-based data structure.
+
+318
+00:22:34,000 --> 00:22:42,000
+And on-chain, so in the contracts itself,
+only the root hash is stored.
+
+319
+00:22:42,000 --> 00:22:45,000
+And remember, the root hash is a fixed
+size string of 32 bytes, because it's a
+
+320
+00:22:45,000 --> 00:22:48,000
+hash.
+
+321
+00:22:48,000 --> 00:22:52,000
+And that answers the problem we saw a
+couple slides back where we want one user
+
+322
+00:22:52,000 --> 00:22:56,000
+to be, say, one gigabyte of data, and we
+want a million users to still be that one
+
+323
+00:22:56,000 --> 00:23:00,000
+gigabyte of data.
+
+324
+00:23:02,000 --> 00:23:04,000
+So it's constant.
+
+325
+00:23:04,000 --> 00:23:11,000
+So in this case, it's always a constant
+32 bytes, which is incredibly tiny.
+
+326
+00:23:11,000 --> 00:23:14,000
+So it's always this number, even if we
+have a million clients, which is really
+
+327
+00:23:14,000 --> 00:23:17,000
+cool.
+
+328
+00:23:17,000 --> 00:23:20,000
+And thanks to that Merkle tree diagram I
+explained, it's hashes of hashes of hashes
+
+329
+00:23:20,000 --> 00:23:23,000
+and so on.
+
+330
+00:23:23,000 --> 00:23:29,000
+So any time any insertions or updates
+done, the contract does verification.
+
+331
+00:23:29,000 --> 00:23:32,000
+So as I explained in the previous slide,
+you have a proof and you have the known
+
+332
+00:23:32,000 --> 00:23:35,000
+root hash.
+
+333
+00:23:35,000 --> 00:23:38,000
+So you provide the proof and the known
+root hash.
+
+334
+00:23:38,000 --> 00:23:39,000
+And what does the contract do?
+
+335
+00:23:39,000 --> 00:23:42,000
+The contract only does computing.
+
+336
+00:23:42,000 --> 00:23:43,000
+It only does verification.
+
+337
+00:23:43,000 --> 00:23:49,000
+It doesn't need to do all the data
+storage or anything.
+
+338
+00:23:49,000 --> 00:23:52,000
+You provide the exact data that it needs,
+the least amount of data it needs to
+
+339
+00:23:52,000 --> 00:23:55,000
+actually prove what you're doing is
+correct, and you're not providing false
+
+340
+00:23:55,000 --> 00:23:58,000
+information.
+
+341
+00:24:00,000 --> 00:24:04,000
+And remember, after all of this is done,
+so if there's any mutations sent to the
+
+342
+00:24:04,000 --> 00:24:08,000
+state, meaning if you added more stake, or
+you did a claim, or you did a withdrawal,
+
+343
+00:24:08,000 --> 00:24:12,000
+that's a mutation.
+
+344
+00:24:14,000 --> 00:24:17,000
+The only thing that changes is the root
+hash.
+
+345
+00:24:17,000 --> 00:24:21,000
+So it's always that constant size length.
+
+346
+00:24:21,000 --> 00:24:28,000
+And when these updates and claims happen,
+you're providing the proof.
+
+347
+00:24:28,000 --> 00:24:36,000
+So I guess the downside of this is that
+you have to store this data somewhere.
+
+348
+00:24:36,000 --> 00:24:37,000
+It's not magic.
+
+349
+00:24:37,000 --> 00:24:41,000
+So you have to store the data in your own
+server.
+
+350
+00:24:41,000 --> 00:24:43,000
+It's called the off-chain.
+
+351
+00:24:43,000 --> 00:24:45,000
+So you have to store the data.
+
+352
+00:24:45,000 --> 00:24:48,000
+You're responsible for storing the data
+in Solidity.
+
+353
+00:24:48,000 --> 00:24:54,000
+You can just throw it on the blockchain
+and just make sure, like the EVM nodes.
+
+354
+00:24:54,000 --> 00:24:59,000
+The Ethereum nodes, the heavy 2, 3
+terabytes, 6 terabytes nodes.
+
+355
+00:24:59,000 --> 00:25:00,000
+That stores all of that.
+
+356
+00:25:00,000 --> 00:25:03,000
+So you just worry about that.
+
+357
+00:25:03,000 --> 00:25:07,000
+But on the Ergo sense, you are storing
+the data.
+
+358
+00:25:07,000 --> 00:25:28,000
+Did you have a question?
+
+359
+00:25:28,000 --> 00:25:31,000
+Great.
+
+360
+00:25:28,000 --> 00:25:30,000
+No, that's an excellent question.
+
+361
+00:25:30,000 --> 00:25:36,000
+So we got Grayman asking, what if the
+staking platform goes down?
+
+362
+00:25:36,000 --> 00:25:40,000
+Or what if I just disappear, everyone's
+screwed?
+
+363
+00:25:40,000 --> 00:25:42,000
+What if I just take down all my servers?
+
+364
+00:25:42,000 --> 00:25:46,000
+Well, that's actually not going to be an
+issue, because like I said, you're not
+
+365
+00:25:46,000 --> 00:25:50,000
+trusting me with the data.
+
+366
+00:25:50,000 --> 00:25:55,000
+Like, I can't just magically change the
+data, because all the mutations, they're
+
+367
+00:25:55,000 --> 00:26:00,000
+done by putting them through the contract.
+So if you have like some initial state you
+
+368
+00:26:00,000 --> 00:26:05,000
+have to put it through the contract to get
+the next state. So the contract's always
+
+369
+00:26:05,000 --> 00:26:10,000
+the intermediary between state changes so
+it's as secure as the contract is secure
+
+370
+00:26:10,000 --> 00:26:15,000
+because this contract does all the checks
+it needs to do.
+
+371
+00:26:16,000 --> 00:26:19,000
+Regarding the data, it's really cool
+because you can actually walk through the
+
+372
+00:26:19,000 --> 00:26:22,000
+blockchain.
+
+373
+00:26:22,000 --> 00:26:27,000
+Walk through all the blocks and you can
+always recalculate it.
+
+374
+00:26:27,000 --> 00:26:28,000
+It's not magic.
+
+375
+00:26:28,000 --> 00:26:31,000
+The blockchain doesn't store the data,
+but it has you can think of it as
+
+376
+00:26:31,000 --> 00:26:34,000
+snapshots in time.
+
+377
+00:26:34,000 --> 00:26:38,000
+So you can traverse through all the
+original snapshots and get back the
+
+378
+00:26:38,000 --> 00:26:42,000
+current data, the most recent current
+state.
+
+379
+00:26:42,000 --> 00:26:46,000
+So no, you're not trusting me, and you
+have as much security as the contract
+
+380
+00:26:46,000 --> 00:26:50,000
+provides.
+
+381
+00:26:50,000 --> 00:27:21,000
+Is that clear?
+
+382
+00:27:21,000 --> 00:27:22,000
+Right.
+
+383
+00:27:22,000 --> 00:27:27,000
+And so the question is, how can you
+recover if the data is just all hashes?
+
+384
+00:27:27,000 --> 00:27:31,000
+Then what you can recover, because hashes
+are non-reversible.
+
+385
+00:27:31,000 --> 00:27:32,000
+No, that's a great question.
+
+386
+00:27:32,000 --> 00:27:37,000
+So off-chain obviously doesn't store the
+hashes.
+
+387
+00:27:37,000 --> 00:27:42,000
+So whenever you actually interact with
+the transaction, you're providing the
+
+388
+00:27:42,000 --> 00:27:47,000
+actual data, not the hash, the actual data
+into the transaction when you build it and
+
+389
+00:27:47,000 --> 00:27:52,000
+you submit the transaction.
+
+390
+00:27:52,000 --> 00:27:56,000
+And the contract is actually what hashes
+the data.
+
+391
+00:27:56,000 --> 00:27:58,000
+So you provide the complete open data.
+
+392
+00:27:58,000 --> 00:28:00,000
+You're not hiding the data.
+
+393
+00:28:00,000 --> 00:28:05,000
+And then the contract does the hashing
+and the checking.
+
+394
+00:28:05,000 --> 00:28:07,000
+So like I said, it does computation.
+
+395
+00:28:07,000 --> 00:28:09,000
+The contract only does computation.
+
+396
+00:28:09,000 --> 00:28:14,000
+So you provide the raw data, and the
+contract just does hashing of the data.
+
+397
+00:28:14,000 --> 00:28:20,000
+And this is possible because of, yeah, so
+I have it in this slide here, that
+
+398
+00:28:20,000 --> 00:28:26,000
+whenever you do any staking, you provide
+the actual raw data.
+
+399
+00:28:26,000 --> 00:28:31,000
+And it's done through something called
+the Redeemer on Cardano.
+
+400
+00:28:31,000 --> 00:28:35,000
+Or on Ergo, it's called context
+variables.
+
+401
+00:28:35,000 --> 00:28:36,000
+And it's the same thing.
+
+402
+00:28:36,000 --> 00:28:39,000
+It's just data that anyone can provide
+into a transaction when you build it and
+
+403
+00:28:39,000 --> 00:28:42,000
+submit it.
+
+404
+00:28:42,000 --> 00:28:50,000
+There's some limit of data that you can
+provide into this.
+
+405
+00:28:50,000 --> 00:28:54,000
+We provide the actual data within this
+constraint.
+
+406
+00:28:54,000 --> 00:29:02,000
+When you do this, that data is actually
+published on the blockchain.
+
+407
+00:29:02,000 --> 00:29:05,000
+But this is a really special type of data
+where it's not actually in the context of
+
+408
+00:29:05,000 --> 00:29:08,000
+the node.
+
+409
+00:29:09,000 --> 00:29:13,000
+So the node doesn't know about the
+redeemer.
+
+410
+00:29:13,000 --> 00:29:19,000
+It doesn't save it for long term, but it
+does save it from historical transactions.
+
+411
+00:29:19,000 --> 00:29:24,000
+Just in the same way that you know the
+transactions an address did.
+
+412
+00:29:24,000 --> 00:29:27,000
+The address had an initial balance of one
+ERG, and then a year later, it has like a
+
+413
+00:29:27,000 --> 00:29:30,000
+hundred.
+
+414
+00:29:30,000 --> 00:29:32,000
+You can track that.
+
+415
+00:29:32,000 --> 00:29:38,000
+So in the same sense, you can track this
+data in the Redeemer context variable.
+
+416
+00:29:38,000 --> 00:29:41,000
+So really, to summarize, you can get back
+the data by traversing historical
+
+417
+00:29:41,000 --> 00:29:44,000
+transactions.
+
+418
+00:29:45,000 --> 00:29:47,000
+So you're not trusting me at all.
+
+419
+00:29:47,000 --> 00:30:02,000
+Did you have a question?
+
+420
+00:30:02,000 --> 00:30:05,000
+All right.
+
+421
+00:30:02,000 --> 00:30:03,000
+Yeah, great.
+
+422
+00:30:03,000 --> 00:30:06,000
+So yeah, no, just to summarize, really,
+the contract is something that just
+
+423
+00:30:06,000 --> 00:30:09,000
+verifies the integrity of the provided
+data.
+
+424
+00:30:10,000 --> 00:30:17,000
+And that's really the general theme of
+contracts on the UTXO model contracts.
+
+425
+00:30:17,000 --> 00:30:20,000
+It's positioned really just to verify all
+the data.
+
+426
+00:30:20,000 --> 00:30:22,000
+It doesn't make new data.
+
+427
+00:30:22,000 --> 00:30:23,000
+It doesn't do anything special.
+
+428
+00:30:23,000 --> 00:30:25,000
+It just verifies.
+
+429
+00:30:25,000 --> 00:30:30,000
+Hey is what the transaction builder
+provided? Is that correct?
+
+430
+00:30:30,000 --> 00:30:31,000
+Are they lying about something?
+
+431
+00:30:31,000 --> 00:30:35,000
+Because checking something is always far
+cheaper than actually making it from
+
+432
+00:30:35,000 --> 00:30:39,000
+scratch.
+
+433
+00:30:39,000 --> 00:30:42,000
+And I think that's really where UTXO
+shines because account model has to store
+
+434
+00:30:42,000 --> 00:30:45,000
+all this data.
+
+435
+00:30:45,000 --> 00:30:49,000
+I mean, sure, it's easier for developers,
+but these node sizes are ridiculous.
+
+436
+00:30:49,000 --> 00:30:54,000
+I can't like run a three terabyte node in
+my basement just for Ethereum.
+
+437
+00:30:54,000 --> 00:30:55,000
+And that's just Ethereum.
+
+438
+00:30:55,000 --> 00:30:57,000
+You have all these forks.
+
+439
+00:30:57,000 --> 00:31:00,000
+If I want to expand to multi-chain, I
+have to spin up like an Ethereum node, a
+
+440
+00:31:00,000 --> 00:31:03,000
+Binance node, Polygon node, and so on.
+
+441
+00:31:04,000 --> 00:31:11,000
+If I want to do the things the right way
+and not buy like a subscription to an RPC.
+
+442
+00:31:11,000 --> 00:31:14,000
+And it's not scalable, but in my
+basement, I can run an Ergo node, which
+
+443
+00:31:14,000 --> 00:31:17,000
+has what, like 20 gigs, 30 gigs?
+
+444
+00:31:18,000 --> 00:31:19,000
+It's nothing.
+
+445
+00:31:19,000 --> 00:31:22,000
+Flash Drive has more storage than that.
+
+446
+00:31:22,000 --> 00:31:26,000
+And a Cardano node was like 160
+gigabytes.
+
+447
+00:31:26,000 --> 00:31:31,000
+I can run plenty of these compared to
+just one Ethereum node.
+
+448
+00:31:31,000 --> 00:31:33,000
+So you can see the trade-offs here.
+
+449
+00:31:33,000 --> 00:31:40,000
+They really shine in the long run.
+
+450
+00:31:40,000 --> 00:31:44,000
+So really the final slide here is
+improvements made to the original
+
+451
+00:31:44,000 --> 00:31:48,000
+protocol.
+
+452
+00:31:48,000 --> 00:31:52,000
+So the original contract was short-lived
+and static.
+
+453
+00:31:52,000 --> 00:31:57,000
+So like I said, it was originally meant
+for things like meme coins.
+
+454
+00:31:57,000 --> 00:31:59,000
+So where you just don't want people to
+sell.
+
+455
+00:31:59,000 --> 00:32:02,000
+You don't really think about long-term.
+
+456
+00:32:02,000 --> 00:32:06,000
+And the problem with this was it was very
+static.
+
+457
+00:32:06,000 --> 00:32:10,000
+So you have one emission rate for the
+whole program.
+
+458
+00:32:10,000 --> 00:32:16,000
+So what I also added to the protocol
+itself, not the UTXO implementation, is I
+
+459
+00:32:16,000 --> 00:32:22,000
+made the emissions very dynamic.
+
+460
+00:32:23,000 --> 00:32:26,000
+So like every epoch, for example, on Palm
+staking every week, people can claim their
+
+461
+00:32:26,000 --> 00:32:29,000
+rewards.
+
+462
+00:32:30,000 --> 00:32:34,000
+This emission amount can fluctuate
+without having to redeploy the contract or
+
+463
+00:32:34,000 --> 00:32:38,000
+get people to migrate.
+
+464
+00:32:38,000 --> 00:32:44,000
+And this is really cool because a dynamic
+protocol allows us to easily curb any
+
+465
+00:32:44,000 --> 00:32:50,000
+excess inflation or incentivizes staking
+during steep price movements.
+
+466
+00:32:50,000 --> 00:32:54,000
+So it allows us for more of a
+fine-grained control rather than, so we
+
+467
+00:32:54,000 --> 00:32:58,000
+actually react to how the economy is
+doing.
+
+468
+00:32:59,000 --> 00:33:03,000
+I mean, you saw yesterday that things
+went crazy.
+
+469
+00:33:03,000 --> 00:33:07,000
+So maybe during a time like that, you
+want to incentivize people to hold.
+
+470
+00:33:07,000 --> 00:33:11,000
+So maybe we'll tell them, okay, we can
+increase inflation so that people hold
+
+471
+00:33:11,000 --> 00:33:15,000
+onto their Palm instead of selling it on
+the market.
+
+472
+00:33:15,000 --> 00:33:18,000
+Just for no reason when everything's
+going crazy.
+
+473
+00:33:18,000 --> 00:33:22,000
+So then people might not sell because
+they'll say hey like I can just put in the
+
+474
+00:33:22,000 --> 00:33:26,000
+contract I believe in Palm I believe in
+this token's future.
+
+475
+00:33:27,000 --> 00:33:28,000
+I believe in crypto.
+
+476
+00:33:28,000 --> 00:33:32,000
+So like maybe in the next week the
+tariffs are going to be reversed and we
+
+477
+00:33:32,000 --> 00:33:36,000
+won't have an issue.
+
+478
+00:33:37,000 --> 00:33:40,000
+So maybe I want to hold my Palm and make
+some more Palm and money instead of
+
+479
+00:33:40,000 --> 00:33:43,000
+selling.
+
+480
+00:33:43,000 --> 00:33:48,000
+So the dynamic protocol really allows for
+this.
+
+481
+00:33:48,000 --> 00:33:50,000
+Yeah, that's it for staking.
+
+482
+00:33:50,000 --> 00:33:55,000
+So hopefully that was some presentation
+that you could understand.
+
+483
+00:33:55,000 --> 00:34:00,000
+I tried to make it as least technical as
+possible so everyone can enjoy.
+
+484
+00:34:00,000 --> 00:34:08,000
+So any other questions?
+
+485
+00:34:08,000 --> 00:34:14,000
+Yeah, so it's quite technical, but you
+can think of, well, really on the actual
+
+486
+00:34:14,000 --> 00:34:20,000
+usage-wise, rather than the data structure
+implementation-wise, kushti mentioned that
+
+487
+00:34:20,000 --> 00:34:26,000
+the AVL tree is actually a lot more
+efficient compared to the Merkle Patricia
+
+488
+00:34:26,000 --> 00:34:32,000
+Trie that you have on Cardano.
+
+489
+00:34:32,000 --> 00:34:36,000
+Meaning like the proof sizes, the really
+efficient means that you can do more
+
+490
+00:34:36,000 --> 00:34:40,000
+operations in a given transaction.
+
+491
+00:34:41,000 --> 00:34:44,000
+So the proof sizes are smaller.
+
+492
+00:34:44,000 --> 00:34:49,000
+The data that you provide during
+transaction building, it's a lot smaller.
+
+493
+00:34:49,000 --> 00:34:52,000
+So what does it mean for the end user?
+
+494
+00:34:52,000 --> 00:34:55,000
+It means that transactions really will be
+cheaper.
+
+495
+00:34:55,000 --> 00:35:00,000
+But there is a significant implementation
+difference, how it works internally, but I
+
+496
+00:35:00,000 --> 00:35:05,000
+don't really know that from the top of my
+head and I can't speak for it that much.
+
+497
+00:35:06,000 --> 00:35:14,000
+But in the context of this though, you
+can think of it as interchangeable.
+
+498
+00:35:14,000 --> 00:36:12,000
+Yeah, Grayman.
+
+499
+00:36:12,000 --> 00:36:15,000
+Correct, correct.
+
+500
+00:36:12,000 --> 00:36:15,000
+So, Grayman brought up a great point.
+
+501
+00:36:15,000 --> 00:36:19,000
+So yesterday, again, I don't think
+everyone's quite active on Twitter, but
+
+502
+00:36:19,000 --> 00:36:23,000
+Liqwid, so there's a protocol on Cardano
+called Liqwid Finance and it's a lending
+
+503
+00:36:23,000 --> 00:36:27,000
+protocol.
+
+504
+00:36:27,000 --> 00:36:30,000
+And what they did yesterday was because
+of the extreme movement.
+
+505
+00:36:30,000 --> 00:36:33,000
+So I think Cardano literally went from
+like 80 cents to like 27 cents in like a
+
+506
+00:36:33,000 --> 00:36:36,000
+flash because of like mass liquidations.
+
+507
+00:36:37,000 --> 00:36:41,000
+So Liqwid Finance is a decentralized
+lending platform.
+
+508
+00:36:41,000 --> 00:36:45,000
+So you provide some collateral in ADA and
+you get back an asset.
+
+509
+00:36:45,000 --> 00:36:48,000
+So since the price moved down so steeply,
+you're going to have some liquidations due
+
+510
+00:36:48,000 --> 00:36:51,000
+to that.
+
+511
+00:36:51,000 --> 00:36:56,000
+So Liqwid Finance completely shut off
+their front-end interface and you can't
+
+512
+00:36:56,000 --> 00:37:01,000
+manage your liquidations now. No one can
+liquidate you or anything and you can't
+
+513
+00:37:01,000 --> 00:37:06,000
+make new collateral requests and so on I
+don't know why they did this I mean
+
+514
+00:37:06,000 --> 00:37:11,000
+obviously to protect people from being
+hurt but like I don't know I think
+
+515
+00:37:11,000 --> 00:37:16,000
+everyone's like a grown man here and can
+handle their finances so I think that's
+
+516
+00:37:16,000 --> 00:37:21,000
+kind of silly but it is what it is.
+
+517
+00:37:23,000 --> 00:37:26,000
+So yes, they disabled the front end.
+
+518
+00:37:26,000 --> 00:37:29,000
+And maybe that I can make a custom
+transaction using code to interact with
+
+519
+00:37:29,000 --> 00:37:32,000
+the contracts.
+
+520
+00:37:33,000 --> 00:37:36,000
+But I actually found Cardano's very
+funny.
+
+521
+00:37:36,000 --> 00:37:41,000
+A lot of these off-chain runners, so
+basically what processes your transactions
+
+522
+00:37:41,000 --> 00:37:46,000
+with the main contract, they're actually
+permissioned.
+
+523
+00:37:47,000 --> 00:37:52,000
+So for people to run the off-chain bots,
+you need to have like, maybe you have to
+
+524
+00:37:52,000 --> 00:37:57,000
+own, you have to be the owner of a certain
+address.
+
+525
+00:37:57,000 --> 00:38:00,000
+So only your private key can actually run
+the transactions.
+
+526
+00:38:00,000 --> 00:38:04,000
+But what's more common is like, it's like
+a special NFT.
+
+527
+00:38:04,000 --> 00:38:09,000
+So all NFT holders are the ones that can
+run these off-chain.
+
+528
+00:38:09,000 --> 00:38:11,000
+And that's a very, it's not decentralized
+at all.
+
+529
+00:38:11,000 --> 00:38:17,000
+It's just made on a decentralized
+platform.
+
+530
+00:38:17,000 --> 00:38:19,000
+So really, this is a very simple check.
+
+531
+00:38:19,000 --> 00:38:23,000
+Like you have a contract, and you're
+like, okay, all these calculations happen.
+
+532
+00:38:23,000 --> 00:38:24,000
+It's decentralized.
+
+533
+00:38:24,000 --> 00:38:27,000
+But you add just one tiny check.
+
+534
+00:38:27,000 --> 00:38:33,000
+Only the owner, only the holder of this
+NFT can run the transaction.
+
+535
+00:38:33,000 --> 00:38:35,000
+So technically, no.
+
+536
+00:38:35,000 --> 00:38:38,000
+For a lot of protocols on Cardano, no.
+
+537
+00:38:38,000 --> 00:38:41,000
+You can't just bypass everything and
+build your own transactions with code.
+
+538
+00:38:41,000 --> 00:38:42,000
+I can't do that.
+
+539
+00:38:42,000 --> 00:38:46,000
+Because I don't own that special NFT that
+you need to actually process the
+
+540
+00:38:46,000 --> 00:38:50,000
+transactions.
+
+541
+00:38:50,000 --> 00:38:52,000
+And no, no, this is actually really bad.
+
+542
+00:38:52,000 --> 00:38:53,000
+I don't know why.
+
+543
+00:38:53,000 --> 00:38:55,000
+It's like a very common on Cardano.
+
+544
+00:38:55,000 --> 00:39:12,000
+But yeah, no, it's not really
+decentralized is the answer.
+
+545
+00:39:12,000 --> 00:39:20,000
+Again, as Joe kept mentioning, know your
+assumptions.
+
+546
+00:39:20,000 --> 00:39:21,000
+Is something permissioned?
+
+547
+00:39:21,000 --> 00:39:26,000
+For example, we have the HODLerg game.
+
+548
+00:39:26,000 --> 00:39:28,000
+It's all open source.
+
+549
+00:39:28,000 --> 00:39:30,000
+So if the front end shut off, first of
+all, you can just spin up your own front
+
+550
+00:39:30,000 --> 00:39:32,000
+end because the code's all there.
+
+551
+00:39:33,000 --> 00:39:36,000
+Second, you can build your own custom
+transaction and you can run your own
+
+552
+00:39:36,000 --> 00:39:39,000
+off-chain because all that code is open
+source.
+
+553
+00:39:40,000 --> 00:39:45,000
+It's not hiding anything and you don't
+need any special NFT.
+
+554
+00:39:45,000 --> 00:39:48,000
+Even on Cardano, if these projects are
+all open source, even if the off-chain is
+
+555
+00:39:48,000 --> 00:39:51,000
+all open source, the website is all open
+source, it doesn't matter because you need
+
+556
+00:39:51,000 --> 00:39:54,000
+the NFT to actually run the off-chain.
+
+557
+00:39:54,000 --> 00:39:56,000
+It's literally not going to work.
+
+558
+00:39:56,000 --> 00:40:01,000
+So it's decentralized, it's open source,
+but you can't do anything.
+
+559
+00:40:01,000 --> 00:40:17,000
+Yeah, Grayman.
+
+560
+00:40:17,000 --> 00:40:19,000
+Oh, no, that's a great question.
+
+561
+00:40:19,000 --> 00:40:23,000
+Maybe we can talk to Allison, who's in
+the back.
+
+562
+00:40:23,000 --> 00:40:25,000
+He's the Nautilus developer.
+
+563
+00:40:25,000 --> 00:40:29,000
+But what Grayman said is, hey, can we
+have a HODLerg natively within the
+
+564
+00:40:29,000 --> 00:40:33,000
+Nautilus wallet itself?
+
+565
+00:40:34,000 --> 00:40:35,000
+And I think that's really cool.
+
+566
+00:40:35,000 --> 00:40:39,000
+Maybe we can have a dedicated apps
+section on Nautilus wallet.
+
+567
+00:40:39,000 --> 00:40:42,000
+I think it's already there with SigmaUSD.
+
+568
+00:40:42,000 --> 00:40:44,000
+But I think a bunch of apps within
+Nautilus, so you don't have to go to any
+
+569
+00:40:44,000 --> 00:40:46,000
+website.
+
+570
+00:40:46,000 --> 00:40:49,000
+You're actually technically running your
+own front-end because it's a wallet
+
+571
+00:40:49,000 --> 00:40:52,000
+extension so you're not even relying on me
+hosting the website.
+
+572
+00:40:53,000 --> 00:40:58,000
+So I think that's a great idea and we can
+have a bunch of apps on Nautilus where you
+
+573
+00:40:58,000 --> 00:41:03,000
+just click two buttons and you interact
+with the protocol.
+
+574
+00:41:03,000 --> 00:41:07,000
+I really like this idea because again,
+you're not worried about any front-end.
+
+575
+00:41:07,000 --> 00:41:10,000
+Or a front-end, if a front-end gets
+hacked, what a front-end being hacked
+
+576
+00:41:10,000 --> 00:41:13,000
+means is that someone takes ownership of
+the domain that it's on and injects custom
+
+577
+00:41:13,000 --> 00:41:16,000
+code.
+
+578
+00:41:18,000 --> 00:41:22,000
+So maybe they made an exact replica of my
+front-end.
+
+579
+00:41:22,000 --> 00:41:26,000
+And then they're like, hey, when you
+click this mint button, instead of
+
+580
+00:41:26,000 --> 00:41:30,000
+minting, you're transferring all your ERG
+to an address.
+
+581
+00:41:30,000 --> 00:41:32,000
+That's what a hack really means.
+
+582
+00:41:32,000 --> 00:41:36,000
+So this isn't really possible if you have
+something running on your own instance,
+
+583
+00:41:36,000 --> 00:41:40,000
+like on Nautilus itself.
+
+584
+00:41:40,000 --> 00:41:44,000
+I mean, it's only possible if you
+literally physically download a virus, and
+
+585
+00:41:44,000 --> 00:41:48,000
+maybe the virus does some magic where it
+has control of Nautilus.
+
+586
+00:41:48,000 --> 00:41:52,000
+But in general hacks, if my website gets
+hacked, that's not going to affect your
+
+587
+00:41:52,000 --> 00:41:56,000
+Nautilus, which is running its own app
+instance of HODLerg.
+
+588
+00:41:56,000 --> 00:41:57,000
+So that's a wonderful idea.
+
+589
+00:41:57,000 --> 00:42:01,000
+We should definitely get that going.
+
+590
+00:42:01,000 --> 00:42:11,000
+All right, any other questions, comments?
+
+591
+00:42:11,000 --> 00:42:14,000
+Yes, yes, it's live on Cardano.
+
+592
+00:42:14,000 --> 00:42:19,000
+And yeah, it's called palm-economy.io.
+
+593
+00:42:19,000 --> 00:42:21,000
+And you can find information about it.
+
+594
+00:42:21,000 --> 00:42:27,000
+And it's specifically staking for Palm
+Token, which is the token for ZenGate's
+
+595
+00:42:27,000 --> 00:42:33,000
+Palmyra RWA platform.
+
+596
+00:42:34,000 --> 00:42:39,000
+So currently, there is no plans to do it
+on Ergo, and it's not up to me.
+
+597
+00:42:39,000 --> 00:42:43,000
+But in the future, the point is that it's
+pretty straightforward.
+
+598
+00:42:43,000 --> 00:42:48,000
+Because now that it's done on Cardano,
+everything maps directly to Ergo.
+
+599
+00:42:48,000 --> 00:42:52,000
+So since all the theory, that's what
+takes a long time.
+
+600
+00:42:52,000 --> 00:42:53,000
+Getting it done right.
+
+601
+00:42:53,000 --> 00:42:58,000
+Planning it out implementation is pretty
+straightforward once you have this theory.
+
+602
+00:42:58,000 --> 00:43:02,000
+So that's why EVM is so successful
+because you already it's been there since
+
+603
+00:43:02,000 --> 00:43:06,000
+what 2015 and you have so many contracts
+so guess what a new fork a new L2 Base has
+
+604
+00:43:06,000 --> 00:43:10,000
+their own blockchain you take the
+contracts and you copy paste it always
+
+605
+00:43:10,000 --> 00:43:14,000
+literally copy paste.
+
+606
+00:43:15,000 --> 00:43:20,000
+So in a similar sense, since we already
+have everything ready on Cardano, when
+
+607
+00:43:20,000 --> 00:43:25,000
+we're ready for Ergo, we can just take
+that code and translate it over to Ergo.
+
+608
+00:43:25,000 --> 00:43:35,000
+So it's much more trivial compared to
+making it from scratch.
+
+609
+00:43:35,000 --> 00:43:36,000
+Yes, it's all very similar.
+
+610
+00:43:36,000 --> 00:43:39,000
+It's not exactly copy-paste, because on
+Ethereum, it's literally a fork of the
+
+611
+00:43:39,000 --> 00:43:42,000
+node.
+
+612
+00:43:42,000 --> 00:43:43,000
+It's the exact same thing.
+
+613
+00:43:43,000 --> 00:43:50,000
+So you can actually copy-paste the exact
+code and deploy it on L2s and so on.
+
+614
+00:43:50,000 --> 00:43:51,000
+So that's not the case for UTXO.
+
+615
+00:43:51,000 --> 00:43:53,000
+So you can't copy-paste it.
+
+616
+00:43:53,000 --> 00:43:55,000
+But the overall idea maps directly.
+
+617
+00:43:55,000 --> 00:43:58,000
+So you're just translating whatever
+Cardano smart contract language to
+
+618
+00:43:58,000 --> 00:44:01,000
+ErgoScript exactly.
+
+619
+00:44:02,000 --> 00:44:03,000
+There's less friction.
+
+620
+00:44:03,000 --> 00:44:14,000
+There's more friction than going from
+like Ethereum to like an Ethereum fork,
+
+621
+00:44:14,000 --> 00:44:25,000
+but conceptually, it's like the same
+because the architecture is the same.
+
+622
+00:44:25,000 --> 00:44:32,000
+Yeah, I would definitely use AVL because
+it's built into the contract.
+
+623
+00:44:32,000 --> 00:44:36,000
+They both serve that same abstract need
+of storing data off-chain and then
+
+624
+00:44:36,000 --> 00:44:40,000
+verification on-chain.
+
+625
+00:44:40,000 --> 00:44:43,000
+That's really the important part.
+
+626
+00:44:43,000 --> 00:44:45,000
+That's the only thing that really makes
+this work.
+
+627
+00:44:45,000 --> 00:44:48,000
+So AVL tree serves the same purpose.
+
+628
+00:44:48,000 --> 00:45:04,000
+So there's no reason to have to use a
+Merkle Patricia trie on Ergo.
+
+629
+00:45:04,000 --> 00:45:08,000
+So actually, no, it's already
+decentralized in the sense that you can
+
+630
+00:45:08,000 --> 00:45:12,000
+traverse through Ergo Explorer and you can
+get back that original data, the
+
+631
+00:45:12,000 --> 00:45:16,000
+non-hashed data, and it's actually even
+better than IPFS because you don't have to
+
+632
+00:45:16,000 --> 00:45:20,000
+do any pinning or anything.
+
+633
+00:45:22,000 --> 00:45:25,000
+So it's actually all there on Ergo
+already.
+
+634
+00:45:25,000 --> 00:45:28,000
+But the actual raw data that you probably
+were thinking about is the tree data and
+
+635
+00:45:28,000 --> 00:45:31,000
+the balance data.
+
+636
+00:45:32,000 --> 00:45:35,000
+And that cannot be stored on IPFS or
+something, because it's something that
+
+637
+00:45:35,000 --> 00:45:38,000
+requires a database.
+
+638
+00:45:39,000 --> 00:45:46,000
+Because you're doing database operations.
+
+639
+00:45:46,000 --> 00:45:49,000
+All right, any other questions?
+
+640
+00:45:49,000 --> 00:45:52,000
+All right, thanks for tuning in, guys.
+

@@ -1,0 +1,181 @@
+1
+00:00:13,000 --> 00:00:15,000
+Hello everyone.
+
+2
+00:00:15,000 --> 00:00:20,000
+Today I'm excited to present PandaVee, a
+project that combines blockchain
+
+3
+00:00:20,000 --> 00:00:25,000
+technology with modern access control.
+
+4
+00:00:25,000 --> 00:00:28,000
+Introducing the PandaVee project.
+
+5
+00:00:28,000 --> 00:00:30,000
+We've built a blockchain-based access
+control system powered by the Ergo
+
+6
+00:00:30,000 --> 00:00:32,000
+blockchain.
+
+7
+00:00:33,000 --> 00:00:37,000
+Each user's entry rights are verified
+using a unique token ID, replacing
+
+8
+00:00:37,000 --> 00:00:41,000
+traditional cards or passwords with a
+secure on-chain identity.
+
+9
+00:00:42,000 --> 00:00:46,000
+Every access event is immutably recorded
+on the blockchain, ensuring full
+
+10
+00:00:46,000 --> 00:00:50,000
+transparency, traceability, and
+tamper-proof security.
+
+11
+00:00:51,000 --> 00:00:55,000
+Whether it's for office buildings, event
+venues, or smart doors, PandaVee offers a
+
+12
+00:00:55,000 --> 00:00:59,000
+secure, modern, and reliable solution for
+access management.
+
+13
+00:01:00,000 --> 00:01:08,000
+In this video, we'll show you how we use
+the Ergonode and ErgoPay to activate our
+
+14
+00:01:08,000 --> 00:01:16,000
+Arduino-based hardware and unlock the
+door, live and on-chain.
+
+15
+00:01:17,000 --> 00:02:13,000
+Start the Ergonode and PandaVee server.
+
+16
+00:02:13,000 --> 00:02:37,000
+Release build PandaVee app to Android
+mobile phone.
+
+17
+00:02:37,000 --> 00:03:24,000
+Plug in module and compiling upload
+PandaVee sketch.
+
+18
+00:03:24,000 --> 00:03:33,000
+Arduino version and Wiegand version will
+be integrated.
+
+19
+00:03:33,000 --> 00:04:37,000
+Here is what we're using and we'll take a
+minute to build up our Arduino access
+
+20
+00:04:37,000 --> 00:05:41,000
+control system.
+
+21
+00:05:42,000 --> 00:05:53,000
+First, power up our system.
+
+22
+00:05:53,000 --> 00:05:56,000
+Open PandaVee mobile app.
+
+23
+00:05:56,000 --> 00:06:02,000
+Log in using ErgoPay signing.
+
+24
+00:06:02,000 --> 00:06:05,000
+Session ID will be recorded in PandaVee
+server.
+
+25
+00:06:05,000 --> 00:06:10,000
+Here is list of NFT tokens from this Ergo
+wallet.
+
+26
+00:06:10,000 --> 00:06:13,000
+Click token to generate QR, binding
+session ID with wallet address for this
+
+27
+00:06:13,000 --> 00:06:16,000
+weekend.
+
+28
+00:06:17,000 --> 00:06:21,000
+Scan the token QR code.
+
+29
+00:06:21,000 --> 00:06:24,000
+Server will determine if this QR is
+valid, then access granted, gate or door
+
+30
+00:06:24,000 --> 00:06:27,000
+will open.
+
+31
+00:06:28,000 --> 00:06:37,000
+Transaction will be pushed and submitted
+to Ergo blockchain.
+
+32
+00:06:37,000 --> 00:06:41,000
+All transaction IDs can be checked at
+Ergo Explorer.
+
+33
+00:06:41,000 --> 00:06:47,000
+More mobile app functions will be made in
+the next coming video, next enhancement.
+
+34
+00:06:47,000 --> 00:06:55,000
+We'll integrate database records and
+improve mobile app functions.
+
+35
+00:06:55,000 --> 00:07:04,000
+Integrate with some more access products
+and hardware.
+
+36
+00:07:04,000 --> 00:07:08,000
+We're still working hard to learn both
+hardware and software.
+
+37
+00:07:08,000 --> 00:07:13,000
+Hope everyone still supports Ergo and us.
+
+38
+00:07:13,000 --> 00:07:17,000
+Thanks Ergo and all friends that we got a
+chance to step into blockchain technology
+
+39
+00:07:17,000 --> 00:07:21,000
+and wish everyone happy Ergo anniversary.
+

@@ -1,0 +1,2717 @@
+1
+00:03:20,000 --> 00:03:30,000
+I'll take the blame if it is. Yeah, I
+don't hear any sound on the YouTube. Let's
+
+2
+00:03:30,000 --> 00:03:40,000
+give it a second. Grayman entered, let's
+allow Grayman in while Andy's fixing the
+
+3
+00:03:40,000 --> 00:03:50,000
+sound. Let me hit live here. Let's see.
+
+4
+00:03:50,000 --> 00:03:57,000
+Unmute. Yeah, yeah, we are here, we're
+good, we're live. All right, back to - oh
+
+5
+00:03:57,000 --> 00:04:04,000
+no problem Andy, we're gonna flog you
+after the show. All right, starting again.
+
+6
+00:04:04,000 --> 00:04:10,000
+Good morning everybody. Welcome to the
+Ergo AMA. We have kushti, Benzel, and
+
+7
+00:04:10,000 --> 00:04:16,000
+Grayman with us this morning. You saw us
+go through the visual of the Ergo update.
+
+8
+00:04:16,000 --> 00:04:22,000
+We hit it all, actually. There's three
+updates this morning. So I'm sure you read
+
+9
+00:04:22,000 --> 00:04:28,000
+it exactly as we were saying it. You
+probably read it in kushti's voice, right?
+
+10
+00:04:28,000 --> 00:04:34,000
+Actually, sorry. Yeah, hello everyone.
+Because yeah, it seems greetings also
+
+11
+00:04:34,000 --> 00:04:40,000
+miss. So yeah, also yes, him is a game of
+proms. So yeah, also. Oh, what do you see
+
+12
+00:04:40,000 --> 00:04:46,000
+that was down here? It's about for Lisa
+sexually.
+
+13
+00:04:46,000 --> 00:04:48,000
+Oh nice. I haven't finished the contracts
+in front in for game of proms yet. Just
+
+14
+00:04:48,000 --> 00:04:50,000
+sharing a tell you a few weeks ago.
+
+15
+00:04:51,000 --> 00:04:55,000
+Oh, yeah, so there is telegram group
+where game of proms can be discussed and I
+
+16
+00:04:55,000 --> 00:04:59,000
+love it. It doesn't really have any use at
+the moment, but if anyone's interested,
+
+17
+00:04:59,000 --> 00:05:03,000
+feel free to use it.
+
+18
+00:05:03,000 --> 00:05:07,000
+Nice Josephine, that's awesome. Yeah, and
+back to Lithos as well. Guys, if you
+
+19
+00:05:07,000 --> 00:05:11,000
+haven't seen the videos, I split up all
+seven or eight videos from the Ergo
+
+20
+00:05:11,000 --> 00:05:15,000
+meetup. I ran them through AI and got
+summaries and bookmarks and all that kind
+
+21
+00:05:15,000 --> 00:05:19,000
+of goodness and put those in the
+description of YouTube and I posted them
+
+22
+00:05:19,000 --> 00:05:23,000
+in a series in YouTube in a grouping so
+you can go to that whole group. Joe starts
+
+23
+00:05:23,000 --> 00:05:27,000
+it off and then I think I didn't pay
+attention to the order after that, but Joe
+
+24
+00:05:27,000 --> 00:05:31,000
+starts it off and then everybody else is
+after that. But if you have a chance go
+
+25
+00:05:31,000 --> 00:05:35,000
+see the Lithos chat - that was a very
+popular, very popular talk. Cheese always
+
+26
+00:05:35,000 --> 00:05:39,000
+does an amazing job breaking things down
+simply so you can understand him. And he's
+
+27
+00:05:39,000 --> 00:05:43,000
+got that ASMR cheese voice, which is
+fantastic.
+
+28
+00:05:52,000 --> 00:05:56,000
+So check that out. Also with Lithos I
+believe they will need some test net
+
+29
+00:05:56,000 --> 00:06:00,000
+people firing up their rigs in November at
+some point. So that's really exciting to
+
+30
+00:06:00,000 --> 00:06:04,000
+see that going. Amazing. All right, let's
+kill the dev update here. What is the news
+
+31
+00:06:04,000 --> 00:06:08,000
+today, guys?
+
+32
+00:06:08,000 --> 00:06:14,000
+We've got some big news in the crypto
+sphere, right, lately. And kushti's coined
+
+33
+00:06:14,000 --> 00:06:20,000
+a term for the season. kushti, what's your
+term for the season?
+
+34
+00:06:20,000 --> 00:06:23,000
+So it's the rug season.
+
+35
+00:06:23,000 --> 00:06:30,000
+The rug season. Oh, man, you know, with I
+think something the other week too I
+
+36
+00:06:30,000 --> 00:06:37,000
+forget what it was. Oh, Amazon, right?
+Going down and this kind of stuff
+
+37
+00:06:37,000 --> 00:06:44,000
+happening. It really shows how important
+real decentralization and peer to peer
+
+38
+00:06:44,000 --> 00:06:51,000
+networks are for resiliency, right?
+
+39
+00:06:51,000 --> 00:07:00,000
+Right. Yeah, but now we have like, so
+yeah, this Amazon outage. Yeah, it's
+
+40
+00:07:00,000 --> 00:07:09,000
+showing well, kind of decentralization we
+have, right.
+
+41
+00:07:09,000 --> 00:07:14,000
+Yeah, it's like Amazon's a canary in the
+coal mine there, right? You don't know
+
+42
+00:07:14,000 --> 00:07:19,000
+who's attached to it until it actually
+dies. Then you're like, oh, really? You
+
+43
+00:07:19,000 --> 00:07:24,000
+know, your entire back end was relying on
+the centralized service, you know, kind of
+
+44
+00:07:24,000 --> 00:07:29,000
+thing. The only thing we noticed is the
+same day one of our load balancers for
+
+45
+00:07:29,000 --> 00:07:34,000
+Cloudflare was banning one of our
+redirects for the GraphQL. I don't know if
+
+46
+00:07:34,000 --> 00:07:39,000
+it was related or not, but it doesn't
+matter. It's fixed momentarily with that.
+
+47
+00:07:39,000 --> 00:07:44,000
+But yeah, really, really telling, I'd say,
+of the industry for those kind of hangups
+
+48
+00:07:44,000 --> 00:07:49,000
+there. And about Kadena, man, that's
+absolutely bonkers, eh?
+
+49
+00:07:51,000 --> 00:08:00,000
+I think it's expected, actually, and we
+should expect from all that. Actually, for
+
+50
+00:08:00,000 --> 00:08:09,000
+many years, well, over the span of many
+years, it's now kind of standard, right?
+
+51
+00:08:09,000 --> 00:08:18,000
+When we have a blockchain, which is run by
+a single company without community,
+
+52
+00:08:18,000 --> 00:08:27,000
+basically, or with fake community, right?
+Which is basically existing only as
+
+53
+00:08:27,000 --> 00:08:36,000
+mercenaries right? So some I don't know
+well projects which are only milking
+
+54
+00:08:36,000 --> 00:08:45,000
+grants around, then yeah paid shillers and
+so on. But well, it's all working right
+
+55
+00:08:45,000 --> 00:08:54,000
+when the markets are fine, but well, if
+they are not, then we see what we saw like
+
+56
+00:08:54,000 --> 00:09:03,000
+yesterday, right?
+
+57
+00:09:03,000 --> 00:09:11,000
+So, well, and we will see more of that.
+So all those, well, company owns
+
+58
+00:09:11,000 --> 00:09:19,000
+blockchains, well, whether they will
+transition to community control, but it's
+
+59
+00:09:19,000 --> 00:09:27,000
+very unlikely, right, so one control is
+grabbed. There is a little chance to
+
+60
+00:09:27,000 --> 00:09:35,000
+become normal. And then the second option
+is it would die probably. So, well, it
+
+61
+00:09:35,000 --> 00:09:43,000
+would be good to help the Kadena
+community, but yeah, we're the first
+
+62
+00:09:43,000 --> 00:09:51,000
+place. We need to find their community,
+right? So, I joined their group just like
+
+63
+00:09:51,000 --> 00:09:59,000
+yesterday. And yeah, well, I haven't seen
+any seeds, you know, of community action.
+
+64
+00:10:03,000 --> 00:10:13,000
+So, for example, back in 2016, when we
+had Ethereum, proof of work, proof of
+
+65
+00:10:13,000 --> 00:10:23,000
+stake. No, it wasn't. Yeah. So it was,
+these, the DAO hack rights and yeah, chain
+
+66
+00:10:23,000 --> 00:10:33,000
+owners had chosen to roll back the chain,
+right? After selling, the court is low.
+
+67
+00:10:33,000 --> 00:10:43,000
+And then, yeah, there was active community
+disagreement, right? And that's how
+
+68
+00:10:43,000 --> 00:10:53,000
+Ethereum Classic got appeared. But then,
+even, no, it was like a few days maybe
+
+69
+00:10:53,000 --> 00:11:03,000
+after Ethereum Classic was born. So me and
+Charles Hoskinson, so we appeared on some
+
+70
+00:11:03,000 --> 00:11:13,000
+podcasts and defended the Ethereum
+Classic.
+
+71
+00:11:13,000 --> 00:11:21,000
+So yeah, but back then it had just a few
+supporters around the world. And yeah,
+
+72
+00:11:21,000 --> 00:11:29,000
+well, now it's doing quite well, more or
+less, I believe, right? But yeah, back
+
+73
+00:11:29,000 --> 00:11:37,000
+then it wasn't quite clear whether it will
+survive coming weeks or not. But yeah,
+
+74
+00:11:37,000 --> 00:11:45,000
+well, we got some traction around. Yeah,
+well, these days it's much worse. So
+
+75
+00:11:45,000 --> 00:11:53,000
+basically we have all those companies
+controlling blockchains and then crowds
+
+76
+00:11:53,000 --> 00:12:01,000
+running from one blockchain to another
+while waiting for pumps, right? And then
+
+77
+00:12:01,000 --> 00:12:09,000
+usually they got scammed everywhere. Then
+yeah, well, running away from the whole
+
+78
+00:12:09,000 --> 00:12:17,000
+space, claiming that crypto is scam. I
+mean, of course it's scam if you are well,
+
+79
+00:12:17,000 --> 00:12:25,000
+chasing scams. So no, no, no, no surprise
+here.
+
+80
+00:12:30,000 --> 00:12:37,000
+So, yeah, basically, no any community
+action. I witnessed just some shilling.
+
+81
+00:12:37,000 --> 00:12:44,000
+Yeah, you're usually done by the same
+company, blockchains, right? The shillers,
+
+82
+00:12:44,000 --> 00:12:51,000
+maybe paid shillers mostly. So that they
+just shoot the same company block chains
+
+83
+00:12:51,000 --> 00:12:58,000
+in the Kadena group. And yeah, the
+shilling was like just trust me, bro. So I
+
+84
+00:12:58,000 --> 00:13:05,000
+mean, well you're saying they're shilling
+new block chains in the Kadena group that
+
+85
+00:13:05,000 --> 00:13:12,000
+you saw? Some existing some existing block
+chains, but from what I've seen here on
+
+86
+00:13:12,000 --> 00:13:19,000
+only the same company owns rights. And
+yeah, the shilling was basically like,
+
+87
+00:13:19,000 --> 00:13:26,000
+trust me, bro. So I mean, like, then our
+team was bad, but our team is good. Trust
+
+88
+00:13:26,000 --> 00:13:33,000
+me bro, all that nonsense. I would be
+surprised if anyone is buying that in
+
+89
+00:13:33,000 --> 00:13:40,000
+2025.
+
+90
+00:13:47,000 --> 00:13:52,000
+Yeah, you will be prepared to be
+surprised, right? Once you're used to
+
+91
+00:13:52,000 --> 00:13:57,000
+those kind of things, trust me bro as part
+of being part of a community to be part of
+
+92
+00:13:57,000 --> 00:14:02,000
+the exit liquidity or just be there to
+bolster the price of a project. It's a
+
+93
+00:14:02,000 --> 00:14:07,000
+quite different experience than being part
+of a community of something that you
+
+94
+00:14:07,000 --> 00:14:12,000
+believe in that's going to make a
+difference and is fair in all those
+
+95
+00:14:12,000 --> 00:14:17,000
+matters. It's much harder, I would say, to
+do what we're doing here with Ergo and
+
+96
+00:14:17,000 --> 00:14:22,000
+what you've done with Ergo over the many,
+many years to build that community and
+
+97
+00:14:22,000 --> 00:14:27,000
+have that community stick around as
+opposed to somebody that doesn't, and it's
+
+98
+00:14:27,000 --> 00:14:32,000
+centrally run, and decisions are always
+coming from the top instead of, you know,
+
+99
+00:14:32,000 --> 00:14:37,000
+from the bottom up or the side out kind of
+thing. So it really becomes apparent in
+
+100
+00:14:37,000 --> 00:14:42,000
+situations like these where, you know, the
+top crinkles and dies, and then was there
+
+101
+00:14:42,000 --> 00:14:47,000
+ever a root system to actually sustain new
+growth? So, I mean, that's a question,
+
+102
+00:14:47,000 --> 00:14:52,000
+yeah.
+
+103
+00:14:54,000 --> 00:15:01,000
+Yeah, so then what can we do here? I
+think, well, if some community action
+
+104
+00:15:01,000 --> 00:15:08,000
+would be seen, so, well, what can we
+propose is to switch from ASIC mining to
+
+105
+00:15:08,000 --> 00:15:15,000
+ASIC resistant, right? So basically,
+Autolykos, and in this case, we would have
+
+106
+00:15:15,000 --> 00:15:22,000
+trustless pegging with Kadena, which would
+be good for Kadena as well right. So now
+
+107
+00:15:22,000 --> 00:15:29,000
+it seems to be a smaller blockchain well
+by market cap probably not only right
+
+108
+00:15:29,000 --> 00:15:36,000
+because well if the chain would survive
+well so somehow something would then yeah,
+
+109
+00:15:36,000 --> 00:15:43,000
+well, it would be small, right? Because,
+well, I mean, this company, Blockchains,
+
+110
+00:15:43,000 --> 00:15:50,000
+it seems, yeah, I mean, they're always
+talking about good tech, good tech, but
+
+111
+00:15:50,000 --> 00:15:57,000
+when you know that the company is
+disappearing, no one is interested in good
+
+112
+00:15:57,000 --> 00:16:04,000
+tech. And that's quite clear in this
+Kadena case, right?
+
+113
+00:16:11,000 --> 00:16:13,000
+Yeah, there are 20 million market cap
+right now, unfortunately for them. Yeah,
+
+114
+00:16:13,000 --> 00:16:15,000
+that's rough.
+
+115
+00:16:16,000 --> 00:16:20,000
+Yeah, so CannonQ told our telegram that
+they raised 200 million, was it? Yeah, so
+
+116
+00:16:20,000 --> 00:16:24,000
+absolutely bonkers, where's that go?
+Where's it? Where is that where to go
+
+117
+00:16:24,000 --> 00:16:28,000
+salaries?
+
+118
+00:16:30,000 --> 00:16:40,000
+Where is that where to go salaries? Maybe
+next time in Las Vegas, you can do some
+
+119
+00:16:40,000 --> 00:16:50,000
+search around under the couch cushions at
+the Bellagio by accident.
+
+120
+00:16:50,000 --> 00:16:55,000
+Yeah. Oh gosh, yeah, it's interesting.
+You know you sit back and you think you
+
+121
+00:16:55,000 --> 00:17:00,000
+know, what would what would Ergo be right
+now if the community was given money for
+
+122
+00:17:00,000 --> 00:17:05,000
+development funds beyond that kind of
+thing that much at least? That'd be
+
+123
+00:17:05,000 --> 00:17:10,000
+absolutely insane. I think I think you
+guys have quoted and Joe's quoted many
+
+124
+00:17:10,000 --> 00:17:15,000
+times that the number one expense in Ergo
+has been exchange listings. Yeah, it's
+
+125
+00:17:15,000 --> 00:17:20,000
+like 70 percent maybe of all the time and
+most of that's wasted, actually.
+
+126
+00:17:24,000 --> 00:17:34,000
+Yeah. Yeah. Yeah. Done. Wasted. I mean,
+even before, so from exchanges I got
+
+127
+00:17:34,000 --> 00:17:44,000
+listed back in 2019, only probate, I guess
+still alive. So heartbeat disappeared.
+
+128
+00:17:44,000 --> 00:17:54,000
+Yep. And well for others I don't remember
+their names even well so some were free
+
+129
+00:17:54,000 --> 00:18:04,000
+some not but yeah basically most of 2019
+expenses just disappeared somewhere with
+
+130
+00:18:04,000 --> 00:18:14,000
+those well guys, let's say politely. Then,
+yeah, well, other listings, yeah,
+
+131
+00:18:14,000 --> 00:18:24,000
+basically. So, yeah, the biggest article
+and yeah, well, also our long period quite
+
+132
+00:18:24,000 --> 00:18:34,000
+useless after all, right? But well, we did
+what was requested by community after all.
+
+133
+00:18:34,000 --> 00:18:44,000
+That's what I can say.
+
+134
+00:18:48,000 --> 00:18:53,000
+Yeah, a lot of community feel that that
+kind of access is necessary. But honestly,
+
+135
+00:18:53,000 --> 00:18:58,000
+I think we're at a, not a crossroads, but
+I think we're at a parallel intersection,
+
+136
+00:18:58,000 --> 00:19:03,000
+if that makes sense. I think still the
+people who are interested in a project
+
+137
+00:19:03,000 --> 00:19:08,000
+like Ergo, fair launch, peer-to-peer,
+decentralized, may be running parallel
+
+138
+00:19:08,000 --> 00:19:13,000
+with us because those people that are
+actually interested pretty much should
+
+139
+00:19:13,000 --> 00:19:18,000
+know how to access us, right? I'd say the
+people that are jumping on chain right now
+
+140
+00:19:18,000 --> 00:19:23,000
+for things like corporately centralized
+projects through central exchanges, that's
+
+141
+00:19:23,000 --> 00:19:28,000
+maybe more their cup of tea. I think we're
+still a bit away from the overall adoption
+
+142
+00:19:28,000 --> 00:19:33,000
+of, you know, slowly, slowly you can see
+that kind of thing eroding, but it's
+
+143
+00:19:33,000 --> 00:19:38,000
+interesting.
+
+144
+00:19:39,000 --> 00:19:44,000
+You see, in my eyes, I see this corporate
+structure of crypto, like half of Solana
+
+145
+00:19:44,000 --> 00:19:49,000
+going down when Amazon goes out. I see
+things erode, right? You see these central
+
+146
+00:19:49,000 --> 00:19:54,000
+entities erode, but in the end it also
+reveals those central entities that can
+
+147
+00:19:54,000 --> 00:19:59,000
+continue to sustain and stand up because
+they have so much money pumped at them. So
+
+148
+00:19:59,000 --> 00:20:04,000
+instead of this large island of
+centralized bullshit, now instead you have
+
+149
+00:20:04,000 --> 00:20:09,000
+maybe several pillars of huge tall
+skyscrapers of these centralized
+
+150
+00:20:09,000 --> 00:20:14,000
+bullshits. And so there's less of them,
+yeah, but there's still main strong ones
+
+151
+00:20:14,000 --> 00:20:19,000
+that are there and in your face. So it's
+not like, I don't feel like, you know,
+
+152
+00:20:19,000 --> 00:20:24,000
+while we're losing these, you know, as it
+goes along, which is great, it's the big
+
+153
+00:20:24,000 --> 00:20:29,000
+ones are still going to get taller and
+taller. So it's not, we're always going to
+
+154
+00:20:29,000 --> 00:20:34,000
+have that to deal with, I believe, and
+always fight against, in my opinion.
+
+155
+00:20:37,000 --> 00:20:43,000
+Everybody else asleep? Grayman? HQ?
+Benzel? They're all great here. Here we
+
+156
+00:20:43,000 --> 00:20:49,000
+go.
+
+157
+00:20:50,000 --> 00:20:56,000
+He's awake. I am awake. I'm here. I love
+the rents. I'm in agreement with with
+
+158
+00:20:56,000 --> 00:21:02,000
+everything that you've said so far. I got
+into crypto late and fortunately landed in
+
+159
+00:21:02,000 --> 00:21:08,000
+Ergo via Cardano and the eloquent Mr.
+Hoskinson.
+
+160
+00:21:10,000 --> 00:21:17,000
+Cardano is a gateway drug to Ergo. He
+should make a t-shirt.
+
+161
+00:21:17,000 --> 00:21:22,000
+Well, so I think I managed to, you know,
+Bitcoin, Cardano and, and Ergo, I think I
+
+162
+00:21:22,000 --> 00:21:27,000
+managed to avoid corporate scams, but
+there's a phrase that I used to hear a lot
+
+163
+00:21:27,000 --> 00:21:32,000
+back in the day. I mean, we've been
+talking about this shit for years. It's
+
+164
+00:21:32,000 --> 00:21:37,000
+not like this is a new thing. What was the
+regulatory arbitrage? And essentially the
+
+165
+00:21:37,000 --> 00:21:42,000
+concept being that if you want to make a
+bunch of money by being a scammer, you're
+
+166
+00:21:42,000 --> 00:21:47,000
+going to have to do that in a way that is
+not regulated by the current system. And
+
+167
+00:21:47,000 --> 00:21:52,000
+so what do we have? We have Binance owning
+effectively 70% of the transaction base of
+
+168
+00:21:52,000 --> 00:21:57,000
+the industry or something like that,
+something way over 50%. And where are they
+
+169
+00:21:57,000 --> 00:22:02,000
+even based at this point? Like they've
+hopped around.
+
+170
+00:22:08,000 --> 00:22:14,000
+I mean, the chair of the board, I guess,
+CZ, spent some time in the US jail. I'm
+
+171
+00:22:14,000 --> 00:22:20,000
+not sure about all the details of that
+stuff. I know he's free now, but it's just
+
+172
+00:22:20,000 --> 00:22:26,000
+a mess. I mean, this is anything but
+decentralized, especially if you're
+
+173
+00:22:26,000 --> 00:22:32,000
+keeping your coins on their exchange. But
+also in terms of the way that they control
+
+174
+00:22:32,000 --> 00:22:38,000
+the order book and the flow of
+transactions, it's crazy that people think
+
+175
+00:22:38,000 --> 00:22:44,000
+of this as crypto and get excited about
+it. And that's sort of like another
+
+176
+00:22:44,000 --> 00:22:50,000
+trading account, another exchange for
+them. And it's their favorite one because
+
+177
+00:22:50,000 --> 00:22:56,000
+it's totally lawless. But then the end
+result is that 95% of people get
+
+178
+00:22:56,000 --> 00:23:02,000
+completely rugged, especially the ones
+that engage in any kind of leverage
+
+179
+00:23:02,000 --> 00:23:08,000
+trading, because somebody else is running
+the train, and they say when it stops and
+
+180
+00:23:08,000 --> 00:23:14,000
+goes, not you, and it's not about
+guessing, it's about them maximizing their
+
+181
+00:23:14,000 --> 00:23:20,000
+profit, and it's a corporation, guys, and
+it's not a well-regulated corporation.
+
+182
+00:23:21,000 --> 00:23:24,000
+So to me, it's insane to watch all this
+happen. I think it's going to get worse,
+
+183
+00:23:24,000 --> 00:23:27,000
+unfortunately.
+
+184
+00:23:27,000 --> 00:23:31,000
+Yes, such huge transfers of wealth
+happening, you know, with these dips and
+
+185
+00:23:31,000 --> 00:23:35,000
+these shorts and everything. Absolutely
+mind boggling how much money is
+
+186
+00:23:35,000 --> 00:23:39,000
+transferring to more wealthy people here.
+
+187
+00:23:39,000 --> 00:23:45,000
+Yep. So I don't know if there's really
+much more to say than that. I feel blessed
+
+188
+00:23:45,000 --> 00:23:51,000
+that I never really got involved in that
+part of the so-called industry. I mean, to
+
+189
+00:23:51,000 --> 00:23:57,000
+me, it literally is just a scam. It makes
+no sense. I mean, they do sell Bitcoin and
+
+190
+00:23:57,000 --> 00:24:03,000
+they do sell Cardano, and that's great.
+But that's fine. If 99% of what they sell
+
+191
+00:24:03,000 --> 00:24:09,000
+are tokens that they extract hundreds of
+thousands of dollars from the community
+
+192
+00:24:09,000 --> 00:24:15,000
+and team and then get a bunch of tokens
+and then as soon as they get listed they
+
+193
+00:24:15,000 --> 00:24:21,000
+dunk on them and they drop off I mean,
+it's like a vampire. I can't believe
+
+194
+00:24:21,000 --> 00:24:27,000
+anybody participates in this but there you
+go. Like they say the path is littered
+
+195
+00:24:27,000 --> 00:24:33,000
+with bodies.
+
+196
+00:24:35,000 --> 00:24:41,000
+So Ergo is walking a different path. We
+aren't even like, I mean, I think that at
+
+197
+00:24:41,000 --> 00:24:47,000
+one point there was a negotiated position
+with Binance US and the Ergo Foundation,
+
+198
+00:24:47,000 --> 00:24:53,000
+which at the time was maybe, let's just
+say more well endowed entity than it is
+
+199
+00:24:53,000 --> 00:24:59,000
+now as time has passed. They voted it
+down, wisely so in retrospect. And we
+
+200
+00:24:59,000 --> 00:25:05,000
+never really had that much money in the
+till as a community because I think the
+
+201
+00:25:05,000 --> 00:25:11,000
+Ergo Foundation was founded after the
+chain got started and funded by less than
+
+202
+00:25:11,000 --> 00:25:17,000
+5%, more than 4%, but less than 5% of the
+coins as they were mined. And so initially
+
+203
+00:25:17,000 --> 00:25:23,000
+that led to a lot of ERG but not worth a
+lot of dollars, and so there was never
+
+204
+00:25:23,000 --> 00:25:29,000
+really an opportunity for Ergo to play in
+that space unless some whale decided that
+
+205
+00:25:29,000 --> 00:25:35,000
+they just wanted to underwrite it. And
+surprise, surprise, none of them did,
+
+206
+00:25:35,000 --> 00:25:41,000
+because they recognize that that whole
+game is rigged and that it doesn't make
+
+207
+00:25:41,000 --> 00:25:47,000
+any sense to play it to just hand your
+money to somebody that's going to come and
+
+208
+00:25:47,000 --> 00:25:53,000
+insist that you give them more to keep
+playing. It's worse than a casino.
+
+209
+00:26:00,000 --> 00:26:04,000
+So I don't know what else to say. I feel
+bad for everybody that got hurt by that.
+
+210
+00:26:04,000 --> 00:26:08,000
+But at the same time, you know, some of
+those people just need to get washed out.
+
+211
+00:26:08,000 --> 00:26:12,000
+They're not here for the right reasons. To
+the extent that we see some of that in the
+
+212
+00:26:12,000 --> 00:26:16,000
+Ergo forums, I just sort of shrug and
+it's, it's, I mean, I'm sure there are
+
+213
+00:26:16,000 --> 00:26:20,000
+some people that look at whatever I post
+as being painful to read through or, or a
+
+214
+00:26:20,000 --> 00:26:24,000
+skip over.
+
+215
+00:26:26,000 --> 00:26:30,000
+Oh, it's just painful to listen to you
+talk, Grayman, even for me, you know, I'm
+
+216
+00:26:30,000 --> 00:26:34,000
+just kidding. Love hearing you talk, sir.
+
+217
+00:26:34,000 --> 00:26:38,000
+I don't know. I don't know what to say.
+It's, it's hard to, it's hard to see.
+
+218
+00:26:38,000 --> 00:26:42,000
+It's, it is people saw complaining about
+it.
+
+219
+00:26:42,000 --> 00:26:47,000
+I just I can't I can't really even
+understand their motivations. So they get
+
+220
+00:26:47,000 --> 00:26:52,000
+sold this, you know, put your money in and
+you'll get 20% 30% 40% rich. I mean when
+
+221
+00:26:52,000 --> 00:26:57,000
+you go to a central exchange and they're
+advertising to hold a stable coin and get
+
+222
+00:26:57,000 --> 00:27:02,000
+like 10% returns or whatever that bullshit
+is. I mean in a normal person's head that
+
+223
+00:27:02,000 --> 00:27:07,000
+would like, how is this sustainable?
+What's going on here? So they're roped in
+
+224
+00:27:07,000 --> 00:27:12,000
+by these kind of things of absolutely
+ridiculous returns, and then this kind of
+
+225
+00:27:12,000 --> 00:27:17,000
+stuff can't be sustainable. The liquidity
+providers, and when I say liquidity
+
+226
+00:27:17,000 --> 00:27:22,000
+providers, I mean the fools in their
+money, dry out.
+
+227
+00:27:29,000 --> 00:27:34,000
+Yeah. I mean, to be fair, I also, when I
+first started trying to learn about all
+
+228
+00:27:34,000 --> 00:27:39,000
+this stuff, I was also led to these
+exchanges and whatnot. All of the talk of
+
+229
+00:27:39,000 --> 00:27:44,000
+here's where you go to get this and
+whatnot. And it just seemed like it was
+
+230
+00:27:44,000 --> 00:27:49,000
+such a broad and crazy space that the only
+way to get involved was to just grab some
+
+231
+00:27:49,000 --> 00:27:54,000
+close by piece and start doing stuff. But
+it was pretty quickly, pretty easy to
+
+232
+00:27:54,000 --> 00:27:59,000
+figure out that this is crazy town, like
+this is worse than a casino, and I have no
+
+233
+00:27:59,000 --> 00:28:04,000
+interest in doing that. I could just play
+the stock market.
+
+234
+00:28:05,000 --> 00:28:10,000
+I mean, I guess a lot of the way that I
+think about it might be privileged by
+
+235
+00:28:10,000 --> 00:28:15,000
+being an American, especially an older
+American towards the end of my career, or
+
+236
+00:28:15,000 --> 00:28:20,000
+last third, let's say. So I have a little
+bit of time and money and wisdom and I can
+
+237
+00:28:20,000 --> 00:28:25,000
+see you know, what's obvious bullshit. I
+think a lot of the people that get trapped
+
+238
+00:28:25,000 --> 00:28:30,000
+are people that were just out of college
+and you know, they're just trying to get
+
+239
+00:28:30,000 --> 00:28:35,000
+out in the world and swim and somebody's
+got a good comment in chat.
+
+240
+00:28:38,000 --> 00:28:42,000
+That's related to this. Mobius says fuck
+profit, can't think like that. And I think
+
+241
+00:28:42,000 --> 00:28:46,000
+that's the problem, right? I think people
+need to be able to understand that there
+
+242
+00:28:46,000 --> 00:28:50,000
+are many profit opportunities in Ergo.
+Many. There's SigmaFi, there's arbitrage,
+
+243
+00:28:50,000 --> 00:28:54,000
+there's SigmaUSD Bank. There's a lot of
+profit opportunities in Ergo. There's
+
+244
+00:28:54,000 --> 00:28:58,000
+MuShop, you know, for physical goods for
+profiting off that. A lot of profits,
+
+245
+00:28:58,000 --> 00:29:02,000
+okay? And that's a sustainable profit.
+That's a profit that actually can sustain
+
+246
+00:29:02,000 --> 00:29:06,000
+itself. What we're talking about here is
+obvious scam profits where it's a pyramid
+
+247
+00:29:06,000 --> 00:29:10,000
+scheme where the idea is you make a profit
+because somebody else is there to lose a
+
+248
+00:29:10,000 --> 00:29:14,000
+lot, right? That's the difference that
+we're speaking about here. Profit is fine.
+
+249
+00:29:14,000 --> 00:29:18,000
+Nobody should shame anybody about profit,
+right? And there's plenty of opportunities
+
+250
+00:29:18,000 --> 00:29:22,000
+in Ergo to do so. There's a huge
+difference between that and what you're
+
+251
+00:29:22,000 --> 00:29:26,000
+seeing at central casino exchanges. Huge
+difference, Mobius.
+
+252
+00:29:31,000 --> 00:29:35,000
+Yeah, but profit that's made from a hype
+machine is just at the expense of the
+
+253
+00:29:35,000 --> 00:29:39,000
+losers. Yeah, exactly. And it's not going
+to be sustainable. So it doesn't make any
+
+254
+00:29:39,000 --> 00:29:43,000
+sense. Yeah, you have to build slowly but
+surely tools that can be used and
+
+255
+00:29:43,000 --> 00:29:47,000
+eventually the exponential turns the
+corner and starts being faster than you
+
+256
+00:29:47,000 --> 00:29:51,000
+can even get ready for and eventually
+becomes an asset.
+
+257
+00:29:55,000 --> 00:29:58,000
+You can't build a foundation on balloons.
+One of them pops, you're done.
+
+258
+00:29:58,000 --> 00:30:03,000
+Yeah, so Ergo has been slow and steady.
+It's getting better and better. It's sort
+
+259
+00:30:03,000 --> 00:30:08,000
+of the Kaizen mentality. Every we just
+got, you know, node six has just come out
+
+260
+00:30:08,000 --> 00:30:13,000
+already starting to think about the
+repercussions of that and how to turn it
+
+261
+00:30:13,000 --> 00:30:18,000
+into sub blocks and getting back into
+finance online. There's a lot of stuff
+
+262
+00:30:18,000 --> 00:30:23,000
+that's cooking and it didn't start cooking
+yesterday, right? It's been going for a
+
+263
+00:30:23,000 --> 00:30:28,000
+while, consistently working on building
+and making it better as a tool, not as a
+
+264
+00:30:28,000 --> 00:30:33,000
+toy or as a fad. And that feels like what
+all of this pumped out fun shit is. It's
+
+265
+00:30:33,000 --> 00:30:38,000
+just let's try and make a fad.
+
+266
+00:30:43,000 --> 00:30:46,000
+It's like Ergo is perpetual soup,
+Grayman. It's always been cooking for a
+
+267
+00:30:46,000 --> 00:30:49,000
+long time and you come back a year later
+and it might taste different, but it's
+
+268
+00:30:49,000 --> 00:30:52,000
+been cooking the entire time.
+
+269
+00:30:54,000 --> 00:30:56,000
+Right, yep.
+
+270
+00:30:56,000 --> 00:31:00,000
+Yeah, HQ's got a question in chat. A good
+question, actually. A good for HQ, that's
+
+271
+00:31:00,000 --> 00:31:04,000
+for sure. Question, what would be the
+outcome when EF publishes similar
+
+272
+00:31:04,000 --> 00:31:08,000
+announcements as Kadena, as they are
+running out of funds, etc. Should we be
+
+273
+00:31:08,000 --> 00:31:12,000
+sharing on socials why EF actually isn't
+behind the core Devon, etc. ETC nowhere to
+
+274
+00:31:12,000 --> 00:31:16,000
+go. I think we've been preaching that as
+often as we can, HQ. I think everybody out
+
+275
+00:31:16,000 --> 00:31:20,000
+here on the AMAs has made it very clear
+that EF's overall goal was - kushti's
+
+276
+00:31:20,000 --> 00:31:24,000
+gonna jump in with this. I said EF. EF's
+overall goal is to fade into some other
+
+277
+00:31:24,000 --> 00:31:28,000
+part of existence. You know, their goal
+was to bootstrap in that sense. Sorry, go
+
+278
+00:31:28,000 --> 00:31:32,000
+for it kushti.
+
+279
+00:31:35,000 --> 00:31:43,000
+Yeah, so well as a guy who actually
+founded EF, I'm finding all those talks
+
+280
+00:31:43,000 --> 00:31:51,000
+strange. So it seems well at some point
+well the EF got perceived as a kind of
+
+281
+00:31:51,000 --> 00:31:59,000
+main entity, maybe establishing entity.
+But actually it was established a month
+
+282
+00:31:59,000 --> 00:32:07,000
+after the main at launch. It was November
+or December 2019. And yeah, to that
+
+283
+00:32:07,000 --> 00:32:15,000
+moment, well, Ergo was listed on like five
+or six exchanges, right? So, well, the
+
+284
+00:32:15,000 --> 00:32:23,000
+development went well without EF and so
+on, right? So, well, I mean, things were
+
+285
+00:32:23,000 --> 00:32:31,000
+made without the EF for starters, right?
+So for many months and yeah, well, then
+
+286
+00:32:31,000 --> 00:32:39,000
+basically since 2022, I believe, so Joe
+and me and others, I believe also, well,
+
+287
+00:32:39,000 --> 00:32:47,000
+pushing the idea that EF is well, by
+definition is not around for forever,
+
+288
+00:32:47,000 --> 00:32:55,000
+probably right. I mean, no one knows,
+maybe it can find some ways to exist
+
+289
+00:32:55,000 --> 00:33:03,000
+forever. But to the best of my knowledge,
+that there is no any human made
+
+290
+00:33:03,000 --> 00:33:11,000
+organization, which lived forever. Right.
+Even to survive for like 20 years for a
+
+291
+00:33:11,000 --> 00:33:19,000
+foundation or a commercial company is
+already quite exceptional. I know such
+
+292
+00:33:19,000 --> 00:33:27,000
+corporations, companies, but we simply
+don't know. Thousands disappeared, right?
+
+293
+00:33:27,000 --> 00:33:35,000
+So, well...
+
+294
+00:33:49,000 --> 00:33:50,000
+I think kushti, I think you should...
+
+295
+00:33:50,000 --> 00:33:55,000
+They've handed off a lot of their
+important duties already to the SIGs and
+
+296
+00:33:55,000 --> 00:34:00,000
+to the Infradow, and there's still more
+that they retain, but those could be
+
+297
+00:34:00,000 --> 00:34:05,000
+handed off as well. I mean, one that's
+really stand out for me is ErgoDocs is
+
+298
+00:34:05,000 --> 00:34:10,000
+just spectacular and updated and it's very
+in depth and it's going to be sad to see
+
+299
+00:34:10,000 --> 00:34:15,000
+that sort of official duty of the EF
+disappear along with everything else when
+
+300
+00:34:15,000 --> 00:34:20,000
+that time comes. But presumably the
+community will pick it up and maintain it.
+
+301
+00:34:20,000 --> 00:34:25,000
+We just need to get to that point. There's
+also the website, which I think is quite
+
+302
+00:34:25,000 --> 00:34:30,000
+good as is, but apparently there's a new
+one coming at some point and that's great.
+
+303
+00:34:30,000 --> 00:34:35,000
+But, you know, that's also something that
+in the future, I mean, what's Bitcoin.com?
+
+304
+00:34:35,000 --> 00:34:40,000
+It's whoever owns that domain. We're going
+to have to move past the idea that that
+
+305
+00:34:40,000 --> 00:34:45,000
+like, what's the website for Linux? I
+mean, it just, you know, there's something
+
+306
+00:34:45,000 --> 00:34:50,000
+that just needs to go away.
+
+307
+00:34:58,000 --> 00:35:02,000
+Get some onion links for the Ergo hosted
+website. That'd be great.
+
+308
+00:35:02,000 --> 00:35:10,000
+Makes a little too exclusive for the
+website. So another one is coming. Well,
+
+309
+00:35:10,000 --> 00:35:18,000
+it's coming. Yeah. For many, many months,
+but they can't push because it's just
+
+310
+00:35:18,000 --> 00:35:26,000
+volunteer some volunteer. Yeah, well not
+paid by any party and well, I've seen some
+
+311
+00:35:26,000 --> 00:35:34,000
+drafts a few months ago and recently, I've
+got a message that it's basically ready.
+
+312
+00:35:34,000 --> 00:35:42,000
+So wow, I can check it in days and and
+then, yeah, let's see when it will be
+
+313
+00:35:42,000 --> 00:35:50,000
+launched. But it would be different from
+EFs. And I think it's also good, right?
+
+314
+00:35:50,000 --> 00:35:58,000
+It's OK for diverse.
+
+315
+00:35:59,000 --> 00:36:03,000
+We could actually launch that directly on
+infra for now, if we want to, at least for
+
+316
+00:36:03,000 --> 00:36:07,000
+the, you know, just launch straight to
+that. And then you can live side by side
+
+317
+00:36:07,000 --> 00:36:11,000
+for a minute and we can make sure it works
+and go from there.
+
+318
+00:36:11,000 --> 00:36:17,000
+That would be interesting. And yeah, so
+that's another website is more sci-fi
+
+319
+00:36:17,000 --> 00:36:23,000
+punk-ish. And yeah, well, it's made to the
+guys' preferences. And yeah, no one can
+
+320
+00:36:23,000 --> 00:36:29,000
+judge here.
+
+321
+00:36:31,000 --> 00:36:36,000
+I do hold .erg. And if we guys want to
+release something .erg, so maybe we can do
+
+322
+00:36:36,000 --> 00:36:41,000
+platform.erg and release that on there.
+
+323
+00:36:42,000 --> 00:36:46,000
+You bought the entire endpoint there the
+entire what's it called? How much was
+
+324
+00:36:46,000 --> 00:36:50,000
+that?
+
+325
+00:36:51,000 --> 00:36:54,000
+It was gifted from from handshakes. Yes.
+
+326
+00:36:54,000 --> 00:37:00,000
+Oh you bought the handshake. Yeah, I got
+you. Okay. I was gonna say cuz dot Ergs
+
+327
+00:37:00,000 --> 00:37:06,000
+gotta be some country in Europe or
+something, right? Yeah. Let's see, .erg
+
+328
+00:37:06,000 --> 00:37:12,000
+is, I don't know. I don't know. But I was
+back to community guys, when you're
+
+329
+00:37:12,000 --> 00:37:18,000
+talking, I feel like, I feel like, a good
+community in, like Ergo is, should be,
+
+330
+00:37:18,000 --> 00:37:24,000
+yeah, HQ3rr is going to start a country. A
+good community is, like the ship of
+
+331
+00:37:24,000 --> 00:37:30,000
+Theseus. You guys familiar with that?
+
+332
+00:37:33,000 --> 00:37:37,000
+So that's a thought experiment that says
+if you have a ship, a wooden ship, right?
+
+333
+00:37:37,000 --> 00:37:41,000
+You guys, we'll save for everybody online.
+If you have a wooden ship and over
+
+334
+00:37:41,000 --> 00:37:45,000
+hundreds of years you replace every single
+board, you know, one at a time or every so
+
+335
+00:37:45,000 --> 00:37:49,000
+often, and after many, many years the ship
+is totally different boards. There are no
+
+336
+00:37:49,000 --> 00:37:53,000
+original boards in the ship or sails or
+anything. Is at the same ship, right? And
+
+337
+00:37:53,000 --> 00:37:57,000
+I think a lot of people say, yeah, it's
+the same ship, right? So I feel like a
+
+338
+00:37:57,000 --> 00:38:01,000
+good community is like the ship of
+Theseus, right? You have, you know, the
+
+339
+00:38:01,000 --> 00:38:05,000
+community back in the day, it's still the
+Ergo community, the community in the
+
+340
+00:38:05,000 --> 00:38:09,000
+future is still the Ergo community, but
+it's changed so much, might not even be
+
+341
+00:38:09,000 --> 00:38:13,000
+same members, right? But the mission
+remains the same, the experiences, the
+
+342
+00:38:13,000 --> 00:38:17,000
+experience, the historical knowledge base
+remains the same. All that kind of stuff
+
+343
+00:38:17,000 --> 00:38:21,000
+moves with the community as it comes
+along. So I think that's an indicator of a
+
+344
+00:38:21,000 --> 00:38:25,000
+good project that has something like this,
+not something that's just a captain that
+
+345
+00:38:25,000 --> 00:38:29,000
+runs around on whatever ship has the
+biggest sail. And then if the ship sinks,
+
+346
+00:38:29,000 --> 00:38:33,000
+he's like, fuck off, I've got my treasure
+chest, goodbye. And then it goes down for
+
+347
+00:38:33,000 --> 00:38:37,000
+good. Whereas this kind of community is
+very resilient.
+
+348
+00:38:52,000 --> 00:38:56,000
+I wanted to add to that prior question of
+how would that situation be perceived by
+
+349
+00:38:56,000 --> 00:39:00,000
+the community? I think it would be
+celebrated even from the tone of the
+
+350
+00:39:00,000 --> 00:39:04,000
+organization themselves releasing it,
+wouldn't be in the tone of how Kadena
+
+351
+00:39:04,000 --> 00:39:08,000
+released it. The EF will be glad to say,
+hey, this has already been the plan. So to
+
+352
+00:39:08,000 --> 00:39:12,000
+answer the question directly, I think it
+would be a good thing, a good sign for
+
+353
+00:39:12,000 --> 00:39:16,000
+that announcement in our community versus
+how it was accepted in the other one.
+
+354
+00:39:21,000 --> 00:39:25,000
+I think you're right, Benzel. I think
+you're right, because we saw this already
+
+355
+00:39:25,000 --> 00:39:29,000
+pre-played out with Joe leaving the EF,
+with kushti leaving the EF. It was like,
+
+356
+00:39:29,000 --> 00:39:33,000
+oh, you know, this is expected. This is
+what's happening. It's like kids going off
+
+357
+00:39:33,000 --> 00:39:37,000
+to college. It was a sad day, though.
+Yeah, it's sad, but it's like, oh, this is
+
+358
+00:39:37,000 --> 00:39:41,000
+what's supposed to happen. This is
+evolution of what's supposed to happen. I
+
+359
+00:39:41,000 --> 00:39:45,000
+love your sweatshirt. Did you get that at
+the meetup, sir?
+
+360
+00:39:46,000 --> 00:39:50,000
+This is my physical airdrop. This is how
+I got the claims of free stuff right here.
+
+361
+00:39:50,000 --> 00:39:52,000
+This is my airdrop. All right. Did you
+get a hat?
+
+362
+00:39:52,000 --> 00:39:55,000
+This is the only free airdrops we do is
+physical in person.
+
+363
+00:39:55,000 --> 00:39:57,000
+Did you bring a hat back with you from
+Colorado?
+
+364
+00:39:57,000 --> 00:40:01,000
+Oh, I didn't. I think Chris got them all,
+so I might have to ask him to ship me one.
+
+365
+00:40:01,000 --> 00:40:02,000
+Chris took them all?
+
+366
+00:40:02,000 --> 00:40:05,000
+No, no, no. He grabbed them because they
+were left there. I guess they could have
+
+367
+00:40:05,000 --> 00:40:08,000
+been in that church for a bit.
+
+368
+00:40:08,000 --> 00:40:14,000
+I think he posted on socials like, I
+don't know how, but I have got these. So
+
+369
+00:40:14,000 --> 00:40:20,000
+maybe he was drunk and he took all of
+them. I got a shirt too.
+
+370
+00:40:20,000 --> 00:40:24,000
+Oh, the mining shirt. That's awesome.
+Fantastic. I'm wearing my sweatshirt that
+
+371
+00:40:24,000 --> 00:40:28,000
+I stole from Joe at Vegas a couple of
+years ago.
+
+372
+00:40:28,000 --> 00:40:31,000
+He was supposed to give me his Rosen
+Bridge sweatshirt, but it's the only one
+
+373
+00:40:31,000 --> 00:40:34,000
+he has so I didn't want it. But he still
+have to steal it like you have to steal
+
+374
+00:40:34,000 --> 00:40:37,000
+it. I can't take the only one you have I
+feel bad.
+
+375
+00:40:38,000 --> 00:40:41,000
+That's what he does. That's Joe's MO.
+He'll bring something leave it on a chair
+
+376
+00:40:41,000 --> 00:40:44,000
+and expect somebody to take it. You know
+take as much control over Joe's
+
+377
+00:40:44,000 --> 00:40:47,000
+merchandise as you can. I think it's the
+same. You know, I still haven't washed
+
+378
+00:40:47,000 --> 00:40:50,000
+this in two years. It still smells like
+Joe.
+
+379
+00:40:53,000 --> 00:40:58,000
+It's perfect. You know this disc that's
+awesome.
+
+380
+00:40:58,000 --> 00:40:59,000
+Old-school cool.
+
+381
+00:40:59,000 --> 00:41:01,000
+What's that?
+
+382
+00:41:01,000 --> 00:41:04,000
+Old-school cool like steal this disc.
+
+383
+00:41:04,000 --> 00:41:11,000
+Oh, yeah. Yeah. Yeah. Yep. Yep. Those are
+the days, right?
+
+384
+00:41:11,000 --> 00:41:16,000
+No, overall I'd say my sentiment towards
+Ergo always remains the same, right?
+
+385
+00:41:16,000 --> 00:41:21,000
+There's no external factors that make me
+think, oh, you know, I'm worried for the
+
+386
+00:41:21,000 --> 00:41:26,000
+future of Ergo. It's all that, yep, this
+is like watching a play play out that we
+
+387
+00:41:26,000 --> 00:41:31,000
+know the ending to. This is exactly what
+we expected to happen to this centralized
+
+388
+00:41:31,000 --> 00:41:36,000
+entity, you know, and here we are just
+trucking along. Sorry, Grayman, go for it.
+
+389
+00:41:36,000 --> 00:41:40,000
+But that sounds like a godlike
+perspective. I'm just in the soup. I don't
+
+390
+00:41:40,000 --> 00:41:44,000
+know how it's going to end, but it gets
+better and better for me. So I know we're
+
+391
+00:41:44,000 --> 00:41:48,000
+going in the right direction. I mean,
+there could be a wave that goes and
+
+392
+00:41:48,000 --> 00:41:52,000
+smashes the entire thing apart. But I
+doubt it, I think there will be a wave
+
+393
+00:41:52,000 --> 00:41:56,000
+that'll smash almost the entire industry
+apart at some point, sooner or later. I
+
+394
+00:41:56,000 --> 00:42:00,000
+mean, if nothing else, a decade from now
+when Bitcoin's halving takes it to the
+
+395
+00:42:00,000 --> 00:42:04,000
+point where there's no security budget
+anymore, that's going to be a hell of a
+
+396
+00:42:04,000 --> 00:42:08,000
+wave. And when that happens, it's going to
+be a question of who can survive that
+
+397
+00:42:08,000 --> 00:42:12,000
+tragedy. And I think that we're aiming in
+the right direction.
+
+398
+00:42:19,000 --> 00:42:25,000
+I mean, if you say fuck Binance, sorry,
+bleep that out. But if you say that you
+
+399
+00:42:25,000 --> 00:42:31,000
+don't want to deal with Binance or any of
+these other extractive exchanges, well, we
+
+400
+00:42:31,000 --> 00:42:37,000
+have ways to deal with that. We have Rosen
+Bridge. We have very soon we have Machina
+
+401
+00:42:37,000 --> 00:42:43,000
+Finance, which will make it so that we
+have long chain liquidity that's
+
+402
+00:42:43,000 --> 00:42:49,000
+constantly running and that can be done
+with Rosen bridged assets. And so to be
+
+403
+00:42:49,000 --> 00:42:55,000
+fair liquidity bootstrapping is always a
+problem and one of the biggest complaints
+
+404
+00:42:55,000 --> 00:43:01,000
+about a smaller blockchain or community.
+But there's something where you can
+
+405
+00:43:01,000 --> 00:43:07,000
+literally put your money where your mouth
+is and allocate a portion of your holdings
+
+406
+00:43:07,000 --> 00:43:13,000
+to trading and liquidity according to a
+robot that you set up to do it. And you
+
+407
+00:43:13,000 --> 00:43:19,000
+can rest assured that it's still going to
+be self custody within your wallet and
+
+408
+00:43:19,000 --> 00:43:25,000
+that you have ultimate control over the
+whole thing without dealing with Binance,
+
+409
+00:43:25,000 --> 00:43:31,000
+you know what now, right? It's there. The
+ball's gonna be in their court in the long
+
+410
+00:43:31,000 --> 00:43:37,000
+run when that wave crashes and destroys a
+lot of stuff. Hopefully it destroys them
+
+411
+00:43:37,000 --> 00:43:43,000
+too but we got to have a way for people to
+interact and I think we've got it and I
+
+412
+00:43:43,000 --> 00:43:49,000
+think we lead the industry in that sense.
+There are other tools on other systems
+
+413
+00:43:49,000 --> 00:43:55,000
+that are close to this, but not the same.
+
+414
+00:44:02,000 --> 00:44:04,000
+I think Ergo is extremely well positioned
+for the rug season. For starters, is
+
+415
+00:44:04,000 --> 00:44:06,000
+Binance now available in the US?
+
+416
+00:44:07,000 --> 00:44:10,000
+I don't know. I don't touch that.
+
+417
+00:44:10,000 --> 00:44:13,000
+It's a Binance US domain that the
+government kind of made them give up
+
+418
+00:44:13,000 --> 00:44:16,000
+ownership of that.
+
+419
+00:44:17,000 --> 00:44:21,000
+Yeah, it's different things though,
+right? It's quite a bit limited compared
+
+420
+00:44:21,000 --> 00:44:25,000
+to the other Binance, if I recall
+correctly.
+
+421
+00:44:26,000 --> 00:44:29,000
+Separate, but probably run by the same
+crowd of crooks and so therefore not so
+
+422
+00:44:29,000 --> 00:44:32,000
+separate.
+
+423
+00:44:32,000 --> 00:44:37,000
+But the Binance Smart Chain is the bridge
+between the two, I believe.
+
+424
+00:44:37,000 --> 00:44:45,000
+Well, anyway, probably it's worth to
+consider to withdraw from it, especially
+
+425
+00:44:45,000 --> 00:44:53,000
+in the US, because I think at some point
+we may see maybe the second term or
+
+426
+00:44:53,000 --> 00:45:01,000
+another crackdown. Well, because, yeah, it
+seems now, well, crypto Twitter are full
+
+427
+00:45:01,000 --> 00:45:09,000
+of accusations, right, towards Binance,
+hard to say. Well, well, so some are
+
+428
+00:45:09,000 --> 00:45:17,000
+definitely real, because, well, the
+exchange is scammy, as well as its owner,
+
+429
+00:45:17,000 --> 00:45:25,000
+right, and people around. Well, but, yeah,
+well, as usually in such things, well,
+
+430
+00:45:25,000 --> 00:45:33,000
+maybe it's kind of preparation, right, for
+some actions also. Hard to say at this
+
+431
+00:45:33,000 --> 00:45:41,000
+point, we'll see. But yeah, it's better to
+stay away from all CSAT related. So it's
+
+432
+00:45:41,000 --> 00:45:49,000
+actually much worse than Kadena and so on.
+All his assets, like DEX tokens and so on.
+
+433
+00:45:49,000 --> 00:45:57,000
+They are not even pretending to be proof
+of work like Kadena and so on, just some
+
+434
+00:45:57,000 --> 00:46:05,000
+tokens printed by the guy to his own
+pockets then yeah well partly distributed
+
+435
+00:46:05,000 --> 00:46:13,000
+but yeah for BNB still more than 70
+percent in his pockets so he is simply
+
+436
+00:46:13,000 --> 00:46:21,000
+controlling the market and the...
+
+437
+00:46:22,000 --> 00:46:31,000
+Well, another thing is, well, why I'm
+thinking about rug season. So many people
+
+438
+00:46:31,000 --> 00:46:40,000
+in this crypto space did await for all
+season, right? Well, and they provided
+
+439
+00:46:40,000 --> 00:46:49,000
+some probably valid arguments that markets
+are cyclical and so on. Right, and I
+
+440
+00:46:49,000 --> 00:46:58,000
+think, yeah, those arguments are
+convincing, but only in the presence of
+
+441
+00:46:58,000 --> 00:47:07,000
+markets, right, so more or less free
+markets. So in the case of, well, markets
+
+442
+00:47:07,000 --> 00:47:16,000
+like we had in 2013, 2017, so mostly proof
+of work cryptocurrencies, well, mostly.
+
+443
+00:47:16,000 --> 00:47:25,000
+Well, also proof of stake cryptocurrencies
+distributed through ICOs, right? So, well,
+
+444
+00:47:25,000 --> 00:47:34,000
+quite well distributed after all, in
+comparison with today's nonsense, like
+
+445
+00:47:34,000 --> 00:47:43,000
+oligarchs tokens. So, yeah, well, if
+markets would be similar, then, yeah,
+
+446
+00:47:43,000 --> 00:47:52,000
+maybe we would care for all season. But
+with tokens, which are dominating in the
+
+447
+00:47:52,000 --> 00:48:01,000
+market now, we simply don't care for
+markets, right? So, well, it's not markets
+
+448
+00:48:01,000 --> 00:48:10,000
+when supply is basically controlled and
+can be changed for free at any moment. The
+
+449
+00:48:10,000 --> 00:48:19,000
+owner of a token can just send a portion
+to an exchange and liquidate everyone. In
+
+450
+00:48:19,000 --> 00:48:28,000
+this environment we don't have markets, so
+it's quite about manipulations,
+
+451
+00:48:28,000 --> 00:48:37,000
+multi-level manipulations. Instead of alt
+season, we have rug season, so it's not
+
+452
+00:48:37,000 --> 00:48:46,000
+cyclical markets behavior. It's not about
+markets after all this crypto space at
+
+453
+00:48:46,000 --> 00:48:55,000
+this point. So we need for all these dots
+to be washed out somehow and that's what
+
+454
+00:48:55,000 --> 00:49:04,000
+we are starting to see maybe.
+
+455
+00:49:12,000 --> 00:49:16,000
+Yeah, I think too, going off what you
+just said, kushti, I think people also
+
+456
+00:49:16,000 --> 00:49:20,000
+flock to familiar, right? So that's
+exactly how the fiat world works, right?
+
+457
+00:49:20,000 --> 00:49:24,000
+You know, it's always them against the top
+against retail, right? And cryptocurrency
+
+458
+00:49:24,000 --> 00:49:28,000
+was supposed to, and is supposed to, and
+what Ergo is doing, is balancing that out,
+
+459
+00:49:28,000 --> 00:49:32,000
+right? It's making it so that it becomes
+apparent who is the person that holds most
+
+460
+00:49:32,000 --> 00:49:36,000
+of the things and can just manipulate as
+they like. So, you know Ergo follows that
+
+461
+00:49:36,000 --> 00:49:40,000
+but a lot of other chains do not and just
+mimic what they see in the fiat world. So
+
+462
+00:49:40,000 --> 00:49:44,000
+when people flock they are looking for
+somebody to be a leader. They're looking
+
+463
+00:49:44,000 --> 00:49:48,000
+for some organization to own something so
+they can feel safe. When in reality there
+
+464
+00:49:48,000 --> 00:49:52,000
+were never even safe in the fiat world
+when that happens, right? It's a classic
+
+465
+00:49:52,000 --> 00:49:56,000
+example of the walrus and the oysters,
+right? You know, you're led to a table for
+
+466
+00:49:56,000 --> 00:50:00,000
+dinner.
+
+467
+00:50:10,000 --> 00:50:16,000
+This would be a good time to plug Joe's
+talk on the Meetup.
+
+468
+00:50:16,000 --> 00:50:19,000
+Yes, great. Go for it, Grayman. You plug
+it.
+
+469
+00:50:19,000 --> 00:50:24,000
+I mean, you're basically just stating
+what a third of the talk was about, was
+
+470
+00:50:24,000 --> 00:50:29,000
+that, you know, we just need to not look
+for leaders, but look for solutions. Yeah.
+
+471
+00:50:29,000 --> 00:50:34,000
+And, you know, that's, it's worth
+watching. All the talks are worth
+
+472
+00:50:34,000 --> 00:50:39,000
+watching. That Meetup was a spectacular
+event for me. I haven't worked my way
+
+473
+00:50:39,000 --> 00:50:44,000
+through all of them, but I did rewatch
+Joe's and it stands up everything about
+
+474
+00:50:44,000 --> 00:50:49,000
+it's perfect. It was off the cuff and
+spoke from the heart and it anticipated
+
+475
+00:50:49,000 --> 00:50:54,000
+what we're witnessing happen right now.
+So, you know, I don't want to gloat and
+
+476
+00:50:54,000 --> 00:50:59,000
+watch all these people suffer from the
+market falling apart. I hope nobody takes
+
+477
+00:50:59,000 --> 00:51:04,000
+it that way. But yeah, I mean it seems
+inevitable to me. So on that level, I hope
+
+478
+00:51:04,000 --> 00:51:09,000
+people get out before they get hurt and
+find a safe place to be and that could be
+
+479
+00:51:09,000 --> 00:51:14,000
+Ergo. I hope it is but it could be
+whatever land precious metals, you know,
+
+480
+00:51:14,000 --> 00:51:19,000
+whatever you can do to secure your your
+your future and your you know your your
+
+481
+00:51:19,000 --> 00:51:24,000
+treasure is worth doing because sticking
+around in the crypto system where people
+
+482
+00:51:24,000 --> 00:51:29,000
+can rug you at any moment is not a good
+place to be so?
+
+483
+00:51:35,000 --> 00:51:40,000
+Yeah, I would say don't look for leaders.
+Don't seek out leaders in this space. Seek
+
+484
+00:51:40,000 --> 00:51:45,000
+out, lead yourself and seek out peers,
+right? You know, I mean, it's perfect if
+
+485
+00:51:45,000 --> 00:51:50,000
+you want to, you know, like, it's amazing
+to be like, Joe's amazing, kushti's
+
+486
+00:51:50,000 --> 00:51:55,000
+amazing, Grayman's amazing, it's great to
+hear them talk. And that's great. But, you
+
+487
+00:51:55,000 --> 00:52:00,000
+know, like, we could have somebody that
+fucks up big time, right? Like, let's take
+
+488
+00:52:00,000 --> 00:52:05,000
+Cardano and Charles Hoskinson. What if
+something is revealed that's absolutely
+
+489
+00:52:05,000 --> 00:52:10,000
+awful? Right? There goes the chain. Done.
+Right? There's a whole leader of the chain
+
+490
+00:52:10,000 --> 00:52:15,000
+it's looking at. Right? And whether that's
+due to the community looking to Charles to
+
+491
+00:52:15,000 --> 00:52:20,000
+lead or Charles not letting go, you know,
+fully, I don't know. But that's dangerous.
+
+492
+00:52:20,000 --> 00:52:25,000
+Right? So trust yourself. Lead yourself
+and seek out peers. It's 10 o'clock.
+
+493
+00:52:25,000 --> 00:52:27,000
+I got to go, boys.
+
+494
+00:52:27,000 --> 00:52:33,000
+Yeah, there we go. Hold on, everybody.
+We've got to roll out the outro. We all
+
+495
+00:52:33,000 --> 00:52:39,000
+need you. Hi, everybody. Good morning.
+
+496
+00:52:39,000 --> 00:52:43,000
+All right, everybody. Let's say some talk
+for next week. Amazing for everybody to
+
+497
+00:52:43,000 --> 00:52:47,000
+join us. We had Benzel, kushti, Grayman,
+hq3rr, and meta. Sorry, go for it kushti.
+
+498
+00:52:47,000 --> 00:52:51,000
+What are you gonna say? Benzel?
+
+499
+00:52:52,000 --> 00:53:00,000
+Yeah, so as always let's continue our the
+text chat. So Grayman I will jump on chain
+
+500
+00:53:00,000 --> 00:53:08,000
+cache basis chat a bit later with silver
+sense and so on. Then yeah, let's continue
+
+501
+00:53:08,000 --> 00:53:16,000
+to discuss. So if we can find something
+like a Kadena community, then yeah, let's
+
+502
+00:53:16,000 --> 00:53:24,000
+try to organize space with them. But yeah,
+we still need to find community. So they
+
+503
+00:53:24,000 --> 00:53:32,000
+have a group of 35,000 people, but I
+haven't found any community there. Tourist
+
+504
+00:53:32,000 --> 00:53:40,000
+base? Yeah, so we can do Twitter space
+once they somehow self-organize to discuss
+
+505
+00:53:40,000 --> 00:53:48,000
+what to do with development and so on,
+right? So we may offer them to switch to
+
+506
+00:53:48,000 --> 00:53:56,000
+ASIC resistant proof of work and so on,
+right? So to do some crisis management
+
+507
+00:53:56,000 --> 00:54:04,000
+and... So, but see also in regards with
+community organization, we can share a lot
+
+508
+00:54:04,000 --> 00:54:12,000
+of experience, right, because we have a
+lot of experience got our the six years.
+
+509
+00:54:12,000 --> 00:54:20,000
+But well, there are a lot of companies
+that own blockchains around and we need to
+
+510
+00:54:20,000 --> 00:54:28,000
+educate the users before the blockchains
+get collapsed.
+
+511
+00:54:30,000 --> 00:54:35,000
+I have a question. Why not set up example
+and just bring them, adopt them to the
+
+512
+00:54:35,000 --> 00:54:40,000
+Rosen Bridge and bring the whole chain and
+use the wrapped assets on Ergo instead of
+
+513
+00:54:40,000 --> 00:54:45,000
+giving them another solution to adopt to
+it, how to like us and that.
+
+514
+00:54:45,000 --> 00:54:50,000
+So what's the community there? It's a six
+community miners, right? What are they
+
+515
+00:54:50,000 --> 00:54:55,000
+going to do on Ergo? Sell their ASIC for
+GPUs? What community is that? I guess,
+
+516
+00:54:55,000 --> 00:55:00,000
+yeah, yeah, good. Where's Joe? Get that
+shit together, Joe.
+
+517
+00:55:00,000 --> 00:55:05,000
+Yeah, because we have, we already have
+and we need a test. We need to test it
+
+518
+00:55:05,000 --> 00:55:10,000
+with something. And if we have opportunity
+to show someone that they can do it here.
+
+519
+00:55:10,000 --> 00:55:15,000
+So if it happened today with Kadena,
+tomorrow it will happen with another
+
+520
+00:55:15,000 --> 00:55:20,000
+chain, which are run by VCs or they are
+run by companies. So they have a pathway
+
+521
+00:55:20,000 --> 00:55:25,000
+to join and go and see how they can have a
+more decentralized and everything more
+
+522
+00:55:25,000 --> 00:55:30,000
+controlled. how to do it and we will learn
+how to run the sidechains also.
+
+523
+00:55:35,000 --> 00:55:43,000
+Yeah actually a good idea right so well
+if for some reason well usually for having
+
+524
+00:55:43,000 --> 00:55:51,000
+big losses and well inability to fix them
+so someone is still a stick to a company
+
+525
+00:55:51,000 --> 00:55:59,000
+owned blockchain right so we may offer
+well, just to try Ergo for starters as a
+
+526
+00:55:59,000 --> 00:56:07,000
+plan B, right? Because, yeah, well,
+inevitably, any company like 99% will go
+
+527
+00:56:07,000 --> 00:56:15,000
+bankrupt, right? And then, yeah,
+blockchains associated with them will be
+
+528
+00:56:15,000 --> 00:56:23,000
+collapsed as well. So, I don't know,
+what's the statistic for commercial
+
+529
+00:56:23,000 --> 00:56:31,000
+companies outside crypto? I think in 10
+years, like 99% of companies.
+
+530
+00:56:34,000 --> 00:56:36,000
+It's big, yeah.
+
+531
+00:56:36,000 --> 00:56:40,000
+Yeah, and I think in crypto it should be
+even more, right, because this space is
+
+532
+00:56:40,000 --> 00:56:44,000
+crazy.
+
+533
+00:56:45,000 --> 00:56:49,000
+Well, plus, in crypto it's global, right?
+In crypto, it's global. So, you know, it's
+
+534
+00:56:49,000 --> 00:56:53,000
+not like a small company in Arkansas that
+jumps up is going to have an effect on
+
+535
+00:56:53,000 --> 00:56:57,000
+somebody in China, right? So, but in
+crypto, you could start up a chain and
+
+536
+00:56:57,000 --> 00:57:01,000
+it's immediately 100% global right off the
+bat. So yeah, I agree, kushti. It's more
+
+537
+00:57:01,000 --> 00:57:05,000
+than 99%.
+
+538
+00:57:05,000 --> 00:57:10,000
+It's also global on Amazon, maybe. Yeah,
+it's not just geographic distribution,
+
+539
+00:57:10,000 --> 00:57:15,000
+though. It's also distribution of
+applications and industries that we can
+
+540
+00:57:15,000 --> 00:57:20,000
+support. So we are a platform, not a
+company. It's a cathedral. It's a place
+
+541
+00:57:20,000 --> 00:57:25,000
+where many different types can come to
+worship and participate in our little
+
+542
+00:57:25,000 --> 00:57:30,000
+religion that we're growing here. It's a
+cathedral, and we need to think of it like
+
+543
+00:57:30,000 --> 00:57:35,000
+that, something that's going to last for
+hundreds of years. Mistakes will be made,
+
+544
+00:57:35,000 --> 00:57:40,000
+but they'll get ironed out before hundreds
+of years, something's for sure.
+
+545
+00:57:45,000 --> 00:57:49,000
+Plant a tree so your children can sit in
+the shade, right?
+
+546
+00:57:49,000 --> 00:57:57,000
+Yeah, exactly. So I think, yeah, it
+should be promoted as kind of a cathedral
+
+547
+00:57:57,000 --> 00:58:05,000
+or Unix, right? Because well, Unix at some
+point also adopted this cathedral
+
+548
+00:58:05,000 --> 00:58:13,000
+methodology, right? So just to build in a
+composable way. So we are composing simple
+
+549
+00:58:13,000 --> 00:58:21,000
+tools, right? Something impressive, our
+decades, maybe centuries to come.
+
+550
+00:58:23,000 --> 00:58:27,000
+Guys, that's a good place to end it. I
+really have to go. So great talking to
+
+551
+00:58:27,000 --> 00:58:31,000
+everybody here today. kushti, do you want
+to end it?
+
+552
+00:58:31,000 --> 00:58:35,000
+Thank you. Bye. So let's continue. Yeah.
+
+553
+00:58:35,000 --> 00:58:38,000
+Continuing checks to everybody. We'll see
+you next week. Same time. Thanks so much
+
+554
+00:58:38,000 --> 00:58:41,000
+everybody. Bye bye.
+

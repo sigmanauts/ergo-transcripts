@@ -1,0 +1,3212 @@
+1
+00:00:14,000 --> 00:00:15,000
+Good morning, everybody.
+
+2
+00:00:15,000 --> 00:00:20,000
+Welcome to the weekly community Ergo AMA,
+where if you're brave enough to join, you
+
+3
+00:00:20,000 --> 00:00:25,000
+can ask live questions or be tested with
+questions from us of why you're an Ergo
+
+4
+00:00:25,000 --> 00:00:30,000
+member and what you want out of this
+space.
+
+5
+00:00:31,000 --> 00:00:34,000
+So please, we encourage you to join on
+the link down there in the YouTube
+
+6
+00:00:34,000 --> 00:00:37,000
+channel.
+
+7
+00:00:37,000 --> 00:00:39,000
+You'll see it down below in the comments.
+
+8
+00:00:39,000 --> 00:00:43,000
+And hit us up and join the community.
+
+9
+00:00:43,000 --> 00:00:47,000
+This week we're wrapping up getting ready
+to, well, let me say first hi to CQ,
+
+10
+00:00:47,000 --> 00:00:51,000
+Byron, Aberg, HQ3rr and kushti are all in
+the chat with us today. Maybe one of them
+
+11
+00:00:51,000 --> 00:00:55,000
+will turn on their video at some point.
+
+12
+00:00:56,000 --> 00:01:01,000
+We'll see, takes a little bit to warm up.
+But good morning everybody that's here.
+
+13
+00:01:01,000 --> 00:01:07,000
+Thanks for joining us in person. You guys
+there anybody? Yeah, we're still here. All
+
+14
+00:01:07,000 --> 00:01:13,000
+right.
+
+15
+00:01:13,000 --> 00:01:14,000
+Good morning, kushti.
+
+16
+00:01:14,000 --> 00:01:18,000
+And then we got some chat people saying,
+hey, great.
+
+17
+00:01:18,000 --> 00:01:24,000
+So we are wrapping up. I'm packing a box
+up this weekend and shipping it out to the
+
+18
+00:01:24,000 --> 00:01:30,000
+Meetup event space in Colorado, sunny
+Colorado Springs.
+
+19
+00:01:30,000 --> 00:01:33,000
+Shipping out projectors, shipping out
+swag for people that are coming, given our
+
+20
+00:01:33,000 --> 00:01:36,000
+video streaming equipment.
+
+21
+00:01:37,000 --> 00:01:40,000
+So I hope that box doesn't get stolen
+actually.
+
+22
+00:01:40,000 --> 00:01:42,000
+And we're going to stream the talks that
+are there to you guys that can't make it
+
+23
+00:01:42,000 --> 00:01:44,000
+in person.
+
+24
+00:01:45,000 --> 00:01:49,000
+We're looking on some couple kegs to
+drink during the party.
+
+25
+00:01:49,000 --> 00:01:53,000
+And we've got Chris on the hook for
+making us Korean barbecue for dinner on
+
+26
+00:01:53,000 --> 00:01:57,000
+Saturday night. Kind of all hands on deck.
+
+27
+00:01:58,000 --> 00:02:02,000
+It's going to be a great time. Good
+meetup in the fashion of community and
+
+28
+00:02:02,000 --> 00:02:06,000
+sharing so super excited about that.
+
+29
+00:02:06,000 --> 00:02:11,000
+So yeah. What's new with you guys kushti?
+What's new?
+
+30
+00:02:11,000 --> 00:02:17,000
+A lot of things so yeah, you can actually
+make all the participants co-hosts.
+
+31
+00:02:17,000 --> 00:02:21,000
+So yeah, all of them know.
+
+32
+00:02:21,000 --> 00:02:23,000
+You trust them?
+
+33
+00:02:23,000 --> 00:02:31,000
+Yeah. So Aberg is quite well known on
+Twitter from three. Byron participated in
+
+34
+00:02:31,000 --> 00:02:39,000
+the last call, right? And EHQ also quite
+known.
+
+35
+00:02:40,000 --> 00:02:41,000
+Great.
+
+36
+00:02:41,000 --> 00:02:44,000
+They are co-hosts. Kushti is forced to be
+co-hosts, guys, so feel free to turn on
+
+37
+00:02:44,000 --> 00:02:47,000
+your cameras if you want to.
+
+38
+00:02:47,000 --> 00:02:49,000
+No pressure.
+
+39
+00:02:49,000 --> 00:02:52,000
+What's new, Kushti? What's new this week?
+
+40
+00:02:52,000 --> 00:02:58,000
+A lot of things so yeah, well quite good
+developers chat yesterday and well
+
+41
+00:02:58,000 --> 00:03:04,000
+published also some thoughts on the main
+telegram group right, not thoughts but
+
+42
+00:03:04,000 --> 00:03:10,000
+observation what's going on so that is
+good progress which I see from the USC
+
+43
+00:03:10,000 --> 00:03:16,000
+stablecoin. Unfortunately Richie can't
+join us right now because he has some real
+
+44
+00:03:16,000 --> 00:03:22,000
+life.
+
+45
+00:03:22,000 --> 00:03:31,000
+But yeah, from November, he's promising
+to start spending in the community calls.
+
+46
+00:03:31,000 --> 00:03:33,000
+That's great.
+
+47
+00:03:33,000 --> 00:03:39,000
+To participate more. So he joined one
+call, right? Not only one.
+
+48
+00:03:39,000 --> 00:03:46,000
+Then yeah what else, then yeah Git
+circles, there is quite good progress and
+
+49
+00:03:46,000 --> 00:03:53,000
+the guys are quite preparing for initial
+tests in coming weeks of this month and
+
+50
+00:03:53,000 --> 00:04:00,000
+then starting to reach developing
+communities right and get developers to
+
+51
+00:04:00,000 --> 00:04:07,000
+build the digital economies on Ergo.
+
+52
+00:04:09,000 --> 00:04:16,000
+So, well, community, but digital also.
+
+53
+00:04:16,000 --> 00:04:22,000
+Native digital financial circles and
+solutions, right? Around probably the most
+
+54
+00:04:22,000 --> 00:04:28,000
+natural environment for community counts
+approach to be applied.
+
+55
+00:04:29,000 --> 00:04:34,000
+Rights of open source development
+circles.
+
+56
+00:04:34,000 --> 00:04:39,000
+Then yeah, there is good progress with
+basis Chain Cash.
+
+57
+00:04:39,000 --> 00:04:49,000
+So this month we can start some demos and
+one developer started to develop wallets.
+
+58
+00:04:49,000 --> 00:04:59,000
+So there will be like two phases, right,
+of basis.
+
+59
+00:04:59,000 --> 00:05:03,000
+Well, at least it is how it's seen from
+now.
+
+60
+00:05:03,000 --> 00:05:07,000
+So, there will be some solution for
+community trading, right, with off-chain
+
+61
+00:05:07,000 --> 00:05:11,000
+cash backed by Ergo reserves.
+
+62
+00:05:12,000 --> 00:05:19,000
+And then, yeah, another solution would be
+for agents, robots, right.
+
+63
+00:05:19,000 --> 00:05:26,000
+So, no wallet needed here, but we need to
+do some plugins for existing protocols
+
+64
+00:05:26,000 --> 00:05:33,000
+like A2P, or just existing solutions such
+as peer-to-peer networks and agentic
+
+65
+00:05:33,000 --> 00:05:40,000
+networks.
+
+66
+00:05:40,000 --> 00:05:47,000
+Then what else? There is now finally a
+fix in Nautilus for ledger as well as some
+
+67
+00:05:47,000 --> 00:05:54,000
+more news from Nautilus, right, covering
+the dev update.
+
+68
+00:05:55,000 --> 00:06:01,000
+And yeah.
+
+69
+00:06:01,000 --> 00:06:10,000
+If you're reading the dev updates, let me
+hit that right now.
+
+70
+00:06:10,000 --> 00:06:12,000
+We'll pop it on screen.
+
+71
+00:06:12,000 --> 00:06:14,000
+If that's what you're hitting through.
+One second, I need to charge my device
+
+72
+00:06:14,000 --> 00:06:16,000
+also.
+
+73
+00:06:17,000 --> 00:06:29,000
+Yeah, so you were talking about Git
+circles on the dev update.
+
+74
+00:06:29,000 --> 00:06:34,000
+I made another pull request for a smile
+since three left and yeah, so we need
+
+75
+00:06:34,000 --> 00:06:39,000
+actually for Joe to participate more,
+right?
+
+76
+00:06:40,000 --> 00:06:50,000
+Because a lot of like a storm of tweets,
+having regularly, about rooms.
+
+77
+00:06:50,000 --> 00:07:00,000
+So, yeah, it seems a lot of insights and
+yeah the guys doing a lot here and yeah
+
+78
+00:07:00,000 --> 00:07:10,000
+actually I'm now in touch it's not covered
+in dev chats yeah HQ will answer a bit
+
+79
+00:07:10,000 --> 00:07:20,000
+later so.
+
+80
+00:07:22,000 --> 00:07:26,000
+It's not covered in the dev chat, but
+yeah, I'm also talking with the other guys
+
+81
+00:07:26,000 --> 00:07:30,000
+on Monero. right?
+
+82
+00:07:30,000 --> 00:07:32,000
+So we are doing some, that'd be great.
+
+83
+00:07:32,000 --> 00:07:34,000
+What's the big challenge with that
+kushti, with bridging to Monero compared
+
+84
+00:07:34,000 --> 00:07:36,000
+to other chains?
+
+85
+00:07:37,000 --> 00:07:47,000
+Yeah. So, there is no much fields to
+write data we need for rights.
+
+86
+00:07:47,000 --> 00:07:51,000
+So, and if there are possibilities, there
+is need for some well, support for it and
+
+87
+00:07:51,000 --> 00:07:55,000
+the users, right?
+
+88
+00:07:56,000 --> 00:08:01,000
+So there are some protocol possibilities
+which are not covered in wallets, right?
+
+89
+00:08:01,000 --> 00:08:05,000
+And then they're not quite usable anyway.
+
+90
+00:08:05,000 --> 00:08:12,000
+So yeah, it's quite challenging, but
+well, if this is possible, even in some
+
+91
+00:08:12,000 --> 00:08:19,000
+ugly ways, then yeah, we are looking for
+better ways to do it.
+
+92
+00:08:20,000 --> 00:08:25,000
+You can't fragment it and spread the data
+across several different entries, like
+
+93
+00:08:25,000 --> 00:08:30,000
+several different tokens?
+
+94
+00:08:30,000 --> 00:08:34,000
+So you can put data in the whole
+transaction, right?
+
+95
+00:08:34,000 --> 00:08:40,000
+So not just you take the whole
+transaction, test some fields.
+
+96
+00:08:40,000 --> 00:08:46,000
+But yeah, the question is also about
+world supports and so on.
+
+97
+00:08:46,000 --> 00:08:50,000
+So it's not that easy, to be honest.
+
+98
+00:08:50,000 --> 00:08:54,000
+But yeah, we continue to explore
+different options.
+
+99
+00:08:54,000 --> 00:08:59,000
+So at least there are some options, which
+is already good.
+
+100
+00:08:59,000 --> 00:09:03,000
+But yeah, we need to find some solution
+which is also quite comfortable for end
+
+101
+00:09:03,000 --> 00:09:07,000
+users, right?
+
+102
+00:09:08,000 --> 00:09:16,000
+Right, right, right. I mean, no, not some
+command line scripts.
+
+103
+00:09:16,000 --> 00:09:23,000
+I don't know, like two hundreds of notes
+around the world. Just.
+
+104
+00:09:23,000 --> 00:09:25,000
+Yeah, makes sense.
+
+105
+00:09:25,000 --> 00:09:30,000
+Okay. So let's see. And then, yeah, about
+keystone.
+
+106
+00:09:30,000 --> 00:09:36,000
+So, actually, there was updates recently,
+there was our group from, not from AnonBR,
+
+107
+00:09:36,000 --> 00:09:42,000
+it's not from TGR.
+
+108
+00:09:43,000 --> 00:09:49,000
+Let me check.
+
+109
+00:09:49,000 --> 00:09:53,000
+Last I see, I remember that he said that
+they were waiting on AnonBR to do some
+
+110
+00:09:53,000 --> 00:09:57,000
+stuff for Nautilus and he will be maybe
+launching an event, a competition for
+
+111
+00:09:57,000 --> 00:10:01,000
+custom keystone.
+
+112
+00:10:01,000 --> 00:10:04,000
+Oh, yeah. All right.
+
+113
+00:10:04,000 --> 00:10:10,000
+So then we need to ping AnonBR indeed.
+
+114
+00:10:10,000 --> 00:10:19,000
+Yeah. So waiting for Keystone. So
+Keystone will let you buy a wallet with an
+
+115
+00:10:19,000 --> 00:10:28,000
+Ergo engraving or an Ergo sticker on the
+back.
+
+116
+00:10:29,000 --> 00:10:30,000
+Yeah, but the community needs to do
+something for that. So yeah, that's
+
+117
+00:10:30,000 --> 00:10:31,000
+awesome.
+
+118
+00:10:32,000 --> 00:10:38,000
+Anyone has information?
+
+119
+00:10:38,000 --> 00:10:48,000
+So, yeah, PGR told, I'm looking into
+launching a small design competition for
+
+120
+00:10:48,000 --> 00:10:58,000
+the Ergo branded Keystone device they
+proposed.
+
+121
+00:10:59,000 --> 00:11:03,000
+All right. Well, let's see. Let's hit
+through the rest of the dev updates that
+
+122
+00:11:03,000 --> 00:11:07,000
+we may have missed real quick, and then we
+can keep chatting.
+
+123
+00:11:07,000 --> 00:11:12,000
+So we've got your Git circles there you
+already spoke about, Nautilus, fixed web
+
+124
+00:11:12,000 --> 00:11:17,000
+hit, ledger-to-ledger interactions,
+researching on Bitcoin runes integration.
+
+125
+00:11:17,000 --> 00:11:19,000
+That'll be awesome.
+
+126
+00:11:19,000 --> 00:11:22,000
+Machina and Hermes, still working on it
+towards an MVP, but nothing relevant to
+
+127
+00:11:22,000 --> 00:11:25,000
+report.
+
+128
+00:11:25,000 --> 00:11:31,000
+Let's see. Bro Etiquette is working on
+LLM commands.
+
+129
+00:11:31,000 --> 00:11:36,000
+Comrades, he's working on Comrades. LLM,
+what's he doing with LLMs?
+
+130
+00:11:36,000 --> 00:11:42,000
+So he is currently writing persistence
+layer for Git circles.
+
+131
+00:11:42,000 --> 00:11:44,000
+Oh, nice.
+
+132
+00:11:44,000 --> 00:11:49,000
+Okay. Yeah, quite okay to do this with
+LLM comrades.
+
+133
+00:11:49,000 --> 00:11:57,000
+So actually it's not on the chart, but
+yeah. Actually, like two weeks ago, I've
+
+134
+00:11:57,000 --> 00:12:05,000
+pushed agents MD rules for the nodes and
+the sigma SDK.
+
+135
+00:12:05,000 --> 00:12:10,000
+So it's going to be a quite important
+topic in 2025, right?
+
+136
+00:12:10,000 --> 00:12:14,000
+And I'm just current different
+possibilities to utilize AI agents by
+
+137
+00:12:14,000 --> 00:12:18,000
+myself.
+
+138
+00:12:18,000 --> 00:12:24,000
+And yeah, it seems they quite great in
+analyzing the code, right?
+
+139
+00:12:24,000 --> 00:12:31,000
+So you know, before we just had a white
+paper and then the code, right?
+
+140
+00:12:31,000 --> 00:12:37,000
+But you need to be a developer to get
+through the code and extract what's there,
+
+141
+00:12:37,000 --> 00:12:43,000
+right, in details.
+
+142
+00:12:43,000 --> 00:12:54,000
+But now you can just launch an agent and
+ask it to analyze the code, right?
+
+143
+00:12:54,000 --> 00:13:07,000
+Or even write some tests, some
+simulations and so on.
+
+144
+00:13:07,000 --> 00:13:09,000
+Who is that?
+
+145
+00:13:09,000 --> 00:13:11,000
+Just another spammer. I removed him.
+
+146
+00:13:11,000 --> 00:13:13,000
+No biggie. Keep going, sir.
+
+147
+00:13:13,000 --> 00:13:16,000
+Oh, that's Brandon.
+
+148
+00:13:16,000 --> 00:13:23,000
+Yeah. It seems so trolls, which is quite
+great.
+
+149
+00:13:23,000 --> 00:13:27,000
+That's funny.
+
+150
+00:13:27,000 --> 00:13:32,000
+All right. So, yeah. So, you know, now,
+yeah.
+
+151
+00:13:32,000 --> 00:13:38,000
+So talking about trolls. So, a lot of
+weird trolls, trying to spread lies even
+
+152
+00:13:38,000 --> 00:13:44,000
+about some very basic things, right?
+
+153
+00:13:44,000 --> 00:13:50,000
+But you can now analyze the code with an
+AI agent, right?
+
+154
+00:13:50,000 --> 00:13:55,000
+And yeah, it will tell you about the
+detailed properties of distributions,
+
+155
+00:13:55,000 --> 00:14:00,000
+well, supply and so on.
+
+156
+00:14:00,000 --> 00:14:05,000
+So you can ask it to write simulations
+tests, write some showcase programs and so
+
+157
+00:14:05,000 --> 00:14:10,000
+on.
+
+158
+00:14:10,000 --> 00:14:16,000
+So yeah, well, it's understandable why
+trolls are going mad.
+
+159
+00:14:16,000 --> 00:14:21,000
+So now it's quite easy to get code
+concepts, right? Even without coding
+
+160
+00:14:21,000 --> 00:14:26,000
+skills, kind of.
+
+161
+00:14:27,000 --> 00:14:32,000
+So you just need to well, tech savvy,
+right? To install an agent or an IDE with
+
+162
+00:14:32,000 --> 00:14:37,000
+a built engine.
+
+163
+00:14:38,000 --> 00:14:42,000
+Then, yeah, import the project from
+GitHub, but it's not about coding skills,
+
+164
+00:14:42,000 --> 00:14:46,000
+right? So just tech stuff.
+
+165
+00:14:46,000 --> 00:14:53,000
+But then, yeah, two weeks ago, I proposed
+rules for agents to limit them to just
+
+166
+00:14:53,000 --> 00:15:00,000
+working on the testing code, not to touch
+the main code, because it's
+
+167
+00:15:00,000 --> 00:15:07,000
+security-critical, so it should be done by
+humans only, totally reviewed by other
+
+168
+00:15:07,000 --> 00:15:14,000
+humans, I believe, because it's
+security-critical and yeah, it should be
+
+169
+00:15:14,000 --> 00:15:21,000
+developed like an open source project.
+
+170
+00:15:25,000 --> 00:15:30,000
+But for tests, AI is actually working
+great.
+
+171
+00:15:30,000 --> 00:15:39,000
+It's now helping to cover the behavior of
+the tests.
+
+172
+00:15:39,000 --> 00:15:50,000
+Yeah, it actually can help just tech
+savvy people to understand what's the
+
+173
+00:15:50,000 --> 00:16:01,000
+rights on the two or combats, wise,
+they've been spread around sometimes.
+
+174
+00:16:02,000 --> 00:16:04,000
+Okay.
+
+175
+00:16:04,000 --> 00:16:10,000
+Yeah. I see you vibe coded a rough
+prototype for basis Chain Cash.
+
+176
+00:16:10,000 --> 00:16:13,000
+That's pretty funny.
+
+177
+00:16:13,000 --> 00:16:20,000
+Yeah, but it's actually sometimes useful
+or sometimes absolutely useless.
+
+178
+00:16:20,000 --> 00:16:26,000
+So yeah, I spent a lot of time to get it
+doing well-correct Schnorr signature
+
+179
+00:16:26,000 --> 00:16:32,000
+implementation.
+
+180
+00:16:32,000 --> 00:16:39,000
+So yeah, it's made everything wrong again
+and again for multiple times.
+
+181
+00:16:39,000 --> 00:16:49,000
+Yeah. Before I've provided, well,
+concrete code from another project, right?
+
+182
+00:16:49,000 --> 00:16:55,000
+What are you using for, what tool are you
+using? Deep Seek.
+
+183
+00:16:55,000 --> 00:16:59,000
+So it's Cursor and Deep Seek behind.
+
+184
+00:16:59,000 --> 00:17:07,000
+Yes. So, so the main part is Cursor,
+which is iterative for kind of agent right
+
+185
+00:17:07,000 --> 00:17:15,000
+so it can run tests then write code then
+run tests again right it can download
+
+186
+00:17:15,000 --> 00:17:23,000
+materials and code from internet so it's
+yeah like it's not just chat right chat
+
+187
+00:17:23,000 --> 00:17:31,000
+bot it's like comprehensive toolset.
+
+188
+00:17:34,000 --> 00:17:39,000
+Which is also, it's not just composing
+codes, right? So chatting with you. So
+
+189
+00:17:39,000 --> 00:17:44,000
+it's, yeah.
+
+190
+00:17:44,000 --> 00:17:47,000
+So, or you need to provide permissions,
+right? To to write on this or download
+
+191
+00:17:47,000 --> 00:17:50,000
+from internet.
+
+192
+00:17:51,000 --> 00:17:59,000
+And still I'm using clean laptop for it
+just in case, to avoid, you know, the
+
+193
+00:17:59,000 --> 00:18:07,000
+whole disk to be wiped out or, I don't
+know, being uploaded to somewhere.
+
+194
+00:18:07,000 --> 00:18:12,000
+But yeah, so it's working great at the
+same time.
+
+195
+00:18:12,000 --> 00:18:17,000
+Yeah, I find it rough prototyping those
+initial things on the stuff I do here,
+
+196
+00:18:17,000 --> 00:18:22,000
+which as some of you know is in Perl joke,
+right?
+
+197
+00:18:22,000 --> 00:18:24,000
+HG loves Perl.
+
+198
+00:18:24,000 --> 00:18:26,000
+It's so fast. It's extremely fast.
+
+199
+00:18:26,000 --> 00:18:31,000
+I just puked here, man.
+
+200
+00:18:31,000 --> 00:18:34,000
+It's crazy fast. It gets through that
+whole spot of the, you know, I mean,
+
+201
+00:18:34,000 --> 00:18:37,000
+because most of the time when I'm writing
+stuff for school, at least recycling a lot
+
+202
+00:18:37,000 --> 00:18:40,000
+of stuff, right?
+
+203
+00:18:41,000 --> 00:18:44,000
+So this essentially lets me get past that
+stage immediately into some sort of
+
+204
+00:18:44,000 --> 00:18:47,000
+testing phase to see what works.
+
+205
+00:18:47,000 --> 00:18:51,000
+So, yeah, I hear you.
+
+206
+00:18:51,000 --> 00:18:54,000
+HQ never uses AI. He just speaks code. It
+just comes right out of the fingertips,
+
+207
+00:18:54,000 --> 00:18:57,000
+right HQ?
+
+208
+00:18:57,000 --> 00:19:01,000
+You said fingertip, right?
+
+209
+00:19:01,000 --> 00:19:03,000
+Oh, you don't have any fingertips?
+
+210
+00:19:03,000 --> 00:19:07,000
+No, I was just referencing to something
+else, but I will stop doing that.
+
+211
+00:19:07,000 --> 00:19:10,000
+Oh.
+
+212
+00:19:10,000 --> 00:19:13,000
+All right, taking silver so it's idea by
+Grayman and others cool idea by Grayman
+
+213
+00:19:13,000 --> 00:19:16,000
+here if you guys haven't heard it.
+
+214
+00:19:17,000 --> 00:19:21,000
+Maybe we'll get him to talk more about it
+at the meetup and he can stream some of
+
+215
+00:19:21,000 --> 00:19:25,000
+that stuff. He's gonna bring a couple
+Grayman says yeah I'm gonna bring some
+
+216
+00:19:25,000 --> 00:19:29,000
+dime bags to the meetup and I was like
+you're gonna bring pot to the meetup? And
+
+217
+00:19:29,000 --> 00:19:33,000
+he's like no, no, no I'm gonna bring
+silver dimes in little bags and hand them
+
+218
+00:19:33,000 --> 00:19:37,000
+out. It's like well, that's a lot
+different than a dime bag.
+
+219
+00:19:39,000 --> 00:19:42,000
+Engrain them.
+
+220
+00:19:42,000 --> 00:19:46,000
+So that'll be neat to have. He's got some
+early century, 52 or maybe earlier, silver
+
+221
+00:19:46,000 --> 00:19:50,000
+dimes that he's going to hand out.
+
+222
+00:19:50,000 --> 00:19:55,000
+Math Spectator started a wallet. kushti
+talked about that already.
+
+223
+00:19:55,000 --> 00:19:59,000
+We've got Glasgow on the Docs Ergo
+Platform improvements.
+
+224
+00:19:59,000 --> 00:20:04,000
+He's done some nav tidying up. Start here
+overhaul, which is great.
+
+225
+00:20:04,000 --> 00:20:06,000
+Developer and wallet docs. New developer
+guides and wallet area now uses clear
+
+226
+00:20:06,000 --> 00:20:08,000
+language and updated links throughout.
+
+227
+00:20:09,000 --> 00:20:13,000
+New content, added a page for how to use
+a Rosen Ergo on BNB chain.
+
+228
+00:20:13,000 --> 00:20:16,000
+Oh, nice. And fixes and polishes,
+corrected URLs, text, removed typos, and
+
+229
+00:20:16,000 --> 00:20:19,000
+cleared MK docs for him.
+
+230
+00:20:19,000 --> 00:20:22,000
+Thank you, Sir Glasgow.
+
+231
+00:20:22,000 --> 00:20:27,000
+Let's see, kushti's got node, protocol
+and reference client R&D, mempool and
+
+232
+00:20:27,000 --> 00:20:32,000
+wallet support for input box done, writing
+a white paper on input ordering blocks,
+
+233
+00:20:32,000 --> 00:20:37,000
+generated more tests with an agent on 6.0,
+and generated global transfer policy
+
+234
+00:20:37,000 --> 00:20:42,000
+contract example, fully in ErgoScript.
+
+235
+00:20:43,000 --> 00:20:46,000
+Braid version of native support would be
+much simpler.
+
+236
+00:20:46,000 --> 00:20:52,000
+Let's see we got anything else here.
+We've got USC stable coin more info about
+
+237
+00:20:52,000 --> 00:20:58,000
+that the USC oracle pool version 2
+launched by 4 or 5 6.
+
+238
+00:20:59,000 --> 00:21:01,000
+Oh, when did that happen?
+
+239
+00:21:01,000 --> 00:21:09,000
+Yeah, so just few days ago. So now we
+have four running USC oracle pool.
+
+240
+00:21:09,000 --> 00:21:12,000
+Amazing. How many oracles did you make
+30?
+
+241
+00:21:12,000 --> 00:21:19,000
+Oh, actually, I don't know. So it was
+done solely by PGR, which is quite great.
+
+242
+00:21:19,000 --> 00:21:23,000
+The time not involved in just another
+venture.
+
+243
+00:21:23,000 --> 00:21:24,000
+Yeah.
+
+244
+00:21:24,000 --> 00:21:28,000
+So HQ says 12 oracles already in that
+pool.
+
+245
+00:21:28,000 --> 00:21:36,000
+But, yeah, I think it's, yeah, 30 tokens
+from what we discussed before the launch.
+
+246
+00:21:36,000 --> 00:21:45,000
+And, yeah. So now we are discussing with
+Richie and the group that is telegram
+
+247
+00:21:45,000 --> 00:21:54,000
+group some launch parameters for the bank
+and the LP.
+
+248
+00:21:54,000 --> 00:21:55,000
+Nice.
+
+249
+00:21:55,000 --> 00:21:57,000
+All right. Well, let's see if that is all
+right. Good. That's that we got a couple
+
+250
+00:21:57,000 --> 00:21:59,000
+of questions.
+
+251
+00:21:59,000 --> 00:22:01,000
+We can bang out real quick. Let's see.
+
+252
+00:22:01,000 --> 00:22:05,000
+Oh, here's a tough one. Maybe a little
+spicy. Let's see.
+
+253
+00:22:05,000 --> 00:22:11,000
+Oh, Byron, where are you talking?
+
+254
+00:22:11,000 --> 00:22:13,000
+Somebody was CQ CQ.
+
+255
+00:22:13,000 --> 00:22:21,000
+Yeah, I was just going to say before you
+jump in on the AI agent stuff or model,
+
+256
+00:22:21,000 --> 00:22:29,000
+LLMs, DeepWiki works really good for
+looking at the various projects repos.
+
+257
+00:22:30,000 --> 00:22:33,000
+It can, I mean, break it down and give
+you a high level summary and ask a
+
+258
+00:22:33,000 --> 00:22:36,000
+question.
+
+259
+00:22:36,000 --> 00:22:43,000
+So anyway, it's just DeepWiki.com or .ai.
+
+260
+00:22:43,000 --> 00:22:46,000
+It does a great job. I've used it for
+Rosen to send information on how Rosen
+
+261
+00:22:46,000 --> 00:22:49,000
+Bridge works to people and whatnot.
+
+262
+00:22:50,000 --> 00:22:52,000
+Anyone.
+
+263
+00:22:52,000 --> 00:22:53,000
+Nice.
+
+264
+00:22:53,000 --> 00:22:58,000
+Okay. Thanks. It's funny how these.
+
+265
+00:22:58,000 --> 00:23:08,000
+I think we can do a more exciting thing.
+So, my hope to find some time, maybe to
+
+266
+00:23:08,000 --> 00:23:18,000
+prototype some whole application like
+dApp, right. It's an agent just.
+
+267
+00:23:19,000 --> 00:23:26,000
+Yeah, and another idea we discussed
+briefly about the dev chat I proposed. So
+
+268
+00:23:26,000 --> 00:23:33,000
+we have a lot of ideas from 2020 and now,
+yeah, it seems it's possible to white-code
+
+269
+00:23:33,000 --> 00:23:40,000
+them into the tests, right, for Sigma SDK,
+like we did back in 2019 when I designed
+
+270
+00:23:40,000 --> 00:23:47,000
+the interpreter on the high level of
+ErgoScript language.
+
+271
+00:23:48,000 --> 00:23:55,000
+So, yeah, we did examples like DEX
+orders, well, the mixing contract, right,
+
+272
+00:23:55,000 --> 00:24:02,000
+which then was evolved into the Ergo Mixer
+ICO example, because it was time of ICOs
+
+273
+00:24:02,000 --> 00:24:09,000
+back then and so on.
+
+274
+00:24:09,000 --> 00:24:15,000
+And yeah, well, it's quite useful content
+right and well as we have for much more on
+
+275
+00:24:15,000 --> 00:24:21,000
+the format to make sense to make more
+examples now maybe assign small bounties
+
+276
+00:24:21,000 --> 00:24:27,000
+for people to do such stuff with agent and
+I can just manually review contracts right
+
+277
+00:24:27,000 --> 00:24:33,000
+and the testing preppers that there is no
+need for humans to bother with it mostly.
+
+278
+00:24:34,000 --> 00:24:43,000
+So if test is passing, then everything is
+okay.
+
+279
+00:24:43,000 --> 00:24:49,000
+And the replica could be just generated
+automatically.
+
+280
+00:24:49,000 --> 00:24:56,000
+And then, yeah, with that, we can go
+further.
+
+281
+00:24:56,000 --> 00:25:02,000
+So I think as Ergo contracts are
+templatizable, actually, they also are
+
+282
+00:25:02,000 --> 00:25:08,000
+friendly to AI.
+
+283
+00:25:09,000 --> 00:25:12,000
+HQ says, fun fact, it will take him 10
+seconds to create a complete marketplace
+
+284
+00:25:12,000 --> 00:25:15,000
+with USC token utility trade swap.
+
+285
+00:25:16,000 --> 00:25:18,000
+I think if I'm not mistaken, that's the
+same amount of time it took him to make
+
+286
+00:25:18,000 --> 00:25:20,000
+his child.
+
+287
+00:25:21,000 --> 00:25:27,000
+So he's pretty good at that. 10 seconds.
+
+288
+00:25:27,000 --> 00:25:28,000
+I'm the only one laughing at that. All
+right.
+
+289
+00:25:28,000 --> 00:25:33,000
+Ten seconds, right? Because we just need
+a front end to allow the selection of it.
+
+290
+00:25:33,000 --> 00:25:37,000
+And that's it because it is already
+supported in my, in MewMart.
+
+291
+00:25:37,000 --> 00:25:39,000
+Oh, nice. Nice. Very cool. Very cool.
+
+292
+00:25:39,000 --> 00:25:42,000
+All right. Let's see this question. Here
+we go.
+
+293
+00:25:42,000 --> 00:25:46,000
+Sigmanaut says, it would be cool if
+someone were to clarify who is still an
+
+294
+00:25:46,000 --> 00:25:50,000
+active member of the EF, Ergo Foundation.
+
+295
+00:25:50,000 --> 00:25:53,000
+Who is responsible for what? Or are they
+all afraid of bearing any responsibility,
+
+296
+00:25:53,000 --> 00:25:56,000
+thanks in advance?
+
+297
+00:25:56,000 --> 00:25:59,000
+Kushti, don't answer this one, please.
+
+298
+00:25:59,000 --> 00:26:01,000
+So...
+
+299
+00:26:01,000 --> 00:26:10,000
+But I have no idea, to be honest. I would
+be interested to see an answer.
+
+300
+00:26:10,000 --> 00:26:18,000
+So we've got Justin, we've got AnonBR,
+we've got Allison, we've got Glasgow.
+
+301
+00:26:18,000 --> 00:26:23,000
+Joe is I think off by now, yeah. I think
+that he talked about it a while ago about
+
+302
+00:26:23,000 --> 00:26:28,000
+leaving and I think he somewhat made it
+official unofficially.
+
+303
+00:26:28,000 --> 00:26:31,000
+I don't know.
+
+304
+00:26:31,000 --> 00:26:35,000
+So yeah, you got the core members right
+there. During the EF, Glasgow, as you
+
+305
+00:26:35,000 --> 00:26:39,000
+know, is structure that you see online.
+
+306
+00:26:39,000 --> 00:26:43,000
+That would be the website, the docs,
+working with those, all the discords and
+
+307
+00:26:43,000 --> 00:26:47,000
+telegrams as well.
+
+308
+00:26:47,000 --> 00:26:52,000
+That's his shtick. You have also Andy,
+who's running the video show, right?
+
+309
+00:26:52,000 --> 00:26:59,000
+The EF has Andy involved for that. The EF
+also hires Angie as well to do some
+
+310
+00:26:59,000 --> 00:27:06,000
+promotions, like some of the Twitter,
+what's it called?
+
+311
+00:27:06,000 --> 00:27:10,000
+You'll see it for the ErgoHack, those
+kind of things as well.
+
+312
+00:27:10,000 --> 00:27:17,000
+Finds writers to help write articles.
+Pretty much it as far as that goes.
+
+313
+00:27:17,000 --> 00:27:21,000
+You know, we're trying to move everything
+as community oriented as possible.
+
+314
+00:27:21,000 --> 00:27:25,000
+So there used to be a person they paid
+for infrastructure and we're trying to
+
+315
+00:27:25,000 --> 00:27:29,000
+migrate that to the community
+infrastructure.
+
+316
+00:27:30,000 --> 00:27:34,000
+I know that's taken a little while and
+that's on my fault. Oh, MGPi, thanks HQ.
+
+317
+00:27:34,000 --> 00:27:38,000
+MGPi joined as well, the EF.
+
+318
+00:27:38,000 --> 00:27:41,000
+So that's something that I'm trying to
+take in on mine, but you know, with the
+
+319
+00:27:41,000 --> 00:27:44,000
+meetup front and center it's kind of
+slowed down.
+
+320
+00:27:44,000 --> 00:27:49,000
+I've got some machines I have to take to
+Colorado I think to give to yeah I don't
+
+321
+00:27:49,000 --> 00:27:54,000
+think yeah there's a payroll person as
+well says HQ.
+
+322
+00:27:54,000 --> 00:27:57,000
+I don't think people know our name I'm
+not saying our name people can see it in
+
+323
+00:27:57,000 --> 00:28:00,000
+chat but yep so there's that person as
+well.
+
+324
+00:28:00,000 --> 00:28:03,000
+But a couple machines that take the
+Colorado handout and another one to ship,
+
+325
+00:28:03,000 --> 00:28:06,000
+but I just have to drive by the place to
+do that.
+
+326
+00:28:07,000 --> 00:28:11,000
+So yeah, that's the idea that we're
+trying to offload those kind of
+
+327
+00:28:11,000 --> 00:28:15,000
+responsibilities to the community so that
+the chain can truly be community
+
+328
+00:28:15,000 --> 00:28:19,000
+organizing community run as opposed to a
+centralized entity doing things and it's
+
+329
+00:28:19,000 --> 00:28:23,000
+possible just slow, right?
+
+330
+00:28:23,000 --> 00:28:27,000
+So eventually. Hopefully, I think at some
+point they spoke about the EF being some
+
+331
+00:28:27,000 --> 00:28:31,000
+sort of research wing or something like
+that.
+
+332
+00:28:32,000 --> 00:28:37,000
+But even at this point, I don't know what
+the possibilities are considering kushti's
+
+333
+00:28:37,000 --> 00:28:42,000
+offshot is developer DAO, which could turn
+into research and development as well.
+
+334
+00:28:42,000 --> 00:28:45,000
+So yeah, I mean, when community have the
+power to do anything they want with a
+
+335
+00:28:45,000 --> 00:28:48,000
+chain, then anything can happen.
+
+336
+00:28:49,000 --> 00:28:52,000
+And that's great. So yes, that's
+hopefully that was a cloudy enough answer
+
+337
+00:28:52,000 --> 00:28:55,000
+for you Sigmanaut on that.
+
+338
+00:28:55,000 --> 00:29:02,000
+Yeah, so on the ErgoDevs DAO site, we
+have quite a lot of bounties proposed for
+
+339
+00:29:02,000 --> 00:29:09,000
+different issues, and thanks to our recent
+crowdfunding campaigns done by some
+
+340
+00:29:09,000 --> 00:29:16,000
+community members, I don't know.
+
+341
+00:29:18,000 --> 00:29:24,000
+But yeah, we now have a bigger budget, so
+we can do some more aggressive promotion
+
+342
+00:29:24,000 --> 00:29:30,000
+among developers.
+
+343
+00:29:31,000 --> 00:29:37,000
+And then yeah, I'm also investigating
+possibilities to do a commercial company,
+
+344
+00:29:37,000 --> 00:29:43,000
+so vibrate and so on.
+
+345
+00:29:44,000 --> 00:29:52,000
+is about that, so I think it could be a
+good time.
+
+346
+00:29:52,000 --> 00:29:56,000
+Bitcoin, for example, had a Blockstream
+back in 2015, so I think it could be the
+
+347
+00:29:56,000 --> 00:30:00,000
+same.
+
+348
+00:30:00,000 --> 00:30:05,000
+They also had a Bitcoin foundation at
+some point.
+
+349
+00:30:05,000 --> 00:30:11,000
+Then, yeah, Blockstream and now from what
+I see, so the core developers are
+
+350
+00:30:11,000 --> 00:30:17,000
+sponsored by a few, actually not many,
+like three or four commercial companies,
+
+351
+00:30:17,000 --> 00:30:23,000
+right?
+
+352
+00:30:23,000 --> 00:30:28,000
+It's important to have different entities
+to avoid protocol development to be taken
+
+353
+00:30:28,000 --> 00:30:33,000
+by one party just.
+
+354
+00:30:34,000 --> 00:30:52,000
+It also would be great to see more
+commercial entities around Ergo.
+
+355
+00:30:52,000 --> 00:30:57,000
+Yeah, well, it would be good in a way to
+start with one, even like Monero, because
+
+356
+00:30:57,000 --> 00:31:02,000
+Tari loves, right?
+
+357
+00:31:03,000 --> 00:31:15,000
+And Bitcoin had a Blockstream, aside of
+mining businesses back in 2015, maybe.
+
+358
+00:31:15,000 --> 00:31:20,000
+So yeah, it was a Blockstream only, I
+believe.
+
+359
+00:31:20,000 --> 00:31:24,000
+Right, and yeah and then with time.
+
+360
+00:31:24,000 --> 00:31:29,000
+So what do we need is to have like a
+stable foundation and I believe we have it
+
+361
+00:31:29,000 --> 00:31:34,000
+right like foundational documents like
+manifesto and so on white paper.
+
+362
+00:31:35,000 --> 00:31:43,000
+Then yeah maybe there is need to compose
+more but what do we need is to develop
+
+363
+00:31:43,000 --> 00:31:51,000
+Ergo itself as well open source kind of
+project and yeah, the goal is to get the
+
+364
+00:31:51,000 --> 00:31:59,000
+protocol to provide a global neutral
+settlement layer for programmable money,
+
+365
+00:31:59,000 --> 00:32:07,000
+right, of different kinds.
+
+366
+00:32:07,000 --> 00:32:15,000
+Where the native cryptocurrency, the
+proof-of-work cryptocurrency ERG is just
+
+367
+00:32:15,000 --> 00:32:23,000
+the lowest common denominator, so the
+collateral of the best quality, because of
+
+368
+00:32:23,000 --> 00:32:31,000
+it's been native, right, in the first
+place.
+
+369
+00:32:32,000 --> 00:32:38,000
+So, yeah, well, we had a lot of talks, a
+lot of things written here and there over
+
+370
+00:32:38,000 --> 00:32:44,000
+the years, so maybe it makes sense to
+compile all this.
+
+371
+00:32:45,000 --> 00:32:52,000
+Yeah, we need to strengthen the
+foundation and to grow.
+
+372
+00:32:52,000 --> 00:33:04,000
+So that doesn't make sense to rely on
+some entity, right, to do everything.
+
+373
+00:33:04,000 --> 00:33:14,000
+So it's the time for that is over. And he
+actually over like a couple of years ago.
+
+374
+00:33:14,000 --> 00:33:26,000
+I think so. Now it's time to to grow in
+all the directions.
+
+375
+00:33:26,000 --> 00:33:29,000
+So Sigmanaut has a follow-up. He says,
+thanks for the answer.
+
+376
+00:33:29,000 --> 00:33:31,000
+It's just a bit weird as a long-term
+community member not to be informed about
+
+377
+00:33:31,000 --> 00:33:33,000
+major changes in the EF.
+
+378
+00:33:33,000 --> 00:33:34,000
+Community approach is great, but not
+without officially informing the
+
+379
+00:33:34,000 --> 00:33:35,000
+community.
+
+380
+00:33:36,000 --> 00:33:40,000
+Yeah, Sigmanaut, I would say that we've
+been very clear about this in AMAs and
+
+381
+00:33:40,000 --> 00:33:44,000
+Telegram chats and Twitters about people
+leaving, about people joining the
+
+382
+00:33:44,000 --> 00:33:48,000
+foundation.
+
+383
+00:33:48,000 --> 00:33:52,000
+Many, many times during AMAs, we've
+discussed about what the idea of the EF is
+
+384
+00:33:52,000 --> 00:33:56,000
+and what their goal was and what it is.
+
+385
+00:33:57,000 --> 00:33:59,000
+And the goal was to have a foundation
+that could help bootstrap the community,
+
+386
+00:33:59,000 --> 00:34:01,000
+right?
+
+387
+00:34:02,000 --> 00:34:07,000
+And then slowly fade out into whatever.
+either non-existence or a research
+
+388
+00:34:07,000 --> 00:34:12,000
+foundation or something else that just
+helps with maintaining things.
+
+389
+00:34:12,000 --> 00:34:16,000
+So that's been, ever since I've joined,
+that's been what I've spoken about it in
+
+390
+00:34:16,000 --> 00:34:20,000
+public, as well as what has been spoken
+about in the channel.
+
+391
+00:34:21,000 --> 00:34:24,000
+So I think we've been, probably not
+recently been clear about it, but it has
+
+392
+00:34:24,000 --> 00:34:27,000
+definitely been a topic many times
+throughout the last several years about
+
+393
+00:34:27,000 --> 00:34:30,000
+what that is going to look like.
+
+394
+00:34:32,000 --> 00:34:34,000
+So I hear you, but yeah.
+
+395
+00:34:34,000 --> 00:34:35,000
+Okay.
+
+396
+00:34:35,000 --> 00:34:40,000
+And yeah, and according to the white
+paper, so the original plan was to have
+
+397
+00:34:40,000 --> 00:34:45,000
+this bootstrapping entity for two years
+and a half, right?
+
+398
+00:34:46,000 --> 00:34:51,000
+And now it's a year past, so yeah, it's
+actually well, long overview, but it is
+
+399
+00:34:51,000 --> 00:34:56,000
+what it is.
+
+400
+00:34:57,000 --> 00:35:04,000
+So still, yeah, it's doing some needed
+things, right? The sanctity, but yeah,
+
+401
+00:35:04,000 --> 00:35:11,000
+well, we need to act towards growth and
+well, I think, and yeah, it's going from
+
+402
+00:35:11,000 --> 00:35:18,000
+the white paper, right?
+
+403
+00:35:18,000 --> 00:35:22,000
+And the white paper was published back in
+2019, a few months before the mainnet
+
+404
+00:35:22,000 --> 00:35:26,000
+launch.
+
+405
+00:35:26,000 --> 00:35:36,000
+And that's, yeah, well, there was no plan
+ever to have this bootstrapping entity to
+
+406
+00:35:36,000 --> 00:35:46,000
+to control the growth forever.
+
+407
+00:35:47,000 --> 00:35:53,000
+It's limited simply by the white paper.
+
+408
+00:35:53,000 --> 00:35:55,000
+Yep, yep, yep.
+
+409
+00:35:55,000 --> 00:36:03,000
+Okay, we've got another question from,
+let's see, from Willem Jan Vandenberg.
+
+410
+00:36:03,000 --> 00:36:05,000
+Is there a cooperation between Ergo and
+Palmyra? Are they building Palmyra
+
+411
+00:36:05,000 --> 00:36:07,000
+platform on Ergo and Cardano?
+
+412
+00:36:08,000 --> 00:36:10,000
+Perhaps one of you could provide clarity
+on this, thanks in advance.
+
+413
+00:36:10,000 --> 00:36:14,000
+The best person to answer that probably
+is Luca or Dan I think MGPi is not
+
+414
+00:36:14,000 --> 00:36:18,000
+necessarily involved in that specific part
+of it in Palmyra last time I asked him but
+
+415
+00:36:18,000 --> 00:36:22,000
+the bottom line you have to remember yes
+we've seen Winter Protocol being ported to
+
+416
+00:36:22,000 --> 00:36:26,000
+Cardano and running on there but the
+bottom line you have to remember and the
+
+417
+00:36:26,000 --> 00:36:30,000
+best I can answer right now without being
+involved with Palmyra is that one Ergo's
+
+418
+00:36:30,000 --> 00:36:34,000
+an open chain people are going to use it
+right two.
+
+419
+00:36:39,000 --> 00:36:45,000
+nothing compared to Cardano. Scalability
+of fees, network fees, to create all these
+
+420
+00:36:45,000 --> 00:36:51,000
+tokens and tracking is I don't think
+feasible on Cardano necessarily compared
+
+421
+00:36:51,000 --> 00:36:57,000
+to how feasible it is on Ergo.
+
+422
+00:36:58,000 --> 00:37:02,000
+So as a company when you look at two
+things and you're saying okay I can run my
+
+423
+00:37:02,000 --> 00:37:06,000
+Winter Protocol on this chain but it's
+going to cost my clients this much and I'm
+
+424
+00:37:06,000 --> 00:37:10,000
+going to have to pass that cost on to them
+or I can run on this chain and the cost is
+
+425
+00:37:10,000 --> 00:37:14,000
+less from a straight business decision.
+
+426
+00:37:14,000 --> 00:37:18,000
+It's obvious which chain is going to be
+utilized for that.
+
+427
+00:37:18,000 --> 00:37:22,000
+So that's just where I think in my mind.
+And I think that's probably what you'll
+
+428
+00:37:22,000 --> 00:37:26,000
+see in the future once Dan's business gets
+in full swing with that kind of stuff.
+
+429
+00:37:27,000 --> 00:37:33,000
+Yeah, so I cannot probably because we had
+a lot of talks with Dan and Sam, but not
+
+430
+00:37:33,000 --> 00:37:39,000
+in recent months.
+
+431
+00:37:40,000 --> 00:37:44,000
+Back in February, we were around
+consensus conference and before in Dubai,
+
+432
+00:37:44,000 --> 00:37:48,000
+we had a lot of talks.
+
+433
+00:37:48,000 --> 00:37:52,000
+So, you know, Palmyra is a real-world
+assets company and then, yeah, it all
+
+434
+00:37:52,000 --> 00:37:56,000
+depends on their real-world partners.
+
+435
+00:37:56,000 --> 00:38:05,000
+So, almost one year ago, we discussed to
+use Dexy or Dexy lithium stable coin to do
+
+436
+00:38:05,000 --> 00:38:14,000
+insurance for lithium in Argentina but now
+for many months I haven't heard anything
+
+437
+00:38:14,000 --> 00:38:23,000
+about lithium in Argentina.
+
+438
+00:38:23,000 --> 00:38:29,000
+Do you guys know anything about it?
+
+439
+00:38:29,000 --> 00:38:36,000
+Yeah. I mean, it, it heavily depends on,
+the needs of real world partners of
+
+440
+00:38:36,000 --> 00:38:43,000
+Palmyra as well. Right. So we discussed
+some things and yeah, well, there are
+
+441
+00:38:43,000 --> 00:38:50,000
+certain contracts implemented, I've
+removed them and so on.
+
+442
+00:38:51,000 --> 00:38:57,000
+But then, yeah, it all depends on
+concrete things on the ground, after all,
+
+443
+00:38:57,000 --> 00:39:03,000
+right, because it's a real world assets
+company.
+
+444
+00:39:03,000 --> 00:39:13,000
+So the best thing we can do is to invite
+then or look and ask them, right?
+
+445
+00:39:13,000 --> 00:39:21,000
+Because so here we don't have, anyone,
+deeply connected with Palmyra, right?
+
+446
+00:39:21,000 --> 00:39:26,000
+So yeah, the the the best think we can.
+
+447
+00:39:26,000 --> 00:39:29,000
+Yeah.
+
+448
+00:39:26,000 --> 00:39:28,000
+Maybe we should invite Sam next time. I
+think he's expressed interest in these
+
+449
+00:39:28,000 --> 00:39:30,000
+kinds of AMA.
+
+450
+00:39:30,000 --> 00:39:35,000
+Yeah. So Sam is quite devoted to
+Ergonauts actually.
+
+451
+00:39:35,000 --> 00:39:44,000
+But, yeah, well, the thing is, you know,
+it's still a super early startup and yeah
+
+452
+00:39:44,000 --> 00:39:53,000
+they are changing playing plans regularly
+which is quite normal and yeah it all
+
+453
+00:39:53,000 --> 00:40:02,000
+depends on external actors as well right
+because.
+
+454
+00:40:02,000 --> 00:40:07,000
+Yeah, well, a lot of instability in
+jurisdictions they're working with and
+
+455
+00:40:07,000 --> 00:40:12,000
+yeah, a lot of instability in the
+development of this space, real world
+
+456
+00:40:12,000 --> 00:40:17,000
+assets.
+
+457
+00:40:19,000 --> 00:40:27,000
+It depends on many factors such as legal
+and so on, right?
+
+458
+00:40:27,000 --> 00:40:33,000
+It would be good to invite them and have
+a detailed chat instead of trying to
+
+459
+00:40:33,000 --> 00:40:39,000
+invent something on our site.
+
+460
+00:40:40,000 --> 00:40:43,000
+Yeah, agreed. Yeah, I'll ping Sam. We'll
+see what he says.
+
+461
+00:40:43,000 --> 00:40:47,000
+OK, let's see what else we have here.
+
+462
+00:40:47,000 --> 00:40:52,000
+We have in Zoom chat, HQ has asked, how
+optimistic do you feel if we invited all
+
+463
+00:40:52,000 --> 00:40:57,000
+mining pool operators in creative mining
+DAO and move the important chain votes on
+
+464
+00:40:57,000 --> 00:41:02,000
+Paideia instead of doing with changing
+node settings as we do it now?
+
+465
+00:41:03,000 --> 00:41:06,000
+So HQ, I would say that I would say the
+de facto final change is always going to
+
+466
+00:41:06,000 --> 00:41:09,000
+be on the node config, right?
+
+467
+00:41:10,000 --> 00:41:15,000
+So that's always the change period. So no
+matter what you do in a DAO, on chain on
+
+468
+00:41:15,000 --> 00:41:20,000
+the DAO, no matter what you do, things
+will not take effect unless miners tag
+
+469
+00:41:20,000 --> 00:41:25,000
+along and update their node configs to do
+that, right?
+
+470
+00:41:25,000 --> 00:41:28,000
+So what's that?
+
+471
+00:41:28,000 --> 00:41:34,000
+So, actually, you can build some logic on
+top of the node to read, well, voting
+
+472
+00:41:34,000 --> 00:41:40,000
+decisions from DAO and change config
+automatically.
+
+473
+00:41:41,000 --> 00:41:47,000
+But in reality, it wouldn't change
+anything really, right? Because, well, you
+
+474
+00:41:47,000 --> 00:41:53,000
+can just tweak the settings instead of
+using web interface still.
+
+475
+00:41:54,000 --> 00:41:56,000
+You can always get around it. Yes,
+correct. Yeah, exactly.
+
+476
+00:41:56,000 --> 00:42:03,000
+So that's HQ. That's the idea of what the
+SIGS mining DAO was at some point, right?
+
+477
+00:42:03,000 --> 00:42:08,000
+To educate and to get people together to
+group them up and have them interested in
+
+478
+00:42:08,000 --> 00:42:13,000
+tracking these changes and pushing these
+changes and even proposing things, right?
+
+479
+00:42:14,000 --> 00:42:19,000
+And then pushing from there. But yeah, I
+mean, it'd be neat.
+
+480
+00:42:19,000 --> 00:42:26,000
+Actually, GitBlock used this, right, for
+some software.
+
+481
+00:42:26,000 --> 00:42:28,000
+Right, right. Yeah, they did the wallet
+voting for the software. Exactly. Yep,
+
+482
+00:42:28,000 --> 00:42:30,000
+yep, yep.
+
+483
+00:42:30,000 --> 00:42:33,000
+So these things have that in the dial
+right there, but it's not tied to a direct
+
+484
+00:42:33,000 --> 00:42:36,000
+change on the node, that's for sure.
+
+485
+00:42:37,000 --> 00:42:43,000
+But yeah, I think my thought would be
+that if it could be iron clad, if there
+
+486
+00:42:43,000 --> 00:42:49,000
+was some sort of soft fork that changed it
+so that this is exactly where we're
+
+487
+00:42:49,000 --> 00:42:55,000
+getting all details to, you could undo
+that at some point.
+
+488
+00:42:55,000 --> 00:42:59,000
+So it's not de facto in the end. The only
+de facto thing and the only fact is that
+
+489
+00:42:59,000 --> 00:43:03,000
+miners can run a config and have a chain.
+
+490
+00:43:04,000 --> 00:43:08,000
+So while we can't police that
+essentially, at least you can have a group
+
+491
+00:43:08,000 --> 00:43:12,000
+organization like a DAO, like the SIGS
+mining DAO. to at least gather people in
+
+492
+00:43:12,000 --> 00:43:16,000
+and have discussions before those things
+are even tried to push to GitHub for
+
+493
+00:43:16,000 --> 00:43:20,000
+changes.
+
+494
+00:43:20,000 --> 00:43:23,000
+That's one of the things which I was
+talking, at least you have a ledger of
+
+495
+00:43:23,000 --> 00:43:26,000
+on-chain voting and what we discussed,
+what was put up on vote, who talked on
+
+496
+00:43:26,000 --> 00:43:29,000
+that.
+
+497
+00:43:30,000 --> 00:43:33,000
+We can at least have that. There are many
+people who are trying to bring the
+
+498
+00:43:33,000 --> 00:43:36,000
+innovation and they're trying it.
+
+499
+00:43:37,000 --> 00:43:41,000
+But I think the thing is that we have
+tools which are not getting used.
+
+500
+00:43:41,000 --> 00:43:45,000
+So what we have to do is adapt the people
+to use those.
+
+501
+00:43:45,000 --> 00:43:50,000
+So how do we get, so the great idea would
+be to create a mining DAO or modify the
+
+502
+00:43:50,000 --> 00:43:55,000
+SIGS mining DAO and invite all the pools
+out there.
+
+503
+00:43:55,000 --> 00:43:58,000
+Invite every single pool out there as
+well as any individual miners we have and
+
+504
+00:43:58,000 --> 00:44:01,000
+see if they'll participate.
+
+505
+00:44:01,000 --> 00:44:04,000
+My guess is that we're probably not going
+to see much participation in a mining DAO
+
+506
+00:44:04,000 --> 00:44:07,000
+from big pools, right?
+
+507
+00:44:07,000 --> 00:44:13,000
+Ergo is just one facet of this massive
+amount of other chains that they do.
+
+508
+00:44:13,000 --> 00:44:18,000
+Maybe you will, I don't know, like
+Herominers is really good to us, right?
+
+509
+00:44:18,000 --> 00:44:19,000
+What's the other one?
+
+510
+00:44:19,000 --> 00:44:22,000
+Unless there is an incentive for them,
+right? You can always mint a DAO token and
+
+511
+00:44:22,000 --> 00:44:25,000
+you can have an LP there for it.
+
+512
+00:44:26,000 --> 00:44:28,000
+So people are seeing that it is a DAO
+which is working DAO and people are doing
+
+513
+00:44:28,000 --> 00:44:30,000
+stuff.
+
+514
+00:44:31,000 --> 00:44:34,000
+So there might be price change in them.
+The only source of getting those tokens
+
+515
+00:44:34,000 --> 00:44:37,000
+would be by participating in the DAO
+because they are staking, they will be
+
+516
+00:44:37,000 --> 00:44:40,000
+staking and they will be getting using the
+DAO emission.
+
+517
+00:44:42,000 --> 00:44:46,000
+That's it. Yeah. Yeah. Yeah. Yeah. Yeah.
+True. True.
+
+518
+00:44:46,000 --> 00:44:49,000
+It's like pre-confirmation votes before
+the electoral votes. You got it. Yeah.
+
+519
+00:44:49,000 --> 00:44:52,000
+Yep.
+
+520
+00:44:52,000 --> 00:44:54,000
+But yeah, it can act as campaigns.
+
+521
+00:44:54,000 --> 00:44:57,000
+Like constitutional conventions. Yeah.
+
+522
+00:44:57,000 --> 00:44:59,000
+Yeah. But it still separates it from, so
+you can say this is the vote, but this is
+
+523
+00:44:59,000 --> 00:45:01,000
+the actual votes.
+
+524
+00:45:02,000 --> 00:45:04,000
+It's like pre-voting.
+
+525
+00:45:04,000 --> 00:45:07,000
+Yep.
+
+526
+00:45:07,000 --> 00:45:10,000
+Yeah. Yeah, and the idea would be, right,
+if you got everybody on board that's part
+
+527
+00:45:10,000 --> 00:45:13,000
+of the DAO, then you could be pretty sure
+that the node config changes and people
+
+528
+00:45:13,000 --> 00:45:16,000
+would change their node configs and follow
+through kind of thing.
+
+529
+00:45:18,000 --> 00:45:22,000
+And your votes actually ensure that the
+pool operators actually show up because
+
+530
+00:45:22,000 --> 00:45:26,000
+the nodes that are pointing to them voted
+for them to show up.
+
+531
+00:45:27,000 --> 00:45:31,000
+So you can de-stake, I suppose, or
+whatever.
+
+532
+00:45:31,000 --> 00:45:35,000
+Yeah, that'd be interesting. If Mark,
+maybe Mark, when Mark watches this later
+
+533
+00:45:35,000 --> 00:45:39,000
+from the SIGS DAO, maybe he could start
+thinking about getting other mining pools
+
+534
+00:45:39,000 --> 00:45:43,000
+involved in the DAO.
+
+535
+00:45:43,000 --> 00:45:45,000
+Just because it's called Sigmanauts
+mining, my DAO doesn't mean it has to be
+
+536
+00:45:45,000 --> 00:45:47,000
+just for the Sigmanauts mining pool.
+
+537
+00:45:48,000 --> 00:45:50,000
+It's just labeled Sigmanauts, I guess, at
+that point.
+
+538
+00:45:50,000 --> 00:45:55,000
+So yeah, Mark, if you're watching this,
+what are your thoughts on that?
+
+539
+00:45:55,000 --> 00:45:57,000
+When you wake up, probably sleeping,
+because your baby's been awake all night,
+
+540
+00:45:57,000 --> 00:45:59,000
+right?
+
+541
+00:45:59,000 --> 00:46:01,000
+So, cool.
+
+542
+00:46:01,000 --> 00:46:04,000
+All right, what else we got? What time is
+it? 9.52.
+
+543
+00:46:04,000 --> 00:46:08,000
+We got another question. Here we go. From
+Zoom Chat.
+
+544
+00:46:08,000 --> 00:46:11,000
+That would be from Aberg. Says, does Ergo
+have the capabilities of launching an
+
+545
+00:46:11,000 --> 00:46:14,000
+XMR-like privacy coin?
+
+546
+00:46:15,000 --> 00:46:19,000
+kushti, on the sub chain?
+
+547
+00:46:19,000 --> 00:46:25,000
+Yeah for sidechain it's possible and
+actually one of the earliest ideas for
+
+548
+00:46:25,000 --> 00:46:31,000
+sidechains.
+
+549
+00:46:31,000 --> 00:46:38,000
+There is no any white paper or written
+proposal but yeah possible.
+
+550
+00:46:38,000 --> 00:46:43,000
+So one option we discussed in the charts
+is to do DarkFi based sidechain, but
+
+551
+00:46:43,000 --> 00:46:48,000
+DarkFi is not around yet.
+
+552
+00:46:49,000 --> 00:46:54,000
+So DarkFi is an merged mine sidechain of
+Monero, which is bringing capability to
+
+553
+00:46:54,000 --> 00:46:59,000
+execute private contracts.
+
+554
+00:47:00,000 --> 00:47:07,000
+But yeah, it's in development yet. There
+is only some early testnet and yeah. Well,
+
+555
+00:47:07,000 --> 00:47:14,000
+it makes sense to wait till launch or a
+moment when it will be stabilized at
+
+556
+00:47:14,000 --> 00:47:21,000
+least. Right.
+
+557
+00:47:23,000 --> 00:47:29,000
+And would there be, would there be a need
+for a mixer besides saving money on
+
+558
+00:47:29,000 --> 00:47:35,000
+bridging, when you have a privacy chain, a
+side chain like that?
+
+559
+00:47:35,000 --> 00:47:39,000
+Sorry. Would there be a need for
+ErgoMixer at that point besides the fact
+
+560
+00:47:39,000 --> 00:47:43,000
+that you'd save money running ErgoMixer if
+you just bridged to the side chain and
+
+561
+00:47:43,000 --> 00:47:47,000
+then slowly came out on other endpoints
+kind of thing utilizing the privacy side
+
+562
+00:47:47,000 --> 00:47:51,000
+chain as a mixer?
+
+563
+00:47:53,000 --> 00:47:58,000
+I don't know, so you can actually exit
+from the side chain to the mixer on the
+
+564
+00:47:58,000 --> 00:48:03,000
+main chain, right? Or stealth address.
+
+565
+00:48:03,000 --> 00:48:13,000
+Yeah, I think it still would be useful.
+Just for different tasks, maybe. Subtasks.
+
+566
+00:48:13,000 --> 00:48:15,000
+Gotcha.
+
+567
+00:48:15,000 --> 00:48:17,000
+Cool.
+
+568
+00:48:17,000 --> 00:48:19,000
+Well, anything else, guys?
+
+569
+00:48:19,000 --> 00:48:22,000
+We have a reduction coming up. I thought
+we'd bring that up.
+
+570
+00:48:22,000 --> 00:48:24,000
+Oh, nice. Byron. What's it going to?
+
+571
+00:48:24,000 --> 00:48:30,000
+I think is what sub double digits now. Is
+it nine?
+
+572
+00:48:30,000 --> 00:48:35,000
+Is it the first single digit?
+
+573
+00:48:35,000 --> 00:48:37,000
+Wow. That's crazy.
+
+574
+00:48:37,000 --> 00:48:40,000
+Yeah.
+
+575
+00:48:40,000 --> 00:48:47,000
+Yeah. Yeah, so QX, I think there is need
+to tweet and yeah, I think maybe next time
+
+576
+00:48:47,000 --> 00:48:54,000
+let's discuss Twitter strategy X strategy.
+
+577
+00:48:54,000 --> 00:48:57,000
+Let me use these few seconds to again
+invite people up to trial on the
+
+578
+00:48:57,000 --> 00:49:00,000
+Sigmanauts account and then jump up to
+Ergo or show experience that you've had
+
+579
+00:49:00,000 --> 00:49:03,000
+and jump right up to the Ergo platform.
+
+580
+00:49:04,000 --> 00:49:07,000
+We would love more contributors to
+Twitter. I tweet when I can, and that's
+
+581
+00:49:07,000 --> 00:49:10,000
+about it.
+
+582
+00:49:10,000 --> 00:49:13,000
+And then Glasgow tweets sometimes as
+well.
+
+583
+00:49:13,000 --> 00:49:16,000
+But yeah, if you're interested, please
+let us know.
+
+584
+00:49:16,000 --> 00:49:19,000
+And we'll either look at the previous
+tweets you've done and take you right to
+
+585
+00:49:19,000 --> 00:49:22,000
+the Ergo Platform one, or you can trial
+run on the Sigmanauts Twitter and then
+
+586
+00:49:22,000 --> 00:49:25,000
+jump up to the Ergo Platform Twitter.
+
+587
+00:49:27,000 --> 00:49:32,000
+So please, please help.
+
+588
+00:49:32,000 --> 00:49:35,000
+I think someone asked when sub-blocks and
+I think it's what mid November ish or end
+
+589
+00:49:35,000 --> 00:49:38,000
+of the year. It's time for it.
+
+590
+00:49:38,000 --> 00:49:44,000
+I think he's joking, but when sub-blocks.
+
+591
+00:49:44,000 --> 00:49:48,000
+Oh no, he means the voting. Oh yeah.
+Yeah. Right. When's that, when's that come
+
+592
+00:49:48,000 --> 00:49:52,000
+into effect, kushti?
+
+593
+00:49:52,000 --> 00:49:56,000
+6.0 or what do you mean?
+
+594
+00:49:56,000 --> 00:50:00,000
+The vote's happening, right? Or when does
+that actually switch?
+
+595
+00:50:00,000 --> 00:50:05,000
+So 6.0 will be activated in a few days,
+like five days.
+
+596
+00:50:05,000 --> 00:50:07,000
+Five days?
+
+597
+00:50:07,000 --> 00:50:13,000
+Yeah, it's like 3,000 or 3,500 blocks,
+something like that.
+
+598
+00:50:13,000 --> 00:50:18,000
+So, yeah, just like, five days.
+
+599
+00:50:18,000 --> 00:50:21,000
+I guess we need to tweet that too.
+
+600
+00:50:21,000 --> 00:50:24,000
+Yeah. That's two things I have to tweet.
+kushti. That's going to, that's going to
+
+601
+00:50:24,000 --> 00:50:27,000
+send me back a week or two.
+
+602
+00:50:27,000 --> 00:50:32,000
+Yeah. So there is a lot of materials for
+tweeting, right?
+
+603
+00:50:32,000 --> 00:50:39,000
+So, we have a lot of things are discussed
+in the Telegram chats, unfortunately, and
+
+604
+00:50:39,000 --> 00:50:46,000
+not going beyond that, right?
+
+605
+00:50:46,000 --> 00:50:53,000
+So there is need to tweet for more, to
+use forum for more.
+
+606
+00:50:53,000 --> 00:50:56,000
+Because forum is good for archival
+purposes and yeah, to have more articles
+
+607
+00:50:56,000 --> 00:50:59,000
+and so on.
+
+608
+00:50:59,000 --> 00:51:02,000
+You know, I think I can point an agent at
+the Telegram chat and just come up with
+
+609
+00:51:02,000 --> 00:51:05,000
+daily tweets from those discussions and
+the dev chat.
+
+610
+00:51:06,000 --> 00:51:09,000
+Maybe I'll try that. That might help out
+a little bit in the meantime.
+
+611
+00:51:09,000 --> 00:51:16,000
+Yeah, and yeah, even things which are
+announced to our telegram groups. Such as
+
+612
+00:51:16,000 --> 00:51:23,000
+main even and dev updates and so on.
+
+613
+00:51:24,000 --> 00:51:32,000
+So yeah, makes sense to to tweets at
+least great idea kushti great idea.
+
+614
+00:51:32,000 --> 00:51:36,000
+Yeah, we also need for like, catchy
+tweets, more like I don't know
+
+615
+00:51:36,000 --> 00:51:40,000
+revolutionary tweets because drama kushti.
+
+616
+00:51:41,000 --> 00:51:44,000
+We had done with drama for the week or
+the month or we have enough drama. I guess
+
+617
+00:51:44,000 --> 00:51:47,000
+it's a new month.
+
+618
+00:51:47,000 --> 00:51:54,000
+I don't know about drama, but I think we
+always need to remind about principles and
+
+619
+00:51:54,000 --> 00:52:01,000
+so on while the manifest, when it was
+tweeted for the last time like years ago.
+
+620
+00:52:01,000 --> 00:52:07,000
+New people are coming all the time and
+well, my impression is that many Ergonauts
+
+621
+00:52:07,000 --> 00:52:13,000
+are considered a community as something
+stable, right?
+
+622
+00:52:14,000 --> 00:52:19,000
+It's like a small circle of their friends
+they're chatting with and so on.
+
+623
+00:52:19,000 --> 00:52:25,000
+But in reality, new people are coming all
+the time and that there is need to
+
+624
+00:52:25,000 --> 00:52:31,000
+introduce them things which are very known
+to the old members, right?
+
+625
+00:52:31,000 --> 00:52:39,000
+But still newcomers need to get into
+them. To remind about principles and yeah,
+
+626
+00:52:39,000 --> 00:52:47,000
+to build everything for growth, not for
+staying in the small circles.
+
+627
+00:52:47,000 --> 00:52:54,000
+in some charts. I mean, that's not the
+way to get any adoption.
+
+628
+00:52:54,000 --> 00:52:58,000
+Yeah, I agree. It's manpower, too,
+though. So, yeah.
+
+629
+00:52:58,000 --> 00:53:00,000
+So, please, anybody who wants to help out
+with Twitter, that'd be great.
+
+630
+00:53:00,000 --> 00:53:03,000
+HQ just reminded us that Mark, sorry,
+Glasgow used to do weekly summaries in
+
+631
+00:53:03,000 --> 00:53:06,000
+chat.
+
+632
+00:53:06,000 --> 00:53:10,000
+And I don't think I've seen those lately.
+But those are AI runs. So, there's no
+
+633
+00:53:10,000 --> 00:53:14,000
+reason that we can't then extract from
+that already agent that he's doing that
+
+634
+00:53:14,000 --> 00:53:18,000
+with to bring out tweets for the next week
+kind of thing as well.
+
+635
+00:53:20,000 --> 00:53:25,000
+So let me work with Mark or Glasgow and
+we'll see if we can get those back up and
+
+636
+00:53:25,000 --> 00:53:30,000
+see if we can extract tweets from these to
+do from all the channels.
+
+637
+00:53:31,000 --> 00:53:32,000
+So yeah.
+
+638
+00:53:32,000 --> 00:53:37,000
+Yeah, and another point is don't forget
+about national groups.
+
+639
+00:53:37,000 --> 00:53:43,000
+So back in 2020, we built a network of
+national groups, Chinese, Indonesian,
+
+640
+00:53:43,000 --> 00:53:49,000
+Russian, French, Spanish, and so on,
+right?
+
+641
+00:53:49,000 --> 00:53:55,000
+So it makes sense to even auto-translate
+and publish, well, automatic translation
+
+642
+00:53:55,000 --> 00:54:01,000
+or ping moderators of national groups,
+right?
+
+643
+00:54:02,000 --> 00:54:08,000
+Yeah, so from our observations many of
+them are disconnected from the news stream
+
+644
+00:54:08,000 --> 00:54:14,000
+and that's quite unfortunate because we
+basically have maybe more people there in
+
+645
+00:54:14,000 --> 00:54:20,000
+total than in English groups.
+
+646
+00:54:22,000 --> 00:54:26,000
+Right. So the, the main and, what else we
+have mining concern. So, the, there are
+
+647
+00:54:26,000 --> 00:54:30,000
+national groups about mine concern.
+
+648
+00:54:30,000 --> 00:54:40,000
+Yeah. And then in total, more people
+stay, but, they have forgotten often.
+
+649
+00:54:40,000 --> 00:54:49,000
+All right. We'll do better with that.
+We'll try to, are you a miner?
+
+650
+00:54:49,000 --> 00:54:54,000
+Is my mic up? Oh, I have my monitor in my
+living room, but it's not set up.
+
+651
+00:54:54,000 --> 00:54:58,000
+I need to set it up. I need to set it up.
+
+652
+00:54:58,000 --> 00:55:04,000
+But I was going to ask if the ERG-1 could
+serve as like also using the DAO framework
+
+653
+00:55:04,000 --> 00:55:10,000
+as well to pick a community member like
+the usual ones that we see that do a great
+
+654
+00:55:10,000 --> 00:55:16,000
+job on their own promoting to like help
+you cold produce tweets and then they can
+
+655
+00:55:16,000 --> 00:55:22,000
+show that they are who they are that's
+producing it.
+
+656
+00:55:22,000 --> 00:55:25,000
+Obviously their main account and tweet
+from the account to help you out as like
+
+657
+00:55:25,000 --> 00:55:28,000
+winning the whatever the ERG-1 reward is a
+week or a month or whatever it is or
+
+658
+00:55:28,000 --> 00:55:31,000
+something like that and rotate it.
+
+659
+00:55:33,000 --> 00:55:38,000
+So it's like community active actions.
+
+660
+00:55:38,000 --> 00:55:42,000
+So you're talking about getting those
+people from ERG-1 involved and helping
+
+661
+00:55:42,000 --> 00:55:46,000
+send tweets and write tweets and pull good
+tweets from their database of what's been
+
+662
+00:55:46,000 --> 00:55:50,000
+leaderboard that week?
+
+663
+00:55:50,000 --> 00:55:54,000
+Basically, approved members that's been
+in the community for a while that already
+
+664
+00:55:54,000 --> 00:55:58,000
+support Ergo could help you produce tweets
+on the main chat since you have other
+
+665
+00:55:58,000 --> 00:56:02,000
+things in real life and things to do as
+well as work on Ergo that could help you
+
+666
+00:56:02,000 --> 00:56:06,000
+out, especially since they pick a winner
+for something.
+
+667
+00:56:09,000 --> 00:56:13,000
+I forget the frequency and it'll rotate.
+So it's like an active community involved,
+
+668
+00:56:13,000 --> 00:56:17,000
+like even membership.
+
+669
+00:56:17,000 --> 00:56:20,000
+Right, right. Yeah, so people write their
+tweets and then they submit them to the
+
+670
+00:56:20,000 --> 00:56:23,000
+site and then depending on how many
+retweets or likes they get or views, I
+
+671
+00:56:23,000 --> 00:56:26,000
+think that's how they're ranked, right?
+
+672
+00:56:28,000 --> 00:56:31,000
+So yeah, I mean that's a treasure trove
+of probably really good Ergo tweets that
+
+673
+00:56:31,000 --> 00:56:34,000
+are promoting Ergo that could be used.
+
+674
+00:56:34,000 --> 00:56:36,000
+So yeah, all right. All right. So let's
+see what Glasgow and let's see what Guifa,
+
+675
+00:56:36,000 --> 00:56:38,000
+Guifa, Guifa, Guifa.
+
+676
+00:56:39,000 --> 00:56:44,000
+I'm saying I'm butchering the name from
+ERG-1. Have to say HQ knows what it is.
+
+677
+00:56:44,000 --> 00:56:46,000
+Good friend of HQ's.
+
+678
+00:56:46,000 --> 00:56:48,000
+All right. Sounds good, guys. It's 10.03.
+I'm already three minutes late for my next
+
+679
+00:56:48,000 --> 00:56:50,000
+meeting.
+
+680
+00:56:50,000 --> 00:56:52,000
+Guifa.
+
+681
+00:56:52,000 --> 00:56:55,000
+G-I-U-F-A. Thank you, HQ.
+
+682
+00:56:55,000 --> 00:56:58,000
+Great. All right. Everybody, any closing
+words?
+
+683
+00:56:58,000 --> 00:57:05,000
+Byron, you want to close it out? kushti,
+you got any closing words?
+
+684
+00:57:05,000 --> 00:57:09,000
+Oh, kushti had to go. kushti was like,
+okay, goodbye.
+
+685
+00:57:09,000 --> 00:57:14,000
+kushti Irish goodbye. Byron, close it
+out. Go for it.
+
+686
+00:57:14,000 --> 00:57:18,000
+We're going to be in the clouds in
+Colorado. Enjoy your weekend, guys.
+
+687
+00:57:18,000 --> 00:57:21,000
+That's right. Thanks everybody for
+joining. Ciao.
+

@@ -1,0 +1,3519 @@
+1
+00:00:00,000 --> 00:00:02,000
+All right. Hey everybody, my name is
+CannonQ.
+
+2
+00:00:02,000 --> 00:00:08,000
+Thank you all for allowing a non-dev to
+talk to you today.
+
+3
+00:00:08,000 --> 00:00:12,000
+This says, I actually think pretty decent
+implications are a vector for devs to put
+
+4
+00:00:12,000 --> 00:00:16,000
+their head around.
+
+5
+00:00:17,000 --> 00:00:21,000
+It's getting out from behind the keyboard
+a bit, but there's a lot of protocol that
+
+6
+00:00:21,000 --> 00:00:25,000
+would need to be developed.
+
+7
+00:00:26,000 --> 00:00:32,000
+So anyway, long and short of it, I talked
+to this a little bit over the last year,
+
+8
+00:00:32,000 --> 00:00:38,000
+mentioned it to Joe a couple of times, and
+he asked me to give a presentation on it.
+
+9
+00:00:38,000 --> 00:00:42,000
+I think it'll be interesting, and so I
+did. So here we are.
+
+10
+00:00:42,000 --> 00:00:47,000
+Commercial barter meets permissionless
+infrastructure.
+
+11
+00:00:47,000 --> 00:00:50,000
+I will try not to read the slides.
+That'll be the only one, so let's get
+
+12
+00:00:50,000 --> 00:00:53,000
+going.
+
+13
+00:00:53,000 --> 00:01:01,000
+A hidden B2B economy, but we're here for
+peer-to-peer.
+
+14
+00:01:01,000 --> 00:01:07,000
+Most crypto is looking at speculation,
+right? Look at yesterday, big crash,
+
+15
+00:01:07,000 --> 00:01:13,000
+people on DEXes, sort of playing lotto.
+
+16
+00:01:14,000 --> 00:01:18,000
+Bartering worldwide is or in North
+America is about a 12 to 14 billion dollar
+
+17
+00:01:18,000 --> 00:01:22,000
+market.
+
+18
+00:01:22,000 --> 00:01:29,000
+What we're focusing on is a smaller
+subset that is like, non governmental, non
+
+19
+00:01:29,000 --> 00:01:36,000
+big, huge corporate kind of moves.
+
+20
+00:01:37,000 --> 00:01:39,000
+So anyway, they're tax compliant. That's
+one of the things that people often get
+
+21
+00:01:39,000 --> 00:01:41,000
+confused by.
+
+22
+00:01:41,000 --> 00:01:46,000
+And you don't really need to convince
+these guys about not using fiat. They use
+
+23
+00:01:46,000 --> 00:01:51,000
+their own barter currency.
+
+24
+00:01:52,000 --> 00:02:01,000
+So what is a barter exchange? It's not
+eggs for tomatoes. Sorry, Jemai.
+
+25
+00:02:01,000 --> 00:02:06,000
+Not getting chickens from the Russians
+down the street or selling them.
+
+26
+00:02:06,000 --> 00:02:10,000
+It is not skirting tax laws, doing
+something for cash to try to get a little
+
+27
+00:02:10,000 --> 00:02:14,000
+bit more juice in your pocket.
+
+28
+00:02:15,000 --> 00:02:21,000
+And it's not government counter trade
+deals. Now, that is a larger barter thing
+
+29
+00:02:21,000 --> 00:02:27,000
+where like a city might give somebody like
+advertising or something at a big fair and
+
+30
+00:02:27,000 --> 00:02:33,000
+they, you know, you reciprocate, that's
+part of the bigger number.
+
+31
+00:02:34,000 --> 00:02:38,000
+It's a formal B2B exchange network. This
+is probably one of the only few slides
+
+32
+00:02:38,000 --> 00:02:42,000
+I'll read, but they do real accounting and
+tax reporting.
+
+33
+00:02:42,000 --> 00:02:46,000
+So you actually get a 1099B. So those of
+you in the U.S. that have been a
+
+34
+00:02:46,000 --> 00:02:50,000
+contractor before, you get a 1099.
+
+35
+00:02:51,000 --> 00:02:55,000
+You usually don't look at the letter, but
+B is for barter, C is for whatever.
+
+36
+00:02:55,000 --> 00:02:59,000
+There's several of them.
+
+37
+00:02:59,000 --> 00:03:05,000
+There are large networks, 140 million
+annually. iTex is the biggest.
+
+38
+00:03:05,000 --> 00:03:08,000
+IMS is independent. They have franchises.
+
+39
+00:03:08,000 --> 00:03:11,000
+And then you have regional networks, like
+the local trade partners, which is in my
+
+40
+00:03:11,000 --> 00:03:14,000
+area. They're a couple hours away from me.
+
+41
+00:03:15,000 --> 00:03:17,000
+They're doing about 10 million a year.
+And we'll talk about them a little bit
+
+42
+00:03:17,000 --> 00:03:19,000
+more specifically.
+
+43
+00:03:19,000 --> 00:03:21,000
+And then Rocky Mountain Barter, I found
+one that's actually here. I think they're
+
+44
+00:03:21,000 --> 00:03:23,000
+out of Colorado Springs.
+
+45
+00:03:23,000 --> 00:03:28,000
+They do about half a million a year. And
+again, this is not using cash.
+
+46
+00:03:28,000 --> 00:03:32,000
+It's using, I mean, you're bartering and
+then receiving credits in a barter
+
+47
+00:03:32,000 --> 00:03:36,000
+currency.
+
+48
+00:03:36,000 --> 00:03:39,000
+So what about regional currencies? It is
+not Berkshires, Ithaca Hours, Petite
+
+49
+00:03:39,000 --> 00:03:42,000
+Monet.
+
+50
+00:03:42,000 --> 00:03:45,000
+I think I showed that to Luca. It's
+outside of Montreal in sort of a little
+
+51
+00:03:45,000 --> 00:03:48,000
+enclave.
+
+52
+00:03:48,000 --> 00:03:53,000
+They've printed their own currency. I
+mean, it's sweet looking.
+
+53
+00:03:53,000 --> 00:03:58,000
+A lot of those are geographic based their
+time based and they get a big bump and
+
+54
+00:03:58,000 --> 00:04:03,000
+then they fall apart and most of them
+don't scale beyond a million dollars.
+
+55
+00:04:03,000 --> 00:04:07,000
+So it's really it's not that they don't
+fail, but from a dev standpoint or a
+
+56
+00:04:07,000 --> 00:04:11,000
+protocol standpoint, it's hard to create a
+business around something that doesn't
+
+57
+00:04:11,000 --> 00:04:15,000
+scale beyond a million dollars.
+
+58
+00:04:15,000 --> 00:04:18,000
+I mean, it's a pretty small fish.
+
+59
+00:04:18,000 --> 00:04:23,000
+These are business to business networks.
+They have their own ledger systems. We'll
+
+60
+00:04:23,000 --> 00:04:28,000
+get in that just briefly.
+
+61
+00:04:28,000 --> 00:04:32,000
+The network operator actually provides a
+ton of value. They will mediate.
+
+62
+00:04:32,000 --> 00:04:36,000
+They will help make push deals across the
+table.
+
+63
+00:04:36,000 --> 00:04:42,000
+And their scale, I mean, it's two and a
+half billion conservatively a year for the
+
+64
+00:04:42,000 --> 00:04:48,000
+last, I mean, growing, but I mean, it's a
+big number.
+
+65
+00:04:49,000 --> 00:04:55,000
+Here's an example, local trade partner in
+my area in the Ozarks in sort of central,
+
+66
+00:04:55,000 --> 00:05:01,000
+mid, south central in the U.S. Alice
+builds a deck for somebody, gets paid
+
+67
+00:05:01,000 --> 00:05:07,000
+50,000 or 50, 5,000 in credits.
+
+68
+00:05:07,000 --> 00:05:13,000
+Those credits are LTP credits, so local
+trade partner currency credits.
+
+69
+00:05:13,000 --> 00:05:16,000
+You get a statement every month from them
+like a bank saying, hey, here's how many
+
+70
+00:05:16,000 --> 00:05:19,000
+credits you have.
+
+71
+00:05:19,000 --> 00:05:23,000
+She gets that full value. It's pretty
+small up there, but her variable cost is
+
+72
+00:05:23,000 --> 00:05:27,000
+$3,000.
+
+73
+00:05:28,000 --> 00:05:31,000
+Come to find out a couple months later
+that year, whatever, she needs to get a
+
+74
+00:05:31,000 --> 00:05:34,000
+couple crowns in her head for teeth.
+
+75
+00:05:34,000 --> 00:05:37,000
+There's a lot of dentists on these
+things, honestly.
+
+76
+00:05:37,000 --> 00:05:40,000
+And so, she pays that dentist $4,500 in
+credits. That dentist gets the full
+
+77
+00:05:40,000 --> 00:05:43,000
+$4,500.
+
+78
+00:05:43,000 --> 00:05:48,000
+What she has to do in our local trade
+partner exchange is she has to pay 10% to
+
+79
+00:05:48,000 --> 00:05:53,000
+the local trade partner like organization.
+
+80
+00:05:53,000 --> 00:06:00,000
+So she pays 49.50 out of pocket or using
+her credits.
+
+81
+00:06:00,000 --> 00:06:03,000
+And so you're sort of thinking, well,
+that's just a swap, right? Like you're
+
+82
+00:06:03,000 --> 00:06:06,000
+swapping horses, nothing really happened
+for you there.
+
+83
+00:06:06,000 --> 00:06:11,000
+Well, if her variable cost was three
+grand and she just got $4,500 worth of new
+
+84
+00:06:11,000 --> 00:06:16,000
+teeth in her head, she actually made a 50%
+ROI.
+
+85
+00:06:16,000 --> 00:06:19,000
+And so we're gonna hammer that home a
+little bit in this. It's pretty common in
+
+86
+00:06:19,000 --> 00:06:22,000
+business.
+
+87
+00:06:22,000 --> 00:06:26,000
+Not a lot of people do it well, but it's
+variable costing.
+
+88
+00:06:26,000 --> 00:06:31,000
+You can have fixed costs. You always got
+to pay me. I always got to pay rent.
+
+89
+00:06:31,000 --> 00:06:36,000
+You always got to pay payroll unless you
+got guys on a really flexible schedule.
+
+90
+00:06:36,000 --> 00:06:41,000
+You got cars, you got equipment, but what
+was your actual variable costs?
+
+91
+00:06:41,000 --> 00:06:45,000
+So for her building a deck, she had a
+little bit of lumber, a little bit of
+
+92
+00:06:45,000 --> 00:06:49,000
+labor, and that's it.
+
+93
+00:06:49,000 --> 00:06:56,000
+So she was able to turn that $3,000 into
+$4,500 worth of teeth.
+
+94
+00:06:56,000 --> 00:07:01,000
+Do you have a question? Yeah.
+
+95
+00:07:01,000 --> 00:07:05,000
+Okay, yeah, variable. I use this Alice
+example sort of throughout and there's a
+
+96
+00:07:05,000 --> 00:07:09,000
+few others, but I try to carry this one
+throughout the thing.
+
+97
+00:07:10,000 --> 00:07:13,000
+And so, it's idle capacity arbitrage,
+right? So, Dev, perk up your ears. You
+
+98
+00:07:13,000 --> 00:07:16,000
+heard arbitrage.
+
+99
+00:07:16,000 --> 00:07:19,000
+How do I make money on this?
+
+100
+00:07:19,000 --> 00:07:22,000
+So, without barter, she has an idle crew
+and equipment that day that they were
+
+101
+00:07:22,000 --> 00:07:25,000
+building that deck. She didn't get the
+business.
+
+102
+00:07:26,000 --> 00:07:29,000
+You will once you're in these networks
+and you're established and you've sort of
+
+103
+00:07:29,000 --> 00:07:32,000
+like put your name out there you start
+getting business that you wouldn't
+
+104
+00:07:32,000 --> 00:07:35,000
+normally get because people have this sort
+of fake ROI you can create from you know
+
+105
+00:07:35,000 --> 00:07:38,000
+your own value.
+
+106
+00:07:41,000 --> 00:07:47,000
+So basically the dental work would cost
+her 4500 bucks out of pocket.
+
+107
+00:07:47,000 --> 00:07:52,000
+Like we said with barter 3000 variable
+cost she makes about 1500 bucks the
+
+108
+00:07:52,000 --> 00:07:57,000
+difference between the 3000 she spent to
+build that deck for somebody and what she
+
+109
+00:07:57,000 --> 00:08:02,000
+receives in value from the dentist.
+
+110
+00:08:02,000 --> 00:08:04,000
+So sort of think about like Airbnb with
+an empty room or a hotel with an empty
+
+111
+00:08:04,000 --> 00:08:06,000
+room, right?
+
+112
+00:08:06,000 --> 00:08:11,000
+Like what's that variable cost for them
+to book you one night? It's not a lot.
+
+113
+00:08:11,000 --> 00:08:15,000
+Or think about your mining rig with
+excess electricity, right?
+
+114
+00:08:15,000 --> 00:08:18,000
+Or you've paid off the cards so you're
+not worried about depreciating those cards
+
+115
+00:08:18,000 --> 00:08:21,000
+into the cost of the coin you're mining.
+
+116
+00:08:21,000 --> 00:08:26,000
+So this is, we talked about it a bit,
+about two and a half billion in the retail
+
+117
+00:08:26,000 --> 00:08:31,000
+barter exchange sector.
+
+118
+00:08:31,000 --> 00:08:38,000
+That's mainly, I'm looking at North
+America. There are definitely some in
+
+119
+00:08:38,000 --> 00:08:45,000
+Europe as well and Asia, about 400 across
+the globe.
+
+120
+00:08:46,000 --> 00:08:49,000
+This is, again, only about a 20% of the
+subset, and this is really the only one
+
+121
+00:08:49,000 --> 00:08:52,000
+that I would think anyone would focus on.
+
+122
+00:08:53,000 --> 00:08:56,000
+Geographic industry, we'll get to that.
+
+123
+00:08:56,000 --> 00:09:00,000
+What makes an ideal business for
+bartering high fixed costs or no fixed
+
+124
+00:09:00,000 --> 00:09:04,000
+costs? low marginal costs, perishable
+capacities.
+
+125
+00:09:05,000 --> 00:09:11,000
+I think a time constraint. Think of your
+hotel rooms, restaurant, your tables.
+
+126
+00:09:11,000 --> 00:09:16,000
+You can only have people eat that night
+and then it's gone till the next day.
+
+127
+00:09:16,000 --> 00:09:21,000
+Having excess capacity and being an
+independent owner.
+
+128
+00:09:21,000 --> 00:09:23,000
+So there's some ratios I put on here and
+whatnot. People can look at the slides
+
+129
+00:09:23,000 --> 00:09:25,000
+later.
+
+130
+00:09:26,000 --> 00:09:31,000
+A few of the things
+
+131
+00:09:31,000 --> 00:09:36,000
+This will be a little hard to see. Maybe
+it shows up pretty good.
+
+132
+00:09:36,000 --> 00:09:39,000
+Really your best options. I sort of went
+through these and sort of scored them out.
+
+133
+00:09:39,000 --> 00:09:42,000
+Your best ones are hotels, advertising
+media. I'd put programming in there as
+
+134
+00:09:42,000 --> 00:09:45,000
+well with advertising media.
+
+135
+00:09:46,000 --> 00:09:52,000
+Pet boarding, because if anyone's boarded
+their dog, right? No one's doing anything.
+
+136
+00:09:52,000 --> 00:09:55,000
+They're checking up like once a day or
+twice a day. Like, I mean, they're already
+
+137
+00:09:55,000 --> 00:09:58,000
+there checking other dogs.
+
+138
+00:09:59,000 --> 00:10:04,000
+Chiropractic, a lot of them are, they're
+already doing a lot of cash business.
+
+139
+00:10:04,000 --> 00:10:07,000
+So this is another way for them to sort
+of enhance it.
+
+140
+00:10:07,000 --> 00:10:11,000
+Legal services usually have to be solo.
+It's hard to do it as part of a bigger,
+
+141
+00:10:11,000 --> 00:10:15,000
+like, legal practice because billable
+hours and all that kind of crap.
+
+142
+00:10:16,000 --> 00:10:20,000
+Accounting if you're tax focused.
+
+143
+00:10:20,000 --> 00:10:22,000
+And then dental is a little harder. If
+you're an independent standalone, that's
+
+144
+00:10:22,000 --> 00:10:24,000
+great.
+
+145
+00:10:25,000 --> 00:10:30,000
+Like my cousin, he has his own dental
+practice for less like 25, 30 years.
+
+146
+00:10:30,000 --> 00:10:34,000
+If you're newer coming out of dental
+school, typically you start working for
+
+147
+00:10:34,000 --> 00:10:38,000
+somebody or a corporation that owns like
+multiple dental offices.
+
+148
+00:10:38,000 --> 00:10:41,000
+It's harder to break into it because the
+debt coming out of school and the
+
+149
+00:10:41,000 --> 00:10:44,000
+equipment cost same thing for
+veterinarians.
+
+150
+00:10:45,000 --> 00:10:48,000
+If they're independent, that's a good
+one.
+
+151
+00:10:48,000 --> 00:10:51,000
+So real world economics hotel. You have
+300 hotel rooms here in downtown Colorado
+
+152
+00:10:51,000 --> 00:10:54,000
+Springs.
+
+153
+00:10:55,000 --> 00:11:00,000
+federal government shut down so you're at
+least a third behind if you charge a
+
+154
+00:11:00,000 --> 00:11:05,000
+hundred bucks a night on those rooms you'd
+make fifteen thousand bucks actual causes
+
+155
+00:11:05,000 --> 00:11:10,000
+some cleaning supplies, maybe have to
+bring in one extra person to clean them,
+
+156
+00:11:10,000 --> 00:11:15,000
+two extra people.
+
+157
+00:11:17,000 --> 00:11:20,000
+And so that's, you can start looking at
+what your effective return is.
+
+158
+00:11:20,000 --> 00:11:25,000
+Again, that's another example, the sort
+of variable cost versus fixed costs.
+
+159
+00:11:25,000 --> 00:11:27,000
+They already had to pay electricity for
+the day, water bill, everything else to
+
+160
+00:11:27,000 --> 00:11:29,000
+maintain the hotel property.
+
+161
+00:11:30,000 --> 00:11:34,000
+But your variable cost in the hotel is
+truly only your cleaning staff and the
+
+162
+00:11:34,000 --> 00:11:38,000
+supplies they use to clean the room.
+
+163
+00:11:39,000 --> 00:11:47,000
+Deep dives. So the network operators, the
+people who run these barter exchanges,
+
+164
+00:11:47,000 --> 00:11:55,000
+they are a trusted intermediary.
+
+165
+00:11:55,000 --> 00:11:59,000
+So think of maybe like Rosen Bridge even,
+like in between a transaction, like you're
+
+166
+00:11:59,000 --> 00:12:03,000
+submitting it, you know, sort of you can
+see it.
+
+167
+00:12:03,000 --> 00:12:06,000
+They're a little bizarre. They're all
+over the map.
+
+168
+00:12:06,000 --> 00:12:14,000
+Some charge a sign up fee, the one I'm in
+is free, like no fees other than that 10%.
+
+169
+00:12:14,000 --> 00:12:18,000
+Some charge you a monthly fee in cash and
+currency.
+
+170
+00:12:18,000 --> 00:12:24,000
+Some charge anywhere from six to 15% on
+your spending.
+
+171
+00:12:24,000 --> 00:12:26,000
+Some charge you when you receive as well.
+
+172
+00:12:26,000 --> 00:12:29,000
+So I mean, it's like, they're all over
+the map on where they're taking your money
+
+173
+00:12:29,000 --> 00:12:32,000
+or taking the credits.
+
+174
+00:12:33,000 --> 00:12:40,000
+This one doesn't really matter.
+
+175
+00:12:40,000 --> 00:12:44,000
+So they have a dollar peg mechanism in
+theory. And I say in theory, ITEX, they
+
+176
+00:12:44,000 --> 00:12:48,000
+were a public company.
+
+177
+00:12:48,000 --> 00:12:51,000
+Again, they're the biggest one. They had
+a SEC fraud case right around the dot-com
+
+178
+00:12:51,000 --> 00:12:54,000
+bubble where they were inflating their
+revenues and sales to get everyone on
+
+179
+00:12:54,000 --> 00:12:57,000
+there.
+
+180
+00:12:57,000 --> 00:13:02,000
+And there was basically a flash crash.
+People went out of business, turned the
+
+181
+00:13:02,000 --> 00:13:07,000
+dot-coms, and there weren't enough credits
+to go around.
+
+182
+00:13:07,000 --> 00:13:12,000
+make it work. So they actually had SEC
+fine. They're no longer public.
+
+183
+00:13:12,000 --> 00:13:16,000
+They sort of took it private after that.
+
+184
+00:13:16,000 --> 00:13:20,000
+But it sort of goes to show you like, you
+know, danger of opacity, like we talked
+
+185
+00:13:20,000 --> 00:13:24,000
+about several times today already.
+
+186
+00:13:25,000 --> 00:13:28,000
+In fragmentation, so this sort of made me
+think of Rosen Bridge a bit, right?
+
+187
+00:13:28,000 --> 00:13:31,000
+Talking about your stranded value.
+
+188
+00:13:31,000 --> 00:13:33,000
+Alice is in the Ozarks. She has 50,000
+worth of credits built up over several
+
+189
+00:13:33,000 --> 00:13:35,000
+years.
+
+190
+00:13:36,000 --> 00:13:38,000
+She semi-retires and just shuts down the
+business, which not everyone always sells
+
+191
+00:13:38,000 --> 00:13:40,000
+their business.
+
+192
+00:13:41,000 --> 00:13:44,000
+It may just be her and one of the two
+other people and she just shuts it down.
+
+193
+00:13:44,000 --> 00:13:48,000
+She moves to New York, gets an itch,
+starts up a business there.
+
+194
+00:13:48,000 --> 00:13:52,000
+She can't really use any of those credits
+because you can't take a trade currency
+
+195
+00:13:52,000 --> 00:13:56,000
+dollar in the Ozarks.
+
+196
+00:13:56,000 --> 00:13:59,000
+No one in New York City gives a shit,
+right? Like they're not gonna give you any
+
+197
+00:13:59,000 --> 00:14:02,000
+money for it.
+
+198
+00:14:02,000 --> 00:14:06,000
+So you get stranded.
+
+199
+00:14:06,000 --> 00:14:11,000
+They will facilitate a little bit at this
+point, but that's a huge missing layer.
+
+200
+00:14:11,000 --> 00:14:16,000
+So these guys do a great job vetting
+members, bringing them on board, tax
+
+201
+00:14:16,000 --> 00:14:21,000
+reporting, dealing with issues between
+vendors on the exchange.
+
+202
+00:14:22,000 --> 00:14:25,000
+They're not interoperable across the
+different exchanges.
+
+203
+00:14:25,000 --> 00:14:32,000
+There is no transparent reserves, no
+capital efficiency, they won't lend you
+
+204
+00:14:32,000 --> 00:14:39,000
+money, you can't borrow credits, you can't
+lend your credits, and there's no neutral
+
+205
+00:14:39,000 --> 00:14:46,000
+settlement layer across the different
+exchanges.
+
+206
+00:14:48,000 --> 00:14:57,000
+Which is why I think this is a very good
+opportunity for the right people.
+
+207
+00:14:57,000 --> 00:15:02,000
+So there are two actual federated, if you
+want to call them bridges.
+
+208
+00:15:02,000 --> 00:15:08,000
+Barter Association National Currency.
+NAIT is the National Association of Trade
+
+209
+00:15:08,000 --> 00:15:14,000
+Exchanges.
+
+210
+00:15:14,000 --> 00:15:18,000
+You as a vendor on an exchange cannot use
+it. Your local exchange that you're part
+
+211
+00:15:18,000 --> 00:15:22,000
+of has to pay a fee.
+
+212
+00:15:23,000 --> 00:15:29,000
+Then they take some cut of your money
+going across to a new exchange.
+
+213
+00:15:29,000 --> 00:15:33,000
+They have to approve everything. There's
+a lot of horse swapping and a lot of phone
+
+214
+00:15:33,000 --> 00:15:37,000
+calls to get this thing done.
+
+215
+00:15:37,000 --> 00:15:42,000
+That one, they have to approve your
+exchange. Only 40 exchanges are in there.
+
+216
+00:15:42,000 --> 00:15:46,000
+There's over 200 exchanges across the US,
+so it's not that big.
+
+217
+00:15:46,000 --> 00:15:50,000
+They're basically the bigger ones working
+together, keeping the small guys out.
+
+218
+00:15:50,000 --> 00:15:54,000
+And then you have universal currency,
+which is bigger, the international, shoot,
+
+219
+00:15:54,000 --> 00:15:58,000
+I'm not going to remember, something in
+Trading Association, Retail Trading
+
+220
+00:15:58,000 --> 00:16:02,000
+Association, I think.
+
+221
+00:16:04,000 --> 00:16:09,000
+They have a hundred of the exchanges
+globally. They're a little bit larger.
+
+222
+00:16:09,000 --> 00:16:15,000
+They charge a quarter point on every
+dollar that flows through them across
+
+223
+00:16:15,000 --> 00:16:21,000
+these different networks, which isn't too
+bad.
+
+224
+00:16:21,000 --> 00:16:25,000
+To be a member of that trade organization
+is not hard. It's not like it's more of an
+
+225
+00:16:25,000 --> 00:16:29,000
+open option.
+
+226
+00:16:29,000 --> 00:16:31,000
+But there's several hundred that
+basically aren't connected anyway, shape
+
+227
+00:16:31,000 --> 00:16:33,000
+or form.
+
+228
+00:16:34,000 --> 00:16:37,000
+And they might be, but when I talked to
+my guys and said, hey, I'm coming out to
+
+229
+00:16:37,000 --> 00:16:40,000
+Colorado as an example, what if I had
+credits and I wanted to use them at a
+
+230
+00:16:40,000 --> 00:16:43,000
+hotel here, Airbnb, restaurant, whatever,
+book a restaurant for everybody, you know,
+
+231
+00:16:43,000 --> 00:16:46,000
+with some free credits I had.
+
+232
+00:16:48,000 --> 00:16:53,000
+And he was like, well, I'd have to make a
+lot of call, you know, like, it's always
+
+233
+00:16:53,000 --> 00:16:58,000
+like, yeah, it can be done, but it's not
+probably doable.
+
+234
+00:16:59,000 --> 00:17:01,000
+or very possible.
+
+235
+00:17:01,000 --> 00:17:07,000
+Ergo's value proposition or a project
+protocol on Ergo.
+
+236
+00:17:07,000 --> 00:17:12,000
+Economics, one million a volume cost 1%
+probably on the other exchanges on Ergo,
+
+237
+00:17:12,000 --> 00:17:17,000
+you know, it's a couple hundred bucks.
+
+238
+00:17:17,000 --> 00:17:21,000
+Access, you can make it permissionless.
+You could also make it permissioned, you
+
+239
+00:17:21,000 --> 00:17:25,000
+know, just to vet the exchanges that are
+coming on board.
+
+240
+00:17:26,000 --> 00:17:30,000
+Transparency would be there, privacy, we
+can use Sigma protocols, zero-knowledge
+
+241
+00:17:30,000 --> 00:17:34,000
+proofs, etc.
+
+242
+00:17:34,000 --> 00:17:36,000
+We'll get into that a little bit.
+
+243
+00:17:36,000 --> 00:17:41,000
+And you allow the networks to do what
+they do, what they're good at, right?
+
+244
+00:17:41,000 --> 00:17:44,000
+They're good at being the local person,
+holding everybody's hand and shaking hands
+
+245
+00:17:44,000 --> 00:17:47,000
+and kissing babies locally, and we can
+handle the actual settlement, moving
+
+246
+00:17:47,000 --> 00:17:50,000
+things around.
+
+247
+00:17:50,000 --> 00:17:53,000
+Being that kind of layer Again
+addressable market. I'm hitting this
+
+248
+00:17:53,000 --> 00:17:56,000
+again.
+
+249
+00:17:56,000 --> 00:18:04,000
+Just so you guys see it two point five
+billion And that's a that's globally but
+
+250
+00:18:04,000 --> 00:18:12,000
+probably 80% of that's North America
+Current exchange volume, it's not really
+
+251
+00:18:12,000 --> 00:18:20,000
+And I mean inner exchange volume it's not
+really published anywhere but in total.
+
+252
+00:18:20,000 --> 00:18:24,000
+So it's probably about 20 million. So
+maybe 20, 30 million out of 2.5 billion is
+
+253
+00:18:24,000 --> 00:18:28,000
+moving across these exchanges.
+
+254
+00:18:29,000 --> 00:18:33,000
+I'd say if you only got 10% of adoption,
+you're looking at a quarter billion moving
+
+255
+00:18:33,000 --> 00:18:37,000
+annually on Ergo.
+
+256
+00:18:37,000 --> 00:18:40,000
+And again, you don't have a lot of
+gatekeepers to overcome, and it's not
+
+257
+00:18:40,000 --> 00:18:43,000
+about replacing these exchanges.
+
+258
+00:18:43,000 --> 00:18:56,000
+I've sort of gone down that route. in
+real world assets.
+
+259
+00:18:56,000 --> 00:19:04,000
+Total volume on Ergo, I have no clue. I'm
+sorry.
+
+260
+00:19:04,000 --> 00:19:09,000
+Like, I mean, maybe half a million a day
+before the price is lower now.
+
+261
+00:19:09,000 --> 00:19:15,000
+So maybe like three, 400,000. Yeah,
+probably.
+
+262
+00:19:15,000 --> 00:19:17,000
+And it's not about replacing these
+exchanges, right? It's about connecting
+
+263
+00:19:17,000 --> 00:19:19,000
+them.
+
+264
+00:19:19,000 --> 00:19:22,000
+They're good at what they do. They are a
+value add for their members.
+
+265
+00:19:22,000 --> 00:19:25,000
+It's not like they're doing a shitty job
+necessarily.
+
+266
+00:19:25,000 --> 00:19:31,000
+It's that they don't really have the
+tooling to do what would even make it a
+
+267
+00:19:31,000 --> 00:19:37,000
+better tool for their members.
+
+268
+00:19:37,000 --> 00:19:43,000
+Programmability, privacy, you know,
+blockchain in general, efficiency,
+
+269
+00:19:43,000 --> 00:19:49,000
+sustainability, permissionless, you have
+security.
+
+270
+00:19:50,000 --> 00:19:56,000
+So multi-party settlement, escrow, I
+mean, Luca, MGPi, and NZ, who was the
+
+271
+00:19:56,000 --> 00:20:02,000
+other?
+
+272
+00:20:03,000 --> 00:20:05,000
+Yeah, it helped us with SigmaLock. We'll
+show you guys that a little bit later on
+
+273
+00:20:05,000 --> 00:20:07,000
+today.
+
+274
+00:20:08,000 --> 00:20:13,000
+But I mean, that's a pretty sweet little
+escrow or conditional logic that we have.
+
+275
+00:20:13,000 --> 00:20:17,000
+Be applicable here or something similar
+to that would be applicable here.
+
+276
+00:20:17,000 --> 00:20:20,000
+Why not other chains? And, you know,
+you'd see this if anybody else gave this
+
+277
+00:20:20,000 --> 00:20:23,000
+from Polkadot or Cardano or anything else.
+
+278
+00:20:24,000 --> 00:20:28,000
+But Bitcoin limited programmability,
+Ethereum, high fees.
+
+279
+00:20:28,000 --> 00:20:32,000
+How are you going to do small
+transactions? Unless you got a layer 2,
+
+280
+00:20:32,000 --> 00:20:36,000
+and then you got other issues there,
+possibly pre mind foundation control.
+
+281
+00:20:37,000 --> 00:20:39,000
+It's not really as neutral as you want it
+to be.
+
+282
+00:20:39,000 --> 00:20:43,000
+I think earlier we're talking about
+privacy and proofs on some of those
+
+283
+00:20:43,000 --> 00:20:47,000
+networks and are they really private.
+
+284
+00:20:47,000 --> 00:20:51,000
+If that's what they're pushing you
+towards.
+
+285
+00:20:51,000 --> 00:20:54,000
+permissioned chains that sort of put,
+like, proof of stake pretty much right
+
+286
+00:20:54,000 --> 00:20:57,000
+there.
+
+287
+00:20:58,000 --> 00:21:03,000
+You still have gatekeepers, network
+politics, and then most other L1s, I mean,
+
+288
+00:21:03,000 --> 00:21:08,000
+it's centralized, expensive, or their
+tokenomics aren't really sustainable.
+
+289
+00:21:09,000 --> 00:21:17,000
+Ergo, we know we're expressive on top of
+UTXO.
+
+290
+00:21:17,000 --> 00:21:19,000
+Perfect fit for if you're trying to move
+a thousand credits from this network to
+
+291
+00:21:19,000 --> 00:21:21,000
+that network.
+
+292
+00:21:22,000 --> 00:21:25,000
+And boxes can reference other boxes. I
+mean, I'm talking to devs, you guys know
+
+293
+00:21:25,000 --> 00:21:28,000
+this stuff.
+
+294
+00:21:28,000 --> 00:21:30,000
+It's not really, I'm giving you guys a
+whole lot of info here.
+
+295
+00:21:30,000 --> 00:21:36,000
+Sigma protocols have been noodling around
+with the opportunity of if you brought on
+
+296
+00:21:36,000 --> 00:21:42,000
+one of these exchanges, say the local
+trade partners in the Ozarks, their
+
+297
+00:21:42,000 --> 00:21:48,000
+software has API access.
+
+298
+00:21:48,000 --> 00:21:51,000
+You could prove credit history. You could
+prove collateral.
+
+299
+00:21:51,000 --> 00:21:55,000
+You could prove borrowing requirements
+for the actual individual vendors, right?
+
+300
+00:21:55,000 --> 00:21:58,000
+Some of that data can be fed in to a
+protocol. And we'll get to that in a
+
+301
+00:21:58,000 --> 00:22:01,000
+little bit.
+
+302
+00:22:01,000 --> 00:22:05,000
+I mean, there's some cool things you can
+do.
+
+303
+00:22:05,000 --> 00:22:10,000
+Storage rent, it sounds hokey, but I
+think demurrage is pretty cool.
+
+304
+00:22:10,000 --> 00:22:14,000
+Some of the more successful local
+currencies have had a attrition, like it
+
+305
+00:22:14,000 --> 00:22:18,000
+expires at some point in time, so you
+could just tell the exchange as part of
+
+306
+00:22:18,000 --> 00:22:22,000
+the deal.
+
+307
+00:22:22,000 --> 00:22:25,000
+This stuff's only going to be there for
+four years. Use it or lose it.
+
+308
+00:22:25,000 --> 00:22:29,000
+And that should actually be a motivating
+thing for the exchange because the vendors
+
+309
+00:22:29,000 --> 00:22:33,000
+will then use their exchange more.
+
+310
+00:22:33,000 --> 00:22:39,000
+They make more fees, et cetera, et
+cetera.
+
+311
+00:22:39,000 --> 00:22:43,000
+Transaction finality, two minutes for
+block time. It's a day for full lockdown
+
+312
+00:22:43,000 --> 00:22:47,000
+confirmation, but two minutes isn't a big
+deal.
+
+313
+00:22:48,000 --> 00:22:56,000
+Sub blocks is coming up, so it wouldn't
+even be a deal. Low fees, developer tools.
+
+314
+00:22:56,000 --> 00:23:05,000
+We have some of the existing frameworks
+or concepts that could be applied to this.
+
+315
+00:23:05,000 --> 00:23:10,000
+current isolated islands. So you got the
+ITEX network, the one that committed fraud
+
+316
+00:23:10,000 --> 00:23:15,000
+25 years ago, the one with mine in the
+Ozarks and the one here in Rocky Mountain.
+
+317
+00:23:16,000 --> 00:23:20,000
+If they're going to connect, they got to
+make phone calls, faxes, emails.
+
+318
+00:23:20,000 --> 00:23:22,000
+I mean, just old school crap, right, to
+get it done. I don't even know.
+
+319
+00:23:22,000 --> 00:23:27,000
+They might even be using mail still.
+
+320
+00:23:27,000 --> 00:23:30,000
+There's no liquidity moving across. And
+again, it's the whole stranded value, dead
+
+321
+00:23:30,000 --> 00:23:33,000
+capital.
+
+322
+00:23:33,000 --> 00:23:36,000
+Say you build up a lot of business, but
+you haven't been able to spend it yet.
+
+323
+00:23:36,000 --> 00:23:39,000
+You might have $30,000 worth of credits
+like Alice.
+
+324
+00:23:39,000 --> 00:23:41,000
+She has built a bunch of decks for
+people. Now she needs to wait till the
+
+325
+00:23:41,000 --> 00:23:43,000
+winter when she can actually do the
+maintenance on her equipment, buy new
+
+326
+00:23:43,000 --> 00:23:45,000
+equipment, whatever.
+
+327
+00:23:47,000 --> 00:23:52,000
+Future shared infrastructure. ITEX has
+5,000 members, the Ozarks have 500, the
+
+328
+00:23:52,000 --> 00:23:57,000
+one here locally has 100.
+
+329
+00:23:58,000 --> 00:24:04,000
+So now you've combined this and made it
+5,600 members with a settlement layer that
+
+330
+00:24:04,000 --> 00:24:10,000
+works and sort of feeds what they need.
+
+331
+00:24:11,000 --> 00:24:16,000
+Yeah, the real innovation is not
+technical. It is, don't get me wrong,
+
+332
+00:24:16,000 --> 00:24:21,000
+devs, but it's recognizing that the
+network is the value creator, not us.
+
+333
+00:24:21,000 --> 00:24:27,000
+They're not just rent-seeking shitty
+middlemen like Coinbase.
+
+334
+00:24:27,000 --> 00:24:31,000
+The blockchain is an infrastructure
+layer, right? It can be their account
+
+335
+00:24:31,000 --> 00:24:35,000
+ledger that's open, transparent,
+
+336
+00:24:35,000 --> 00:24:40,000
+Simple contracts are better than a
+complex bridge.
+
+337
+00:24:40,000 --> 00:24:50,000
+Not looking to build a replacement or
+some kind of super complex bridge.
+
+338
+00:24:50,000 --> 00:24:52,000
+It would all be settled on Ergo. You
+wouldn't have to like move across to
+
+339
+00:24:52,000 --> 00:24:54,000
+theorem and different stuff.
+
+340
+00:24:55,000 --> 00:24:57,000
+We could, because Rosen Bridge exists,
+but there would really be no need to do
+
+341
+00:24:57,000 --> 00:24:59,000
+that.
+
+342
+00:25:00,000 --> 00:25:02,000
+One of the discussions today about AVL
+trees and things like that, I mean you can
+
+343
+00:25:02,000 --> 00:25:04,000
+do some pretty neat stuff with their
+ledgers and just like keep augmenting
+
+344
+00:25:04,000 --> 00:25:06,000
+them.
+
+345
+00:25:08,000 --> 00:25:16,000
+Let me just unchain. Let me have an
+easily viewable what's happening.
+
+346
+00:25:16,000 --> 00:25:20,000
+So yeah, potential core innovations,
+cross network settlement bridge for them,
+
+347
+00:25:20,000 --> 00:25:24,000
+it would be a big thing.
+
+348
+00:25:24,000 --> 00:25:31,000
+So let's talk about Alice again. She
+needs some specialty wood for this deck.
+
+349
+00:25:31,000 --> 00:25:35,000
+She's building something for one of my
+clients and has like a $20 million house
+
+350
+00:25:35,000 --> 00:25:39,000
+that looks like an art museum.
+
+351
+00:25:40,000 --> 00:25:44,000
+He has really nice teak wood and he wants
+it Aspen. He wants to be able to tell all
+
+352
+00:25:44,000 --> 00:25:48,000
+his friends about it.
+
+353
+00:25:49,000 --> 00:25:52,000
+she could call Bob, and he's like, hey,
+I'm in a barter network.
+
+354
+00:25:52,000 --> 00:25:57,000
+She asks him, and then, you know, how do
+we make that happen?
+
+355
+00:25:57,000 --> 00:26:00,000
+And Bob's like, well, hell, I'm coming to
+those arcs. I'm going to Crystal Bridges.
+
+356
+00:26:00,000 --> 00:26:05,000
+It's the nicest art museum in the U.S.
+outside of New York or D.C. and has the
+
+357
+00:26:05,000 --> 00:26:10,000
+largest
+
+358
+00:26:10,000 --> 00:26:16,000
+Just for a little plug, the most American
+art in the world at one location.
+
+359
+00:26:16,000 --> 00:26:19,000
+In fact, that's what it's dedicated to
+and it has a Frank Lloyd Wright house that
+
+360
+00:26:19,000 --> 00:26:22,000
+they deconstructed reconstructed there.
+
+361
+00:26:22,000 --> 00:26:25,000
+It's pretty sweet. So he's going to go
+there. He's already planning on it.
+
+362
+00:26:25,000 --> 00:26:30,000
+So he's like, sweet. Yeah, I'll give you
+the wood, you give me the credits.
+
+363
+00:26:30,000 --> 00:26:37,000
+But how do we make that happen? Different
+networks, they're not operable.
+
+364
+00:26:37,000 --> 00:26:43,000
+That's where we come in or innovation
+would come in.
+
+365
+00:26:43,000 --> 00:26:48,000
+Same kind of things that we've talked
+about with SigmaLock or some of the other
+
+366
+00:26:48,000 --> 00:26:53,000
+staking locking protocols.
+
+367
+00:26:53,000 --> 00:26:55,000
+You know, if you don't accept, it's
+auto-refunded. If an oracle doesn't attest
+
+368
+00:26:55,000 --> 00:26:57,000
+to it, etc.
+
+369
+00:26:58,000 --> 00:27:05,000
+I mean, there's, you know, different
+things to fail safe this.
+
+370
+00:27:05,000 --> 00:27:09,000
+So Alice would initiate the request. It
+goes to Bob.
+
+371
+00:27:09,000 --> 00:27:13,000
+I mean, this looks like any, you know,
+cross network swap, nothing fancy to us,
+
+372
+00:27:13,000 --> 00:27:17,000
+but to them, it would allow them to
+actually do a business deal and get what
+
+373
+00:27:17,000 --> 00:27:21,000
+they wanted.
+
+374
+00:27:23,000 --> 00:27:31,000
+So it's pretty neat to me as more of a
+business guy, not a dev guy.
+
+375
+00:27:31,000 --> 00:27:37,000
+Lending and borrowing pools, think duck
+pools, think something similar.
+
+376
+00:27:37,000 --> 00:27:41,000
+Some of the staking you guys were talking
+about that sort of comes into this as
+
+377
+00:27:41,000 --> 00:27:45,000
+well.
+
+378
+00:27:45,000 --> 00:27:48,000
+right now I have not found a barter
+exchange out of the 2.5 billion of annual
+
+379
+00:27:48,000 --> 00:27:51,000
+volume.
+
+380
+00:27:52,000 --> 00:27:57,000
+I haven't found one that allows people to
+lend their barter credits to others.
+
+381
+00:27:57,000 --> 00:28:01,000
+Might happen, I don't know, but I haven't
+found it yet.
+
+382
+00:28:01,000 --> 00:28:04,000
+So I think that's a pretty, you know,
+neat, easy thing for Ergo to be able to
+
+383
+00:28:04,000 --> 00:28:07,000
+accomplish for these people.
+
+384
+00:28:07,000 --> 00:28:09,000
+Even if it's within your own network, I'm
+not talking about using Ozark credits to
+
+385
+00:28:09,000 --> 00:28:11,000
+get Rocky Mountain.
+
+386
+00:28:12,000 --> 00:28:16,000
+I'm just talking about, I got a bunch of
+credits I don't need right now, let
+
+387
+00:28:16,000 --> 00:28:20,000
+someone else get them for cheap or borrow
+them.
+
+388
+00:28:21,000 --> 00:28:24,000
+There's a scenario here, it's not really
+that important really, but it's Alice's
+
+389
+00:28:24,000 --> 00:28:27,000
+seasonal rights.
+
+390
+00:28:27,000 --> 00:28:31,000
+She builds up a lot of credits in the
+spring, summer, fall.
+
+391
+00:28:31,000 --> 00:28:34,000
+Then in the winter, she needs to spend
+credits because she's going to buy a new
+
+392
+00:28:34,000 --> 00:28:37,000
+vehicle or some new equipment, whatnot.
+
+393
+00:28:37,000 --> 00:28:40,000
+So in the summer, she has 40,000 idle
+credits just sitting there till the winter
+
+394
+00:28:40,000 --> 00:28:43,000
+when she can actually upgrade her
+equipment.
+
+395
+00:28:43,000 --> 00:28:46,000
+And that's sort of when she has time to
+work on the new equipment, get it all set
+
+396
+00:28:46,000 --> 00:28:49,000
+up ready for the next year.
+
+397
+00:28:50,000 --> 00:28:56,000
+With lending pools, she can put that out,
+let other people borrow it.
+
+398
+00:28:56,000 --> 00:28:59,000
+You can do something. I mean, similar
+duck pools just say, hey, it's a 3% or 4%
+
+399
+00:28:59,000 --> 00:29:02,000
+base.
+
+400
+00:29:02,000 --> 00:29:08,000
+And then it's based on utilization,
+right? Just put a utilization curve on it.
+
+401
+00:29:08,000 --> 00:29:11,000
+Nothing exotic. These are regular
+business people that have a bank account.
+
+402
+00:29:11,000 --> 00:29:13,000
+3% is nice.
+
+403
+00:29:13,000 --> 00:29:18,000
+There's a way for the protocol to capture
+value here because they're allowing that
+
+404
+00:29:18,000 --> 00:29:23,000
+to occur.
+
+405
+00:29:23,000 --> 00:29:29,000
+Then in the winter, she needs to get
+$25,000, $35,000 worth of stuff.
+
+406
+00:29:29,000 --> 00:29:34,000
+Then she can either borrow and just have
+like a two or three percent spread against
+
+407
+00:29:34,000 --> 00:29:39,000
+her borrowing costs versus her lending
+costs or cash in her credits.
+
+408
+00:29:39,000 --> 00:29:42,000
+I mean she may want a bigger truck next
+year so she's going to keep the credits
+
+409
+00:29:42,000 --> 00:29:45,000
+and just pay that marginal spread.
+
+410
+00:29:45,000 --> 00:29:48,000
+There's a lot of ways to look at it.
+
+411
+00:29:48,000 --> 00:29:52,000
+You can do some on-chain credit scoring.
+It seems like it's possible.
+
+412
+00:29:52,000 --> 00:29:58,000
+these exchanges. The one in central
+Arkansas where I'm at is, it's on AS400
+
+413
+00:29:58,000 --> 00:30:04,000
+and grain bar paper.
+
+414
+00:30:04,000 --> 00:30:08,000
+Like, I mean, you ain't getting nothing
+out of them.
+
+415
+00:30:08,000 --> 00:30:11,000
+The one up in the Ozarks, there is one
+platform. He continues to buy out other
+
+416
+00:30:11,000 --> 00:30:14,000
+platforms.
+
+417
+00:30:14,000 --> 00:30:22,000
+That is the software platform that powers
+these networks. He's good at what he does.
+
+418
+00:30:22,000 --> 00:30:26,000
+There's API access, things like that. So
+they have all the transaction volumes.
+
+419
+00:30:26,000 --> 00:30:31,000
+They know reliability of vendors, grading
+of the vendors.
+
+420
+00:30:31,000 --> 00:30:39,000
+Yeah, one guy. He's out in Boston. MGPi
+may need to go meet with him.
+
+421
+00:30:39,000 --> 00:30:41,000
+But yeah, I mean you could create a
+credit scoring, right?
+
+422
+00:30:41,000 --> 00:30:45,000
+Like off of the data that the network
+already has.
+
+423
+00:30:45,000 --> 00:30:48,000
+And think about if you're Alice trying to
+get wood from Bob and maybe you didn't
+
+424
+00:30:48,000 --> 00:30:51,000
+have enough credits, you could say, hey,
+let me give you an IOU, right?
+
+425
+00:30:52,000 --> 00:30:55,000
+Like, and he would accept your network
+IOU because he sees you have great credit
+
+426
+00:30:55,000 --> 00:30:58,000
+score and you're not welching on your
+bets, right?
+
+427
+00:30:59,000 --> 00:31:03,000
+Like you're a real person.
+
+428
+00:31:03,000 --> 00:31:06,000
+So yeah, a little bit about like the
+interest rate discovery.
+
+429
+00:31:06,000 --> 00:31:11,000
+This isn't new to anybody who's used duck
+pools or a lot of the other lending
+
+430
+00:31:11,000 --> 00:31:16,000
+protocols that exist now, but just a
+utilization based.
+
+431
+00:31:17,000 --> 00:31:21,000
+For example, my line of credit at my bank
+is 7.75%.
+
+432
+00:31:21,000 --> 00:31:23,000
+So I mean, 8%, hell, I'd borrow all day
+on that. Like that wouldn't bother me at
+
+433
+00:31:23,000 --> 00:31:25,000
+all.
+
+434
+00:31:26,000 --> 00:31:28,000
+If I could get credits and I knew I was
+going to earn some more that year and pay
+
+435
+00:31:28,000 --> 00:31:30,000
+them off, that's no big deal.
+
+436
+00:31:31,000 --> 00:31:35,000
+14%, 20% might be a little iffy, but what
+it does is as those rates get higher,
+
+437
+00:31:35,000 --> 00:31:39,000
+people add more to the pool like you guys
+have seen with duck pools, and then it
+
+438
+00:31:39,000 --> 00:31:43,000
+starts pushing the interest rate down
+until borrowers go back up.
+
+439
+00:31:43,000 --> 00:31:46,000
+You just hit that equilibrium.
+
+440
+00:31:46,000 --> 00:31:50,000
+Decentralize lending pool mechanics. You
+guys know the drill if you've used duck
+
+441
+00:31:50,000 --> 00:31:54,000
+pools.
+
+442
+00:31:55,000 --> 00:31:58,000
+But think if you're the hotel. I mean,
+you can just start making extra money on
+
+443
+00:31:58,000 --> 00:32:01,000
+this, right?
+
+444
+00:32:01,000 --> 00:32:04,000
+If you're an independent hotel or
+independent franchise is allowed to do it.
+
+445
+00:32:04,000 --> 00:32:08,000
+Say you're the landscape guy that's
+starting up your own company and you don't
+
+446
+00:32:08,000 --> 00:32:12,000
+have all the equipment you need, you can
+go out and now borrow money in the network
+
+447
+00:32:12,000 --> 00:32:16,000
+and then go to the Toro dealer that's in
+the network and get your equipment.
+
+448
+00:32:17,000 --> 00:32:21,000
+And again, the local barter exchange is
+happy about this because you just created
+
+449
+00:32:21,000 --> 00:32:25,000
+more volume for them to pocket 10% or 15%
+or whatever it is, and they have more
+
+450
+00:32:25,000 --> 00:32:29,000
+members.
+
+451
+00:32:31,000 --> 00:32:38,000
+Provable reserves, like a centralized
+exchange, you don't know.
+
+452
+00:32:38,000 --> 00:32:44,000
+And some of these have gone under. So you
+could build up credits in one of these.
+
+453
+00:32:44,000 --> 00:32:48,000
+And again, you don't get paid cash,
+right? So if I do work under this
+
+454
+00:32:48,000 --> 00:32:52,000
+exchange, I get no cash.
+
+455
+00:32:53,000 --> 00:32:59,000
+It's all in these trade credits. But this
+trade organization goes out of business.
+
+456
+00:32:59,000 --> 00:33:01,000
+I effectively just did work for worse
+than free. I paid materials into it too,
+
+457
+00:33:01,000 --> 00:33:03,000
+right?
+
+458
+00:33:04,000 --> 00:33:06,000
+Like not just time and effort, like not
+just the variable cost, but everything's
+
+459
+00:33:06,000 --> 00:33:08,000
+gone.
+
+460
+00:33:08,000 --> 00:33:13,000
+So, you could do, you know, again,
+provable reserves, you know, that
+
+461
+00:33:13,000 --> 00:33:18,000
+everything balances out in these things.
+
+462
+00:33:19,000 --> 00:33:22,000
+You'd have a dashboard, pretty simple. I
+mean, in theory, right? Some UX issues
+
+463
+00:33:22,000 --> 00:33:25,000
+there, but.
+
+464
+00:33:26,000 --> 00:33:30,000
+There's a fraud case. It's impossible to
+inflate reserves if it's actually there on
+
+465
+00:33:30,000 --> 00:33:34,000
+chain.
+
+466
+00:33:35,000 --> 00:33:37,000
+This would help people if they want to
+join the network or trade with the
+
+467
+00:33:37,000 --> 00:33:39,000
+network.
+
+468
+00:33:39,000 --> 00:33:42,000
+You may not want to send your credits to
+the Rocky Mountain Network because it
+
+469
+00:33:42,000 --> 00:33:45,000
+looks a little dodgy or they're not that
+well collateralized.
+
+470
+00:33:45,000 --> 00:33:49,000
+There's more on one side than the other
+just because of the imbalance that's
+
+471
+00:33:49,000 --> 00:33:53,000
+occurring.
+
+472
+00:33:53,000 --> 00:34:00,000
+Oracle problems, like always, right?
+Reputation, time delay, et cetera.
+
+473
+00:34:00,000 --> 00:34:06,000
+Scalability, user experience. I mean, all
+these things, I think, are pretty simple
+
+474
+00:34:06,000 --> 00:34:12,000
+to do, but with the right tools and the
+right people.
+
+475
+00:34:12,000 --> 00:34:20,000
+Regulatory. I haven't looked into this
+all the way. I don't think that.
+
+476
+00:34:20,000 --> 00:34:23,000
+They already do this, right? So like my
+exchange and the Ozarks will send money to
+
+477
+00:34:23,000 --> 00:34:26,000
+another one.
+
+478
+00:34:27,000 --> 00:34:30,000
+I don't think that there's a money
+transmission license to deal with or
+
+479
+00:34:30,000 --> 00:34:33,000
+anything like that, or they already have
+that sorted out themselves.
+
+480
+00:34:34,000 --> 00:34:38,000
+I don't think it really adds a whole lot
+of tax reporting complexity.
+
+481
+00:34:38,000 --> 00:34:48,000
+The only thing it would add is 1099 INT
+for interest earned on the old lending.
+
+482
+00:34:48,000 --> 00:34:50,000
+Yeah, and it's in the order of getting a
+1099 B.
+
+483
+00:34:50,000 --> 00:34:54,000
+So, I mean, you're just giving them one
+more data point to give to these people to
+
+484
+00:34:54,000 --> 00:34:58,000
+show that you earned interest on your
+credits.
+
+485
+00:34:58,000 --> 00:35:00,000
+Yeah, the bigger issue is adoption,
+right? It's always a chicken and egg
+
+486
+00:35:00,000 --> 00:35:02,000
+thing.
+
+487
+00:35:03,000 --> 00:35:06,000
+And so I think it would be starting with
+a couple smaller ones that are accessible
+
+488
+00:35:06,000 --> 00:35:09,000
+and progressive and then going from there.
+
+489
+00:35:10,000 --> 00:35:39,000
+Yes.
+
+490
+00:35:39,000 --> 00:35:44,000
+Yeah, so the question was about
+algorithmic stablecoins and if it's
+
+491
+00:35:44,000 --> 00:35:49,000
+pegging to that, I'm not saying peg it to
+the algorithmic stablecoin.
+
+492
+00:35:49,000 --> 00:35:53,000
+Yeah, if you had local trade partner
+credits or dollars and then you had one
+
+493
+00:35:53,000 --> 00:35:57,000
+from New York or one from wherever, it's
+still in that currency.
+
+494
+00:35:57,000 --> 00:36:02,000
+You're not co-mingling those pools per
+se, right? So like you would set up a
+
+495
+00:36:02,000 --> 00:36:07,000
+lending pool for each of those networks.
+
+496
+00:36:07,000 --> 00:36:11,000
+And then you would give them the ability
+to borrow in that network because you want
+
+497
+00:36:11,000 --> 00:36:15,000
+to buy Aspen wood from the guy right down
+the street or from Joe and tell him to go
+
+498
+00:36:15,000 --> 00:36:19,000
+log a couple off his property.
+
+499
+00:36:20,000 --> 00:36:43,000
+You know, I mean, it's that's sort of the
+way it would go.
+
+500
+00:36:43,000 --> 00:36:48,000
+Yeah. Yeah. So that's why everyone should
+want to do it.
+
+501
+00:36:48,000 --> 00:36:51,000
+Because you can, as the vendor, you can
+become your own bank or at least partially
+
+502
+00:36:51,000 --> 00:36:54,000
+your own bank, right?
+
+503
+00:36:54,000 --> 00:36:59,000
+So like you can now pay. I had this
+concept in grad school.
+
+504
+00:36:59,000 --> 00:37:02,000
+So I used to audit a couple companies
+that were small. like they did fishing
+
+505
+00:37:02,000 --> 00:37:05,000
+lures.
+
+506
+00:37:06,000 --> 00:37:09,000
+And then another one that was in Walmart,
+right? And they blew up and Walmart blows
+
+507
+00:37:09,000 --> 00:37:12,000
+you up to a certain size, like 20, 30
+million in sales.
+
+508
+00:37:13,000 --> 00:37:16,000
+And you're like, woo. And then you have
+to go out and get a $20 million loan to
+
+509
+00:37:16,000 --> 00:37:19,000
+sustain that.
+
+510
+00:37:20,000 --> 00:37:22,000
+And then once they know you got that
+loan, three months later, they come to you
+
+511
+00:37:22,000 --> 00:37:24,000
+and go, you know, I think I'm gonna have
+to pay about 50 cents on the dollar, what
+
+512
+00:37:24,000 --> 00:37:26,000
+I used to pay you.
+
+513
+00:37:28,000 --> 00:37:31,000
+And like, they just sort of get you
+squeezed in. And then on top of that, they
+
+514
+00:37:31,000 --> 00:37:34,000
+pay you at 120 days.
+
+515
+00:37:34,000 --> 00:37:37,000
+So it's like they're screwing you every
+different way.
+
+516
+00:37:37,000 --> 00:37:42,000
+But now you can add a concept in grad
+school that if Walmart actually became a
+
+517
+00:37:42,000 --> 00:37:47,000
+lender to their vendors, they'd make more
+money than what they're doing now by
+
+518
+00:37:47,000 --> 00:37:52,000
+squeezing everyone for 120 day terms.
+
+519
+00:37:52,000 --> 00:37:55,000
+No, it would work like economically it
+should work.
+
+520
+00:37:55,000 --> 00:37:59,000
+So I think this could actually create a
+bigger alternative economy when the
+
+521
+00:37:59,000 --> 00:38:03,000
+business can become partially their own
+line of credit, right?
+
+522
+00:38:04,000 --> 00:38:10,000
+Like you have free credits or you've
+earned credits that now you can lend out.
+
+523
+00:38:10,000 --> 00:38:14,000
+So anyway,
+
+524
+00:38:14,000 --> 00:38:18,000
+You know, struggling business most eager
+to borrow that gets back to the vetting on
+
+525
+00:38:18,000 --> 00:38:22,000
+the front end from the network and the
+transaction history they already have on
+
+526
+00:38:22,000 --> 00:38:26,000
+these people and sort of bringing that on
+chain so that I talked about the
+
+527
+00:38:26,000 --> 00:38:30,000
+equilibrium, but you can also put
+penalties, right?
+
+528
+00:38:33,000 --> 00:38:35,000
+Like give them a credit score. And if
+your credit score is bad or you're new,
+
+529
+00:38:35,000 --> 00:38:37,000
+you have a bad credit score, right?
+
+530
+00:38:38,000 --> 00:38:40,000
+When you're 17, 18, 19, you don't have a
+good credit score because you haven't
+
+531
+00:38:40,000 --> 00:38:42,000
+built up credit, right?
+
+532
+00:38:43,000 --> 00:38:48,000
+In theory. And so they could have to pay
+an extra 5% or 10% or whatever, right?
+
+533
+00:38:48,000 --> 00:38:54,000
+To get the credits.
+
+534
+00:38:54,000 --> 00:39:00,000
+That's sort of the presentation. So yeah,
+they're already operating peer to peer.
+
+535
+00:39:00,000 --> 00:39:23,000
+So yeah, any other questions? I have a
+bunch of just random stuff back here.
+
+536
+00:39:23,000 --> 00:39:39,000
+Well, no. Yes. So the question is, do you
+need a credit score? Yeah.
+
+537
+00:39:39,000 --> 00:39:41,000
+Well, so what I looked at was
+collateralized, right? Because we're
+
+538
+00:39:41,000 --> 00:39:43,000
+familiar with duck pools.
+
+539
+00:39:43,000 --> 00:39:46,000
+If it's more traditional, like bank-based
+on credit scores, then you could hybrid
+
+540
+00:39:46,000 --> 00:39:49,000
+it, right?
+
+541
+00:39:50,000 --> 00:39:54,000
+And they might even be able to onboard
+more businesses to the network because now
+
+542
+00:39:54,000 --> 00:39:58,000
+you can borrow at a better rate to get
+equipment from the Toro dealer or the Ford
+
+543
+00:39:58,000 --> 00:40:02,000
+truck dealer, whatever, right?
+
+544
+00:40:02,000 --> 00:40:09,000
+Like it sort of makes that network even
+more powerful in my opinion.
+
+545
+00:40:09,000 --> 00:40:42,000
+But yeah, that's the whole thing. Go
+ahead, Chris.
+
+546
+00:40:42,000 --> 00:40:49,000
+So, yeah, so the question is, like, does
+tokenizing the credits, like, add a new
+
+547
+00:40:49,000 --> 00:40:56,000
+tax layer for the vendor like Alice or Bob
+that we were talking about?
+
+548
+00:40:57,000 --> 00:41:05,000
+So, I would look at it more like one, I
+could be wrong, and I'm wrong every day
+
+549
+00:41:05,000 --> 00:41:13,000
+very often, but I think if you're
+providing this service, right, if Alice
+
+550
+00:41:13,000 --> 00:41:21,000
+builds up 40,000 credits,
+
+551
+00:41:21,000 --> 00:41:25,000
+she's getting like say she gets paid 40
+000 that year for building decks she's
+
+552
+00:41:25,000 --> 00:41:29,000
+getting a 1099b from the local trade
+partners that you file that 1099b on your
+
+553
+00:41:29,000 --> 00:41:33,000
+tax return business tax return or personal
+just however you're set up as a
+
+554
+00:41:33,000 --> 00:41:37,000
+corporation that flows through is 40 000
+of income
+
+555
+00:41:39,000 --> 00:41:43,000
+Because you have your normal expenses,
+you're paying out and Fiat, right?
+
+556
+00:41:43,000 --> 00:41:47,000
+So, like, it's already there. It's just
+like a receipt.
+
+557
+00:41:47,000 --> 00:41:51,000
+And so the only thing I'm looking at is
+the interest you would be earning would
+
+558
+00:41:51,000 --> 00:41:55,000
+then generate a 1099.
+
+559
+00:41:55,000 --> 00:41:58,000
+Right? Like, you get from a bank showing.
+we paid you 0.02% interest this year on
+
+560
+00:41:58,000 --> 00:42:01,000
+your cash.
+
+561
+00:42:01,000 --> 00:42:05,000
+Thanks for parking all your money with
+Bank of America."
+
+562
+00:42:05,000 --> 00:42:11,000
+So it would be that kind of thing. I'm
+not looking at it where Alice necessarily
+
+563
+00:42:11,000 --> 00:42:17,000
+has, and this is going to sound funny, I'm
+not looking at it per se where Alice has
+
+564
+00:42:17,000 --> 00:42:23,000
+an Ergo wallet and she has these local
+trade partner credit tokens in her wallet.
+
+565
+00:42:24,000 --> 00:42:28,000
+were the settlement layer for it.
+
+566
+00:42:28,000 --> 00:42:30,000
+I'm not sure if you wouldn't just reskin
+Nautilus to where that's all they see is
+
+567
+00:42:30,000 --> 00:42:32,000
+like their one thing.
+
+568
+00:42:33,000 --> 00:42:38,000
+Like I mean just make it its own silo or
+even maybe do a side chain for all this. I
+
+569
+00:42:38,000 --> 00:42:43,000
+don't know per se.
+
+570
+00:42:43,000 --> 00:42:52,000
+Well and you would also send out a what's
+the one we would also need to send out or
+
+571
+00:42:52,000 --> 00:43:01,000
+we would provide the information to the
+local exchange network so that they could.
+
+572
+00:43:01,000 --> 00:43:09,000
+Give you. The 1099 and maybe 1098 like on
+like your home loan.
+
+573
+00:43:09,000 --> 00:43:12,000
+This shows the interest you paid, but
+it'd be like a interest expense, right?
+
+574
+00:43:12,000 --> 00:43:15,000
+Like they need to be able to put that on
+their tax return. Like, hey, I borrowed
+
+575
+00:43:15,000 --> 00:43:18,000
+money and I paid a thousand dollars,
+right?
+
+576
+00:43:19,000 --> 00:43:39,000
+Like they need to be able to put that on
+their return.
+
+577
+00:43:39,000 --> 00:43:46,000
+This one. Yeah, we're like, she profits.
+So yeah, so it's sort of convoluted.
+
+578
+00:43:46,000 --> 00:43:49,000
+It's a good example and it's not right
+because you're trying to show business and
+
+579
+00:43:49,000 --> 00:43:52,000
+I showed her get like teeth.
+
+580
+00:43:52,000 --> 00:43:58,000
+Let's say she bought a, I don't know,
+auger attachment for a skid steer, you
+
+581
+00:43:58,000 --> 00:44:04,000
+know, so she can put in deck poles, right?
+
+582
+00:44:04,000 --> 00:44:09,000
+Like, I mean, so she can drive them.
+
+583
+00:44:09,000 --> 00:44:11,000
+Yeah, well, in the auger bit, you know, I
+mean, it's several grand, but it depends
+
+584
+00:44:11,000 --> 00:44:13,000
+on if you got it new or used.
+
+585
+00:44:14,000 --> 00:44:20,000
+But so that five grand, she gets
+something that is reported to the IRS, and
+
+586
+00:44:20,000 --> 00:44:26,000
+then she reports the IRS on her business
+tax form that she made $5,000 in income.
+
+587
+00:44:27,000 --> 00:44:30,000
+It's just like normal income.
+
+588
+00:44:30,000 --> 00:44:34,000
+The expense would then be, she keeps
+record, like she's getting an invoice,
+
+589
+00:44:34,000 --> 00:44:38,000
+you're still getting an invoice showing
+payment, right?
+
+590
+00:44:38,000 --> 00:44:43,000
+It's just that it got settled in this
+non-fiat currency.
+
+591
+00:44:43,000 --> 00:44:46,000
+And then the extra 10% that she pays the
+network, they report something to her
+
+592
+00:44:46,000 --> 00:44:49,000
+showing that she paid that fee as well.
+
+593
+00:44:50,000 --> 00:45:02,000
+So that's also a business deduction.
+
+594
+00:45:02,000 --> 00:45:05,000
+No, she built a deck, right? So, she went
+out and built a deck for someone, got
+
+595
+00:45:05,000 --> 00:45:08,000
+$5,000.
+
+596
+00:45:08,000 --> 00:45:11,000
+She gives them an invoice. They pay her
+$5,000 in credits.
+
+597
+00:45:11,000 --> 00:45:57,000
+They have the invoice to show that they
+paid that expense, right?
+
+598
+00:45:57,000 --> 00:46:01,000
+So the question is, if banks are already
+getting affected by it, does it... How do
+
+599
+00:46:01,000 --> 00:46:05,000
+I say this? Clearly.
+
+600
+00:46:06,000 --> 00:46:10,000
+Are they going to take notice and, you
+know, is anything we're doing affecting a
+
+601
+00:46:10,000 --> 00:46:14,000
+bank?
+
+602
+00:46:15,000 --> 00:46:19,000
+Yeah. If this thing grows because of
+this, like, because it becomes more
+
+603
+00:46:19,000 --> 00:46:23,000
+attractive to businesses, small and medium
+businesses to do this,
+
+604
+00:46:23,000 --> 00:46:27,000
+Does it affect banks? Possibly. I don't
+know. I mean, my family friend that owns
+
+605
+00:46:27,000 --> 00:46:31,000
+it, I mean, I don't know, it's like a 50
+branch bank.
+
+606
+00:46:32,000 --> 00:46:36,000
+He doesn't give a shit about $2 billion.
+I mean, like it's not all in his network.
+
+607
+00:46:36,000 --> 00:46:38,000
+Like it's spread across so many banks,
+they don't know they're not getting it
+
+608
+00:46:38,000 --> 00:46:40,000
+right now.
+
+609
+00:46:41,000 --> 00:46:52,000
+I mean, honestly, $2 billion is nothing
+to banking system. Like it's nothing.
+
+610
+00:46:52,000 --> 00:46:55,000
+Yeah, and you said, so what's holding
+back this concept?
+
+611
+00:46:55,000 --> 00:47:00,000
+A lot of people, I think Joe may have
+said it, someone else may have said it as
+
+612
+00:47:00,000 --> 00:47:05,000
+well, people are sort of inherently lazy,
+right?
+
+613
+00:47:05,000 --> 00:47:08,000
+This takes a little bit extra hustle,
+right?
+
+614
+00:47:08,000 --> 00:47:10,000
+One, it takes you, if you're a barter
+member to say, hey, can I pay you in
+
+615
+00:47:10,000 --> 00:47:12,000
+barter bucks, right?
+
+616
+00:47:13,000 --> 00:47:18,000
+And most people feel uncomfortable trying
+to do something like that or hustle or
+
+617
+00:47:18,000 --> 00:47:23,000
+You know, whatever it's something else to
+have to deal with.
+
+618
+00:47:23,000 --> 00:47:27,000
+And and yeah, so if I do a project and
+make like. 810 grand and some guys
+
+619
+00:47:27,000 --> 00:47:31,000
+backyard doing this project for them.
+
+620
+00:47:32,000 --> 00:47:36,000
+How long am I going to sit on that 10
+grand? Like, I better have very low fixed
+
+621
+00:47:36,000 --> 00:47:40,000
+costs and very low variable costs because
+I might be sitting on that 10 grand for a
+
+622
+00:47:40,000 --> 00:47:44,000
+while before I can use it all.
+
+623
+00:47:44,000 --> 00:47:48,000
+And that's what I think this, to me, it's
+a fungibility, like you said, and I think
+
+624
+00:47:48,000 --> 00:47:52,000
+it's also a network effect issue.
+
+625
+00:47:53,000 --> 00:47:57,000
+I mean, none of them have scale, right?
+So, I mean, there's always that network
+
+626
+00:47:57,000 --> 00:48:01,000
+effect they've done really good so like.
+
+627
+00:48:01,000 --> 00:48:04,000
+Colorado Springs you guys have been
+around here a bit, but it's like 750 like
+
+628
+00:48:04,000 --> 00:48:07,000
+MSA, maybe a million like it's a good size
+population.
+
+629
+00:48:08,000 --> 00:48:11,000
+Northwest Arkansas fastest growing. MSA
+in the country for multiple years now in a
+
+630
+00:48:11,000 --> 00:48:14,000
+row.
+
+631
+00:48:15,000 --> 00:48:19,000
+Yeah, it's about 750 K now when I was,
+you know, like 20 30 years ago, there's
+
+632
+00:48:19,000 --> 00:48:23,000
+maybe like 250 people.
+
+633
+00:48:23,000 --> 00:48:30,000
+Yeah, 250,000 people. So it's
+
+634
+00:48:30,000 --> 00:48:38,000
+If they have about 750,000 in their MSA,
+Metropolitan Statistic Association, or
+
+635
+00:48:38,000 --> 00:48:46,000
+area, and they're doing 10 million a year,
+those guys are hustling.
+
+636
+00:48:47,000 --> 00:48:50,000
+But they're hustling because you saw
+they're making 10 percent, right?
+
+637
+00:48:50,000 --> 00:48:53,000
+So that's like three people. One of
+them's the secretary, one of them's the
+
+638
+00:48:53,000 --> 00:48:56,000
+owner, one of them's this business dev guy
+splitting a million bucks a year.
+
+639
+00:48:57,000 --> 00:48:59,000
+That's pretty good coin, right?
+
+640
+00:48:59,000 --> 00:49:01,000
+And I'm not saying replace those guys.
+They should be getting paid that if
+
+641
+00:49:01,000 --> 00:49:03,000
+they're hustling that hard.
+
+642
+00:49:04,000 --> 00:49:11,000
+The guys in Rocky Mountain are doing half
+a million a year. Good.
+
+643
+00:49:11,000 --> 00:49:14,000
+I mean, I think the lending pools is a
+big thing. I think there's a, you know,
+
+644
+00:49:14,000 --> 00:49:17,000
+the cross network thing is pretty huge.
+
+645
+00:49:18,000 --> 00:49:22,000
+Making that available, but that's a
+chicken egg thing. I think the end network
+
+646
+00:49:22,000 --> 00:49:26,000
+lending, I think, is the biggest.
+
+647
+00:49:26,000 --> 00:49:31,000
+And I believe why it's also a hurdle is
+the software that exists could easily do
+
+648
+00:49:31,000 --> 00:49:36,000
+this as well, right?
+
+649
+00:49:37,000 --> 00:49:40,000
+This isn't hard, it's a ledger. I mean,
+not being nasty to blockchain or Ergo, but
+
+650
+00:49:40,000 --> 00:49:43,000
+it's a ledger, right?
+
+651
+00:49:43,000 --> 00:49:48,000
+The software is already keeping a ledger,
+doing their 1099s.
+
+652
+00:49:48,000 --> 00:50:03,000
+it's not it's not it's not clear and
+transparent right so like why would I lend
+
+653
+00:50:03,000 --> 00:50:18,000
+my bucks out of my account on this network
+when I can't see where they're going or
+
+654
+00:50:18,000 --> 00:50:33,000
+anything else right so I mean I think
+that's where blockchain trumps the
+
+655
+00:50:33,000 --> 00:50:48,000
+federated or you know closed system yeah
+
+656
+00:50:48,000 --> 00:50:51,000
+I haven't I haven't right like this sort
+of been the back of my head for a while
+
+657
+00:50:51,000 --> 00:50:54,000
+and I sort of spit it out the last couple
+of days.
+
+658
+00:50:54,000 --> 00:51:01,000
+What are you guys raising your hands here
+in the front row? No? Okay.
+
+659
+00:51:01,000 --> 00:51:06,000
+We'll pay in FAKU. That'll get every dev
+running.
+
+660
+00:51:06,000 --> 00:51:09,000
+Yeah, so the question from Chris was
+like, you know, what would it take to
+
+661
+00:51:09,000 --> 00:51:12,000
+attract a dev to do this?
+
+662
+00:51:13,000 --> 00:51:20,000
+I honestly, I don't know. I don't truly
+know how complex this is.
+
+663
+00:51:20,000 --> 00:51:23,000
+At the end of the day, I think it is
+more, and that's why I said it's a non-dev
+
+664
+00:51:23,000 --> 00:51:26,000
+dev thing.
+
+665
+00:51:27,000 --> 00:51:30,000
+I think it's more getting the first
+couple exchanges on board with giving you
+
+666
+00:51:30,000 --> 00:51:33,000
+the data, right?
+
+667
+00:51:34,000 --> 00:51:38,000
+Giving you the API access to the data or
+whatever the output from their system to
+
+668
+00:51:38,000 --> 00:51:42,000
+get that data.
+
+669
+00:51:42,000 --> 00:51:46,000
+And then what can you do with it?
+
+670
+00:51:46,000 --> 00:51:52,000
+With the lending pools, I think, one,
+two, three, four, five, six, Seven I think
+
+671
+00:51:52,000 --> 00:51:58,000
+there's seven devs in here that whole side
+of the room actually I think any of them
+
+672
+00:51:58,000 --> 00:52:04,000
+could take duck pools and modify it for
+this.
+
+673
+00:52:05,000 --> 00:52:12,000
+I mean or find a way to modify it for
+this And so, you know, I mean if you
+
+674
+00:52:12,000 --> 00:52:19,000
+started with that as a proof of concept
+right just the lending pool
+
+675
+00:52:19,000 --> 00:52:22,000
+So, I mean, I think, again, to Joe's
+earlier point today of we strive for open
+
+676
+00:52:22,000 --> 00:52:25,000
+protocols for a reason.
+
+677
+00:52:26,000 --> 00:52:28,000
+I think this is a good bolt-on reason. I
+mean, it's sort of segued into what I was
+
+678
+00:52:28,000 --> 00:52:30,000
+talking about.
+
+679
+00:52:30,000 --> 00:52:34,000
+But, I mean, I think anybody in here that
+I'm looking at that's devs on this side,
+
+680
+00:52:34,000 --> 00:52:38,000
+they're all way more talented than
+anything I would come up with or even want
+
+681
+00:52:38,000 --> 00:52:42,000
+to teach someone, you know.
+
+682
+00:52:42,000 --> 00:52:46,000
+I mean, they can modify that stuff. It's
+there.
+
+683
+00:52:46,000 --> 00:52:48,000
+I mean, some of the back end maybe isn't
+or, you know, some of the front end stuff
+
+684
+00:52:48,000 --> 00:52:50,000
+we'd have to develop.
+
+685
+00:52:51,000 --> 00:53:54,000
+But I mean, some of it's sort of there in
+a way.
+
+686
+00:53:54,000 --> 00:53:57,000
+Yeah, so that's a good question. So what
+is the what piece of the pie is for the
+
+687
+00:53:57,000 --> 00:54:00,000
+dev?
+
+688
+00:54:00,000 --> 00:54:04,000
+The existing software that I said, like
+several the more modern exchanges or ones
+
+689
+00:54:04,000 --> 00:54:08,000
+that have decent websites and whatnot.
+
+690
+00:54:08,000 --> 00:54:12,000
+I mean, it's sort of like a, if you want
+to think of Zoho or, or, like Salesforce,
+
+691
+00:54:12,000 --> 00:54:16,000
+like CRM, like it's a CRM basically with
+this bolted onto it, but a guy's built it
+
+692
+00:54:16,000 --> 00:54:20,000
+from scratch.
+
+693
+00:54:21,000 --> 00:54:24,000
+Like it's not, I've sort of looked at it
+enough to see that at least I believe it's
+
+694
+00:54:24,000 --> 00:54:27,000
+not like a existing CRM package.
+
+695
+00:54:28,000 --> 00:54:34,000
+It's what he's built from scratch.
+
+696
+00:54:34,000 --> 00:54:36,000
+I don't know what he charges for that
+software. I've tried to find out. It's
+
+697
+00:54:36,000 --> 00:54:38,000
+obviously not published.
+
+698
+00:54:39,000 --> 00:54:44,000
+There's not a lot of customers for it,
+right?
+
+699
+00:54:44,000 --> 00:54:48,000
+So if it's one dev and he's charging five
+grand a year to, you know, I don't know,
+
+700
+00:54:48,000 --> 00:54:52,000
+40, 50 customers.
+
+701
+00:54:53,000 --> 00:54:57,000
+I mean, that's a pretty good nut and he
+can do other stuff because now he just has
+
+702
+00:54:57,000 --> 00:55:01,000
+a spinning top, right, without a whole lot
+of, you know, moving parts going forward.
+
+703
+00:55:01,000 --> 00:55:07,000
+So what this would earn or yield, I mean,
+to me, it's more, it's going to have to be
+
+704
+00:55:07,000 --> 00:55:13,000
+built at cost to figure out how to
+monetize it.
+
+705
+00:55:14,000 --> 00:55:16,000
+Like, I don't know if it's earning off
+the lending pool. I don't know if it's a
+
+706
+00:55:16,000 --> 00:55:18,000
+fee to the networks.
+
+707
+00:55:18,000 --> 00:55:22,000
+They're already paying a fee to this guy.
+Does he try to replicate it?
+
+708
+00:55:22,000 --> 00:55:27,000
+You know, like, I mean, there's a couple
+moving parts, so I don't have a good
+
+709
+00:55:27,000 --> 00:55:32,000
+answer for that because I really haven't
+taken that step in my head because I was
+
+710
+00:55:32,000 --> 00:55:37,000
+still just, you know, noodling around with
+the research.
+
+711
+00:55:38,000 --> 00:56:15,000
+Yeah, Luke.
+
+712
+00:56:15,000 --> 00:56:20,000
+Yeah, so the question is, can you chicken
+an egg?
+
+713
+00:56:20,000 --> 00:56:25,000
+And do you do you try to replicate the
+software for one and get others to join,
+
+714
+00:56:25,000 --> 00:56:30,000
+you know, for interoperability across the
+networks?
+
+715
+00:56:30,000 --> 00:56:34,000
+I really don't think so. I think it's a
+can of worms.
+
+716
+00:56:34,000 --> 00:56:39,000
+I mean, right now it's a one guy show
+owns the somebody built a new one out of
+
+717
+00:56:39,000 --> 00:56:44,000
+Detroit like a couple years ago, he bought
+them out and just here's your money.
+
+718
+00:56:44,000 --> 00:56:49,000
+Let's combo it up, right? Like let's I
+don't want competition.
+
+719
+00:56:49,000 --> 00:57:05,000
+It's an oligopoly or a complete monopoly.
+
+720
+00:57:05,000 --> 00:57:08,000
+Yeah, maybe. I mean, there's a lot of
+ways to skin it, but
+
+721
+00:57:08,000 --> 00:57:14,000
+Yeah, no, this was just more just to get
+people thinking about. I mean, to me, the
+
+722
+00:57:14,000 --> 00:57:20,000
+biggest thing is it is a group that's
+already organized, already licensed.
+
+723
+00:57:21,000 --> 00:57:26,000
+They're not doing anything shady, and
+they're not using Fiat to the tune of 2.5
+
+724
+00:57:26,000 --> 00:57:31,000
+billion a year.
+
+725
+00:57:31,000 --> 00:57:42,000
+Is it a sales problem, dev problem? I
+think for them scaling, it's always going
+
+726
+00:57:42,000 --> 00:57:53,000
+to be a network effect problem.
+
+727
+00:57:53,000 --> 00:57:57,000
+It's a super interesting because it's
+like proof of work itself is most
+
+728
+00:57:57,000 --> 00:58:01,000
+profitable when you have excess capacity,
+whether of energy or of computational
+
+729
+00:58:01,000 --> 00:58:05,000
+power, right?
+
+730
+00:58:05,000 --> 00:58:11,000
+And so networks like this potentially
+allow people to redirect excess capacity
+
+731
+00:58:11,000 --> 00:58:17,000
+in whatever skill set they have and in
+essence tokenize it.
+
+732
+00:58:17,000 --> 00:58:21,000
+Turn it into credit. Now, there's always
+like the human element where it's like,
+
+733
+00:58:21,000 --> 00:58:25,000
+okay, if I'm a restaurant and my excess
+capacity is my old shit, is it lower
+
+734
+00:58:25,000 --> 00:58:29,000
+quality?
+
+735
+00:58:30,000 --> 00:58:33,000
+Right? And then it's like, okay, how do
+you create the right enforcement
+
+736
+00:58:33,000 --> 00:58:36,000
+mechanisms?
+
+737
+00:58:36,000 --> 00:58:40,000
+You know, some systems I would say
+probably are a little bit aggressive in
+
+738
+00:58:40,000 --> 00:58:44,000
+terms of like, maybe they have credit
+limits in terms of how much you can spend
+
+739
+00:58:44,000 --> 00:58:48,000
+or where or fees or whatever.
+
+740
+00:58:49,000 --> 00:58:56,000
+But, you know, we do see a lot of the
+quote unquote gig economy that is
+
+741
+00:58:56,000 --> 00:59:03,000
+basically people trying to take excess
+capacity and turn it into credit.
+
+742
+00:59:03,000 --> 00:59:07,000
+So it's a super interesting idea, you
+know, in terms of how to coordinate like
+
+743
+00:59:07,000 --> 00:59:11,000
+on the organic side, I have no idea.
+
+744
+00:59:12,000 --> 00:59:20,000
+I'm the wrong person, but as, as a net
+idea, it's quite fascinating.
+
+745
+00:59:20,000 --> 00:59:23,000
+Yeah. And I would, the only thing I would
+add to that is it is that excess capacity
+
+746
+00:59:23,000 --> 00:59:26,000
+in the gig economy is growing.
+
+747
+00:59:26,000 --> 00:59:30,000
+So, I mean, I would say that was, A lot
+of
+

@@ -1,0 +1,567 @@
+1
+00:00:12,000 --> 00:00:18,000
+This is Timer here and welcome to my Ergo
+Hacks submission, the Sigma Quest.
+
+2
+00:00:18,000 --> 00:00:22,000
+This is like my very first project. I had
+a lot of help from some friends. And so I
+
+3
+00:00:22,000 --> 00:00:26,000
+just want to say thanks, Mark the Shark.
+CA, thanks for helping out. Also thanks to
+
+4
+00:00:26,000 --> 00:00:30,000
+Claude, if Claude is listening.
+
+5
+00:00:32,000 --> 00:00:38,000
+Cursor, I vibe coded the heck out of
+this. This is really like my first project
+
+6
+00:00:38,000 --> 00:00:44,000
+where I coded anything. And there's like a
+minimal amount of me getting in there and
+
+7
+00:00:44,000 --> 00:00:50,000
+kind of figuring out patterns and figuring
+out what patterns was broken.
+
+8
+00:00:52,000 --> 00:00:57,000
+But I still am not a developer and so
+this may be simple and sloppy compared to
+
+9
+00:00:57,000 --> 00:01:02,000
+a lot of other stuff, but I'm proud of it
+and I hope you all have fun playing my
+
+10
+00:01:02,000 --> 00:01:07,000
+game.
+
+11
+00:01:07,000 --> 00:01:14,000
+Alright, so first of all, yeah, thanks
+everybody who contributed to our honeypot
+
+12
+00:01:14,000 --> 00:01:21,000
+here. I'm going to bump this up to about
+200 ERG before it gets going and yeah, so
+
+13
+00:01:21,000 --> 00:01:28,000
+the first person to complete the game is
+going to win access to that wallet.
+
+14
+00:01:29,000 --> 00:01:34,000
+So let me just walk you through a little
+bit. Let me show off the vault first. So I
+
+15
+00:01:34,000 --> 00:01:39,000
+coded this up and it reads that honeypot
+wallet and displays an accurate depiction
+
+16
+00:01:39,000 --> 00:01:44,000
+of all the coins in the wallet. And if you
+win this game, all you have to do is write
+
+17
+00:01:44,000 --> 00:01:49,000
+down all the seed words that you get along
+the way and then you can restore that
+
+18
+00:01:49,000 --> 00:01:54,000
+wallet in Nautilus and all these coins
+will be yours.
+
+19
+00:01:57,000 --> 00:02:03,000
+I have a quick little guide for folks who
+might be new, how to get your Nautilus
+
+20
+00:02:03,000 --> 00:02:09,000
+wallet and how to play the game. The game
+is going to cost 10 ERG to play per game.
+
+21
+00:02:09,000 --> 00:02:15,000
+There's three games. So with perfect play,
+you'll do it in about 30 ERG and you'll
+
+22
+00:02:15,000 --> 00:02:21,000
+take home at least 200. And yeah.
+
+23
+00:02:22,000 --> 00:02:28,000
+Each of these games is quite different.
+I'll kind of walk through them a little
+
+24
+00:02:28,000 --> 00:02:34,000
+bit. I don't want to give away a whole
+lot. But yeah, let's check them out.
+
+25
+00:02:34,000 --> 00:02:40,000
+So here is my game page. And you can see
+that there's three games. This first game,
+
+26
+00:02:40,000 --> 00:02:46,000
+and I'm not going to show the title even
+because it's going to kind of give away
+
+27
+00:02:46,000 --> 00:02:52,000
+the concept and people can think about it,
+but in this one, there's some logic and
+
+28
+00:02:52,000 --> 00:02:58,000
+the AI, and you're pretty much talking to
+the AI and trying to understand the
+
+29
+00:02:58,000 --> 00:03:04,000
+password to get out of your cryopod.
+
+30
+00:03:07,000 --> 00:03:12,000
+So you're stuck in a cryopod trying to
+get out and it'll tell you if you get it
+
+31
+00:03:12,000 --> 00:03:17,000
+right or wrong. And so it's you versus the
+AI here. And the goal for the user would
+
+32
+00:03:17,000 --> 00:03:22,000
+be to send a message that has all five
+seed words in it in the correct order. And
+
+33
+00:03:22,000 --> 00:03:27,000
+then your character will be released from
+the cryopod. And it'll confirm that you
+
+34
+00:03:27,000 --> 00:03:32,000
+have the first five seed words.
+
+35
+00:03:32,000 --> 00:03:37,000
+And the second game here. Well, so the
+second game, you could play it in any
+
+36
+00:03:37,000 --> 00:03:42,000
+order. But I worked hard to make a nice
+little narrative. So do it in order.
+
+37
+00:03:43,000 --> 00:03:49,000
+Now, the second game is quite different
+than the first. This is sort of like
+
+38
+00:03:49,000 --> 00:03:55,000
+Oregon Trail, the old text-based game. But
+see, Oregon Trail was really deterministic
+
+39
+00:03:55,000 --> 00:04:01,000
+and everything was preprogrammed. So I do
+have a path that you're trying to follow
+
+40
+00:04:01,000 --> 00:04:07,000
+as you escape this ship.
+
+41
+00:04:10,000 --> 00:04:18,000
+So the way it'll work is you first, let's
+just do this. You log in, send your ten
+
+42
+00:04:18,000 --> 00:04:26,000
+ERG and the game will start up. Okay. Now
+you can read, read the narrative and then
+
+43
+00:04:26,000 --> 00:04:34,000
+you'll get some choices. And depending on
+what your choice is, that's like kind of
+
+44
+00:04:34,000 --> 00:04:42,000
+going to be the outcome. And you're trying
+to find the correct path out of the ship.
+
+45
+00:04:42,000 --> 00:04:50,000
+And so that sounds just like, however, if
+you make an incorrect choice anywhere
+
+46
+00:04:50,000 --> 00:04:58,000
+along this path, this is where the AI
+comes in.
+
+47
+00:04:59,000 --> 00:05:03,000
+So I've kind of designed this to trigger
+a prompt to the AI that gives context
+
+48
+00:05:03,000 --> 00:05:07,000
+about where you are in the story and
+what's around you and what that bad choice
+
+49
+00:05:07,000 --> 00:05:11,000
+was that you just made. And so it'll
+invent a way to kill you that fits that
+
+50
+00:05:11,000 --> 00:05:15,000
+narrative.
+
+51
+00:05:18,000 --> 00:05:23,000
+So every time somebody dies in this, it's
+going to call Claude and Claude's gonna
+
+52
+00:05:23,000 --> 00:05:28,000
+come up with some new way for you to die
+and it's pretty fantastic actually it
+
+53
+00:05:28,000 --> 00:05:33,000
+works great. I was a little skeptical at
+first, I didn't know how well it's gonna
+
+54
+00:05:33,000 --> 00:05:38,000
+work, but it's really great really
+creative so I encourage you all to try
+
+55
+00:05:38,000 --> 00:05:43,000
+this one out.
+
+56
+00:05:43,000 --> 00:05:48,000
+This game is structured differently than
+the first one. So you just pay 10 ERG to
+
+57
+00:05:48,000 --> 00:05:53,000
+play this game. And if you die, you have
+to pay another 10 ERG. This one, you do 10
+
+58
+00:05:53,000 --> 00:05:58,000
+ERG for 10 messages while you're trying to
+figure out the password.
+
+59
+00:05:58,000 --> 00:06:03,000
+At the end of this game, you escape the
+ship. You'll receive your seed words. And
+
+60
+00:06:03,000 --> 00:06:08,000
+then this final game, this is after you
+escape the ship. Obviously, you're in a
+
+61
+00:06:08,000 --> 00:06:13,000
+little spaceship here, a little shuttle.
+
+62
+00:06:13,000 --> 00:06:18,000
+This one is like a combination of the
+first two games, so I think it's really
+
+63
+00:06:18,000 --> 00:06:23,000
+cool. It might be the easiest game of the
+three, but it's to me the coolest because
+
+64
+00:06:23,000 --> 00:06:28,000
+it relies the most on AI.
+
+65
+00:06:29,000 --> 00:06:34,000
+You've escaped the ship and you're going
+to encounter some challenges along the
+
+66
+00:06:34,000 --> 00:06:39,000
+way. And the AI is going to be presenting
+you with these challenges. And you don't
+
+67
+00:06:39,000 --> 00:06:44,000
+have a structured response like you do in
+this one. You just have a chat field. And
+
+68
+00:06:44,000 --> 00:06:49,000
+so you're going to enter your solution to
+that problem, to each of these problems.
+
+69
+00:06:51,000 --> 00:06:56,000
+A lot of times there's not really a right
+answer, not like one right answer. The AI
+
+70
+00:06:56,000 --> 00:07:01,000
+is gonna be the judge of if you should
+succeed or fail through each of those
+
+71
+00:07:01,000 --> 00:07:06,000
+challenges. It's pretty consistent. I've
+had it give me like, maybe some answers
+
+72
+00:07:06,000 --> 00:07:11,000
+that worked most of the time, once or
+twice that same answer didn't work in play
+
+73
+00:07:11,000 --> 00:07:16,000
+testing, but it's pretty straight. I would
+just say like, give it a good answer and
+
+74
+00:07:16,000 --> 00:07:21,000
+you'll move forward.
+
+75
+00:07:25,000 --> 00:07:31,000
+And then there's a final boss here that
+is pretty cool. I won't say too much about
+
+76
+00:07:31,000 --> 00:07:37,000
+it, but this final boss is actually
+inventing new, it's prompting Claude to
+
+77
+00:07:37,000 --> 00:07:43,000
+create a new question every time somebody
+reaches that level.
+
+78
+00:07:43,000 --> 00:07:48,000
+And so the final section is going to be
+the boss asking you some questions,
+
+79
+00:07:48,000 --> 00:07:53,000
+they're going to be hard, but the answer
+is going to be the seed words, okay, or
+
+80
+00:07:53,000 --> 00:07:58,000
+one of the seed words. And so you'll need
+to just respond with one seed word at a
+
+81
+00:07:58,000 --> 00:08:03,000
+time, and it'll confirm or kill you
+creatively, as I mentioned.
+
+82
+00:08:05,000 --> 00:08:10,000
+And yeah, if you make it all the way,
+you'll have all 15 seed words and you can
+
+83
+00:08:10,000 --> 00:08:15,000
+jump back to the vault and claim all these
+coins, right? So super fun.
+
+84
+00:08:16,000 --> 00:08:21,000
+It is going to be a bit of a race. I'm
+going to try to advertise this a little
+
+85
+00:08:21,000 --> 00:08:26,000
+bit so we can get some people and do just
+like one release. And like I said, every
+
+86
+00:08:26,000 --> 00:08:31,000
+time somebody plays all three games,
+that's 30 ERG. So even if we had 10 people
+
+87
+00:08:31,000 --> 00:08:36,000
+try to play the game, that's going to be
+like 300 ERG that are getting pushed into
+
+88
+00:08:36,000 --> 00:08:41,000
+this. So it could be quite large.
+
+89
+00:08:45,000 --> 00:08:50,000
+And the games are not that easy. So I
+hope it's not that easy. If you all solve
+
+90
+00:08:50,000 --> 00:08:55,000
+this in an hour, it's going to hurt my
+feelings. But I hope you have fun. Nothing
+
+91
+00:08:55,000 --> 00:09:00,000
+else.
+
+92
+00:09:00,000 --> 00:09:06,000
+So here is my GitHub. I forgot to save
+something I was doing here. Here's my
+
+93
+00:09:06,000 --> 00:09:12,000
+GitHub. I am not making this public
+currently because people would be able to
+
+94
+00:09:12,000 --> 00:09:18,000
+just look at the files and see how to win
+the game. But as soon as somebody wins my
+
+95
+00:09:18,000 --> 00:09:24,000
+pot, then I'm going to do that.
+
+96
+00:09:27,000 --> 00:09:33,000
+But what I have done here is really tried
+to make it so that somebody like me who
+
+97
+00:09:33,000 --> 00:09:39,000
+doesn't know anything can look at it. And
+I even created this developer overview so
+
+98
+00:09:39,000 --> 00:09:45,000
+somebody could take this - I forgot to
+scroll up. Somebody could take this, feed
+
+99
+00:09:45,000 --> 00:09:51,000
+it to Claude or GPT or whatever, and they
+should be able to just solve all the
+
+100
+00:09:51,000 --> 00:09:57,000
+problems that they need to implement a
+game similar to this.
+
+101
+00:10:00,000 --> 00:10:06,000
+I mean, I imagine it could be quite
+different because I just came up with it
+
+102
+00:10:06,000 --> 00:10:12,000
+and vibe-coded my way. So you can see
+everything from my file construction to
+
+103
+00:10:12,000 --> 00:10:18,000
+how I set up APIs and commands that I
+gave. I cleaned it up with all my
+
+104
+00:10:18,000 --> 00:10:24,000
+sensitive information, but there's even
+like all the commands that you would need
+
+105
+00:10:24,000 --> 00:10:30,000
+to run this and server commands.
+
+106
+00:10:32,000 --> 00:10:36,000
+So if you have your server up and
+running, that's like, here's like a whole
+
+107
+00:10:36,000 --> 00:10:40,000
+menu of things that you can do with the
+server. And hopefully that'll help
+
+108
+00:10:40,000 --> 00:10:44,000
+somebody who's brand new, just kind of see
+what it is and get the concept and build
+
+109
+00:10:44,000 --> 00:10:48,000
+something cool on Ergo.
+
+110
+00:10:51,000 --> 00:10:57,000
+I think it was not as hard as I thought
+it was going to be. I'll say that. But it
+
+111
+00:10:57,000 --> 00:11:03,000
+was long. It was longer than I thought it
+was going to be. I've learned a ton. I've
+
+112
+00:11:03,000 --> 00:11:09,000
+probably 10x'ed my knowledge of how to
+code and create things and connect to the
+
+113
+00:11:09,000 --> 00:11:15,000
+blockchain, submit transactions.
+
+114
+00:11:16,000 --> 00:11:21,000
+And I'm starting to understand now kind
+of everything I don't know a little bit
+
+115
+00:11:21,000 --> 00:11:26,000
+more about everything I don't know and I'm
+excited to keep going and keep building on
+
+116
+00:11:26,000 --> 00:11:31,000
+Ergo. So that's my Ergo Hacks submission.
+Thanks everybody. I hope you enjoy my game
+
+117
+00:11:31,000 --> 00:11:36,000
+and best of luck to you.
+

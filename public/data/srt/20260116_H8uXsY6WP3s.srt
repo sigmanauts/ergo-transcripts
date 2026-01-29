@@ -1,0 +1,2976 @@
+1
+00:00:00,000 --> 00:00:04,000
+Connecting, streaming, I think we're
+live. Welcome, everybody. I hope we're
+
+2
+00:00:04,000 --> 00:00:08,000
+live. We'll see. I'll verify in one second
+on the channel.
+
+3
+00:00:09,000 --> 00:00:14,000
+And welcome to another Ergo community
+chat, this time themed on AI, vibe coding.
+
+4
+00:00:14,000 --> 00:00:19,000
+I hate the word vibe coding, but I guess
+it's popular. By joining us to start, and
+
+5
+00:00:19,000 --> 00:00:24,000
+hopefully more of you join, we have the
+join link in the Zoom in the bottom of
+
+6
+00:00:24,000 --> 00:00:29,000
+this video on YouTube, if you go there, as
+well as the Telegram chat. But joining us
+
+7
+00:00:29,000 --> 00:00:34,000
+right from the start are the infamous and
+famous kushti and HQ. How are you guys
+
+8
+00:00:34,000 --> 00:00:39,000
+doing today?
+
+9
+00:00:43,000 --> 00:00:51,000
+Doing well, doing well. So yeah, because
+of the topics of vibe coding for the whole
+
+10
+00:00:51,000 --> 00:00:59,000
+day to get the better idea of what to talk
+about. But yeah, well, these days
+
+11
+00:00:59,000 --> 00:01:07,000
+sometimes vibe coding a lot when it comes
+to writing tests. Yeah, also playing with
+
+12
+00:01:07,000 --> 00:01:15,000
+basis. Server, basis tracker server, and
+yeah, it's almost fully vibe-coded.
+
+13
+00:01:15,000 --> 00:01:19,000
+Wow, and I just heard in dev chat, right,
+Louis Vatra made an entire node out of
+
+14
+00:01:19,000 --> 00:01:23,000
+Rust purely vibe-coded. Was that recent?
+
+15
+00:01:24,000 --> 00:01:32,000
+Yeah, well, the only question is how
+secure is running it. I mean, if miners
+
+16
+00:01:32,000 --> 00:01:40,000
+are going to run it, then yeah, well,
+probably a lot of hard forkish divergences
+
+17
+00:01:40,000 --> 00:01:48,000
+with the reference clients. That's what
+we've discussed. And yeah, so some
+
+18
+00:01:48,000 --> 00:01:56,000
+divergence already now. Very cool.
+
+19
+00:01:56,000 --> 00:01:59,000
+You trust Fitz? We can bring him in?
+Yeah, yeah, yeah. All right, all right.
+
+20
+00:01:59,000 --> 00:02:02,000
+Let me make him co-host so that he can
+actually turn on his camera and mic. All
+
+21
+00:02:02,000 --> 00:02:05,000
+right, you're good, Fitz. HQ, how you
+doing? Good morning, sir.
+
+22
+00:02:07,000 --> 00:02:12,000
+Yeah, good morning. So about vibe coding,
+I just vibe coded Android mobile dApp. I
+
+23
+00:02:12,000 --> 00:02:17,000
+just tested testing working with the front
+end and just build a WorldPay frontend for
+
+24
+00:02:17,000 --> 00:02:22,000
+it so you guys can swap.
+
+25
+00:02:22,000 --> 00:02:26,000
+So you got an APK we can download and run
+kind of thing?
+
+26
+00:02:26,000 --> 00:02:31,000
+No, it's just that you just need a URL
+after dApp and you go to your mobile
+
+27
+00:02:31,000 --> 00:02:36,000
+wallet, you go to the dApp section, you
+paste the URL and you get the UI there. So
+
+28
+00:02:36,000 --> 00:02:41,000
+you just need to sign the DEX and that's
+it. So you don't need to go to
+
+29
+00:02:41,000 --> 00:02:46,000
+WorldPay.store. So you will just have the
+swapping inside. Like Cake Wallet has this
+
+30
+00:02:46,000 --> 00:02:51,000
+- it's in wallet swapping. So you would be
+able to buy ERG or you will be able to
+
+31
+00:02:51,000 --> 00:02:56,000
+sell ERG for any other blockchain assets.
+
+32
+00:02:57,000 --> 00:03:05,000
+That's amazing, sir. That's fantastic.
+How long did that take you?
+
+33
+00:03:05,000 --> 00:03:10,000
+I told you it was vibe coded. So it took
+me maybe one hour because there are so
+
+34
+00:03:10,000 --> 00:03:15,000
+many components which don't work in
+mobile. So for example, I was trying to
+
+35
+00:03:15,000 --> 00:03:20,000
+build a card with a toggle and drop down.
+It doesn't support that. So I had to make
+
+36
+00:03:20,000 --> 00:03:25,000
+it simple as it can be. So now I'm just
+working on the backend stuff and then just
+
+37
+00:03:25,000 --> 00:03:30,000
+getting it done and we will see how it
+goes.
+
+38
+00:03:33,000 --> 00:03:37,000
+Well, let me kick start, right? I'm going
+to kick start with some examples. And I
+
+39
+00:03:37,000 --> 00:03:41,000
+know HQ, kushti, Fitz, you can't see my
+screen. But if you go to YouTube, you'll
+
+40
+00:03:41,000 --> 00:03:45,000
+see what I'm looking at. If you go to
+YouTube and watch the stream, you should
+
+41
+00:03:45,000 --> 00:03:49,000
+see with a 30-second delay what I'm
+actually going to be showing you.
+
+42
+00:03:51,000 --> 00:03:55,000
+So I jumped on the Vibe Coding Wagon a
+bit as well. I was kind of inspired by how
+
+43
+00:03:55,000 --> 00:03:59,000
+much output Rob was doing with Degen's
+world, with all that stuff he's been
+
+44
+00:03:59,000 --> 00:04:03,000
+outputting. So I was like, hey, you know,
+there's been some stuff I've been meaning
+
+45
+00:04:03,000 --> 00:04:07,000
+to output. Let me try again. And the goal
+of my outputs were to create something
+
+46
+00:04:07,000 --> 00:04:11,000
+that could interact with the Ergo
+blockchain and be kind of unstoppable,
+
+47
+00:04:11,000 --> 00:04:15,000
+right? That nobody could take down, there
+was no central server or anything like
+
+48
+00:04:15,000 --> 00:04:19,000
+that.
+
+49
+00:04:25,000 --> 00:04:30,000
+I came up with the first thing that I
+came up with with this app right here.
+
+50
+00:04:30,000 --> 00:04:35,000
+It's called Site. It's an HTML file hosted
+on IPFS. It's got transaction building
+
+51
+00:04:35,000 --> 00:04:40,000
+built into the HTML. It's about 10,000
+lines of code for this one HTML file that
+
+52
+00:04:40,000 --> 00:04:45,000
+can be pushed. And what it does, it allows
+you to do some sort of reporting online.
+
+53
+00:04:45,000 --> 00:04:50,000
+And I'm not going to say or mention all
+the things that can be, because I'm sure
+
+54
+00:04:50,000 --> 00:04:55,000
+some bad reporting things or things that
+are against laws could be reported on this
+
+55
+00:04:55,000 --> 00:05:00,000
+kind of thing, which we'd want to
+discourage, but it's out of my control at
+
+56
+00:05:00,000 --> 00:05:05,000
+this point.
+
+57
+00:05:07,000 --> 00:05:12,000
+You can come, you can put in a tag, you
+can see there's a node. I held a
+
+58
+00:05:12,000 --> 00:05:17,000
+competition last week offering I think
+about $187 worth of Mu token, HQ's Mu
+
+59
+00:05:17,000 --> 00:05:22,000
+token, for if we can get about 67 nodes to
+self-report on this site app right here.
+
+60
+00:05:22,000 --> 00:05:27,000
+It's as simple as just typing in a filter.
+The filters are scanned at the refresh of
+
+61
+00:05:27,000 --> 00:05:32,000
+the page. Let's see if I can get it to go.
+I'm going to refresh here. And you can see
+
+62
+00:05:32,000 --> 00:05:37,000
+right here that we're scanning. We scanned
+everybody's wallet, essentially, for where
+
+63
+00:05:37,000 --> 00:05:42,000
+we scanned the blockchain for a certain
+kind of token, which is made at creation
+
+64
+00:05:42,000 --> 00:05:47,000
+for this. It parses them in. You can see
+there are 17 BERT, seven valid. So it's
+
+65
+00:05:47,000 --> 00:05:52,000
+showing these seven nodes. We can actually
+filter by date as well. And we can filter
+
+66
+00:05:52,000 --> 00:05:57,000
+by actual time tag as well.
+
+67
+00:06:05,000 --> 00:06:10,000
+We can hover over these two. And you can
+see that, well, if I zoom in here, you can
+
+68
+00:06:10,000 --> 00:06:15,000
+see I should have two data points right
+here. Yeah, you can see I put in the
+
+69
+00:06:15,000 --> 00:06:20,000
+middle of the city my personal nodes and
+my Cornell nodes right there. And you can
+
+70
+00:06:20,000 --> 00:06:25,000
+see there are some other nodes that have
+started self-reporting as well here.
+
+71
+00:06:25,000 --> 00:06:30,000
+That's one that didn't put a note. That's
+one that did. That's netims node. And then
+
+72
+00:06:30,000 --> 00:06:35,000
+I have a backup node in Singapore as well
+that I put there. So this could be
+
+73
+00:06:35,000 --> 00:06:40,000
+anything. This could be, I think, HQ, you
+were talking at one point of making an app
+
+74
+00:06:40,000 --> 00:06:45,000
+like this for flooding, so people could
+report flooding on chain for that kind of
+
+75
+00:06:45,000 --> 00:06:50,000
+thing. Fires, dangerous presence of
+whatever. So that's the idea. As long as
+
+76
+00:06:50,000 --> 00:06:55,000
+you have a NIPoPoWs node to be able to
+submit to the blockchain that you can
+
+77
+00:06:55,000 --> 00:07:00,000
+point to and this IPFS link, you can do
+reporting and you can't be stopped by
+
+78
+00:07:00,000 --> 00:07:05,000
+filtering or anything like that. It's
+unstoppable as far as that goes.
+
+79
+00:07:05,000 --> 00:07:10,000
+And in the spirit of unstoppableness,
+I've put in a section two where you can
+
+80
+00:07:10,000 --> 00:07:15,000
+put in your own Explorer and API for Node,
+so that even if something's blocked, you
+
+81
+00:07:15,000 --> 00:07:20,000
+can point to somebody else's and use it,
+or use your own node on your local phone.
+
+82
+00:07:20,000 --> 00:07:25,000
+We know Rustin can run that. So that's
+that. It's really easy to report features
+
+83
+00:07:25,000 --> 00:07:30,000
+here. You can use mobile or Nautilus I
+added recently, all built into the HTML.
+
+84
+00:07:30,000 --> 00:07:35,000
+There's a small proof of work anti-spam
+verification that actually creates a hash
+
+85
+00:07:35,000 --> 00:07:40,000
+and nonce. So it's anywhere from 0 to 20
+seconds when you click it. That's
+
+86
+00:07:40,000 --> 00:07:45,000
+essentially to stop people from using this
+UI or to spam the network with stuff. And
+
+87
+00:07:45,000 --> 00:07:50,000
+it will not, our tokens won't even be
+viewed on this page for display unless
+
+88
+00:07:50,000 --> 00:07:55,000
+that nonce is there, right? So that's kind
+of a verification that you're tokens won't
+
+89
+00:07:55,000 --> 00:08:00,000
+even consider it as part of this map
+unless you've done that proof of work for
+
+90
+00:08:00,000 --> 00:08:05,000
+that kind of thing. Then you generate the
+link, and you send it out in a post within
+
+91
+00:08:05,000 --> 00:08:10,000
+a minute or two. It'll show up on that
+site. So that's called Site.
+
+92
+00:08:11,000 --> 00:08:15,000
+Another thing that I threw on here as
+well with Vibe Coding straight up
+
+93
+00:08:15,000 --> 00:08:19,000
+interacting with Ergo is Say. And that's
+kind of a Twitter alternative where you
+
+94
+00:08:19,000 --> 00:08:23,000
+can link up your wallet, you can mint a
+token, and that token is then read on
+
+95
+00:08:23,000 --> 00:08:27,000
+chain. You can see when I refresh that
+it's loading all the say's, and then it
+
+96
+00:08:27,000 --> 00:08:31,000
+verifies that each say has actually been
+minted by the wallet that it's held in.
+
+97
+00:08:31,000 --> 00:08:35,000
+So, you know, if there's a lot, it could
+take a little bit, but you can see that
+
+98
+00:08:35,000 --> 00:08:39,000
+there's quite a few here, and it hasn't
+taken a bit to load it all. You can follow
+
+99
+00:08:39,000 --> 00:08:43,000
+people, so you can type in up to 10
+addresses, and it will show you everything
+
+100
+00:08:43,000 --> 00:08:47,000
+in their says right there. You can even
+put in somebody's address. So I could put
+
+101
+00:08:47,000 --> 00:08:51,000
+in HQ's address and see who he follows as
+well, kind of linking to that by clicking
+
+102
+00:08:51,000 --> 00:08:55,000
+down and seeing that. And we can load our
+feeds down there.
+
+103
+00:09:03,000 --> 00:09:07,000
+Say is just easy. You're putting your
+wallet address, what you want to say. Same
+
+104
+00:09:07,000 --> 00:09:11,000
+thing with anti-spam verification publish.
+It opens it up in your Ergo mobile wallet
+
+105
+00:09:11,000 --> 00:09:15,000
+as well. You can also mint a token that
+lets you browse a user's say, essentially.
+
+106
+00:09:15,000 --> 00:09:19,000
+And you can create a profile token so that
+if you look, it says my name right here,
+
+107
+00:09:19,000 --> 00:09:23,000
+QX, as opposed to somebody just posting
+their wallet. And I think somebody else
+
+108
+00:09:23,000 --> 00:09:27,000
+minted a token. Yeah, YongQ as well minted
+a token. So that'll stay in your profile
+
+109
+00:09:27,000 --> 00:09:31,000
+and show up there as your name instead.
+And of course, there's info here on what
+
+110
+00:09:31,000 --> 00:09:35,000
+it is. Just like on the site page, there's
+info on what it is. And even on the site
+
+111
+00:09:35,000 --> 00:09:39,000
+page, there's info on how the transactions
+are or how it's all built together as
+
+112
+00:09:39,000 --> 00:09:43,000
+well.
+
+113
+00:09:48,000 --> 00:09:52,000
+Now, you may say that, you know, how do
+you make sure that people are using the
+
+114
+00:09:52,000 --> 00:09:56,000
+latest version of that you've built of
+site or say, and that's the one thing that
+
+115
+00:09:56,000 --> 00:10:00,000
+I've linked back to myself, essentially.
+If you look down at the bottom of these
+
+116
+00:10:00,000 --> 00:10:04,000
+pages, you'll see an updates. And all this
+is doing is the HTML is hard-coded to
+
+117
+00:10:04,000 --> 00:10:08,000
+check in my wallet for an NFT that is
+named a certain way, and it reads that
+
+118
+00:10:08,000 --> 00:10:12,000
+from there. So even if somebody is running
+an older version of Say or Site, they can
+
+119
+00:10:12,000 --> 00:10:16,000
+see and hear that, hey, it should be
+version 1.2 in the upper left-hand corner.
+
+120
+00:10:16,000 --> 00:10:20,000
+If it's not, click this link, bookmark
+this link instead kind of thing. So that's
+
+121
+00:10:20,000 --> 00:10:24,000
+a way around these stale IPFS sites if
+you're releasing an application on the
+
+122
+00:10:24,000 --> 00:10:28,000
+web, or at least that's a trick that I
+found. I don't like that it's attached to
+
+123
+00:10:28,000 --> 00:10:32,000
+my wallet, but that doesn't stop somebody
+from taking the HTML, making their own
+
+124
+00:10:32,000 --> 00:10:36,000
+editing, attaching it to their wallet or
+some smart contract where a collective of
+
+125
+00:10:36,000 --> 00:10:40,000
+people will update a token for the
+updates. So it's possibly endless there as
+
+126
+00:10:40,000 --> 00:10:44,000
+far as that goes.
+
+127
+00:10:49,000 --> 00:10:53,000
+And the last thing that I popped on there
+was - And this is something that I've
+
+128
+00:10:53,000 --> 00:10:57,000
+spoken about for a long time in Ergo back
+in the day, was a way to send messages
+
+129
+00:10:57,000 --> 00:11:01,000
+back and forth to people individually. I
+know HQ spent a lot of time making a
+
+130
+00:11:01,000 --> 00:11:05,000
+messaging board, which is really cool
+where you have chats that fly back and
+
+131
+00:11:05,000 --> 00:11:09,000
+forth, but this is more of a direct send
+to somebody. So you can come to this site,
+
+132
+00:11:09,000 --> 00:11:13,000
+you can connect your Nautilus wallet, you
+can scan for messages. You can scan deep
+
+133
+00:11:13,000 --> 00:11:17,000
+for messages too if you want to. If you
+want to see all your messages or your
+
+134
+00:11:17,000 --> 00:11:21,000
+historical, you can scan a custom range
+for messages as well.
+
+135
+00:11:27,000 --> 00:11:32,000
+And the way it works is you put in the
+recipient address a message you can
+
+136
+00:11:32,000 --> 00:11:37,000
+encrypt with a passcode. So essentially we
+can do a 22 or a 10 character passcode.
+
+137
+00:11:37,000 --> 00:11:42,000
+And this just uses an encryption method
+with that passcode and salt to encrypt it
+
+138
+00:11:42,000 --> 00:11:47,000
+on chain so that nobody can read your
+message while it's there. And then I would
+
+139
+00:11:47,000 --> 00:11:52,000
+essentially find a way to, like, if I have
+a communication with HQ, I'd say, hey, HQ,
+
+140
+00:11:52,000 --> 00:11:57,000
+our communication is, HQ is a big sexy
+beast. It's my 22-character password. So I
+
+141
+00:11:57,000 --> 00:12:02,000
+know that every time HQ sends me a
+message, I decrypt it with, HQ is a very
+
+142
+00:12:02,000 --> 00:12:07,000
+big sexy beast. There's ways that we can
+do auto-decryption, but that involves a
+
+143
+00:12:07,000 --> 00:12:12,000
+little bit of revealing from the Nautilus
+wallet onto there. And I think it's safer
+
+144
+00:12:12,000 --> 00:12:17,000
+this way, and it would require Captain
+Nemo to do some tweaks on his end for
+
+145
+00:12:17,000 --> 00:12:22,000
+exposing decryption from the Nautilus
+wallet.
+
+146
+00:12:25,000 --> 00:12:30,000
+So that's that. You fill that in. You
+fill out a message lifetime, essentially,
+
+147
+00:12:30,000 --> 00:12:35,000
+of how long you want this message to last
+for, up to 365 days, which is one erg, and
+
+148
+00:12:35,000 --> 00:12:40,000
+then it scales backwards in time exactly.
+So two hours is 0.01 erg for the fee. And
+
+149
+00:12:40,000 --> 00:12:45,000
+that's it. You enter the recipient. You
+hit Enter. And it builds a transaction.
+
+150
+00:12:45,000 --> 00:12:50,000
+You send it. And then after two hours, you
+can come here to scan. And then anybody,
+
+151
+00:12:50,000 --> 00:12:55,000
+and originally I was going to make this
+just for miners to do, but anybody can
+
+152
+00:12:55,000 --> 00:13:00,000
+come to this site, fair game if they get
+to it first, and can build a transaction
+
+153
+00:13:00,000 --> 00:13:05,000
+to burn. And then that message is now
+burnt off the blockchain to be cleaned up
+
+154
+00:13:05,000 --> 00:13:10,000
+with some incentive to do it. So right
+now, in 3.8 days, somebody has sent a
+
+155
+00:13:10,000 --> 00:13:15,000
+message. It's going to be burnt for 0.03
+ergs they can burn it for and collect
+
+156
+00:13:15,000 --> 00:13:20,000
+whatever that 0.2 is after the transaction
+fee.
+
+157
+00:13:24,000 --> 00:13:30,000
+So that's up and that's out of my hands.
+The HTML can be downloaded and looked at
+
+158
+00:13:30,000 --> 00:13:36,000
+and rebuilt and taken somewhere else and
+reformed. It doesn't matter. They're all
+
+159
+00:13:36,000 --> 00:13:42,000
+out there. And that's how easy, I think,
+vibe coding connecting to Ergo is, right?
+
+160
+00:13:42,000 --> 00:13:48,000
+It was able to read the Nautilus SDK
+libraries, the Ergo mobile libraries. It
+
+161
+00:13:48,000 --> 00:13:54,000
+was able to embed Wasm into the, at least
+the site app that I used, which makes it a
+
+162
+00:13:54,000 --> 00:14:00,000
+little large, and all be self-contained so
+that you could just upload one HTML file.
+
+163
+00:14:00,000 --> 00:14:06,000
+The site and the say are like four
+megabytes for an HTML file. The Enfermo
+
+164
+00:14:06,000 --> 00:14:12,000
+messaging is like 400k, or maybe it's like
+200k. It's extremely small, because I only
+
+165
+00:14:12,000 --> 00:14:18,000
+have Nautilus integrated into it. But
+yeah, yeah. So that's me, guys. That's
+
+166
+00:14:18,000 --> 00:14:24,000
+what I've been banging out, just trying to
+make some kind of unstoppable apps that
+
+167
+00:14:24,000 --> 00:14:30,000
+could be done quickly, vibe-coded, and
+thrown on IPFS. What about you guys?
+
+168
+00:14:32,000 --> 00:14:35,000
+Well, I have a new feature for you to
+add.
+
+169
+00:14:35,000 --> 00:14:37,000
+Let's hear it, sir.
+
+170
+00:14:37,000 --> 00:14:41,000
+So for a formal message, instead of using
+the passcode, you could use the sender
+
+171
+00:14:41,000 --> 00:14:45,000
+private PK. So right. So if there is
+message for someone, they can see that
+
+172
+00:14:45,000 --> 00:14:49,000
+there is message, but they have to sign a
+TX and provide their private key. And when
+
+173
+00:14:49,000 --> 00:14:53,000
+they provide their private key, it matches
+with the message. the token you have
+
+174
+00:14:53,000 --> 00:14:57,000
+minted. So that's how they can see the
+message.
+
+175
+00:15:00,000 --> 00:15:04,000
+Yeah, so the issue there, I think, from
+when I was coding is that, first of all,
+
+176
+00:15:04,000 --> 00:15:08,000
+the person has to have done a transaction
+on chain, right? But in that case, they're
+
+177
+00:15:08,000 --> 00:15:12,000
+only putting their public key up on chain
+for that transaction or something like
+
+178
+00:15:12,000 --> 00:15:16,000
+that. There was some issue from what I
+tried to understand that Nautilus can't
+
+179
+00:15:16,000 --> 00:15:20,000
+expose enough during the signing
+transaction. And the person sending the
+
+180
+00:15:20,000 --> 00:15:24,000
+message doesn't know enough about the
+receiver to be able to encode something
+
+181
+00:15:24,000 --> 00:15:28,000
+that the person could then prove against
+and sign kind of thing when you're doing
+
+182
+00:15:28,000 --> 00:15:32,000
+the initial encryption by the sender. So
+that was what I ran into and how I
+
+183
+00:15:32,000 --> 00:15:36,000
+understood it. Maybe, kushti, do you
+understand this better, HQ?
+
+184
+00:15:42,000 --> 00:15:47,000
+Yeah, I think there are pleat options for
+it. I think it's go to address and I go
+
+185
+00:15:47,000 --> 00:15:52,000
+address to PK, which can be used to
+convert because you are already providing
+
+186
+00:15:52,000 --> 00:15:57,000
+the sender address. So it can convert that
+into the, into the PK, which will instead
+
+187
+00:15:57,000 --> 00:16:02,000
+of using the address, and then you can
+just extract and mismatch matching between
+
+188
+00:16:02,000 --> 00:16:07,000
+the boxes or in your case, you are just
+doing with tokens. So instead of ending
+
+189
+00:16:07,000 --> 00:16:12,000
+the description of the token, there will
+be instead of address, there will be the
+
+190
+00:16:12,000 --> 00:16:17,000
+public PK of that address and that user
+has to validate somehow. So that would be
+
+191
+00:16:17,000 --> 00:16:22,000
+one way to doing it, but yeah, I like the
+way you do it. It's the more simpler way.
+
+192
+00:16:26,000 --> 00:16:31,000
+Yeah, it's simpler. Yeah, yeah, yeah. And
+then I'll look into that again. I'll take
+
+193
+00:16:31,000 --> 00:16:36,000
+another stab at it, that's for sure. We'll
+see what we can do. What about you, HQ?
+
+194
+00:16:36,000 --> 00:16:41,000
+What's the recent thing besides the
+Android app that you built? So we're
+
+195
+00:16:41,000 --> 00:16:46,000
+talking with AI, right? Yeah, yeah, AI,
+yeah.
+
+196
+00:16:48,000 --> 00:16:53,000
+So the last thing, I think the cart. 50%
+of the cart, the front end was done with
+
+197
+00:16:53,000 --> 00:16:58,000
+AI. The back end logic for chain
+transaction and everything was done
+
+198
+00:16:58,000 --> 00:17:03,000
+written manually, but most of the front
+end stuff was done with AI.
+
+199
+00:17:03,000 --> 00:17:05,000
+For what, which app?
+
+200
+00:17:05,000 --> 00:17:10,000
+At MuMart, we have included a new feature
+where you can bulk list and you can bulk
+
+201
+00:17:10,000 --> 00:17:15,000
+buy. Right, right. So there is a shopping
+cart you can go and, and actually I forgot
+
+202
+00:17:15,000 --> 00:17:20,000
+to mention you that there is another
+option on Mart. So instead of check mark,
+
+203
+00:17:20,000 --> 00:17:25,000
+you can just drag and drop those NFTs.
+
+204
+00:17:26,000 --> 00:17:35,000
+Let's show people. Where is it? MuMart,
+NFTMart? MuFinance, yeah. So if we go here
+
+205
+00:17:35,000 --> 00:17:44,000
+and we look at these, we can click on,
+where's the button that we can multiple
+
+206
+00:17:44,000 --> 00:17:53,000
+select there? Where'd you go, HQ?
+
+207
+00:17:55,000 --> 00:17:59,000
+In the bottom corner, you will see a blue
+button. Just click on that. And then you
+
+208
+00:17:59,000 --> 00:18:03,000
+can just drag any of those NFTs into the
+cart.
+
+209
+00:18:04,000 --> 00:18:11,000
+Not coming up for me. I see a yellow plus
+button at the bottom, mart.mufinance.com.
+
+210
+00:18:11,000 --> 00:18:14,000
+You have to go to your slash explore, not
+on the main screen.
+
+211
+00:18:14,000 --> 00:18:19,000
+OK, slash explore. OK, perfect. Yep, yep,
+yep. So we click that. We check a bunch of
+
+212
+00:18:19,000 --> 00:18:24,000
+boxes. All right, now we're showing people
+here. So if we want to buy those three,
+
+213
+00:18:24,000 --> 00:18:29,000
+then we go to our cart. Look at that.
+That's so cute. And then it pops over on
+
+214
+00:18:29,000 --> 00:18:34,000
+the right, insufficient balance. Oh, no, I
+don't have enough. I don't have enough
+
+215
+00:18:34,000 --> 00:18:39,000
+CYPX for these. And then, oh, you even do
+buy more on your DEX. Then buy five
+
+216
+00:18:39,000 --> 00:18:44,000
+orders. So it's going to do five
+transactions, right, if that's what you
+
+217
+00:18:44,000 --> 00:18:49,000
+had said before? But that's just how UTXO
+and the smart contract works right for
+
+218
+00:18:49,000 --> 00:18:54,000
+that. So yeah. So instead of having to
+click, refresh, go back, do the thing, you
+
+219
+00:18:54,000 --> 00:18:59,000
+can load them all up in the cart, hit buy,
+sign a couple transactions, and be done.
+
+220
+00:18:59,000 --> 00:19:04,000
+That seems very convenient, sir.
+
+221
+00:19:06,000 --> 00:19:11,000
+Yeah, and instead of clicking on check
+marking them, if you just like press the
+
+222
+00:19:11,000 --> 00:19:16,000
+NFT and drag the NFT to the shopping cart,
+it will also add it to your cart.
+
+223
+00:19:17,000 --> 00:19:22,000
+Let's see. Oh, look at that, sir. Look at
+that. Isn't that cute? Super cute. Nice
+
+224
+00:19:22,000 --> 00:19:27,000
+job, HQ.
+
+225
+00:19:28,000 --> 00:19:36,000
+That's 60 lines of code just for people
+so they don't have to select.
+
+226
+00:19:36,000 --> 00:19:41,000
+When I code, I code very simple scripts.
+I code in Perl, I code in HTML and
+
+227
+00:19:41,000 --> 00:19:46,000
+JavaScript, but we're talking like that
+10,000 lines of code was absolutely
+
+228
+00:19:46,000 --> 00:19:51,000
+stupid, ridiculous. Most of them are like
+500, 600 lines per script. If I get up to
+
+229
+00:19:51,000 --> 00:19:56,000
+1,000 or 2,000, that's a little too much
+to take control in my liking. I want
+
+230
+00:19:56,000 --> 00:20:01,000
+something that's like 10 kilobytes. I want
+it to load immediately because we're
+
+231
+00:20:01,000 --> 00:20:06,000
+dealing with IPFS as well. So I wanted to
+come across the meeting. So I don't
+
+232
+00:20:06,000 --> 00:20:11,000
+usually run into an issue where I'm AI
+coding, and I can't get something fixed,
+
+233
+00:20:11,000 --> 00:20:16,000
+or I run out of tokens fast. I know I'm on
+the pro plan for Claude and ChatGPT Pro,
+
+234
+00:20:16,000 --> 00:20:21,000
+but I don't run into that issue ever. But
+I hear people who have these big Node.js
+
+235
+00:20:21,000 --> 00:20:26,000
+sites with 30, 40 files in it can run out
+pretty fast when they're trying to debug.
+
+236
+00:20:26,000 --> 00:20:31,000
+How do you guys do that when you're
+running these bigger applications and more
+
+237
+00:20:31,000 --> 00:20:36,000
+complex things?
+
+238
+00:20:37,000 --> 00:20:39,000
+Doing what? Sorry.
+
+239
+00:20:39,000 --> 00:20:43,000
+So when I program, I'm writing small
+scripts. My code is under 1,000 lines.
+
+240
+00:20:43,000 --> 00:20:47,000
+It's very easy. I don't run out of tokens.
+It's very easy for Claude to ingest and
+
+241
+00:20:47,000 --> 00:20:51,000
+work on it. But when I hear about other
+people running big Node.js apps or these
+
+242
+00:20:51,000 --> 00:20:55,000
+large applications, running out of tokens
+or getting in a spot where there's just
+
+243
+00:20:55,000 --> 00:20:59,000
+too much for the AI to tokenize and bring
+in, how do you guys get around that when
+
+244
+00:20:59,000 --> 00:21:03,000
+you're doing it? Or are you just focusing
+on small things as well?
+
+245
+00:21:05,000 --> 00:21:14,000
+So usually you need to do specs all the
+time and work through specs with an agent
+
+246
+00:21:14,000 --> 00:21:23,000
+like QuantCode, for example. So, actually,
+bro etiquette has a lot of experience here
+
+247
+00:21:23,000 --> 00:21:32,000
+and he is working in particular on Git
+circles. Using that approach, so first you
+
+248
+00:21:32,000 --> 00:21:41,000
+do a spec, right? Well, also, mostly with
+an agent. And then using the spec, you are
+
+249
+00:21:41,000 --> 00:21:50,000
+working piece by piece on some specific
+part of software. And so, yeah, by doing
+
+250
+00:21:50,000 --> 00:21:59,000
+that, you are managing the context window,
+right, because, well, if too much things
+
+251
+00:21:59,000 --> 00:22:08,000
+there in context windows, so you are
+getting worse results in code generation.
+
+252
+00:22:08,000 --> 00:22:17,000
+And Fitz, what is your experience? Are you
+playing with basis tracker or with testing
+
+253
+00:22:17,000 --> 00:22:26,000
+scripts for basis?
+
+254
+00:22:34,000 --> 00:22:40,000
+Yeah, I have been. It's been pretty fun,
+actually. I kind of remember a quote that
+
+255
+00:22:40,000 --> 00:22:46,000
+you said about taking over Ergo as much as
+possible, and it kind of gives me this
+
+256
+00:22:46,000 --> 00:22:52,000
+feeling. So I've just been using Cloud
+Code. I don't have extensive coding
+
+257
+00:22:52,000 --> 00:22:58,000
+experience. But yeah, I think the spec is
+right. I mean, you've got to get it. For
+
+258
+00:22:58,000 --> 00:23:04,000
+me, personally, I just got to get it. It
+has to know what it's aiming for. And
+
+259
+00:23:04,000 --> 00:23:10,000
+definitely, the prompt has to be, you have
+to have a well-defined prompt. But it was
+
+260
+00:23:10,000 --> 00:23:16,000
+pretty easy, honestly, to get the basis
+and do a test, like a Alice, Carol, Bob
+
+261
+00:23:16,000 --> 00:23:22,000
+type test. And it ran it for me. I'd just
+been doing that for the last day or so.
+
+262
+00:23:22,000 --> 00:23:28,000
+Honestly, it's been a lot of fun. And I
+think it gets me thinking about a lot of
+
+263
+00:23:28,000 --> 00:23:34,000
+other things I could do with Ergo.
+
+264
+00:23:39,000 --> 00:23:43,000
+So some other things I did that we can do
+as well. Sorry, I don't mean to jump on
+
+265
+00:23:43,000 --> 00:23:47,000
+the horn again, but I forgot to say it. So
+this is something that was Vibe-coded for
+
+266
+00:23:47,000 --> 00:23:51,000
+the SigmaNuts mining pool, right?
+Essentially, I took an old app I had for
+
+267
+00:23:51,000 --> 00:23:55,000
+the mining pool, a very simple one, and
+gave it all the APIs of mining core,
+
+268
+00:23:55,000 --> 00:23:59,000
+everything else, and told it to have at
+it, make it look nice, make it look
+
+269
+00:23:59,000 --> 00:24:03,000
+functional. And it actually did a pretty
+amazing job doing what it needs to do
+
+270
+00:24:03,000 --> 00:24:07,000
+there, showing all miners. We can go to
+this miner. We can select a certain C. We
+
+271
+00:24:07,000 --> 00:24:11,000
+can see their payouts, all that kind of
+stuff.
+
+272
+00:24:15,000 --> 00:24:20,000
+But one thing, too, that I wanted to
+mention, the main reason I brought this up
+
+273
+00:24:20,000 --> 00:24:25,000
+is because then I did this. I said, guys,
+we had a server go down, right? And I
+
+274
+00:24:25,000 --> 00:24:30,000
+said, guys, why don't we do this? So I
+took right here, I took my file in my
+
+275
+00:24:30,000 --> 00:24:35,000
+repo. I'd like to fully host this on IPFS.
+Is it possible to convert fully to HTML
+
+276
+00:24:35,000 --> 00:24:40,000
+JavaScript instead of HTML JavaScript
+Perl? There we go. It explores it, does
+
+277
+00:24:40,000 --> 00:24:45,000
+it, creates it, does some changes. There
+was an issue with one of the
+
+278
+00:24:45,000 --> 00:24:50,000
+click-throughs. And then there was another
+issue with something else for a minor.
+
+279
+00:24:50,000 --> 00:24:55,000
+They did some changes. Boom. That's it.
+And then it gave me an HTML file in my
+
+280
+00:24:55,000 --> 00:25:00,000
+GitHub that I could then throw up on IPFS
+and hand to the miners, and they could
+
+281
+00:25:00,000 --> 00:25:05,000
+have it run serverless without that. So
+that's some other cool stuff that I think
+
+282
+00:25:05,000 --> 00:25:10,000
+AI can do for you. Save you a ton of time
+if you want to go from one platform to
+
+283
+00:25:10,000 --> 00:25:15,000
+another platform. I know I just went from
+HTML JavaScript Perl to HTML JavaScript.
+
+284
+00:25:15,000 --> 00:25:20,000
+But still, that opened up the window to be
+able to host it somewhere else fully. And
+
+285
+00:25:20,000 --> 00:25:25,000
+as you can see from Claude, it literally
+took 10 minutes to convert an entire
+
+286
+00:25:25,000 --> 00:25:30,000
+working app to that kind of thing. So
+that's a cool use case, too, that I've
+
+287
+00:25:30,000 --> 00:25:35,000
+found.
+
+288
+00:25:36,000 --> 00:25:42,000
+Yeah. And I know this might sound
+non-trivial, but I honestly had a hard
+
+289
+00:25:42,000 --> 00:25:48,000
+time setting up a node and doing
+interactions with the node. Now I just
+
+290
+00:25:48,000 --> 00:25:54,000
+feel like I can vibe code whatever I'd
+like for the most part. I mean, of course,
+
+291
+00:25:54,000 --> 00:26:00,000
+there's constraints I have to go through,
+but it definitely feels like an entry
+
+292
+00:26:00,000 --> 00:26:06,000
+barrier has been decreased. So you can
+actually have fun.
+
+293
+00:26:07,000 --> 00:26:11,000
+Yeah. Yeah. I mean, once Claude
+understands the node endpoints, I mean,
+
+294
+00:26:11,000 --> 00:26:15,000
+it's like game over, right? You show it
+what the endpoints are, what it produces,
+
+295
+00:26:15,000 --> 00:26:19,000
+and it does more than you could remember
+to do at that point.
+
+296
+00:26:20,000 --> 00:26:22,000
+Exactly, yeah.
+
+297
+00:26:22,000 --> 00:26:27,000
+I had an issue with the Explorer running
+on peer-to-peer machines, which are 32
+
+298
+00:26:27,000 --> 00:26:32,000
+gigs of RAM and one terabyte hard drive.
+There's some massive queries that HQ and
+
+299
+00:26:32,000 --> 00:26:37,000
+ACO keep throwing at me that some of them
+can't do. So with Claude and ChatGPT,
+
+300
+00:26:37,000 --> 00:26:42,000
+putting them in there, letting them watch
+the terminal, and seeing the outputs or
+
+301
+00:26:42,000 --> 00:26:47,000
+pasting in the outputs of certain things,
+it allowed me to do something that I've
+
+302
+00:26:47,000 --> 00:26:52,000
+never done before, which is to identify
+where the SQL commands are coming in, the
+
+303
+00:26:52,000 --> 00:26:57,000
+Postgres commands are coming in, what
+they're getting stuck on, what it's
+
+304
+00:26:57,000 --> 00:27:02,000
+hanging on, and then giving me the codes
+to actually build a freaking index to
+
+305
+00:27:02,000 --> 00:27:07,000
+account for those large queries. And so
+far, we've got three new indexes that
+
+306
+00:27:07,000 --> 00:27:12,000
+we've built on peer-to-peer, the
+peer-to-peer infra that is still, I think,
+
+307
+00:27:12,000 --> 00:27:17,000
+I haven't checked the status, but I know
+that a couple of people have installed
+
+308
+00:27:17,000 --> 00:27:22,000
+them on their machines already. But that
+would have been impossible without AI. I
+
+309
+00:27:22,000 --> 00:27:27,000
+mean, absolutely impossible. We'd have to
+find somebody like, what's his name,
+
+310
+00:27:27,000 --> 00:27:32,000
+Boris, who hardly answers his DMs to help
+us out with that since he's kind of an
+
+311
+00:27:32,000 --> 00:27:37,000
+expert in that field. But yeah, with AI,
+it's done in half an hour and tested and
+
+312
+00:27:37,000 --> 00:27:42,000
+deployed.
+
+313
+00:27:49,000 --> 00:27:56,000
+Yeah, and we are discussing a lot these
+days in the developers' chat how to use
+
+314
+00:27:56,000 --> 00:28:03,000
+LLMs to improve things here and there. So
+in particular, it seems... So I've used
+
+315
+00:28:03,000 --> 00:28:10,000
+LLMs to verify user contracts before
+deployment and yeah, it's working well.
+
+316
+00:28:10,000 --> 00:28:17,000
+Actually, if you manage contracts
+properly, so we had some discussions with
+
+317
+00:28:17,000 --> 00:28:24,000
+Rob. As a result, and yeah, I think we can
+actually release some files with a
+
+318
+00:28:24,000 --> 00:28:31,000
+description of, well, popular problems
+developers, well, mistakes developers are
+
+319
+00:28:31,000 --> 00:28:38,000
+doing in scripts and then, yeah, well,
+they can be efficiently verified. So it's
+
+320
+00:28:38,000 --> 00:28:45,000
+much simpler than with EVM contracts and
+so on. Because yeah, here is the approach
+
+321
+00:28:45,000 --> 00:28:52,000
+is simple and verification is also quite
+simple and manageable for LLMs. So, yeah,
+
+322
+00:28:52,000 --> 00:28:59,000
+well, audit also can be done.
+
+323
+00:29:06,000 --> 00:29:11,000
+Right, so you've spoken for quite a while
+now, kushti, of saying that you're running
+
+324
+00:29:11,000 --> 00:29:16,000
+iterated tests via AI. You're figuring out
+ways to test your code or at least
+
+325
+00:29:16,000 --> 00:29:21,000
+security test your code some ways with
+LLMs?
+
+326
+00:29:22,000 --> 00:29:30,000
+Yeah, so for our contracts, it's possible
+to find some issues, at least because
+
+327
+00:29:30,000 --> 00:29:38,000
+usually it's about two or three vectors.
+Usually all the issues known to the moment
+
+328
+00:29:38,000 --> 00:29:46,000
+can be categorized. Well, in a very simple
+way. So usually it's about the developer
+
+329
+00:29:46,000 --> 00:29:54,000
+forgetting to check some register.
+Correspondence from inputs or outputs,
+
+330
+00:29:54,000 --> 00:30:02,000
+right? just basically a human mistake,
+quite trivial for LLM to detect and
+
+331
+00:30:02,000 --> 00:30:10,000
+report. And then another issue is, well,
+possibility to spend two inputs with one
+
+332
+00:30:10,000 --> 00:30:18,000
+output, right, when it's not planned. That
+was found in production in some Cardano
+
+333
+00:30:18,000 --> 00:30:26,000
+applications in Ergo. That wasn't
+exploited or publicly reported, but yeah,
+
+334
+00:30:26,000 --> 00:30:34,000
+that's quite a popular issue and stated
+even in the ErgoScript white paper. And
+
+335
+00:30:34,000 --> 00:30:42,000
+yeah, it's also quite easy for LLM to
+figure out this kind of mistake made by
+
+336
+00:30:42,000 --> 00:30:50,000
+developer.
+
+337
+00:30:55,000 --> 00:31:03,000
+And then for testing, for doing off-chain
+tests like Amitabh did a lot for Dexy and
+
+338
+00:31:03,000 --> 00:31:11,000
+so on. Yeah, that's also much easier,
+quite trivial to do with. So this day, so
+
+339
+00:31:11,000 --> 00:31:19,000
+I did some tests for chain cash contracts
+basically for free. Yeah, for four basis
+
+340
+00:31:19,000 --> 00:31:27,000
+also. There are some contributors like
+Arcadia doing now some tests with LLMs
+
+341
+00:31:27,000 --> 00:31:35,000
+probably without scala knowledge even,
+right? So, well, LLMs is just mutating
+
+342
+00:31:35,000 --> 00:31:43,000
+test factors. And yeah, that's also quite
+helpful. So before a few years ago, we
+
+343
+00:31:43,000 --> 00:31:51,000
+spent many days for doing such mutations
+manually. Then, yeah, well, with tests for
+
+344
+00:31:51,000 --> 00:31:59,000
+contracts, you can find also some issues,
+right, when you're developing contracts.
+
+345
+00:31:59,000 --> 00:32:07,000
+And then, yeah, for the node itself, so
+got better testing coverage. And, yeah,
+
+346
+00:32:07,000 --> 00:32:15,000
+for Sigma interpreter also with LLMs. So
+they're working quite well when you
+
+347
+00:32:15,000 --> 00:32:23,000
+already have vast testing code base. So
+when you have like 300 tests, it's quite
+
+348
+00:32:23,000 --> 00:32:31,000
+trivial to derive another one, right? So
+yeah, that's where LLMs are working
+
+349
+00:32:31,000 --> 00:32:39,000
+perfectly.
+
+350
+00:32:42,000 --> 00:32:46,000
+And while you're talking, kushti, I'm
+just going through all the stuff on
+
+351
+00:32:46,000 --> 00:32:50,000
+Degen's world that he's built so far,
+that's accompanying your voice. Pretty
+
+352
+00:32:50,000 --> 00:32:54,000
+neat stuff.
+
+353
+00:32:55,000 --> 00:33:01,000
+Yeah, then developing some trivial
+contracts, right? Like, well, from a
+
+354
+00:33:01,000 --> 00:33:07,000
+coding point of view, probably ErgoScript
+is not quite complex, right? But then you
+
+355
+00:33:07,000 --> 00:33:13,000
+need to develop off-chain part and with
+LLMs it's now trivial because well, it's
+
+356
+00:33:13,000 --> 00:33:19,000
+also quite simpletizable, quite
+straightforward to generate after studying
+
+357
+00:33:19,000 --> 00:33:25,000
+existing examples.
+
+358
+00:33:28,000 --> 00:33:31,000
+Well, I would like to shout out our two
+new devs we have, thanks to the vibe
+
+359
+00:33:31,000 --> 00:33:34,000
+coding. So we have Michael, who is vibe
+coding, and also we have CannonQ, who's
+
+360
+00:33:34,000 --> 00:33:37,000
+working on some stuff.
+
+361
+00:33:39,000 --> 00:33:47,000
+Oh, right. Yeah, so Bro Etiquette,
+Arcadia, and more, yeah.
+
+362
+00:33:47,000 --> 00:33:51,000
+Well, you guys are chatting. Let me go to
+development and try to find CannonQ's
+
+363
+00:33:51,000 --> 00:33:55,000
+site. What's it called, HQ?
+
+364
+00:33:56,000 --> 00:34:00,000
+I think he did. It's cyberverse.app.
+Yeah, but I think if you go to new dev, I
+
+365
+00:34:00,000 --> 00:34:04,000
+think there is this link for it.
+
+366
+00:34:05,000 --> 00:34:09,000
+Yeah, but I thought CannonQ had a name
+for it. It's like Wallet History or
+
+367
+00:34:09,000 --> 00:34:13,000
+something like that. No.
+
+368
+00:34:14,000 --> 00:34:17,000
+I think he built two different things. He
+built that one thing for cyberverse,
+
+369
+00:34:17,000 --> 00:34:20,000
+another thing was for the Wallet History.
+
+370
+00:34:20,000 --> 00:34:24,000
+OK, here's Cyberverse Viewer. Let me put
+that up. Let's see how that looks,
+
+371
+00:34:24,000 --> 00:34:28,000
+everybody. So he built this. Oh, that's a
+fast load. He's slow. Nice. Very cool.
+
+372
+00:34:28,000 --> 00:34:32,000
+Yeah, so he's got Cyberverse Viewer here.
+Very cool. Do you know if he's using the
+
+373
+00:34:32,000 --> 00:34:36,000
+CDN from Auction House that this stuff
+loads nicely?
+
+374
+00:34:39,000 --> 00:34:43,000
+No, I think he has the map. Oh,
+fantastic.
+
+375
+00:34:43,000 --> 00:34:50,000
+Yeah, because it is fast loading. That's
+really awesome. Dang. Amazing. Who else?
+
+376
+00:34:50,000 --> 00:34:57,000
+Who does the Cyberverse Wiki, right?
+Doesn't somebody else?
+
+377
+00:34:57,000 --> 00:35:03,000
+Leximon, but he, I think, is not with us
+anymore, at least in the chats.
+
+378
+00:35:03,000 --> 00:35:07,000
+OK. All right, so this is a kind of at
+least take up from that. But this is
+
+379
+00:35:07,000 --> 00:35:11,000
+awesome, yeah. And then CannonQ also built
+the kind of tax collector stuff, where you
+
+380
+00:35:11,000 --> 00:35:15,000
+can put in a range of time. And
+essentially, it tells you what your tokens
+
+381
+00:35:15,000 --> 00:35:19,000
+and Ergo have done in that amount of time
+kind of thing. So that's a pretty neat
+
+382
+00:35:19,000 --> 00:35:23,000
+feature as well. Nothing like trying to
+murder all the nodes and stuff.
+
+383
+00:35:27,000 --> 00:35:35,000
+Oh, and I forgot about this, guys.
+
+384
+00:35:35,000 --> 00:35:38,000
+Yes. So it's becoming...
+
+385
+00:35:38,000 --> 00:35:45,000
+I have a question. So talking about AI
+agents, is there any way we can have AI
+
+386
+00:35:45,000 --> 00:35:52,000
+agent on chain which can execute stuff
+based on logic? You just provide them?
+
+387
+00:35:52,000 --> 00:35:55,000
+Yeah, but what does it mean on-chain?
+
+388
+00:35:55,000 --> 00:36:00,000
+I mean that the AI agent is on-chain. For
+example, it's a smart contract on-chain
+
+389
+00:36:00,000 --> 00:36:05,000
+where you send something like maybe a
+signal of something and the bot, instead
+
+390
+00:36:05,000 --> 00:36:10,000
+of the smart contract logic, it also runs
+the AI logic to it. I know it's a super
+
+391
+00:36:10,000 --> 00:36:15,000
+solution.
+
+392
+00:36:15,000 --> 00:36:23,000
+Yeah, but that's AI logic is off chain,
+right? So usually it's when people are
+
+393
+00:36:23,000 --> 00:36:31,000
+talking about AI on chain. So usually it's
+about some trusted gateway to trusted. I
+
+394
+00:36:31,000 --> 00:36:39,000
+don't write.
+
+395
+00:36:41,000 --> 00:36:46,000
+So I'm clicking through on the screen.
+You guys can't see it on Zoom. But the
+
+396
+00:36:46,000 --> 00:36:51,000
+Simple Explorer that I built with ChatGPT,
+maybe like eight months ago. And then I
+
+397
+00:36:51,000 --> 00:36:56,000
+just recently revamped it with Claude a
+little bit to make it a little better. And
+
+398
+00:36:56,000 --> 00:37:01,000
+it uses, what's it called? It uses the CDN
+from Auction House to find NFTs that
+
+399
+00:37:01,000 --> 00:37:06,000
+they're holding and caching. So at least
+for now, NFT should load fairly fast. And
+
+400
+00:37:06,000 --> 00:37:11,000
+I was going to look at, let's see, I was
+going to try to show you an example of
+
+401
+00:37:11,000 --> 00:37:16,000
+that. Let's look for that.
+
+402
+00:37:21,000 --> 00:37:25,000
+So you can just type in a wallet, or an
+address, or a token ID, or a transaction
+
+403
+00:37:25,000 --> 00:37:29,000
+ID, just like ErgExplorer, and it knows
+which one it is and lists it. So let's
+
+404
+00:37:29,000 --> 00:37:33,000
+take an old NFT that we probably know
+shouldn't be anywhere like Cyberverse
+
+405
+00:37:33,000 --> 00:37:37,000
+1129. Boom, there, it loads perfectly
+well. And it loads from Ergo Auction House
+
+406
+00:37:37,000 --> 00:37:41,000
+content delivery network, as opposed to
+the IPFS. Yeah, this one doesn't look like
+
+407
+00:37:41,000 --> 00:37:45,000
+it, so it's going to try IPFS, and it's
+probably been too long to where it's been
+
+408
+00:37:45,000 --> 00:37:49,000
+un-pinned from an IPFS site. So some of
+them will not load, ever, unless they're
+
+409
+00:37:49,000 --> 00:37:53,000
+re-pinned somehow. Oh, it's a kushti
+Cyberverse skin. Look at that, kushti.
+
+410
+00:37:53,000 --> 00:37:57,000
+That's one of my favorites. Did you know
+you're on Cyberverse? You have an Ergo
+
+411
+00:37:57,000 --> 00:38:01,000
+piece of armor on, kushti?
+
+412
+00:38:09,000 --> 00:38:14,000
+Uh, no, I don't know.
+
+413
+00:38:14,000 --> 00:38:18,000
+For all the stuff I have done for
+Cybervese when I'm not even in the museum.
+
+414
+00:38:18,000 --> 00:38:22,000
+No, I know the museum's a little old,
+right? When the game was open, I went to
+
+415
+00:38:22,000 --> 00:38:26,000
+the museum and I was standing with a
+chilling friend. And I was like, okay,
+
+416
+00:38:26,000 --> 00:38:30,000
+he's here and I'm not here.
+
+417
+00:38:33,000 --> 00:38:39,000
+Do we know if Heroes used any AI? I wish
+Heroes was here. It'd be nice if Heroes
+
+418
+00:38:39,000 --> 00:38:45,000
+watching. Please hop in. But what's it
+called? I remember my password. It'd be
+
+419
+00:38:45,000 --> 00:38:51,000
+amazing if... Sorry, I can't hear myself
+because I just opened up Cyberverse and
+
+420
+00:38:51,000 --> 00:38:57,000
+it's blasting. It's blasting in my ear.
+Let me mute it. OK. It'd be amazing if
+
+421
+00:38:57,000 --> 00:39:03,000
+Hiro would let us know how much AI is
+involved in his game creation now, right?
+
+422
+00:39:03,000 --> 00:39:09,000
+Because they just actually, and for those
+of you on Zoom that can't see this, I'm in
+
+423
+00:39:09,000 --> 00:39:15,000
+Cyberverse right now streaming on the
+right-hand side. They integrated the betas
+
+424
+00:39:15,000 --> 00:39:21,000
+up for the early people that can hop in
+and test. And Pixel gave me access to it.
+
+425
+00:39:21,000 --> 00:39:27,000
+And this is a new section right here for
+combat. Let me see. I'll go in real
+
+426
+00:39:27,000 --> 00:39:33,000
+quickly, and I will enter this part and
+get the crap kicked out of me by some
+
+427
+00:39:33,000 --> 00:39:39,000
+squirrely guy. Yep. Yeah. Oh, boy. Yeah,
+I'm going to run away. So I'd love to see.
+
+428
+00:39:39,000 --> 00:39:45,000
+Hiro, if you're watching this at some
+point, or Mr. Pixel, if you could comment
+
+429
+00:39:45,000 --> 00:39:51,000
+or tell us exactly how much AI is involved
+in any of your coding. I know probably not
+
+430
+00:39:51,000 --> 00:39:57,000
+with the artwork, right? You guys are
+painstakingly hand-drawing all the
+
+431
+00:39:57,000 --> 00:40:03,000
+artwork. But with integration or anything
+like that, how are you guys embracing AI?
+
+432
+00:40:03,000 --> 00:40:09,000
+That would be neat to know. Do you guys
+know? You guys hear anything, HQ?
+
+433
+00:40:11,000 --> 00:40:18,000
+No, I have never talked about development
+side of Cyberverse.
+
+434
+00:40:18,000 --> 00:40:23,000
+Gotcha. Gotcha. Yeah, that's that. Very
+cool. We'll leave that up. That's a good
+
+435
+00:40:23,000 --> 00:40:28,000
+picture to have. It's such a beautiful
+game. What else, guys? We got some class.
+
+436
+00:40:28,000 --> 00:40:33,000
+Yeah, go for it, kushti.
+
+437
+00:40:34,000 --> 00:40:42,000
+Yeah, so now it's easier and easier to
+develop applications, right, on-chain
+
+438
+00:40:42,000 --> 00:40:50,000
+applications. So then it's changing, well,
+economics of the process, right? So, well,
+
+439
+00:40:50,000 --> 00:40:58,000
+no need in most cases now to issue those
+stupid tokens, like DEV tokens, right?
+
+440
+00:40:58,000 --> 00:41:06,000
+Because, well, it's becoming easier and
+easier to do all that stuff. But yeah, I
+
+441
+00:41:06,000 --> 00:41:14,000
+mean, people are creating millions of meme
+coins anyway, so those dev tokens are also
+
+442
+00:41:14,000 --> 00:41:22,000
+probably going to this category quite
+soon. But if we are talking about some
+
+443
+00:41:22,000 --> 00:41:30,000
+serious applications useful for the real
+world, then probably we need to think
+
+444
+00:41:30,000 --> 00:41:38,000
+about economic implications and how to
+build economies around those imagined
+
+445
+00:41:38,000 --> 00:41:46,000
+possibilities.
+
+446
+00:41:48,000 --> 00:41:52,000
+Right, you said something on Twitter the
+other day, kushti, that says, if there's
+
+447
+00:41:52,000 --> 00:41:56,000
+100 times more developers being able to
+code on blockchains, then the only thing
+
+448
+00:41:56,000 --> 00:42:00,000
+that stands out among blockchains now is
+the fundamentals of the blockchain, or
+
+449
+00:42:00,000 --> 00:42:04,000
+something like that. What was your quote?
+Do you remember what that was?
+
+450
+00:42:04,000 --> 00:42:12,000
+Right, yeah, so ideas and yeah, they
+soundness, right? So you need for solid
+
+451
+00:42:12,000 --> 00:42:20,000
+ideas and you need to be focused right on
+principles. So solid foundations and
+
+452
+00:42:20,000 --> 00:42:28,000
+principles and well, the ideas should be
+sound economically and monetary wise,
+
+453
+00:42:28,000 --> 00:42:36,000
+right? Because after all, the whole space
+is mostly about money, right? Doing money
+
+454
+00:42:36,000 --> 00:42:44,000
+while optimistically producing better
+forms of money than we have today. So
+
+455
+00:42:44,000 --> 00:42:52,000
+yeah, that's what does matter and well,
+doing token for Web3 somewhat application
+
+456
+00:42:52,000 --> 00:43:00,000
+just because you want to dump this token
+on others.
+
+457
+00:43:02,000 --> 00:43:05,000
+Yeah, it's... Wasn't there a dump of the
+New York City token the other day or
+
+458
+00:43:05,000 --> 00:43:08,000
+whatever that was of Mayor Eric Adams? I
+didn't get to the bottom of it to see how
+
+459
+00:43:08,000 --> 00:43:11,000
+legitimate it was, but
+
+460
+00:43:13,000 --> 00:43:22,000
+But that's about meme, right? There are a
+lot of dev tokens and I think for them
+
+461
+00:43:22,000 --> 00:43:31,000
+there is need to consider well, soundness
+also, right?
+
+462
+00:43:31,000 --> 00:43:35,000
+Yeah, but I think we're going to see at
+some point with the people's ability to
+
+463
+00:43:35,000 --> 00:43:39,000
+make these. I mean, you can spin up a pump
+fun site or something like that in a
+
+464
+00:43:39,000 --> 00:43:43,000
+matter of minutes now, right? So you might
+see more deployment of those kind of
+
+465
+00:43:43,000 --> 00:43:47,000
+things at some point. Once the people
+hungry for rugs and meme coins start doing
+
+466
+00:43:47,000 --> 00:43:51,000
+that more, you're going to see more shit
+like that, I imagine. Maybe more hacks as
+
+467
+00:43:51,000 --> 00:43:55,000
+well. I mean, I can, I'd be afraid to, I'd
+be afraid to vibe code on Ethereum
+
+468
+00:43:55,000 --> 00:43:59,000
+network. I don't know. Sorry. Go HQ.
+
+469
+00:44:05,000 --> 00:44:10,000
+I have a, let's say, I'm not sure if a EF
+will be able to handle any Ergo hack this
+
+470
+00:44:10,000 --> 00:44:15,000
+year because of knowing the funds they
+have remaining. So now that we are talking
+
+471
+00:44:15,000 --> 00:44:20,000
+about AI and what do you guys think if on
+the main Ergo platform and GitHub, we just
+
+472
+00:44:20,000 --> 00:44:25,000
+create another branch with multiple
+languages, let's say with SVELTE, Node.js
+
+473
+00:44:25,000 --> 00:44:30,000
+and different frameworks with projects,
+simple projects with MD files with how to
+
+474
+00:44:30,000 --> 00:44:35,000
+sign transactions, how this works, how to
+do that and create a simple hackathon
+
+475
+00:44:35,000 --> 00:44:40,000
+based on AI. So people have to build a
+simple app using the frameworks which are
+
+476
+00:44:40,000 --> 00:44:45,000
+already there. So there is a base which
+has wallet connection and everything, but
+
+477
+00:44:45,000 --> 00:44:50,000
+they have to build on top of it. So maybe
+it would be nice to have a small kind of
+
+478
+00:44:50,000 --> 00:44:55,000
+hackathon for AI based stuff so people can
+build stuff and it doesn't need to be a
+
+479
+00:44:55,000 --> 00:45:00,000
+bigger price for it. So maybe a small
+price for all the people who participate
+
+480
+00:45:00,000 --> 00:45:05,000
+and see how people actually use AI and how
+what apps can be built. So if outcome of
+
+481
+00:45:05,000 --> 00:45:10,000
+that, there is one app which is liked by
+many community. So we could just grab that
+
+482
+00:45:10,000 --> 00:45:15,000
+app and make it more decentralized and
+make it much cleaner. So having some
+
+483
+00:45:15,000 --> 00:45:20,000
+templates up with some readme.md with all
+how transaction works and all that would
+
+484
+00:45:20,000 --> 00:45:25,000
+be easier for all the vibe coders which
+are looking for blockchains one way to
+
+485
+00:45:25,000 --> 00:45:30,000
+develop on.
+
+486
+00:45:40,000 --> 00:45:44,000
+No, I agree, HQ. I think it would have
+been because I have to essentially harvest
+
+487
+00:45:44,000 --> 00:45:48,000
+code every time I want to teach Claude how
+to do a wallet connection or how to do
+
+488
+00:45:48,000 --> 00:45:52,000
+that. So it would be amazing if I could
+just point him to a repo that's been tried
+
+489
+00:45:52,000 --> 00:45:56,000
+and tested and fixed that says, hey,
+here's how we connect in JS. Here's how we
+
+490
+00:45:56,000 --> 00:46:00,000
+connect in Perl. Here's how we connect in
+Swift. Here's how all this works kind of
+
+491
+00:46:00,000 --> 00:46:04,000
+thing.
+
+492
+00:46:09,000 --> 00:46:13,000
+Just have four different frameworks.
+Let's say, then we have a simple HTML.
+
+493
+00:46:13,000 --> 00:46:17,000
+There are people who would like to build
+on HTML. You have built on HTML and using
+
+494
+00:46:17,000 --> 00:46:21,000
+Fleet. So yeah, so just have a simpler
+templates there for them so people can
+
+495
+00:46:21,000 --> 00:46:25,000
+just fork them and work on it. And then
+you see all the activity it can bring on
+
+496
+00:46:25,000 --> 00:46:29,000
+chain also in all the development for the
+new people who are interested in these
+
+497
+00:46:29,000 --> 00:46:33,000
+kind of things.
+
+498
+00:46:34,000 --> 00:46:38,000
+Yeah, but definitely save tokens and
+time, that's for sure.
+
+499
+00:46:38,000 --> 00:46:45,000
+Yeah. Yeah, and so for AI-focused
+hackathon, actually, we had one in
+
+500
+00:46:45,000 --> 00:46:52,000
+December. So that was unstoppable
+hackathon in Jaipur. And so, yeah, there
+
+501
+00:46:52,000 --> 00:46:59,000
+were some Ergo-related applications, such
+as updated visual coding tool. And more,
+
+502
+00:46:59,000 --> 00:47:06,000
+so me and Bruno are still, well, messing
+with doing previous bit because, well,
+
+503
+00:47:06,000 --> 00:47:13,000
+most of applications were, well, vibe
+coded again by students, right? And yeah,
+
+504
+00:47:13,000 --> 00:47:20,000
+well, a lot of them. And also, well, many
+repositories are now full of vibe coded
+
+505
+00:47:20,000 --> 00:47:27,000
+pull requests, but yeah, usually it's low
+quality slop there, but there are about
+
+506
+00:47:27,000 --> 00:47:34,000
+100 pull requests created in all the
+repositories according to CannonQ. And
+
+507
+00:47:34,000 --> 00:47:41,000
+yeah, well, I've reviewed only like three
+of them and two reviewed by Dusik to the
+
+508
+00:47:41,000 --> 00:47:48,000
+moment. So yeah, well, it's another side,
+right? So it's cheap to produce code, but
+
+509
+00:47:48,000 --> 00:47:55,000
+well, if you're talking about core
+repositories, then yeah, usually we need
+
+510
+00:47:55,000 --> 00:48:02,000
+higher quality than LLMs are capable.
+
+511
+00:48:07,000 --> 00:48:16,000
+Then for core repositories we now have
+the interpreter and also the node
+
+512
+00:48:16,000 --> 00:48:25,000
+repositories. The code there now contains
+agents.md file which is prohibiting to use
+
+513
+00:48:25,000 --> 00:48:34,000
+AI agents in main codes, non-testing. So,
+well, agents may produce tests only
+
+514
+00:48:34,000 --> 00:48:43,000
+according to those rules for agents. But
+yes, such rules are respected by some
+
+515
+00:48:43,000 --> 00:48:52,000
+tooling like Claude code, Quen code, Krush
+and so on. But not all the tools even
+
+516
+00:48:52,000 --> 00:49:01,000
+respect those rules. So yeah, it's quite a
+dynamic landscape, right? And yeah, so for
+
+517
+00:49:01,000 --> 00:49:10,000
+hackathons, I think, well, it's maybe
+better to do, well, hackathons with
+
+518
+00:49:10,000 --> 00:49:19,000
+external partners, like unstoppable,
+right? So that was quite an exciting
+
+519
+00:49:19,000 --> 00:49:28,000
+experience. Yeah, we've got hundreds of
+students now, well, having some idea about
+
+520
+00:49:28,000 --> 00:49:37,000
+Ergo Blockchain. That's quite nice.
+
+521
+00:49:42,000 --> 00:49:47,000
+Oh, I got a question for all of you guys,
+the vibe code. So imagine you run, you
+
+522
+00:49:47,000 --> 00:49:52,000
+know, you're in control of several repos,
+right, with complex code. Now, I was
+
+523
+00:49:52,000 --> 00:49:57,000
+reading an article, not an article, a post
+on Reddit maybe a couple of weeks ago
+
+524
+00:49:57,000 --> 00:50:02,000
+about somebody who's a maintainer of a
+project that's on there that's somewhat
+
+525
+00:50:02,000 --> 00:50:07,000
+popular. And he said that the most
+annoying thing that he sees is when, now
+
+526
+00:50:07,000 --> 00:50:12,000
+that there's a vibe coding around, that
+there are so many pull requests with just
+
+527
+00:50:12,000 --> 00:50:17,000
+script kiddies or whatever, people don't
+understand code, just putting it into AI
+
+528
+00:50:17,000 --> 00:50:22,000
+and recommending changes on the code or
+feature additions and that kind of thing.
+
+529
+00:50:22,000 --> 00:50:27,000
+And he said he finds that his time is so
+much more taken up with either ignoring
+
+530
+00:50:27,000 --> 00:50:32,000
+these things or actually seeing if they'll
+work and that kind of thing, as opposed to
+
+531
+00:50:32,000 --> 00:50:37,000
+somebody who knows what they're doing and
+knows how to really suggest changes in
+
+532
+00:50:37,000 --> 00:50:42,000
+PRs. What are your thoughts on that and
+how busy that could become for a
+
+533
+00:50:42,000 --> 00:50:47,000
+maintainer of a project?
+
+534
+00:50:47,000 --> 00:50:55,000
+Yeah, that's true. So that's quite
+challenging, right? So yeah, we also have
+
+535
+00:50:55,000 --> 00:51:03,000
+people coming with vibe coded pull
+requests for the nodes or Sigma state
+
+536
+00:51:03,000 --> 00:51:11,000
+interpreter. And yeah, usually, well, it's
+just slop, right? So quality is terrible
+
+537
+00:51:11,000 --> 00:51:19,000
+and the pull requests are not achieving
+goals specified simply.
+
+538
+00:51:20,000 --> 00:51:25,000
+Yeah. Yeah. I mean, even before that,
+though, I mean, you'd have people submit
+
+539
+00:51:25,000 --> 00:51:30,000
+pull requests that weren't great and
+hardly had to be checked kind of thing.
+
+540
+00:51:30,000 --> 00:51:35,000
+Even just with the language translations
+we had to deal with, there were some
+
+541
+00:51:35,000 --> 00:51:40,000
+things there with that massive amount of
+files, yeah, file that you had to go
+
+542
+00:51:40,000 --> 00:51:45,000
+through. But yeah. Yeah, I get it. Well,
+HQ had to leave us. Let me check and see
+
+543
+00:51:45,000 --> 00:51:50,000
+if there's any questions that are besides
+price talk in the chat.
+
+544
+00:51:50,000 --> 00:51:55,000
+Byron wants to know when Gluon is,
+kushti. Let's see, anything else? Somebody
+
+545
+00:51:55,000 --> 00:52:00,000
+mentioned Deco? Yeah, we love Deco. Ergo
+the Argonian commented on Deco, how it
+
+546
+00:52:00,000 --> 00:52:05,000
+hasn't been around for a bit. But that was
+fantastic, listening to the Cheese and
+
+547
+00:52:05,000 --> 00:52:10,000
+LGD. Some of the videos are still out
+there, guys, and LGD's been around a long
+
+548
+00:52:10,000 --> 00:52:15,000
+time. He's been on a couple videos lately
+even. There's a video from the Meetup
+
+549
+00:52:15,000 --> 00:52:20,000
+where he explains Gluon. I think he also
+has another presentation that he did for
+
+550
+00:52:20,000 --> 00:52:25,000
+Gluon recently, even after the Ergo
+Meetup. So they're still around with that
+
+551
+00:52:25,000 --> 00:52:30,000
+kind of stuff, which is great.
+
+552
+00:52:31,000 --> 00:52:39,000
+You know what I'd love to do? You know
+what I built for? Let me see if I can get
+
+553
+00:52:39,000 --> 00:52:47,000
+this up for you guys. I would love to be
+able to get Cheese and LGD's voice, and
+
+554
+00:52:47,000 --> 00:52:55,000
+also Marty, those three, those
+combinations. And I would love to do this.
+
+555
+00:52:55,000 --> 00:53:00,000
+So I built this based on ChatterTTS. It's
+a Python PyTorch library that runs on a
+
+556
+00:53:00,000 --> 00:53:05,000
+machine with two 3090s right here next to
+me, actually, in Iraq. So you take a
+
+557
+00:53:05,000 --> 00:53:10,000
+reference voice right here and you put in
+a bunch of text, and it generates a pretty
+
+558
+00:53:10,000 --> 00:53:15,000
+darn accurate output of that person's
+voice. So it would be amazing if maybe we
+
+559
+00:53:15,000 --> 00:53:20,000
+could fundraise and get LGD or Cheese to
+be able to take text-based tutorials, and
+
+560
+00:53:20,000 --> 00:53:25,000
+we could make AI content out of them with
+their voice kind of thing in that theme of
+
+561
+00:53:25,000 --> 00:53:30,000
+Deco. I know some people might think
+that's a little creepy, but we're actually
+
+562
+00:53:30,000 --> 00:53:35,000
+using this here on the campus for a
+specific medical reason that we're testing
+
+563
+00:53:35,000 --> 00:53:40,000
+out and on. And it seems to work really
+well for people with speech difficulties.
+
+564
+00:53:40,000 --> 00:53:45,000
+But there are other opportunities as well.
+Somebody wrote me after I released it and
+
+565
+00:53:45,000 --> 00:53:50,000
+says, hey, I do these tutorials online.
+And I can't get through two seconds of
+
+566
+00:53:50,000 --> 00:53:55,000
+this thing or or, so I'd love to be able
+to just use this kind of tool. So I'd love
+
+567
+00:53:55,000 --> 00:54:00,000
+to use this for DECO, you know, take tech
+space, put the familiar voices of cheese
+
+568
+00:54:00,000 --> 00:54:05,000
+and LGD on there and go from there. Even
+kushti, we could take your voice.
+
+569
+00:54:14,000 --> 00:54:19,000
+And the really cool thing about this as
+well is we can convert them to different
+
+570
+00:54:19,000 --> 00:54:24,000
+languages too. So we can do multilingual
+here, and we can choose different
+
+571
+00:54:24,000 --> 00:54:29,000
+languages. We can switch to Russian. If we
+paste Russian text in here, it'll take my
+
+572
+00:54:29,000 --> 00:54:34,000
+voice and speak Russian. It'll take
+kushti's voice and speak English or that
+
+573
+00:54:34,000 --> 00:54:39,000
+kind of thing. So I think that would be a
+really cool tool for blending with Deco or
+
+574
+00:54:39,000 --> 00:54:44,000
+whatever that is. Just my two cents there
+boys.
+
+575
+00:54:48,000 --> 00:54:58,000
+Well, in the developer's chat, there is a
+guy, x10zyn, who is doing a Sigma book.
+
+576
+00:54:58,000 --> 00:55:08,000
+He's going through a few repositories and
+documentation and creating a book on how
+
+577
+00:55:08,000 --> 00:55:18,000
+ErgoScript is working under the hood, the
+Sigma layer. And yeah, it's actually in
+
+578
+00:55:18,000 --> 00:55:28,000
+some parts quite beautiful. And he is,
+well, analyzing with agents the code in
+
+579
+00:55:28,000 --> 00:55:38,000
+scala, mostly rust also, and generating
+snippets for his book in Zic language. So
+
+580
+00:55:38,000 --> 00:55:48,000
+you can translate, well, not in human
+languages, but also in computer languages
+
+581
+00:55:48,000 --> 00:55:58,000
+also. So yeah, that's great. And well,
+going back to, well, 100x more developers
+
+582
+00:55:58,000 --> 00:56:08,000
+and ideas, I think we need to revive work
+on Ergo book, right? So well, to outline
+
+583
+00:56:08,000 --> 00:56:18,000
+the path, how to get better money for the
+real-world needs. From those ideas, people
+
+584
+00:56:18,000 --> 00:56:28,000
+can work with AI agents also, with or
+without AI agents that they can develop
+
+585
+00:56:28,000 --> 00:56:38,000
+from the, well, ideas from the Ergo book.
+So I need to ping, guys working on that,
+
+586
+00:56:38,000 --> 00:56:48,000
+so Joe, Greyman, and yeah, I'm also
+inviting Martin, so yeah.
+
+587
+00:56:57,000 --> 00:57:01,000
+Very cool. And Grayman's already written
+a couple chapters.
+
+588
+00:57:01,000 --> 00:57:13,000
+He has written some pieces on silver and
+history of US monetary system, including
+
+589
+00:57:13,000 --> 00:57:25,000
+pre-fed era. So yeah, quite interesting.
+
+590
+00:57:25,000 --> 00:57:30,000
+Very cool. All right, guys, well, five
+minutes over. I think kushti, you're
+
+591
+00:57:30,000 --> 00:57:35,000
+interested in the spaces next time? Was
+that your proposal?
+
+592
+00:57:36,000 --> 00:57:42,000
+I don't know. So let's do maybe chain
+cache basis-related spaces. How about that
+
+593
+00:57:42,000 --> 00:57:48,000
+next Thursday then?
+
+594
+00:57:49,000 --> 00:57:52,000
+I'm down. That sounds fun.
+
+595
+00:57:52,000 --> 00:57:55,000
+All right. That sounds good, guys. So
+stay tuned for Spaces on Chain Cache
+
+596
+00:57:55,000 --> 00:57:58,000
+featuring Fitz and kushti.
+
+597
+00:57:59,000 --> 00:58:05,000
+Yeah, we will invite more guys, so Joe
+maybe, and so on.
+
+598
+00:58:05,000 --> 00:58:10,000
+Perfect. Awesome. All right, guys, thanks
+for joining. Don't be afraid to speak up
+
+599
+00:58:10,000 --> 00:58:15,000
+in the developer chat. Even if you're vibe
+coding, nobody shames there. Don't feel
+
+600
+00:58:15,000 --> 00:58:20,000
+embarrassed to do that. Everybody's
+learning, and everybody's welcome, that's
+
+601
+00:58:20,000 --> 00:58:25,000
+for sure. Thanks so much, Fitz, kushti,
+and HQ for joining today.
+
+602
+00:58:27,000 --> 00:58:32,000
+Thank you very much. And thank you guys
+for the patience, too. Like you said, the
+
+603
+00:58:32,000 --> 00:58:37,000
+vibe coding, actually, it's been - It's
+been like I haven't got any judgment. So
+
+604
+00:58:37,000 --> 00:58:42,000
+it's been awesome just to build. So yeah,
+it's been a pleasure, too.
+
+605
+00:58:42,000 --> 00:58:46,000
+Amazing. All right. Thanks, guys. Ciao.
+Take it easy, everybody.
+
+606
+00:58:46,000 --> 00:58:48,000
+Yeah. Thank you, everyone. Bye.
+
+607
+00:58:48,000 --> 00:58:51,000
+Keep in touch.
+
