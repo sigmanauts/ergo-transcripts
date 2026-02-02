@@ -1,0 +1,3057 @@
+1
+00:00:10,000 --> 00:00:12,000
+Mark, what's up, man?
+
+2
+00:00:12,000 --> 00:00:13,000
+Hey, Tim.
+
+3
+00:00:13,000 --> 00:00:14,000
+Good, man.
+
+4
+00:00:14,000 --> 00:00:15,000
+Long time.
+
+5
+00:00:15,000 --> 00:00:16,000
+How's it going?
+
+6
+00:00:16,000 --> 00:00:18,000
+Dude, I'm doing very good.
+
+7
+00:00:18,000 --> 00:00:22,000
+I just moved and got my life in order.
+
+8
+00:00:22,000 --> 00:00:25,000
+But happy to sit down for a minute.
+
+9
+00:00:25,000 --> 00:00:27,000
+This will be episode two.
+
+10
+00:00:27,000 --> 00:00:30,000
+We had a little hiccup with our episodes.
+
+11
+00:00:30,000 --> 00:00:33,000
+And so this is episode two.
+
+12
+00:00:33,000 --> 00:00:39,000
+And today, we kind of wanted to talk
+about some current events.
+
+13
+00:00:39,000 --> 00:00:43,000
+First thing was just like a big thing.
+
+14
+00:00:43,000 --> 00:00:44,000
+I think it's super cool.
+
+15
+00:00:44,000 --> 00:00:47,000
+Like just the emission reduction just
+happened.
+
+16
+00:00:47,000 --> 00:00:49,000
+Do you want to kind of talk about that?
+
+17
+00:00:49,000 --> 00:00:52,000
+Like where are we at and where are we
+going?
+
+18
+00:00:52,000 --> 00:00:53,000
+Yeah, absolutely.
+
+19
+00:00:53,000 --> 00:00:58,000
+So I think we're at 21 now as a block
+reward.
+
+20
+00:00:58,000 --> 00:01:01,000
+And so I think I counted this morning, we
+have six more steps from a decrease of
+
+21
+00:01:01,000 --> 00:01:04,000
+three to get to three.
+
+22
+00:01:04,000 --> 00:01:05,000
+So sometime in 2026.
+
+23
+00:01:05,000 --> 00:01:09,000
+So I think the miners are definitely
+starting to feel it.
+
+24
+00:01:09,000 --> 00:01:11,000
+I mean, especially from earlier this
+year, we were at like 30, really like 33
+
+25
+00:01:11,000 --> 00:01:13,000
+or something like that.
+
+26
+00:01:14,000 --> 00:01:17,000
+And then now we're... What does that make
+sense?
+
+27
+00:01:17,000 --> 00:01:19,000
+Anyways, we're at something like that.
+
+28
+00:01:19,000 --> 00:01:21,000
+And then now here we are at 21.
+
+29
+00:01:21,000 --> 00:01:22,000
+Next one's about to be 18.
+
+30
+00:01:22,000 --> 00:01:25,000
+So less and less are being mined, and the
+price is still sort of consistently the
+
+31
+00:01:25,000 --> 00:01:28,000
+same.
+
+32
+00:01:29,000 --> 00:01:32,000
+So it's an interesting sort of trade off
+from a mining perspective right now to
+
+33
+00:01:32,000 --> 00:01:35,000
+where we're getting even less ERG.
+
+34
+00:01:35,000 --> 00:01:41,000
+Essentially the same electricity costs
+around the same sort of cost to sell it.
+
+35
+00:01:41,000 --> 00:01:45,000
+So hopefully start to see some pressure
+one way or the other, hopefully up, to
+
+36
+00:01:45,000 --> 00:01:49,000
+kind of alleviate some of the mining
+struggles at the moment, but kind of
+
+37
+00:01:49,000 --> 00:01:53,000
+exciting, nonetheless, another sort of
+halving but not so.
+
+38
+00:01:55,000 --> 00:02:00,000
+I mean, honestly, it's more than a
+halving since when I started, I think when
+
+39
+00:02:00,000 --> 00:02:05,000
+I got in at 21, it was 72, right?
+
+40
+00:02:06,000 --> 00:02:08,000
+That's a lot of ERG right now.
+
+41
+00:02:08,000 --> 00:02:16,000
+And it was a lot of ERG, and we were at
+$10 or something.
+
+42
+00:02:16,000 --> 00:02:17,000
+Yeah, absolutely.
+
+43
+00:02:17,000 --> 00:02:23,000
+When I think about that I just learned so
+much about like trading and stuff like,
+
+44
+00:02:23,000 --> 00:02:29,000
+oh, I should definitely have taken
+profits. I knew it was gonna happen.
+
+45
+00:02:29,000 --> 00:02:31,000
+And it was actually more aggressive.
+
+46
+00:02:31,000 --> 00:02:34,000
+The emission was more aggressive.
+
+47
+00:02:34,000 --> 00:02:36,000
+Before we changed it.
+
+48
+00:02:36,000 --> 00:02:39,000
+Do you want to talk about the emission,
+the contract, the new change that
+
+49
+00:02:39,000 --> 00:02:42,000
+happened?
+
+50
+00:02:43,000 --> 00:02:47,000
+I'm not too familiar, I guess.
+
+51
+00:02:47,000 --> 00:02:49,000
+So yeah, why don't you go ahead and take
+it away?
+
+52
+00:02:49,000 --> 00:02:52,000
+Sure.
+
+53
+00:02:49,000 --> 00:02:55,000
+So there was an initial emission curve
+that had all of the ERG being emitted, I
+
+54
+00:02:55,000 --> 00:03:01,000
+think in like eight years.
+
+55
+00:03:01,000 --> 00:03:07,000
+So like before 2030, like all the ERG
+would have been emitted.
+
+56
+00:03:07,000 --> 00:03:11,000
+And so it was like really aggressive.
+
+57
+00:03:11,000 --> 00:03:16,000
+And then they voted on this via mining,
+which is sick.
+
+58
+00:03:16,000 --> 00:03:20,000
+So they had people indicate their
+preference with a setting in their config
+
+59
+00:03:20,000 --> 00:03:24,000
+file.
+
+60
+00:03:25,000 --> 00:03:31,000
+And they got 90% consensus, which is
+sick.
+
+61
+00:03:31,000 --> 00:03:34,000
+And so now, that's all.
+
+62
+00:03:34,000 --> 00:03:37,000
+Yeah.
+
+63
+00:03:34,000 --> 00:03:36,000
+Yeah, 90%.
+
+64
+00:03:36,000 --> 00:03:37,000
+I'm going to take an aside.
+
+65
+00:03:37,000 --> 00:03:39,000
+I'm going to skip the story.
+
+66
+00:03:39,000 --> 00:03:40,000
+I'll come back.
+
+67
+00:03:40,000 --> 00:03:46,000
+Anyway, so now some of the ERG gets put
+into a re-emission contract.
+
+68
+00:03:46,000 --> 00:03:53,000
+So that initial emission is split.
+
+69
+00:03:53,000 --> 00:03:56,000
+So some of it goes to the miners, some of
+it goes to a contract, and that contract
+
+70
+00:03:56,000 --> 00:03:59,000
+is then delayed.
+
+71
+00:03:59,000 --> 00:04:06,000
+And so that is how we've created a longer
+tail to 2045 or something.
+
+72
+00:04:06,000 --> 00:04:10,000
+Yeah, so after we get down to three ERG,
+it's all going to be coming from the re
+
+73
+00:04:10,000 --> 00:04:14,000
+emission contract.
+
+74
+00:04:15,000 --> 00:04:16,000
+Okay, right.
+
+75
+00:04:16,000 --> 00:04:18,000
+Not very much ERG.
+
+76
+00:04:18,000 --> 00:04:22,000
+And it's just a lot of pressure.
+
+77
+00:04:22,000 --> 00:04:28,000
+And kind of like you said, one way or the
+other, it's going to go someplace.
+
+78
+00:04:28,000 --> 00:04:29,000
+Yeah, absolutely.
+
+79
+00:04:29,000 --> 00:04:34,000
+And it's, I kind of remember now, now
+that you're saying that where it's like,
+
+80
+00:04:34,000 --> 00:04:39,000
+it was kind of a big deal in the ecosystem
+at the time to where I think Coastal
+
+81
+00:04:39,000 --> 00:04:44,000
+Crypto made like a video to where it's
+like, the devs are like stealing your ERG,
+
+82
+00:04:44,000 --> 00:04:49,000
+basically, it's like, oh, they're changing
+something in the blockchain.
+
+83
+00:04:49,000 --> 00:04:53,000
+And in reality, you could shape it how
+you want, but in reality, it's like, it's
+
+84
+00:04:53,000 --> 00:04:57,000
+for the longevity of the chain.
+
+85
+00:04:57,000 --> 00:05:04,000
+And I'm looking at it right now, it looks
+like actually 2044, this month on the
+
+86
+00:05:04,000 --> 00:05:11,000
+27th, it looks like it'll go to zero right
+after that.
+
+87
+00:05:12,000 --> 00:05:18,000
+So I mean, yeah, that's quite a long time
+to be mining ERG from then.
+
+88
+00:05:18,000 --> 00:05:23,000
+And then we have storage rent as well.
+
+89
+00:05:23,000 --> 00:05:26,000
+Because we're starting to hit it now
+within our mining pool within the last
+
+90
+00:05:26,000 --> 00:05:29,000
+four years, but there just needs to be
+these incentives for miners to stay on the
+
+91
+00:05:29,000 --> 00:05:32,000
+network.
+
+92
+00:05:32,000 --> 00:05:37,000
+And even Bitcoin has that sort of kind of
+built into their protocol too.
+
+93
+00:05:37,000 --> 00:05:41,000
+But like you were saying, it's, I think
+it's even way further out, right?
+
+94
+00:05:41,000 --> 00:05:43,000
+Isn't it like 2144?
+
+95
+00:05:43,000 --> 00:05:44,000
+Yeah.
+
+96
+00:05:44,000 --> 00:05:46,000
+Yeah.
+
+97
+00:05:46,000 --> 00:05:49,000
+Right.
+
+98
+00:05:46,000 --> 00:05:51,000
+So that's an extremely long time that
+they're going to be slowly, slowly mining.
+
+99
+00:05:51,000 --> 00:05:54,000
+So it will be interesting as well.
+
+100
+00:05:54,000 --> 00:05:56,000
+Like we're sort of approaching these
+limits.
+
+101
+00:05:56,000 --> 00:05:59,000
+So like very early on, a lot of tokens
+will be distributed on our network,
+
+102
+00:05:59,000 --> 00:06:02,000
+Bitcoin's network.
+
+103
+00:06:02,000 --> 00:06:05,000
+And it will be interesting as I guess
+we're approaching some sort of like a
+
+104
+00:06:05,000 --> 00:06:08,000
+limit with respect to that.
+
+105
+00:06:08,000 --> 00:06:10,000
+And we'll see how that actually gets to
+play out.
+
+106
+00:06:10,000 --> 00:06:15,000
+It's like these sorts of parameters that
+we get the change now.
+
+107
+00:06:15,000 --> 00:06:18,000
+We'll actually get to see those end
+results and how well Ergo's protocol
+
+108
+00:06:18,000 --> 00:06:21,000
+worked out compared to Bitcoin and vice
+versa.
+
+109
+00:06:22,000 --> 00:06:24,000
+So that'll be kind of interesting.
+
+110
+00:06:24,000 --> 00:06:27,000
+And like in 20 years, man.
+
+111
+00:06:27,000 --> 00:06:30,000
+100%.
+
+112
+00:06:27,000 --> 00:06:33,000
+And I'm also just really excited to see
+how adjustable fees and the storage rent
+
+113
+00:06:33,000 --> 00:06:39,000
+and also things like fair initial mining
+offerings can support mining in that
+
+114
+00:06:39,000 --> 00:06:45,000
+really low emission environment.
+
+115
+00:06:45,000 --> 00:06:48,000
+Like once we get to three, I feel like
+it's gonna make other things quite
+
+116
+00:06:48,000 --> 00:06:51,000
+valuable.
+
+117
+00:06:52,000 --> 00:06:57,000
+It's like, you're gonna need to be paying
+attention to the storage rent, to like
+
+118
+00:06:57,000 --> 00:07:02,000
+what can be scavenged and collected by
+your mining pool.
+
+119
+00:07:02,000 --> 00:07:08,000
+And if your mining pool's not doing that,
+it's probably not gonna be profitable.
+
+120
+00:07:08,000 --> 00:07:18,000
+So it's going to really incentivize
+innovation and people finding new ways to
+
+121
+00:07:18,000 --> 00:07:28,000
+identify things faster or offer rewards to
+the miners for starting their projects.
+
+122
+00:07:29,000 --> 00:07:31,000
+Yeah, I mean, that's a great point.
+
+123
+00:07:31,000 --> 00:07:35,000
+Because people are actually doing that
+now where they're able to get these, the
+
+124
+00:07:35,000 --> 00:07:39,000
+UTXOs with storage rent, but without hash
+power for some reason.
+
+125
+00:07:39,000 --> 00:07:44,000
+I don't really know the nuances of it,
+but somebody is able to essentially run a
+
+126
+00:07:44,000 --> 00:07:49,000
+script and gather those UTXOs, I think
+without hash at least.
+
+127
+00:07:49,000 --> 00:07:53,000
+And qx() would be the better person, I
+guess, to explain that to myself.
+
+128
+00:07:53,000 --> 00:07:55,000
+And so I think, yeah, just continuing to
+push innovation with this sort of thing is
+
+129
+00:07:55,000 --> 00:07:57,000
+interesting.
+
+130
+00:07:58,000 --> 00:08:03,000
+But then you brought up fair initial
+mining offering.
+
+131
+00:08:03,000 --> 00:08:06,000
+So would that be more of like a just a
+token on like a network to where it's
+
+132
+00:08:06,000 --> 00:08:09,000
+like, would that be a side chain?
+
+133
+00:08:09,000 --> 00:08:11,000
+Would that be sort of like a layer two?
+
+134
+00:08:11,000 --> 00:08:14,000
+What would that sort of be, I suppose?
+
+135
+00:08:14,000 --> 00:08:15,000
+Yeah.
+
+136
+00:08:15,000 --> 00:08:17,000
+OK, so I think it could be either.
+
+137
+00:08:17,000 --> 00:08:21,000
+I guess when I was talking about it, I
+was imagining, let's say you wanted to
+
+138
+00:08:21,000 --> 00:08:25,000
+come up with a new protocol, like a
+lending protocol or whatever, and you
+
+139
+00:08:25,000 --> 00:08:29,000
+wanted to distribute your governance
+tokens or something.
+
+140
+00:08:31,000 --> 00:08:39,000
+You could offer them as mining rewards to
+be collected.
+
+141
+00:08:39,000 --> 00:08:47,000
+So you could just add, oh, I'm going to
+input 10 tokens every block to be mined.
+
+142
+00:08:47,000 --> 00:08:50,000
+And I'm not sure if that's done through
+some sort of script, maybe like mimicking
+
+143
+00:08:50,000 --> 00:08:53,000
+the re emission contract, or if you would
+just like set the block height to whatever
+
+144
+00:08:53,000 --> 00:08:56,000
+you want it to be.
+
+145
+00:08:58,000 --> 00:09:02,000
+So it could be collected like garbage.
+
+146
+00:09:02,000 --> 00:09:04,000
+Probably either way.
+
+147
+00:09:04,000 --> 00:09:07,000
+Totally.
+
+148
+00:09:04,000 --> 00:09:07,000
+But yeah, and then it's just like,
+whoever gets it gets it.
+
+149
+00:09:07,000 --> 00:09:13,000
+And they're not like paying you, not a
+security. Howey test.
+
+150
+00:09:13,000 --> 00:09:16,000
+Yeah, absolutely.
+
+151
+00:09:16,000 --> 00:09:21,000
+And you brought up side chains and layer
+twos.
+
+152
+00:09:21,000 --> 00:09:29,000
+So I think also it's like those are
+getting mined also, right?
+
+153
+00:09:29,000 --> 00:09:33,000
+And so if you're running your miner and
+there's a side chain going on that's the
+
+154
+00:09:33,000 --> 00:09:37,000
+same algo as Autolykos, it's like you're
+kind of getting both of those rewards at
+
+155
+00:09:37,000 --> 00:09:41,000
+the same time, I think.
+
+156
+00:09:43,000 --> 00:09:45,000
+Okay, interesting.
+
+157
+00:09:45,000 --> 00:09:49,000
+Because I think it's an interesting
+concept and there's a lot of, I suppose it
+
+158
+00:09:49,000 --> 00:09:53,000
+depends on like the security aspects and
+what you're trying to do with it.
+
+159
+00:09:53,000 --> 00:09:56,000
+Because I think from like a token
+perspective, it would be interesting
+
+160
+00:09:56,000 --> 00:09:59,000
+because I feel like that would be like the
+lowest hanging fruit.
+
+161
+00:09:59,000 --> 00:10:02,000
+And if you had like all you would need to
+do is essentially if your mining pool
+
+162
+00:10:02,000 --> 00:10:05,000
+supported it, you could just say, hey,
+look at my participation when we find a
+
+163
+00:10:05,000 --> 00:10:08,000
+block on Ergo.
+
+164
+00:10:10,000 --> 00:10:11,000
+Oh, you found that block on Ergo.
+
+165
+00:10:11,000 --> 00:10:16,000
+Here's the reward you get from like Mark
+and Tim smart contracts, and then you get
+
+166
+00:10:16,000 --> 00:10:21,000
+10 tokens for that block reward and then
+that distributes.
+
+167
+00:10:22,000 --> 00:10:27,000
+But then I guess you'd have to build in
+some like why I guess why would you want
+
+168
+00:10:27,000 --> 00:10:32,000
+to do that, aside from like the fair
+initial mining offering standpoint.
+
+169
+00:10:33,000 --> 00:10:34,000
+Would it make sense for just one pool to
+support it or do all pools need to support
+
+170
+00:10:34,000 --> 00:10:35,000
+it?
+
+171
+00:10:36,000 --> 00:10:42,000
+So it's kind of an interesting, how fair
+do we want it to be?
+
+172
+00:10:42,000 --> 00:10:45,000
+Because fairness is in some sense
+subjective.
+
+173
+00:10:45,000 --> 00:10:49,000
+And so it's like a spectrum even, I
+guess.
+
+174
+00:10:49,000 --> 00:10:52,000
+So I think when you get into like, when
+you get into a side chain, like you might
+
+175
+00:10:52,000 --> 00:10:55,000
+have an application specific side chain,
+right?
+
+176
+00:10:56,000 --> 00:10:59,000
+So it's like a chain running, kind of
+leveraging Ergo security, but it has a
+
+177
+00:10:59,000 --> 00:11:02,000
+specific purpose.
+
+178
+00:11:03,000 --> 00:11:08,000
+Like maybe there's like one dApp that
+just has its own little chain.
+
+179
+00:11:08,000 --> 00:11:11,000
+And then maybe it's like, they kind of to
+your point, like they don't want everyone
+
+180
+00:11:11,000 --> 00:11:14,000
+to get those tokens.
+
+181
+00:11:15,000 --> 00:11:21,000
+They might want their tokens to be
+distributed under certain conditions.
+
+182
+00:11:21,000 --> 00:11:29,000
+So I think it just allows a lot of things
+to be possible, which is super cool.
+
+183
+00:11:29,000 --> 00:11:31,000
+Yeah, yeah, absolutely.
+
+184
+00:11:31,000 --> 00:11:33,000
+It'd be fun to work on something like
+that.
+
+185
+00:11:33,000 --> 00:11:36,000
+I saw I think Armeanio posted that as
+sort of like an idea for the next coming
+
+186
+00:11:36,000 --> 00:11:39,000
+ErgoHack for somebody to work on.
+
+187
+00:11:40,000 --> 00:11:41,000
+So hopefully somebody picks that up.
+
+188
+00:11:41,000 --> 00:11:42,000
+That'd be cool to see.
+
+189
+00:11:42,000 --> 00:11:44,000
+Yeah, for sure.
+
+190
+00:11:44,000 --> 00:11:50,000
+So dude, did you see NiceHash is starting
+to require KYC?
+
+191
+00:11:50,000 --> 00:11:54,000
+Yeah, yeah, that makes me somewhat
+nervous as like the mining pool operator
+
+192
+00:11:54,000 --> 00:11:58,000
+for, and even qx() right for the
+Sigmanauts mining pool.
+
+193
+00:11:58,000 --> 00:12:01,000
+We've talked a little bit about it and
+what we're going to do and stuff.
+
+194
+00:12:01,000 --> 00:12:05,000
+But yeah, I mean, it's cool for a lot of
+our tools, right?
+
+195
+00:12:05,000 --> 00:12:06,000
+The whole point is to be permissionless.
+
+196
+00:12:06,000 --> 00:12:09,000
+I don't need anybody's permission to join
+the network.
+
+197
+00:12:09,000 --> 00:12:13,000
+So I think it's like, in some sense,
+bullshit, right?
+
+198
+00:12:13,000 --> 00:12:18,000
+If I can say that here, but I don't know,
+what are your thoughts?
+
+199
+00:12:18,000 --> 00:12:19,000
+Oh man.
+
+200
+00:12:19,000 --> 00:12:24,000
+Like, so every time something like that
+happens, I just, it reinforces that I've
+
+201
+00:12:24,000 --> 00:12:29,000
+kind of made the right choice to associate
+myself with Ergo.
+
+202
+00:12:29,000 --> 00:12:36,000
+Just my values align and it's like, no,
+like just we're trying to enable freedom
+
+203
+00:12:36,000 --> 00:12:43,000
+and have a open permissionless transparent
+network for anyone to participate in.
+
+204
+00:12:44,000 --> 00:12:51,000
+And like, oh, I have to register with you
+and give you my personal information.
+
+205
+00:12:51,000 --> 00:12:55,000
+Like, dude, I honestly I hate doing that
+because I've gotten four notices in the
+
+206
+00:12:55,000 --> 00:12:59,000
+past, I'll say 18 months that some
+organization has been hacked and lost my
+
+207
+00:12:59,000 --> 00:13:03,000
+data.
+
+208
+00:13:05,000 --> 00:13:11,000
+And like, right, like what, like, stop,
+stop doing that.
+
+209
+00:13:11,000 --> 00:13:14,000
+Stop asking.
+
+210
+00:13:14,000 --> 00:13:17,000
+Yeah, and then you have to give it to
+them for free.
+
+211
+00:13:17,000 --> 00:13:18,000
+They're not safeguarding it.
+
+212
+00:13:18,000 --> 00:13:23,000
+There's no protocol in place to where
+it's like, hey, I'm going to give you this
+
+213
+00:13:23,000 --> 00:13:28,000
+information, and I don't necessarily have
+to trust your own security and privacy.
+
+214
+00:13:29,000 --> 00:13:31,000
+Let's let the blockchain do it for us.
+
+215
+00:13:31,000 --> 00:13:34,000
+But here we have all these people in the
+way with their sort of, I guess, systems
+
+216
+00:13:34,000 --> 00:13:37,000
+that are hackable in some sense.
+
+217
+00:13:38,000 --> 00:13:43,000
+And then here we are where it's like,
+yeah, then all your data is distributed.
+
+218
+00:13:43,000 --> 00:13:47,000
+which is crazy because like even from
+like a business sense, you can come up
+
+219
+00:13:47,000 --> 00:13:51,000
+with LLCs and trusts that obfuscate your
+own name away.
+
+220
+00:13:51,000 --> 00:13:55,000
+So like, so in theory, like that could be
+a legitimate way for somebody to maybe
+
+221
+00:13:55,000 --> 00:13:59,000
+avoid like you are tied to like this
+mining rig, like come up with an LLC or
+
+222
+00:13:59,000 --> 00:14:03,000
+trust, I suppose.
+
+223
+00:14:03,000 --> 00:14:05,000
+But so then at least it's tied in some
+like entity, I guess, and things like
+
+224
+00:14:05,000 --> 00:14:07,000
+that.
+
+225
+00:14:08,000 --> 00:14:12,000
+But but yeah, dude, so something really
+interesting about LLCs in the United
+
+226
+00:14:12,000 --> 00:14:16,000
+States.
+
+227
+00:14:16,000 --> 00:14:25,000
+They just made a law that you have to now
+associate your LLC with your legal name.
+
+228
+00:14:25,000 --> 00:14:28,000
+So there's KYC on LLCs now, so that's
+going away.
+
+229
+00:14:28,000 --> 00:14:29,000
+Oh, really?
+
+230
+00:14:29,000 --> 00:14:30,000
+Interesting.
+
+231
+00:14:30,000 --> 00:14:33,000
+Yeah.
+
+232
+00:14:30,000 --> 00:14:31,000
+I think at the start of 25.
+
+233
+00:14:31,000 --> 00:14:39,000
+OK. Well, I better get mine ready to go
+then.
+
+234
+00:14:39,000 --> 00:14:42,000
+Yeah.
+
+235
+00:14:39,000 --> 00:14:43,000
+So I mean, then it comes back to like the
+first principles of Ergo of just like,
+
+236
+00:14:43,000 --> 00:14:47,000
+again, why, like being permissionless
+privacy is important.
+
+237
+00:14:47,000 --> 00:14:51,000
+Like, I'm getting ready to move to, I'm
+going to rent out my house.
+
+238
+00:14:51,000 --> 00:14:55,000
+Like I don't really want my renters
+knowing what I own, knowing what I have.
+
+239
+00:14:55,000 --> 00:14:56,000
+I want them to know my name.
+
+240
+00:14:56,000 --> 00:15:00,000
+So like privacy is like extremely
+important especially when you're doing
+
+241
+00:15:00,000 --> 00:15:04,000
+just like day-to-day sort of like deals
+and then then there becomes like all these
+
+242
+00:15:04,000 --> 00:15:08,000
+attack vectors as you could say once you
+actually know somebody's like who they are
+
+243
+00:15:08,000 --> 00:15:12,000
+and where they live you know there have
+been like home invasions because certain
+
+244
+00:15:12,000 --> 00:15:16,000
+people have found out where they live they
+know
+
+245
+00:15:18,000 --> 00:15:23,000
+their YouTube personality like on, or
+something like that, right?
+
+246
+00:15:23,000 --> 00:15:26,000
+And then they try to steal their crypto
+keys or, it's shit like that.
+
+247
+00:15:26,000 --> 00:15:27,000
+It's crazy.
+
+248
+00:15:27,000 --> 00:15:29,000
+So I mean, to be tied to that.
+
+249
+00:15:29,000 --> 00:15:30,000
+It's just like insane.
+
+250
+00:15:30,000 --> 00:15:35,000
+And the whole thing around KYC and
+blockchain is it's kind of funny to me,
+
+251
+00:15:35,000 --> 00:15:40,000
+because it's like, I think through zero
+knowledge proofs, like you could you could
+
+252
+00:15:40,000 --> 00:15:45,000
+absolutely prove that it's not you without
+giving away your identity.
+
+253
+00:15:47,000 --> 00:15:51,000
+That's the magic of ZK.
+
+254
+00:15:51,000 --> 00:15:55,000
+You can prove that it's not you.
+
+255
+00:15:55,000 --> 00:15:56,000
+So then what?
+
+256
+00:15:56,000 --> 00:16:00,000
+Why do I have to give you all my info?
+
+257
+00:16:00,000 --> 00:16:03,000
+Totally.
+
+258
+00:16:00,000 --> 00:16:02,000
+Well, I think it's just maybe like
+regulation trying to catch up with crypto
+
+259
+00:16:02,000 --> 00:16:04,000
+and they're trying to do their best.
+
+260
+00:16:05,000 --> 00:16:07,000
+They're like, oh, I don't really
+understand this.
+
+261
+00:16:07,000 --> 00:16:11,000
+And they don't, I guess, maybe understand
+like why certain things are so important.
+
+262
+00:16:11,000 --> 00:16:15,000
+But I think on the other hand, because
+it's kind of like, if you think about it,
+
+263
+00:16:15,000 --> 00:16:19,000
+like, it's sort of like this predator prey
+sort of like kind of mindset and model,
+
+264
+00:16:19,000 --> 00:16:23,000
+you can model it as to where Bitcoin to
+say this prey in this example, starts to
+
+265
+00:16:23,000 --> 00:16:27,000
+come up, there's a lot of like Bitcoin
+people, we need to get regulation starts
+
+266
+00:16:27,000 --> 00:16:31,000
+to come down some more predators.
+
+267
+00:16:32,000 --> 00:16:35,000
+So there's like a balance between this
+sort of ecosystem model, I guess you could
+
+268
+00:16:35,000 --> 00:16:38,000
+like sort of envision.
+
+269
+00:16:39,000 --> 00:16:42,000
+And then eventually, I guess wondered
+depending on the I guess the ecosystem
+
+270
+00:16:42,000 --> 00:16:45,000
+right you know what the predator or the
+prey becomes extinct right and so
+
+271
+00:16:45,000 --> 00:16:48,000
+hopefully I guess in this case neither
+because they really the game is to
+
+272
+00:16:48,000 --> 00:16:51,000
+continue to play the game and so hopefully
+you know we create more tools to kind of
+
+273
+00:16:51,000 --> 00:16:54,000
+get around certain things that we
+essentially want to get around from a
+
+274
+00:16:54,000 --> 00:16:57,000
+legal perspective and the legal systems
+like oh I see.
+
+275
+00:17:02,000 --> 00:17:04,000
+this is really important for that reason.
+
+276
+00:17:04,000 --> 00:17:08,000
+Okay, let's adjust this over here and
+kind of vice versa.
+
+277
+00:17:08,000 --> 00:17:12,000
+We need to, I think, have the talks, but
+the way they're doing it is not the right
+
+278
+00:17:12,000 --> 00:17:16,000
+way to kind of go about it, I would say,
+it's very, very much a lot of control.
+
+279
+00:17:16,000 --> 00:17:19,000
+Yeah, yeah, totally, man.
+
+280
+00:17:19,000 --> 00:17:23,000
+And it and it's like, just reinforcing
+how much they don't get it.
+
+281
+00:17:23,000 --> 00:17:24,000
+Yeah.
+
+282
+00:17:24,000 --> 00:17:26,000
+Right, right.
+
+283
+00:17:26,000 --> 00:17:29,000
+Like, bless his heart, Trump is starting
+his what's it called, like, freedom,
+
+284
+00:17:29,000 --> 00:17:32,000
+finance or something.
+
+285
+00:17:33,000 --> 00:17:35,000
+And it's like, oh my gosh, right.
+
+286
+00:17:35,000 --> 00:17:38,000
+Yeah, one KYC, like, right.
+
+287
+00:17:38,000 --> 00:17:39,000
+Yeah.
+
+288
+00:17:39,000 --> 00:17:44,000
+But lucky for us, the ethos around Ergo
+is leading to like some really cool
+
+289
+00:17:44,000 --> 00:17:49,000
+solutions, Lithos coming online,
+
+290
+00:17:50,000 --> 00:17:55,000
+For those of you who haven't heard of
+that, Lithos is like a distributed
+
+291
+00:17:55,000 --> 00:18:00,000
+permissionless mining pool, kind of run on
+the blockchain.
+
+292
+00:18:01,000 --> 00:18:04,000
+So you don't, it's not like a centralized
+thing, like NiceHash where like somebody's
+
+293
+00:18:04,000 --> 00:18:07,000
+responsible for all your stuff.
+
+294
+00:18:07,000 --> 00:18:09,000
+It's actually run on the blockchain.
+
+295
+00:18:09,000 --> 00:18:17,000
+And so that's coming online as 6.0 gets
+finished, Node 6.0.
+
+296
+00:18:17,000 --> 00:18:20,000
+I don't really know enough about it to
+talk about it.
+
+297
+00:18:20,000 --> 00:18:24,000
+But I think that's a sign for us to get a
+guest on here who has something to
+
+298
+00:18:24,000 --> 00:18:28,000
+contribute there.
+
+299
+00:18:29,000 --> 00:18:33,000
+I think, I bet kushti would come and tell
+us about 6.0.
+
+300
+00:18:33,000 --> 00:18:34,000
+Yeah, absolutely.
+
+301
+00:18:34,000 --> 00:18:35,000
+I mean, that'd be a lot of fun.
+
+302
+00:18:35,000 --> 00:18:40,000
+I mean, just to, cause I think with 6.0
+comes a lot of things just from, so yeah,
+
+303
+00:18:40,000 --> 00:18:45,000
+we have Lithos, I think Sigma protocols.
+
+304
+00:18:45,000 --> 00:18:50,000
+So I think that's side chains, so really
+sort of like, it's a door and potentially
+
+305
+00:18:50,000 --> 00:18:55,000
+a pretty big door from like ecosystem
+perspective.
+
+306
+00:18:56,000 --> 00:19:00,000
+So then once we have this, there's a lot
+of little, not little, I suppose, but
+
+307
+00:19:00,000 --> 00:19:04,000
+other things we can sort of tie and attach
+to and then more applications, more
+
+308
+00:19:04,000 --> 00:19:08,000
+applications mean more real world
+applications.
+
+309
+00:19:09,000 --> 00:19:12,000
+And that's gonna be really cool to see.
+
+310
+00:19:12,000 --> 00:19:16,000
+Yeah, man, I think side chains are one of
+the things that I got most excited about
+
+311
+00:19:16,000 --> 00:19:20,000
+when I started learning about Ergo.
+
+312
+00:19:20,000 --> 00:19:22,000
+I remember, what was it called?
+
+313
+00:19:22,000 --> 00:19:24,000
+Ergo.meta, right?
+
+314
+00:19:24,000 --> 00:19:30,000
+And it's like a sidechain cookbook is
+what I remember kushti characterizing it.
+
+315
+00:19:30,000 --> 00:19:34,000
+So it's like, it's just like a dev kit,
+right?
+
+316
+00:19:34,000 --> 00:19:37,000
+But for these like, here's how you make
+your sidechain.
+
+317
+00:19:37,000 --> 00:19:42,000
+And my imagination kind of goes wild.
+
+318
+00:19:42,000 --> 00:19:47,000
+Like we talked about application specific
+side chains, but I also like to think
+
+319
+00:19:47,000 --> 00:19:52,000
+about building like Monero on top of Ergo.
+
+320
+00:19:52,000 --> 00:19:57,000
+That way it's like kind of capturing the
+more, I don't want to say extreme, but
+
+321
+00:19:57,000 --> 00:20:02,000
+like the more maximal viewpoint of like, I
+really get why people like Monero.
+
+322
+00:20:03,000 --> 00:20:08,000
+It's, I think that is maybe the most
+valid maximalism in my view, it's like I
+
+323
+00:20:08,000 --> 00:20:13,000
+see Bitcoin maximalism as like being
+conservative and not wanting to like risk
+
+324
+00:20:13,000 --> 00:20:18,000
+all your money on some like brand new
+shitcoin.
+
+325
+00:20:19,000 --> 00:20:21,000
+I get it.
+
+326
+00:20:21,000 --> 00:20:27,000
+But I also think somebody who's like, No,
+we need to have an unstoppable tool.
+
+327
+00:20:27,000 --> 00:20:28,000
+That's Monero.
+
+328
+00:20:28,000 --> 00:20:29,000
+That makes sense to me.
+
+329
+00:20:29,000 --> 00:20:32,000
+And it just needs some legs.
+
+330
+00:20:32,000 --> 00:20:37,000
+Like we need to have DeFi, you need to
+have lending and borrowing and stablecoins
+
+331
+00:20:37,000 --> 00:20:42,000
+and all this stuff and if we can we can
+put that on Ergo on it as a sidechain or
+
+332
+00:20:42,000 --> 00:20:47,000
+somehow bridging it I don't know I'm not
+the guy to give you the technical details
+
+333
+00:20:47,000 --> 00:20:52,000
+but if we can give Monero some legs like
+now we're cooking with gas
+
+334
+00:20:53,000 --> 00:20:55,000
+Yeah, yeah, that would be huge.
+
+335
+00:20:55,000 --> 00:20:58,000
+And isn't Monero mined with CPUs?
+
+336
+00:20:58,000 --> 00:20:59,000
+I think, right?
+
+337
+00:20:59,000 --> 00:21:02,000
+Yeah, so I mean, that's just so
+accessible, like everybody for the most
+
+338
+00:21:02,000 --> 00:21:05,000
+part has a CPU in their mining Ergo, so
+you could probably dual mine in some
+
+339
+00:21:05,000 --> 00:21:08,000
+aspects.
+
+340
+00:21:09,000 --> 00:21:13,000
+And it would be cool opportunity for the
+Sigmanauts mining pool to kind of stand up
+
+341
+00:21:13,000 --> 00:21:17,000
+other pools on these side chains to kind
+of support that and
+
+342
+00:21:17,000 --> 00:21:22,000
+Yeah, I mean, especially just with this
+whole KYC thing having that privacy aspect
+
+343
+00:21:22,000 --> 00:21:27,000
+that privacy buffer just to be able to
+say, hey, no, I hear what you're saying
+
+344
+00:21:27,000 --> 00:21:32,000
+government, but I'm still going to do
+this, and protect yourself, right?
+
+345
+00:21:32,000 --> 00:21:36,000
+Because like, ultimately, in some places,
+it is against the law.
+
+346
+00:21:36,000 --> 00:21:37,000
+I'm not trying to get arrested.
+
+347
+00:21:37,000 --> 00:21:38,000
+I have a little one at home.
+
+348
+00:21:38,000 --> 00:21:42,000
+So it's like, let's make sure and so
+having those tools building for war so to
+
+349
+00:21:42,000 --> 00:21:46,000
+speak is gonna be very important that you
+have the proper tools right so if you're
+
+350
+00:21:46,000 --> 00:21:50,000
+going against war against somebody who has
+bullets and all you have is a shield that
+
+351
+00:21:50,000 --> 00:21:54,000
+can't stop bullets or something like that
+that's not really gonna do too well versus
+
+352
+00:21:54,000 --> 00:21:58,000
+having like so we need the proper
+equipment to be able to say hey no I hear
+
+353
+00:21:58,000 --> 00:22:02,000
+what you're saying but we're still gonna
+do this and it's like you're saying
+
+354
+00:22:02,000 --> 00:22:06,000
+unstoppable so yeah it's a powerful idea
+
+355
+00:22:06,000 --> 00:22:07,000
+Yeah.
+
+356
+00:22:07,000 --> 00:22:12,000
+So I think this means we need to get
+somebody smarter than the two of us to
+
+357
+00:22:12,000 --> 00:22:17,000
+teach us about side chains, about 6.0, all
+that.
+
+358
+00:22:17,000 --> 00:22:20,000
+All right.
+
+359
+00:22:17,000 --> 00:22:19,000
+So I'm going to move us forward.
+
+360
+00:22:19,000 --> 00:22:23,000
+We wanted to talk a little bit about
+something that happened a few years ago,
+
+361
+00:22:23,000 --> 00:22:27,000
+just like a little story about something
+that Ergo went through and was hardened
+
+362
+00:22:27,000 --> 00:22:31,000
+by.
+
+363
+00:22:31,000 --> 00:22:34,000
+I'm going to share my screen, and
+hopefully this doesn't mess up Andy's
+
+364
+00:22:34,000 --> 00:22:37,000
+beautiful work.
+
+365
+00:22:38,000 --> 00:22:41,000
+All right.
+
+366
+00:22:41,000 --> 00:22:44,000
+There we go.
+
+367
+00:22:44,000 --> 00:22:45,000
+Nice.
+
+368
+00:22:45,000 --> 00:22:47,000
+The bear whale.
+
+369
+00:22:47,000 --> 00:22:48,000
+Yeah.
+
+370
+00:22:48,000 --> 00:22:56,000
+So these are so that bear whale.
+
+371
+00:22:56,000 --> 00:22:57,000
+All right.
+
+372
+00:22:57,000 --> 00:22:59,000
+First of all, it's an awesome drawing.
+
+373
+00:22:59,000 --> 00:23:00,000
+Absolutely.
+
+374
+00:23:00,000 --> 00:23:01,000
+Bear whale, the bear whale saga.
+
+375
+00:23:01,000 --> 00:23:09,000
+This was in 2021, where a large holder
+was draining the SigmaUSD account or the
+
+376
+00:23:09,000 --> 00:23:17,000
+bank, specifically attacking the RSV
+holders.
+
+377
+00:23:17,000 --> 00:23:23,000
+And so just to kind of give an overview,
+some prior knowledge, SigmaUSD is our kind
+
+378
+00:23:23,000 --> 00:23:29,000
+of flagship stablecoin.
+
+379
+00:23:29,000 --> 00:23:34,000
+And it works by having two tokens.
+
+380
+00:23:34,000 --> 00:23:37,000
+So the SigmaUSD here and SigRSV.
+
+381
+00:23:37,000 --> 00:23:41,000
+So USD is obviously pegged to a dollar.
+
+382
+00:23:41,000 --> 00:23:44,000
+And that peg is maintained by allowing
+volatility in the RSV, which is like the
+
+383
+00:23:44,000 --> 00:23:47,000
+reserve token.
+
+384
+00:23:48,000 --> 00:23:53,000
+Okay, so there's the bank that holds all
+the ERG, and then the value of these two
+
+385
+00:23:53,000 --> 00:23:58,000
+tokens is, well, one of them is held
+stable, and then the other fluctuates
+
+386
+00:23:58,000 --> 00:24:03,000
+based on the value of the ERG that's held
+in the bank.
+
+387
+00:24:05,000 --> 00:24:11,000
+All right, so these are kind of the rules
+that it operates under.
+
+388
+00:24:11,000 --> 00:24:18,000
+So you can always redeem your SigmaUSD,
+but you can't you can't mint the USD
+
+389
+00:24:18,000 --> 00:24:25,000
+unless there is 400% of the value in the
+reserve.
+
+390
+00:24:26,000 --> 00:24:32,000
+So if there's not enough reserves, then
+you can't mint the USD.
+
+391
+00:24:32,000 --> 00:24:37,000
+And if there's not enough reserves, you
+also can't redeem your RSV.
+
+392
+00:24:37,000 --> 00:24:39,000
+So you can kind of get locked in.
+
+393
+00:24:39,000 --> 00:24:44,000
+And so these are the rules.
+
+394
+00:24:44,000 --> 00:24:49,000
+The bear whale was able to manipulate the
+rules in this first version in SigmaUSD
+
+395
+00:24:49,000 --> 00:24:54,000
+version one.
+
+396
+00:24:54,000 --> 00:24:55,000
+Okay.
+
+397
+00:24:55,000 --> 00:24:58,000
+What he was doing was like super clever.
+
+398
+00:24:58,000 --> 00:25:01,000
+Sometimes when I'm in blockchain, I'm
+just like, man, I'm just not that smart
+
+399
+00:25:01,000 --> 00:25:04,000
+compared to all these guys.
+
+400
+00:25:04,000 --> 00:25:09,000
+So he was taking advantage of the Oracle
+speed, right?
+
+401
+00:25:09,000 --> 00:25:16,000
+So he would jump into a position of
+SigmaUSD and then the Oracle is reading
+
+402
+00:25:16,000 --> 00:25:23,000
+the markets in, I don't know, we'll say
+TradeOgre or whatever.
+
+403
+00:25:24,000 --> 00:25:31,000
+And he had enough ERG to sell all the ERG
+and that crash the price the Oracle would
+
+404
+00:25:31,000 --> 00:25:38,000
+read that price and then so his SigmaUSD
+position would actually be able to be
+
+405
+00:25:38,000 --> 00:25:45,000
+redeemed for more ERG than he bought it
+for, right?
+
+406
+00:25:45,000 --> 00:25:48,000
+So then he would, so he would buy
+SigmaUSD, crash the price, the Oracle
+
+407
+00:25:48,000 --> 00:25:51,000
+would see that crash, and then that would
+be reflected here.
+
+408
+00:25:52,000 --> 00:25:58,000
+So let's say he paid 100 bucks or 100 ERG
+for 100 SigmaUSD.
+
+409
+00:25:58,000 --> 00:26:01,000
+Then the value of the ERG goes down to,
+let's say it's now his SigmaUSD is worth
+
+410
+00:26:01,000 --> 00:26:04,000
+120 ERG.
+
+411
+00:26:04,000 --> 00:26:08,000
+He switched back in and then bought his
+position back to raise the price.
+
+412
+00:26:08,000 --> 00:26:13,000
+And so he was able to like slowly collect
+ERG, not slowly, but over time he
+
+413
+00:26:13,000 --> 00:26:18,000
+collected a bunch of ERG just by gaming
+this little system.
+
+414
+00:26:19,000 --> 00:26:24,000
+And so there's a cool article in, in the
+ergoplatform.org.
+
+415
+00:26:24,000 --> 00:26:27,000
+If anyone wants to read about it, you can
+see how the community was like learning
+
+416
+00:26:27,000 --> 00:26:30,000
+about it, tracking his wallets.
+
+417
+00:26:31,000 --> 00:26:34,000
+People started writing scripts to kind of
+try to get around this and not let it
+
+418
+00:26:34,000 --> 00:26:37,000
+happen.
+
+419
+00:26:38,000 --> 00:26:43,000
+And eventually what the team had to do
+was slow down the rate of change that the
+
+420
+00:26:43,000 --> 00:26:48,000
+Oracle could report.
+
+421
+00:26:48,000 --> 00:26:52,000
+So I think it's now, they limited the
+update to 0.5% every 30 minutes, up or
+
+422
+00:26:52,000 --> 00:26:56,000
+down.
+
+423
+00:26:57,000 --> 00:27:02,000
+And so now if the bear whale tried to do
+it again, he would actually have to hold
+
+424
+00:27:02,000 --> 00:27:07,000
+the price down for longer and for more
+than 30 minutes if he wanted a 0.5%
+
+425
+00:27:07,000 --> 00:27:12,000
+change.
+
+426
+00:27:12,000 --> 00:27:15,000
+And so it might not be really worth the
+risk.
+
+427
+00:27:15,000 --> 00:27:22,000
+And actually when it happened, I think he
+lost, this article says he lost 170,000
+
+428
+00:27:22,000 --> 00:27:29,000
+ERG trying to keep doing it after they
+patched the protocol.
+
+429
+00:27:29,000 --> 00:27:34,000
+Which I just thought was like a really
+cool story about, finding an attacker who
+
+430
+00:27:34,000 --> 00:27:39,000
+had, it's just like a, not like a clever,
+good on him, but ended up prevailing in
+
+431
+00:27:39,000 --> 00:27:44,000
+the end.
+
+432
+00:27:44,000 --> 00:27:45,000
+How long was the whole saga?
+
+433
+00:27:45,000 --> 00:27:50,000
+Like from, like, when I guess from the
+initial attack to when they patched it.
+
+434
+00:27:50,000 --> 00:27:52,000
+Cause I would imagine once they kind of
+figured out like, Oh, wow, I see what's
+
+435
+00:27:52,000 --> 00:27:54,000
+happening.
+
+436
+00:27:55,000 --> 00:27:58,000
+We need to kind of act now, I'm curious
+about that.
+
+437
+00:27:58,000 --> 00:27:59,000
+I'm not sure.
+
+438
+00:27:59,000 --> 00:28:02,000
+I'm not sure how long it was.
+
+439
+00:28:02,000 --> 00:28:10,000
+It says something about between $2 and
+$4.
+
+440
+00:28:10,000 --> 00:28:12,000
+So probably not that long.
+
+441
+00:28:12,000 --> 00:28:17,000
+I bet it was like six months that the
+version one was going.
+
+442
+00:28:17,000 --> 00:28:23,000
+And then they updated it to version two.
+
+443
+00:28:23,000 --> 00:28:28,000
+I mean, thankfully that happened now,
+honestly, versus like, imagine if we had
+
+444
+00:28:28,000 --> 00:28:33,000
+like multiple bear whales attacking at the
+same time, just essentially attacking the
+
+445
+00:28:33,000 --> 00:28:38,000
+network in that aspect.
+
+446
+00:28:38,000 --> 00:28:43,000
+And especially when it was like so, so
+high in terms of price.
+
+447
+00:28:43,000 --> 00:28:50,000
+And even some people now say the price is
+being manipulated in some sense.
+
+448
+00:28:50,000 --> 00:28:52,000
+And maybe, maybe it is.
+
+449
+00:28:52,000 --> 00:28:56,000
+With all these guys with all these, like
+a hundred thousand or he lost like, so he
+
+450
+00:28:56,000 --> 00:29:00,000
+must've been using a lot more than a
+hundred thousand.
+
+451
+00:29:00,000 --> 00:29:03,000
+That's a lot.
+
+452
+00:29:03,000 --> 00:29:06,000
+I mean, I don't know how I feel about
+like, okay.
+
+453
+00:29:06,000 --> 00:29:11,000
+So I think the term manipulation is a
+little bit funny because to me, if it's
+
+454
+00:29:11,000 --> 00:29:16,000
+just like a market, and people are selling
+and buying and like, you could do whatever
+
+455
+00:29:16,000 --> 00:29:21,000
+you want.
+
+456
+00:29:21,000 --> 00:29:24,000
+Absolutely.
+
+457
+00:29:21,000 --> 00:29:26,000
+I think the only time it becomes really
+unethical is like, if the founders are
+
+458
+00:29:26,000 --> 00:29:31,000
+doing something, like if the Ergo
+Foundation treasury is being used to like,
+
+459
+00:29:31,000 --> 00:29:36,000
+do the bear whale thing, like that, that's
+messed up.
+
+460
+00:29:37,000 --> 00:29:44,000
+But if it's just like some rich guy, like
+it's what it is.
+
+461
+00:29:44,000 --> 00:29:47,000
+Yeah.
+
+462
+00:29:44,000 --> 00:29:48,000
+So take as much control as you want,
+right.
+
+463
+00:29:48,000 --> 00:29:50,000
+So I mean, the rules are there.
+
+464
+00:29:50,000 --> 00:29:51,000
+If you can do it, then send it.
+
+465
+00:29:51,000 --> 00:29:54,000
+I totally agree.
+
+466
+00:29:54,000 --> 00:29:56,000
+But yeah, something's happening, I guess.
+
+467
+00:29:56,000 --> 00:29:59,000
+But in any case, it's interesting,
+though.
+
+468
+00:29:59,000 --> 00:30:02,000
+It's like, how does somebody even figure
+out that you can even do the thing that
+
+469
+00:30:02,000 --> 00:30:05,000
+the bear whale did?
+
+470
+00:30:06,000 --> 00:30:10,000
+Like that must've taken some serious, or
+maybe not, I don't know.
+
+471
+00:30:10,000 --> 00:30:14,000
+I mean, I haven't really played too much
+around with it, the idea, but sounds
+
+472
+00:30:14,000 --> 00:30:18,000
+pretty complicated and complex to be able
+to kind of sort through.
+
+473
+00:30:18,000 --> 00:30:21,000
+And then obviously they had some pretty
+confidence in doing it, especially since,
+
+474
+00:30:21,000 --> 00:30:24,000
+even after it was patched, they kept
+sending it and sending it and trying it
+
+475
+00:30:24,000 --> 00:30:27,000
+and trying it.
+
+476
+00:30:28,000 --> 00:30:32,000
+So then realize, oh wow, okay, maybe they
+fixed it or something like that, right?
+
+477
+00:30:32,000 --> 00:30:33,000
+Yeah.
+
+478
+00:30:33,000 --> 00:30:36,000
+And even more to my point about like,
+it's like, whatever, it's just like how
+
+479
+00:30:36,000 --> 00:30:39,000
+the world works.
+
+480
+00:30:39,000 --> 00:30:44,000
+This ended up hardening the, not just the
+SigmaUSD protocol with the changes, now
+
+481
+00:30:44,000 --> 00:30:49,000
+it's stronger, but it led to like, oh,
+like, we could come up with maybe simpler
+
+482
+00:30:49,000 --> 00:30:54,000
+designs or other more secure designs for
+stable coins.
+
+483
+00:30:54,000 --> 00:31:02,000
+And that's led us on to Dexy and Gluon,
+which are super cool.
+
+484
+00:31:02,000 --> 00:31:07,000
+I'll just share the gluon design.
+
+485
+00:31:07,000 --> 00:31:12,000
+It has these two tokens that are kind of
+like SigmaUSD and SigRSV.
+
+486
+00:31:12,000 --> 00:31:15,000
+This is the stable coin that's not really
+stable.
+
+487
+00:31:15,000 --> 00:31:16,000
+It's just pegged to gold.
+
+488
+00:31:16,000 --> 00:31:19,000
+And then this is the reserve token.
+
+489
+00:31:19,000 --> 00:31:22,000
+But you don't just buy one.
+
+490
+00:31:22,000 --> 00:31:25,000
+You have to mint both, which is pretty
+cool.
+
+491
+00:31:25,000 --> 00:31:31,000
+And that allows for a lower reserve ratio
+requirement.
+
+492
+00:31:31,000 --> 00:31:34,000
+Since everyone's like simultaneously
+minting both of these and then and then
+
+493
+00:31:34,000 --> 00:31:37,000
+they have to sell, if you actually just
+wanted gold, well, then you have to sell
+
+494
+00:31:37,000 --> 00:31:40,000
+your guac over here.
+
+495
+00:31:40,000 --> 00:31:46,000
+I keep calling it guac, G-A-U-C. You have
+to keep selling this and then you get then
+
+496
+00:31:46,000 --> 00:31:52,000
+you get all gold or only gold and that
+leads to the protocol earning fees.
+
+497
+00:31:53,000 --> 00:32:01,000
+So that it can kind of maintain that peg
+by, super cool.
+
+498
+00:32:01,000 --> 00:32:05,000
+Just like another, another version of it.
+
+499
+00:32:05,000 --> 00:32:11,000
+And then this, Dexy Gold.
+
+500
+00:32:11,000 --> 00:32:15,000
+So Dexy Gold is, I think maybe even
+simpler, where it's just an auto,
+
+501
+00:32:15,000 --> 00:32:19,000
+arbitrage mechanism, right?
+
+502
+00:32:20,000 --> 00:32:22,000
+So there's like a bank.
+
+503
+00:32:22,000 --> 00:32:25,000
+So when this came out a long time ago, I
+tried to make like a visual of it and this
+
+504
+00:32:25,000 --> 00:32:28,000
+could be totally wrong.
+
+505
+00:32:28,000 --> 00:32:34,000
+So I would love for somebody to just kind
+of make fun of me for not understanding.
+
+506
+00:32:34,000 --> 00:32:36,000
+This is a long time ago.
+
+507
+00:32:36,000 --> 00:32:39,000
+Okay.
+
+508
+00:32:36,000 --> 00:32:40,000
+So the Dexy I think works like this.
+
+509
+00:32:40,000 --> 00:32:49,000
+There's, there's like the bank where, it
+can buy and sell, tokens out of this AMM.
+
+510
+00:32:49,000 --> 00:32:54,000
+And that is reading the Oracle price for
+gold.
+
+511
+00:32:54,000 --> 00:32:58,000
+And so that's how it decides what to do.
+
+512
+00:32:58,000 --> 00:33:01,000
+If the price needs to go up or down to
+match the price of gold, then it takes the
+
+513
+00:33:01,000 --> 00:33:04,000
+action in the AMM.
+
+514
+00:33:05,000 --> 00:33:08,000
+And then users are able to interact with
+the AMM.
+
+515
+00:33:08,000 --> 00:33:09,000
+So they're buying and selling.
+
+516
+00:33:09,000 --> 00:33:11,000
+And then the fees go to the bank.
+
+517
+00:33:11,000 --> 00:33:16,000
+So the bank's value is going to grow over
+time and capacity will increase as users
+
+518
+00:33:16,000 --> 00:33:21,000
+use the protocol.
+
+519
+00:33:22,000 --> 00:33:23,000
+That's awesome.
+
+520
+00:33:23,000 --> 00:33:25,000
+Yeah, I thought it was cool.
+
+521
+00:33:25,000 --> 00:33:30,000
+So what's, I guess, the difference then
+between Dexy and Gluon?
+
+522
+00:33:30,000 --> 00:33:35,000
+So Gluon, it has that reserve.
+
+523
+00:33:35,000 --> 00:33:40,000
+You're sending your ERG in and then
+receiving these two tokens.
+
+524
+00:33:40,000 --> 00:33:44,000
+And then the algorithm kind of balances
+the value of those two and it has that
+
+525
+00:33:44,000 --> 00:33:48,000
+reserve token.
+
+526
+00:33:49,000 --> 00:33:51,000
+Dexy doesn't have a reserve token.
+
+527
+00:33:51,000 --> 00:33:56,000
+It's just, yeah, it's, how did he say it?
+
+528
+00:33:56,000 --> 00:34:00,000
+It's one token with like two protocols.
+
+529
+00:34:00,000 --> 00:34:06,000
+So instead of two tokens with one
+protocol on Gluon, interesting.
+
+530
+00:34:06,000 --> 00:34:07,000
+Yeah.
+
+531
+00:34:07,000 --> 00:34:10,000
+So in Dexy, it's just like gold and ERG.
+
+532
+00:34:10,000 --> 00:34:12,000
+And there's the bank doing stuff.
+
+533
+00:34:12,000 --> 00:34:16,000
+And then there's the AMM doing stuff to
+balance the price.
+
+534
+00:34:16,000 --> 00:34:17,000
+That's what I think.
+
+535
+00:34:17,000 --> 00:34:20,000
+And I'd love to like, get some nuance.
+
+536
+00:34:20,000 --> 00:34:23,000
+So maybe that's another episode in the
+future.
+
+537
+00:34:23,000 --> 00:34:24,000
+Yeah.
+
+538
+00:34:24,000 --> 00:34:25,000
+Yeah, I think so.
+
+539
+00:34:25,000 --> 00:34:27,000
+Because I have like a lot of questions
+like, why would you want to have a reserve
+
+540
+00:34:27,000 --> 00:34:29,000
+like who who makes the reserve?
+
+541
+00:34:30,000 --> 00:34:34,000
+So do you have to do like, initial
+funding of it?
+
+542
+00:34:34,000 --> 00:34:39,000
+And then there's builds the reserve
+versus like, Dexy is looking at the bank,
+
+543
+00:34:39,000 --> 00:34:44,000
+in terms of gold.
+
+544
+00:34:44,000 --> 00:34:48,000
+And then I would imagine, right, because
+of the reserve token, there's probably
+
+545
+00:34:48,000 --> 00:34:52,000
+nuances to where you could do arbitrage
+between these gold stable coins back to
+
+546
+00:34:52,000 --> 00:34:56,000
+back, because of how their mechanisms kind
+of increase and decrease their prices.
+
+547
+00:34:58,000 --> 00:35:02,000
+Yeah, so I think, I think Dexy might
+actually, I think you're right, like you
+
+548
+00:35:02,000 --> 00:35:06,000
+would have to kind of fund that bank.
+
+549
+00:35:06,000 --> 00:35:08,000
+But it eventually is like a locked
+protocol.
+
+550
+00:35:08,000 --> 00:35:12,000
+It's a protocol owned liquidity there.
+
+551
+00:35:12,000 --> 00:35:14,000
+Nobody owns that.
+
+552
+00:35:14,000 --> 00:35:16,000
+It's non-custodial.
+
+553
+00:35:16,000 --> 00:35:20,000
+It's just locked in a contract that
+operates autonomously.
+
+554
+00:35:20,000 --> 00:35:24,000
+It's not like somebody's ERG is sitting
+in that bank.
+
+555
+00:35:24,000 --> 00:35:26,000
+That's what I think.
+
+556
+00:35:26,000 --> 00:35:28,000
+But then how does the gold, I guess, work
+into the play then?
+
+557
+00:35:28,000 --> 00:35:32,000
+Because then, I guess, technically,
+you're buying gold, right?
+
+558
+00:35:32,000 --> 00:35:38,000
+But then where's the actual gold I
+suppose, come into play because wouldn't
+
+559
+00:35:38,000 --> 00:35:44,000
+in theory the bank buy real gold in order
+to have, right?
+
+560
+00:35:44,000 --> 00:35:46,000
+In a real life thing, yes.
+
+561
+00:35:46,000 --> 00:35:53,000
+So this is minting those tokens and the
+value is represented in the AMM.
+
+562
+00:35:53,000 --> 00:35:59,000
+So it has ERG and the gold tokens and the
+bank can mint gold tokens and buy and sell
+
+563
+00:35:59,000 --> 00:36:05,000
+those in the AMM.
+
+564
+00:36:06,000 --> 00:36:09,000
+Right.
+
+565
+00:36:06,000 --> 00:36:09,000
+I guess I'm confused on just like what
+it's backed by.
+
+566
+00:36:09,000 --> 00:36:12,000
+Like, well, how does it inherently hold?
+
+567
+00:36:12,000 --> 00:36:17,000
+Yeah, just ERG and the Oracle.
+
+568
+00:36:17,000 --> 00:36:20,000
+Okay.
+
+569
+00:36:17,000 --> 00:36:18,000
+Interesting.
+
+570
+00:36:18,000 --> 00:36:23,000
+It's well, I think it's similar to like
+SigmaUSD, where it's like, it's just
+
+571
+00:36:23,000 --> 00:36:28,000
+algorithmic and like, yeah, is this worth
+a dollar?
+
+572
+00:36:29,000 --> 00:36:30,000
+It's just a token.
+
+573
+00:36:30,000 --> 00:36:31,000
+Right.
+
+574
+00:36:31,000 --> 00:36:35,000
+But since you can sell your SigmaUSD for
+$1 worth of ERG, that's what makes it
+
+575
+00:36:35,000 --> 00:36:39,000
+valuable.
+
+576
+00:36:40,000 --> 00:36:42,000
+That's what like ensures its value.
+
+577
+00:36:42,000 --> 00:36:45,000
+And so the same thing here, you're
+getting this token that's like, yeah, it's
+
+578
+00:36:45,000 --> 00:36:48,000
+not real gold.
+
+579
+00:36:49,000 --> 00:36:50,000
+Which would be really interesting.
+
+580
+00:36:50,000 --> 00:36:52,000
+I would love to have like some warehouse
+actually selling tokens that you could go
+
+581
+00:36:52,000 --> 00:36:54,000
+get.
+
+582
+00:36:55,000 --> 00:36:56,000
+Right.
+
+583
+00:36:56,000 --> 00:36:57,000
+Yeah.
+
+584
+00:36:57,000 --> 00:36:58,000
+Right.
+
+585
+00:36:58,000 --> 00:37:03,000
+But in this case, it's like, no, it's
+just this autonomous protocol that will
+
+586
+00:37:03,000 --> 00:37:08,000
+give you the oracle price of gold in ERG
+when you want it.
+
+587
+00:37:08,000 --> 00:37:14,000
+So it's more of like a synthetic gold,
+per se.
+
+588
+00:37:14,000 --> 00:37:18,000
+So would the same be true for Gluon in
+the reserve token?
+
+589
+00:37:18,000 --> 00:37:21,000
+But it would be more of like a synthetic,
+but like with a reserve, I guess.
+
+590
+00:37:21,000 --> 00:37:26,000
+And then that has its own, I guess,
+inherent properties relative to, I guess.
+
+591
+00:37:26,000 --> 00:37:30,000
+Yeah, so Dexy, I think, uses the users
+mostly and the bank to buy and sell things
+
+592
+00:37:30,000 --> 00:37:34,000
+to maintain that price.
+
+593
+00:37:34,000 --> 00:37:39,000
+And then Gluon uses the algorithm to kind
+of tell you how much you can purchase
+
+594
+00:37:39,000 --> 00:37:44,000
+these for or redeem your reserve token
+for.
+
+595
+00:37:44,000 --> 00:37:48,000
+And that reserve token is going to go up
+and down, kind of like exaggerated
+
+596
+00:37:48,000 --> 00:37:52,000
+movements of the ERG to BTC price.
+
+597
+00:37:52,000 --> 00:37:53,000
+Right.
+
+598
+00:37:53,000 --> 00:37:57,000
+No, that's very fascinating because I
+mean, imagine like, being able to do this
+
+599
+00:37:57,000 --> 00:38:01,000
+just for and I think that's kind of almost
+where like, ChainCash comes into play to
+
+600
+00:38:01,000 --> 00:38:05,000
+where it's like, kind of take these models
+of where it's like, okay, let's just get
+
+601
+00:38:05,000 --> 00:38:09,000
+rid of gold, it's abstract away.
+
+602
+00:38:09,000 --> 00:38:12,000
+And then like, let's put like my house.
+
+603
+00:38:12,000 --> 00:38:16,000
+And then you can like tokenize your house
+and then sell certain aspects of your
+
+604
+00:38:16,000 --> 00:38:20,000
+house or whatever real world applications
+actually make sense, I suppose, like
+
+605
+00:38:20,000 --> 00:38:24,000
+actual gold would be sick, like, Yeah,
+here's my my warehouse of gold.
+
+606
+00:38:25,000 --> 00:38:27,000
+We've got 10 bars or whatever it is.
+
+607
+00:38:27,000 --> 00:38:31,000
+And then that's what kind of how they're
+doing with the which would be very similar
+
+608
+00:38:31,000 --> 00:38:35,000
+to the ETF, what they're doing with the
+Bitcoin ETF, in some aspects.
+
+609
+00:38:36,000 --> 00:38:38,000
+Dude.
+
+610
+00:38:38,000 --> 00:38:40,000
+So funny that I've admitted this right
+now.
+
+611
+00:38:40,000 --> 00:38:45,000
+On Twitter, I actually I spam Peter
+Schiff and tell him that he should be
+
+612
+00:38:45,000 --> 00:38:50,000
+tokenizing his gold on the Ergo
+blockchain.
+
+613
+00:38:51,000 --> 00:38:53,000
+He could sell it and earn.
+
+614
+00:38:53,000 --> 00:38:54,000
+I mean, you could earn a 1% fee.
+
+615
+00:38:54,000 --> 00:38:56,000
+Like, why don't you do that?
+
+616
+00:38:56,000 --> 00:39:00,000
+And just every time someone needs to buy
+or redeem their their gold token backed by
+
+617
+00:39:00,000 --> 00:39:04,000
+his gold, he owns a gold company.
+
+618
+00:39:05,000 --> 00:39:06,000
+It's like, okay, but there you go, bro.
+
+619
+00:39:06,000 --> 00:39:08,000
+Like you hate Bitcoin.
+
+620
+00:39:08,000 --> 00:39:09,000
+Right?
+
+621
+00:39:09,000 --> 00:39:11,000
+Yeah.
+
+622
+00:39:11,000 --> 00:39:13,000
+Does he like blockchain though?
+
+623
+00:39:13,000 --> 00:39:14,000
+I don't know.
+
+624
+00:39:14,000 --> 00:39:15,000
+I don't know.
+
+625
+00:39:15,000 --> 00:39:18,000
+His whole position is weird, because I
+think like, the gold and Bitcoin value
+
+626
+00:39:18,000 --> 00:39:21,000
+proposition is just so similar.
+
+627
+00:39:22,000 --> 00:39:25,000
+Like, yeah, like, why hate one or the
+other?
+
+628
+00:39:25,000 --> 00:39:26,000
+Totally.
+
+629
+00:39:26,000 --> 00:39:31,000
+I was actually just thinking the other
+day, I'm like, I should buy some gold,
+
+630
+00:39:31,000 --> 00:39:36,000
+like, that should be something, buy some
+of those assets and silver, and uranium.
+
+631
+00:39:37,000 --> 00:39:40,000
+like.
+
+632
+00:39:37,000 --> 00:39:38,000
+Okay, uranium.
+
+633
+00:39:38,000 --> 00:39:41,000
+That's why you have to let me know how to
+buy that.
+
+634
+00:39:41,000 --> 00:39:43,000
+Oh, just stocks, bro stocks.
+
+635
+00:39:43,000 --> 00:39:46,000
+I don't actually own any uranium.
+
+636
+00:39:46,000 --> 00:39:49,000
+Tim's building nukes out in Arizona.
+
+637
+00:39:49,000 --> 00:39:52,000
+My kids are gonna be weird.
+
+638
+00:39:52,000 --> 00:39:54,000
+You actually work for the CIA.
+
+639
+00:39:54,000 --> 00:39:56,000
+So it's cool.
+
+640
+00:39:56,000 --> 00:39:58,000
+All right, brother.
+
+641
+00:39:58,000 --> 00:40:01,000
+Is there is there anything else you
+wanted to talk about today?
+
+642
+00:40:01,000 --> 00:40:04,000
+No, I think that we definitely talked a
+lot and hit a lot of good, exciting
+
+643
+00:40:04,000 --> 00:40:07,000
+topics.
+
+644
+00:40:07,000 --> 00:40:10,000
+So I mean, maybe we save it for the next
+episode.
+
+645
+00:40:10,000 --> 00:40:11,000
+Yeah.
+
+646
+00:40:11,000 --> 00:40:14,000
+So just a disclaimer to everybody.
+
+647
+00:40:14,000 --> 00:40:15,000
+I don't know what I'm talking about.
+
+648
+00:40:15,000 --> 00:40:18,000
+I'm just a guy and I like to read a lot.
+
+649
+00:40:18,000 --> 00:40:20,000
+I don't understand everything perfectly.
+
+650
+00:40:20,000 --> 00:40:24,000
+So if me and Mark get something wrong,
+I'd love to learn and you can be a guest
+
+651
+00:40:24,000 --> 00:40:28,000
+and come and drop your knowledge on us.
+
+652
+00:40:28,000 --> 00:40:29,000
+Yeah, please do.
+
+653
+00:40:29,000 --> 00:40:32,000
+I mean, for sure.
+
+654
+00:40:32,000 --> 00:40:36,000
+Correct us and let us know how it is,
+please.
+
+655
+00:40:36,000 --> 00:40:39,000
+Yeah.
+
+656
+00:40:36,000 --> 00:40:37,000
+I'm an idea guy.
+
+657
+00:40:37,000 --> 00:40:38,000
+That's it.
+
+658
+00:40:38,000 --> 00:40:41,000
+That's it.
+
+659
+00:40:38,000 --> 00:40:41,000
+Right.
+
+660
+00:40:41,000 --> 00:40:47,000
+I like that Rick Rubin clip where he's
+like, no, I'm not good at music.
+
+661
+00:40:47,000 --> 00:40:49,000
+I don't know anything.
+
+662
+00:40:49,000 --> 00:40:51,000
+I know what I like and what I don't like.
+
+663
+00:40:51,000 --> 00:40:54,000
+Right.
+
+664
+00:40:51,000 --> 00:40:55,000
+He's just this hit producer for all these
+bands.
+
+665
+00:40:55,000 --> 00:40:57,000
+It's like, cool, cool, cool.
+
+666
+00:40:57,000 --> 00:41:01,000
+I mean that and that's honestly that's a
+good takeaway just in life it's like and
+
+667
+00:41:01,000 --> 00:41:05,000
+even with Ergo right it's like well if you
+really want to get excited and do
+
+668
+00:41:05,000 --> 00:41:09,000
+something you just got to be excited and
+do it you don't really need to know like
+
+669
+00:41:09,000 --> 00:41:13,000
+whatever here we are we don't know
+everything about Ergo we're talking about
+
+670
+00:41:13,000 --> 00:41:17,000
+it so and it's fun having a blast doing it
+yeah all right brother i hope you have a
+
+671
+00:41:17,000 --> 00:41:21,000
+great day stay safe out there cool see
+everyone
+
+672
+00:41:25,000 --> 00:41:28,000
+you
+

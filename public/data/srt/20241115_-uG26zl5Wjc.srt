@@ -1,0 +1,3257 @@
+1
+00:00:15,000 --> 00:00:22,000
+Hello and welcome to the weekly Ergo AMA.
+
+2
+00:00:22,000 --> 00:00:26,000
+Today with me, we have, wait, what's your
+name? I forgot.
+
+3
+00:00:26,000 --> 00:00:32,000
+Hey guys, I'm MGPai. Super excited to be
+on again.
+
+4
+00:00:32,000 --> 00:00:36,000
+MGPai, aren't you that guy that was
+working on Ergo names?
+
+5
+00:00:36,000 --> 00:00:38,000
+Yeah.
+
+6
+00:00:38,000 --> 00:00:41,000
+How's that going?
+
+7
+00:00:41,000 --> 00:00:44,000
+It's such an intricate project. I bet.
+
+8
+00:00:44,000 --> 00:00:49,000
+We're just busting it right off the bat.
+What's new? What's new?
+
+9
+00:00:49,000 --> 00:00:54,000
+I've been trying to get some work in for
+Ergo names. I definitely want to finish it
+
+10
+00:00:54,000 --> 00:00:59,000
+off. I just been really busy with school.
+We just had midterm midterms and all. So
+
+11
+00:00:59,000 --> 00:01:04,000
+we have Thanksgiving coming up in the US
+in about a week and a half. So hoping to
+
+12
+00:01:04,000 --> 00:01:09,000
+use that time to get more involved again
+in Ergo names, but we have Thanksgiving
+
+13
+00:01:09,000 --> 00:01:14,000
+and Christmas. So I'm pretty confident I
+can finish it then because all our smart
+
+14
+00:01:14,000 --> 00:01:19,000
+contracts are done. It's just off chain
+stuff, getting the contracts to run
+
+15
+00:01:19,000 --> 00:01:24,000
+itself. And that's all already has
+progress on it. So hopefully we can have
+
+16
+00:01:24,000 --> 00:01:29,000
+that going.
+
+17
+00:01:31,000 --> 00:01:34,000
+So it'll be a nice little Christmas
+present you're saying.
+
+18
+00:01:34,000 --> 00:01:36,000
+That's my hope.
+
+19
+00:01:36,000 --> 00:01:41,000
+Fantastic. Fantastic. What else is new?
+How's Palmyra? How's ZenGate? How's all
+
+20
+00:01:41,000 --> 00:01:46,000
+that cross-chain business going with
+commodities and trading of them?
+
+21
+00:01:46,000 --> 00:01:52,000
+Yeah, it's going pretty well. A lot of
+progress. We keep onboarding new
+
+22
+00:01:52,000 --> 00:01:58,000
+developers and scaling, because there's
+just so much work to be done and so many
+
+23
+00:01:58,000 --> 00:02:04,000
+opportunities to seize with RWAs. It's
+quite popular, especially in this new
+
+24
+00:02:04,000 --> 00:02:10,000
+cycle right. A lot of people are realizing
+that RWAs are really the path for real
+
+25
+00:02:10,000 --> 00:02:16,000
+world utility and involvement rather than
+just NFTs itself right. Something a little
+
+26
+00:02:16,000 --> 00:02:22,000
+more beneficial so yeah, a lot of progress
+is being done. I think the community will
+
+27
+00:02:22,000 --> 00:02:28,000
+be really happy. Again, I don't know how
+much I can say, it's not my control so
+
+28
+00:02:28,000 --> 00:02:34,000
+I'll just leave it at that.
+
+29
+00:02:35,000 --> 00:02:41,000
+You're not gonna pull a Tom Holland and
+give away everything after me. That's
+
+30
+00:02:41,000 --> 00:02:47,000
+right, that can be pretty scary can it?
+Dan's probably no, he sees a wake. I'm
+
+31
+00:02:47,000 --> 00:02:53,000
+sure right now. It's pretty early over
+there. Nice nice. Well, what do you think
+
+32
+00:02:53,000 --> 00:02:59,000
+of the... are we in a bull?
+
+33
+00:02:59,000 --> 00:03:04,000
+Oh yeah, it's pretty cool to see Bitcoin
+go across 90k, right? Again, it's always
+
+34
+00:03:04,000 --> 00:03:09,000
+kind of weird though, right? From like
+2022 or 2021, where alts were also
+
+35
+00:03:09,000 --> 00:03:14,000
+pumping. It's really just Bitcoin. Little
+liquidity, I guess, started to flow into
+
+36
+00:03:14,000 --> 00:03:19,000
+altcoins, but it's still not significant,
+which is very surprising. Hopefully, we'll
+
+37
+00:03:19,000 --> 00:03:24,000
+see at least something, right? When
+Bitcoin crossed its original all-time high
+
+38
+00:03:24,000 --> 00:03:29,000
+from 2020, it was still pretty, it was
+very stagnant the altcoins, but now at
+
+39
+00:03:29,000 --> 00:03:34,000
+least we are seeing something like 10%
+20%. So yeah, so maybe it's the small
+
+40
+00:03:34,000 --> 00:03:39,000
+spark to something.
+
+41
+00:03:45,000 --> 00:03:47,000
+10% 20% on what?
+
+42
+00:03:47,000 --> 00:03:52,000
+Like across most altcoins.
+
+43
+00:03:52,000 --> 00:03:56,000
+Yeah, well, I would say Ergo's performing
+quite a bit better than that. Yes. Yeah,
+
+44
+00:03:56,000 --> 00:04:00,000
+but on average I would say probably that
+yeah. Yeah, so it'll be interesting to see
+
+45
+00:04:00,000 --> 00:04:04,000
+when that if it's gonna keep on kind of a
+trickle in flow or it's gonna be a season
+
+46
+00:04:04,000 --> 00:04:08,000
+again where it just spanks out and you're
+like, whoa, there it goes kind of thing.
+
+47
+00:04:08,000 --> 00:04:12,000
+Exactly. Who knows, but very happy with
+the Ergo movement right now coming back to
+
+48
+00:04:12,000 --> 00:04:16,000
+what the price was about a year ago and...
+
+49
+00:04:21,000 --> 00:04:27,000
+So hopefully the community can take
+advantage of this momentum. I'm very happy
+
+50
+00:04:27,000 --> 00:04:33,000
+Rosen is doing that. I've been talking to
+Joe a lot about the progress for Rosen. We
+
+51
+00:04:33,000 --> 00:04:39,000
+have Dogecoin coming up and I don't know
+if you guys follow the US news, but it
+
+52
+00:04:39,000 --> 00:04:45,000
+seems that Trump has opened a new
+department called Department of Government
+
+53
+00:04:45,000 --> 00:04:51,000
+efficiency DOGE. So that's quite
+something. So I'm sure Dogecoin will pump
+
+54
+00:04:51,000 --> 00:04:57,000
+in the future.
+
+55
+00:05:01,000 --> 00:05:01,000
+Yeah, I think it's up from 11 cents to 30
+some cents last time I checked or
+
+56
+00:05:01,000 --> 00:05:01,000
+something. So it's already three times.
+
+57
+00:05:02,000 --> 00:05:07,000
+Absolutely. But we're gonna take
+advantage of that right. We're gonna go to
+
+58
+00:05:07,000 --> 00:05:12,000
+DOGE right and... Again, it's just like
+Bitcoin, so people don't have much to do
+
+59
+00:05:12,000 --> 00:05:17,000
+there. So maybe we can convince them to
+leverage the Rosen Bridge and do something
+
+60
+00:05:17,000 --> 00:05:22,000
+on other ecosystems with their Dogecoins.
+And then we're also getting Binance Smart
+
+61
+00:05:22,000 --> 00:05:27,000
+Chain. And now I think you will start to
+see more fun. We've been seeing some
+
+62
+00:05:27,000 --> 00:05:32,000
+transfers to Ethereum, but the problem is
+it's very expensive. So having on Binance
+
+63
+00:05:32,000 --> 00:05:37,000
+Smart Chain allows you for a very similar
+environment with high liquidity, but much,
+
+64
+00:05:37,000 --> 00:05:42,000
+much, much cheaper fees.
+
+65
+00:05:49,000 --> 00:05:55,000
+And another cool thing I realized is
+Alephium has their Binance Smart Chain
+
+66
+00:05:55,000 --> 00:06:01,000
+bridge also coming out. So it might even
+be possible to interact with Alephium
+
+67
+00:06:01,000 --> 00:06:07,000
+through each other's chains because I
+think they can also bridge native assets.
+
+68
+00:06:07,000 --> 00:06:13,000
+And since Rosen already bridges native
+assets, maybe it's possible to go to
+
+69
+00:06:13,000 --> 00:06:19,000
+Alephium without using Rosen, using
+whatever bridge infrastructure they have,
+
+70
+00:06:19,000 --> 00:06:25,000
+since they both connect to Binance Smart
+Chain. So that's interesting. I've been
+
+71
+00:06:25,000 --> 00:06:31,000
+talking to some people, but that would be
+pretty cool to have working. I think
+
+72
+00:06:31,000 --> 00:06:37,000
+definitely these UTXO blockchains needs to
+work closer together, since there's just
+
+73
+00:06:37,000 --> 00:06:43,000
+so few of them with less liquidity these
+days. So I think that'll be fun to see.
+
+74
+00:06:45,000 --> 00:06:50,000
+Yeah, and I think once, I don't want to
+say more mainstream, but once people get
+
+75
+00:06:50,000 --> 00:06:55,000
+used to the fact of crypto isn't just
+going to something like Robinhood on your
+
+76
+00:06:55,000 --> 00:07:00,000
+phone and clicking and not having your own
+custody of your assets, and they get used
+
+77
+00:07:00,000 --> 00:07:05,000
+to that, it's not going to be instant. I
+think it's going to be a long time before
+
+78
+00:07:05,000 --> 00:07:10,000
+that happens. You'll see, I think you'll
+see a big spread out of liquidity across
+
+79
+00:07:10,000 --> 00:07:15,000
+these decentralized bridges. That's where
+Rosen's goal is. So that's the hope I
+
+80
+00:07:15,000 --> 00:07:20,000
+mean.
+
+81
+00:07:23,000 --> 00:07:28,000
+I think it's good that there are things
+like central exchanges around for people
+
+82
+00:07:28,000 --> 00:07:33,000
+who want that comfort, but I think in
+order for the survival and the
+
+83
+00:07:33,000 --> 00:07:38,000
+sustainability and the kind of
+unstoppable-ness of crypto, there has to
+
+84
+00:07:38,000 --> 00:07:43,000
+be a healthy liquidity and a healthy
+amount of things like Uniswap, like those
+
+85
+00:07:43,000 --> 00:07:48,000
+kind of decentralized exchanges. Yeah, for
+sure. Yeah. Otherwise it's like, no, we
+
+86
+00:07:48,000 --> 00:07:53,000
+don't feel like interacting with you,
+MGPai. Sorry. Or we don't like a country
+
+87
+00:07:53,000 --> 00:07:58,000
+of origin that this person's from. Nope.
+That's it. Bye bye kind of thing. So yeah.
+
+88
+00:08:02,000 --> 00:08:08,000
+I mean, exchanges certainly already do
+that with US citizens. Right.
+
+89
+00:08:08,000 --> 00:08:12,000
+Right. Yeah. I was trying to, speaking of
+that, I was trying to give a little plug
+
+90
+00:08:12,000 --> 00:08:16,000
+out for Cyberverse right now. Cyberverse,
+as some of you know, are working a lot
+
+91
+00:08:16,000 --> 00:08:20,000
+cross-chain. So they've moved to Cardano.
+They are now working on the gaming chain,
+
+92
+00:08:20,000 --> 00:08:24,000
+trying to get in there. It's called Ronin.
+And there's a vote up on the Ronin Discord
+
+93
+00:08:24,000 --> 00:08:28,000
+right now. In order to be part of that,
+you have to have some Ronin in your Ronin
+
+94
+00:08:28,000 --> 00:08:32,000
+wallet and connect it to the Discord, and
+then you can vote in Discord kind of
+
+95
+00:08:32,000 --> 00:08:36,000
+thing. Discord DAO, I guess. Joe Arminio
+likes to call them. So I downloaded the
+
+96
+00:08:36,000 --> 00:08:40,000
+Ronin app to support Cyberverse and I
+clicked the buy fiat, buy from fiat button
+
+97
+00:08:40,000 --> 00:08:44,000
+directly, you know. It's gonna put in my
+card and I was like, nah, sorry here in
+
+98
+00:08:44,000 --> 00:08:48,000
+the U.S. Womp womp.
+
+99
+00:08:57,000 --> 00:09:00,000
+Yeah, so common.
+
+100
+00:09:00,000 --> 00:09:05,000
+So I just pinged Dan this morning. I was
+like, Dan, can you send me a couple ADA so
+
+101
+00:09:05,000 --> 00:09:10,000
+that I can simple swap them over to Ronin
+and then vote for those guys? So I suggest
+
+102
+00:09:10,000 --> 00:09:15,000
+if any of you guys have heard of
+Cyberverse, if you're up for supporting an
+
+103
+00:09:15,000 --> 00:09:20,000
+amazing Ergo project that's actually a
+really fun game too, it's really simple.
+
+104
+00:09:20,000 --> 00:09:25,000
+Just download a Ronin wallet, join the
+Discord and use Simple Swap to go from ADA
+
+105
+00:09:25,000 --> 00:09:30,000
+to Ronin. You can do a very small amount.
+You can do like 20 ADA and you'll get a
+
+106
+00:09:30,000 --> 00:09:35,000
+handful of Ronin on the other side and
+then you can vote for them in the Discord.
+
+107
+00:09:35,000 --> 00:09:40,000
+I think they're aiming to be in the top
+13. And I think they're teetering on that.
+
+108
+00:09:40,000 --> 00:09:45,000
+So any support here...
+
+109
+00:09:45,000 --> 00:09:46,000
+Yeah, let's help them out. Yeah.
+
+110
+00:09:46,000 --> 00:09:51,000
+Would be very, very helpful. Yeah. Oh,
+thanks. You have ADA? Of course. He told
+
+111
+00:09:51,000 --> 00:09:56,000
+me you didn't. I'm just kidding.
+
+112
+00:09:57,000 --> 00:10:01,000
+And what was I going to say earlier
+about... what were we talking about?
+
+113
+00:10:01,000 --> 00:10:05,000
+Liquidity. I can't remember. What's new in
+the Sigmanauts? We have, if some of you
+
+114
+00:10:05,000 --> 00:10:09,000
+have noticed, we found a guy from the
+drama a couple of weeks ago. We found a
+
+115
+00:10:09,000 --> 00:10:13,000
+guy that came forward and was like, hey,
+I'll help you run the account. And that's
+
+116
+00:10:13,000 --> 00:10:17,000
+SuperGeometry. He is doing an amazing job
+at the Sigmanauts Twitter. So if you guys
+
+117
+00:10:17,000 --> 00:10:21,000
+are seeing that and appreciating that,
+please interact with that account and talk
+
+118
+00:10:21,000 --> 00:10:25,000
+to it. I think he's done a post almost
+every day now, good posts, gives
+
+119
+00:10:25,000 --> 00:10:29,000
+giveaways, those kind of things. He's also
+put up a vote for, I think, 100 ERGs
+
+120
+00:10:29,000 --> 00:10:33,000
+giveaway per month, so he can kind of
+design these giveaways to get engagement
+
+121
+00:10:33,000 --> 00:10:37,000
+on that platform and get people
+interacting. So that's really awesome,
+
+122
+00:10:37,000 --> 00:10:41,000
+very active. I'm trying to repost as much
+as I can from the main account that is
+
+123
+00:10:41,000 --> 00:10:45,000
+suitable, but yeah, so that's fun.
+
+124
+00:10:55,000 --> 00:11:00,000
+We are also in the midst of getting a new
+multisig in the Sigmanauts. The issue with
+
+125
+00:11:00,000 --> 00:11:05,000
+the current multisig is it's made up of
+early members and those early members are
+
+126
+00:11:05,000 --> 00:11:10,000
+not always in the ecosystem hanging out.
+So when we want to do a transaction it
+
+127
+00:11:10,000 --> 00:11:15,000
+takes quite a while. I think this last one
+took two weeks and it failed because we
+
+128
+00:11:15,000 --> 00:11:20,000
+weren't on the same version of Minotaur.
+MGPai that reminds me. Where's Minar? What
+
+129
+00:11:20,000 --> 00:11:25,000
+is it? Minar Finance? What's the name of
+it?
+
+130
+00:11:28,000 --> 00:11:29,000
+It's Moria.
+
+131
+00:11:29,000 --> 00:11:33,000
+Moria Finance, where's Moria? Is it ready
+for us? Come on. Moria Finance, for those
+
+132
+00:11:33,000 --> 00:11:37,000
+that don't know, is a very awesome web
+interface for multisig. It's kind of like
+
+133
+00:11:37,000 --> 00:11:41,000
+a Cardano roundtable, if you guys have
+seen that, but it's very simple. You go
+
+134
+00:11:41,000 --> 00:11:45,000
+there, you connect your own wallet, which
+is your own part of the multisig, and then
+
+135
+00:11:45,000 --> 00:11:49,000
+you put in other wallets and they can go
+there, they can connect and sign, and it
+
+136
+00:11:49,000 --> 00:11:53,000
+does like a round robin. It lets you know
+who's next and that kind of thing. So it's
+
+137
+00:11:53,000 --> 00:11:57,000
+a really cool project for, you did for
+ErgoHack, two ErgoHacks ago?
+
+138
+00:11:59,000 --> 00:12:05,000
+Yeah, yeah, yeah, two ErgoHacks ago,
+yeah, yeah. I would definitely maybe
+
+139
+00:12:05,000 --> 00:12:11,000
+that'll be Easter or something. I think
+possible work or Christmas because I need
+
+140
+00:12:11,000 --> 00:12:17,000
+Nautilus like an updated version of
+Nautilus and Nemo has been working on it
+
+141
+00:12:17,000 --> 00:12:23,000
+and... So I think it should be out pretty
+soon. I don't know if you guys have been
+
+142
+00:12:23,000 --> 00:12:29,000
+following, but Captain Nemo has been doing
+a lot of updates for Nautilus as well.
+
+143
+00:12:29,000 --> 00:12:35,000
+It's really, really good now. Especially
+the UI, the transaction history, and now
+
+144
+00:12:35,000 --> 00:12:41,000
+even better transaction submissions called
+chained transactions. So we're definitely
+
+145
+00:12:41,000 --> 00:12:47,000
+getting upgrades and it's preparing for
+sub-blocks. They've been doing really good
+
+146
+00:12:47,000 --> 00:12:53,000
+work. So I think they've been a bit busy
+trying to do my interaction because it's
+
+147
+00:12:53,000 --> 00:12:59,000
+very cryptography heavy, which is boring
+for anyone. But I think they'll have it.
+
+148
+00:12:59,000 --> 00:13:05,000
+So Nemo told me that they'll get on it.
+
+149
+00:13:07,000 --> 00:13:12,000
+The new version will show incoming
+transactions that you can then send before
+
+150
+00:13:12,000 --> 00:13:17,000
+they're even out of the mempool, right?
+You can chain transactions. So something
+
+151
+00:13:17,000 --> 00:13:22,000
+can come in and you can be like, oh crap,
+I sent it to the wrong one.
+
+152
+00:13:22,000 --> 00:13:24,000
+That's perfect. Yeah. I mean, developers
+could always do that, but we need a
+
+153
+00:13:24,000 --> 00:13:26,000
+better, we need a good interface so anyone
+can do that, right? Exactly. That's the
+
+154
+00:13:26,000 --> 00:13:28,000
+challenge.
+
+155
+00:13:30,000 --> 00:13:36,000
+Yep. Yeah, that is neat. So the multisig
+we put in a vote to Paideia to have some
+
+156
+00:13:36,000 --> 00:13:42,000
+new multisig members that are very active
+Sigmanauts. I believe it's Luivatra, CW,
+
+157
+00:13:42,000 --> 00:13:48,000
+Mark the Shark, Jake the Snake, and
+CannonQ. We had CW like just Jake's and
+
+158
+00:13:48,000 --> 00:13:54,000
+CannonQ myself. And I think that's at
+least seven of us. So once that vote
+
+159
+00:13:54,000 --> 00:14:00,000
+passes, it should pass later today, I
+believe, unless a big no brigade comes up,
+
+160
+00:14:00,000 --> 00:14:06,000
+we'll create the multisig in a little
+ceremony with wine and cheese, maybe some
+
+161
+00:14:06,000 --> 00:14:12,000
+sausage. And then we'll send one big
+transaction from the old multisig to the
+
+162
+00:14:12,000 --> 00:14:18,000
+new one.
+
+163
+00:14:19,000 --> 00:14:24,000
+And then we'll talk about, eventually,
+the eventual goal, guys, is that we fully
+
+164
+00:14:24,000 --> 00:14:29,000
+rely on Paideia. But as Paideia is just
+moving out of beta into non-beta, you
+
+165
+00:14:29,000 --> 00:14:34,000
+know, production, it's still, we only hold
+maybe a couple thousand ERGs in there just
+
+166
+00:14:34,000 --> 00:14:39,000
+to be safe in case something really bad
+happens. Like I think in the beta guys we
+
+167
+00:14:39,000 --> 00:14:44,000
+had a vote going on and I made the vote
+and luckily, I didn't attach any money to
+
+168
+00:14:44,000 --> 00:14:49,000
+it as a reason. Well, I guess that
+wouldn't have mattered but I made the vote
+
+169
+00:14:49,000 --> 00:14:54,000
+and it... And Louie didn't use, he used a
+greater than sign instead of a greater
+
+170
+00:14:54,000 --> 00:14:59,000
+than less than equation. So the vote could
+never reach consensus because I set it to,
+
+171
+00:14:59,000 --> 00:15:04,000
+oh, that's what I did. I made a vote that
+would change the configs to have more of a
+
+172
+00:15:04,000 --> 00:15:09,000
+consensus. And Louie wrote us immediately,
+he was like, guys, that's going to break
+
+173
+00:15:09,000 --> 00:15:14,000
+your DAO. Because you're never gonna be
+able to get any money out of it because
+
+174
+00:15:14,000 --> 00:15:19,000
+you're never gonna be able to get greater
+than a hundred essentially. And so the new
+
+175
+00:15:19,000 --> 00:15:24,000
+version that he wrote actually has a
+greater than less than there so you can do
+
+176
+00:15:24,000 --> 00:15:29,000
+those kind of things and they shouldn't
+fail.
+
+177
+00:15:36,000 --> 00:15:39,000
+But yeah, so we're just being cautious
+there. Once we fully trust that, you'll
+
+178
+00:15:39,000 --> 00:15:42,000
+see most of our funds flow into Paideia
+there for that kind of group management as
+
+179
+00:15:42,000 --> 00:15:45,000
+opposed to something happening on Paideia
+and if it's more than a couple thousand
+
+180
+00:15:45,000 --> 00:15:48,000
+ERGs we need to pay out or a special token
+that we have in the treasury then it's up
+
+181
+00:15:48,000 --> 00:15:51,000
+to the manual multisig there to say yes
+we're seeing the vote and we're going to
+
+182
+00:15:51,000 --> 00:15:54,000
+obey the vote and go from there. So yeah
+soon, super super exciting. Love Paideia.
+
+183
+00:15:59,000 --> 00:16:03,000
+I guess we should talk. What's that? It's
+awesome. It's awesome that Paideia is out.
+
+184
+00:16:03,000 --> 00:16:07,000
+I think it's been in development for
+almost three years, right? Two and a half,
+
+185
+00:16:07,000 --> 00:16:11,000
+three years. So that's a really big
+milestone, especially for Luivatra and the
+
+186
+00:16:11,000 --> 00:16:15,000
+team behind it.
+
+187
+00:16:16,000 --> 00:16:22,000
+Yeah. Well, let's talk about real quick
+the announcement yesterday about ErgoPad,
+
+188
+00:16:22,000 --> 00:16:28,000
+right? Marty is kind of winding down at
+least his oversight of ErgoPad and
+
+189
+00:16:28,000 --> 00:16:34,000
+Coinecta. I believe both IDO platforms on
+Cardano and Ergo. And I was talking to you
+
+190
+00:16:34,000 --> 00:16:40,000
+last night about it. I think Ergo is...
+So, I don't know what the term for is it,
+
+191
+00:16:40,000 --> 00:16:46,000
+but we have so many options on how to
+non-KYC these kind of token launches that
+
+192
+00:16:46,000 --> 00:16:52,000
+Paideia, not Paideia, ErgoPad and Coinecta
+I imagine have a tough time competing with
+
+193
+00:16:52,000 --> 00:16:58,000
+that kind of thing. You can come in, you
+can lock your tokens, do some other stuff.
+
+194
+00:16:58,000 --> 00:17:04,000
+We're working on SigmaLock with you guys
+as well, which you can do it through. It's
+
+195
+00:17:04,000 --> 00:17:10,000
+just it's a tough tough call there. So I
+feel for Marty, I feel for that. But he
+
+196
+00:17:10,000 --> 00:17:16,000
+did offer that right. It's code that he
+can let anybody use and keep spinning up.
+
+197
+00:17:16,000 --> 00:17:22,000
+So if the Sigmanauts want to take it over
+and have it there just so people can
+
+198
+00:17:22,000 --> 00:17:28,000
+unstake that still don't come around for
+six months then that's fine. You know, I
+
+199
+00:17:28,000 --> 00:17:34,000
+don't imagine it's too hard to keep that
+up. But the tough part is managing all the
+
+200
+00:17:34,000 --> 00:17:40,000
+KYC in the back end and doing that. I
+imagine that is a thankless hard kind of
+
+201
+00:17:40,000 --> 00:17:46,000
+thing to do. That's a very big headache.
+
+202
+00:17:53,000 --> 00:18:01,000
+So I don't blame him when you got this
+state of the community, right?
+
+203
+00:18:01,000 --> 00:18:07,000
+Yeah, right. Right. Exactly. All right.
+Let's see, anything else in the Sigmanauts
+
+204
+00:18:07,000 --> 00:18:13,000
+we've had... I think that's it. Why don't
+we jump to questions and we can go off
+
+205
+00:18:13,000 --> 00:18:19,000
+that. Let's see what we have.
+
+206
+00:18:19,000 --> 00:18:25,000
+Alright, let's see we have HQx says good
+morning. That's very clever HQx from
+
+207
+00:18:25,000 --> 00:18:31,000
+MewFinance. We have Ahmet says do you like
+the QX Turkey group? Is there a specific
+
+208
+00:18:31,000 --> 00:18:37,000
+QX Turkey? Were you asking if I like the
+Turkey group? There's a Turkey group, it's
+
+209
+00:18:37,000 --> 00:18:43,000
+like at least the one that I was sucked
+into a couple months ago, maybe six months
+
+210
+00:18:43,000 --> 00:18:49,000
+ago, felt like a mix between Gulag and the
+old bad Baseless kind of thing right in
+
+211
+00:18:49,000 --> 00:18:55,000
+between there. It felt like the outcasts
+from Baseless before they got put into
+
+212
+00:18:55,000 --> 00:19:01,000
+Gulag. At least a group I was in. I don't
+know if I was in an official Turkey group,
+
+213
+00:19:01,000 --> 00:19:07,000
+but there were some pretty angry people in
+there. But then there were also some good
+
+214
+00:19:07,000 --> 00:19:13,000
+people that reached out to me on DM and
+said, hey, don't listen to this guy. He's
+
+215
+00:19:13,000 --> 00:19:19,000
+just being crazy. So you get a mix of
+everything. But I haven't been in there in
+
+216
+00:19:19,000 --> 00:19:25,000
+a while. Maybe I'll check it out again.
+We'll see. We'll see what it's like.
+
+217
+00:19:25,000 --> 00:19:30,000
+Let's see. Oh, here we go. It's a good
+question from Wombo 22. Hi, MG. How's it
+
+218
+00:19:30,000 --> 00:19:35,000
+like being in the EF? Anything you can
+share from an insider perspective for
+
+219
+00:19:35,000 --> 00:19:40,000
+others wanting to look in?
+
+220
+00:19:41,000 --> 00:19:47,000
+Oh, yeah. I mean, EF, it's very, very
+good to get oversight and understanding of
+
+221
+00:19:47,000 --> 00:19:53,000
+their operations and all. And I would say
+a lot of cool things that I get to do as
+
+222
+00:19:53,000 --> 00:19:59,000
+part of EF is on some development
+proposals. So EF is open to anyone
+
+223
+00:19:59,000 --> 00:20:05,000
+submitting a proposal for, like making the
+ecosystem better or more specifically like
+
+224
+00:20:05,000 --> 00:20:11,000
+development-wise, right? Like make a
+better infrastructure. For example, we
+
+225
+00:20:11,000 --> 00:20:17,000
+support like Sigma Explorer or something
+along those lines. It's an explorer by PGR
+
+226
+00:20:17,000 --> 00:20:23,000
+and it is a really good explorer, a very
+good UI and it has a completely different
+
+227
+00:20:23,000 --> 00:20:29,000
+back end built from the ground up. The
+Ergo Explorer just uses the same API as
+
+228
+00:20:29,000 --> 00:20:35,000
+the normal main Explorer. But this new
+Explorer, Sigma Explorer, it's completely
+
+229
+00:20:35,000 --> 00:20:41,000
+done from the ground up. So it's very
+impressive and it has the best
+
+230
+00:20:41,000 --> 00:20:47,000
+performance. It's definitely the fastest
+and most scalable Explorer we have today.
+
+231
+00:20:56,000 --> 00:21:02,000
+That's one of the projects that we help
+sponsor for hosting and all, because it
+
+232
+00:21:02,000 --> 00:21:08,000
+gets expensive when you need it to scale.
+And we help out with Stability Nexus,
+
+233
+00:21:08,000 --> 00:21:14,000
+right, with their protocols, such as
+Gluon. Yeah, a lot of projects, what is
+
+234
+00:21:14,000 --> 00:21:20,000
+it, Cyberverse as well, we helped out. So
+that's really cool. We get to vote,
+
+235
+00:21:20,000 --> 00:21:26,000
+there's also a bunch of projects that we
+can't, right? But we try to help them if
+
+236
+00:21:26,000 --> 00:21:32,000
+they have an impact on the overall
+ecosystem. I think a recent one is the
+
+237
+00:21:32,000 --> 00:21:38,000
+Sigmanauts mining proposal so I think
+that's very interesting and I'm supportive
+
+238
+00:21:38,000 --> 00:21:44,000
+of it so we're still waiting to achieve a
+consensus on that because it's a good
+
+239
+00:21:44,000 --> 00:21:50,000
+chunk of funds that they requested but I
+believe mining is an integral part of Ergo
+
+240
+00:21:50,000 --> 00:21:56,000
+and we really ought to push for mining
+when we have this momentum because there's
+
+241
+00:21:56,000 --> 00:22:02,000
+really no good GPU mineable coins at the
+moment. Maybe like one or two but they're
+
+242
+00:22:02,000 --> 00:22:08,000
+all new blockchains so you don't have much
+trust or... They're just not very hard. Or
+
+243
+00:22:08,000 --> 00:22:14,000
+they're just tokens that you mine on other
+blockchains, which is also just as much
+
+244
+00:22:14,000 --> 00:22:20,000
+more useless. It's just a mineable meme
+coin at that point. So Ergo has a huge gap
+
+245
+00:22:20,000 --> 00:22:26,000
+to fill. So hopefully, the Sigmanauts are
+doing a great job at trying to claim it.
+
+246
+00:22:28,000 --> 00:22:34,000
+And to speak of that, Mark, for I think a
+day or so, on Monday the 11th, released
+
+247
+00:22:34,000 --> 00:22:40,000
+his technique for mining Rosen tokens or
+ecosystem tokens. So the way it works is,
+
+248
+00:22:40,000 --> 00:22:46,000
+you point to the pool you go to the
+dashboard where the stats dashboard and
+
+249
+00:22:46,000 --> 00:22:52,000
+the payout dashboard? So you go to that
+and there's a mint button and on that mint
+
+250
+00:22:52,000 --> 00:22:58,000
+page you can choose I want all Rosen
+tokens or I want all Rosen Bitcoin or I
+
+251
+00:22:58,000 --> 00:23:04,000
+want all Rosen ADA or I want all CYPX or I
+want all ERGs and then you can say I want
+
+252
+00:23:04,000 --> 00:23:10,000
+you to pay me out when it reaches the
+equivalent of 20 or 50 or so for the big
+
+253
+00:23:10,000 --> 00:23:16,000
+miners. They're not getting their wallet
+dusted every time we get a block. So you
+
+254
+00:23:16,000 --> 00:23:22,000
+can set that there. But then the cool
+thing is, too, is you can set percentages.
+
+255
+00:23:22,000 --> 00:23:28,000
+So I can say, look, I want 10% of my token
+in CYPX, because I love Cyberverse. I want
+
+256
+00:23:28,000 --> 00:23:34,000
+50% in ERG. And I want 20% in Gluon Gold.
+So you can actually mine gold. It's
+
+257
+00:23:34,000 --> 00:23:40,000
+countless thing. And so then you just
+leave that NFT that mints in your wallet,
+
+258
+00:23:40,000 --> 00:23:46,000
+and Mark's software will scan your wallet
+and do your payouts based on that.
+
+259
+00:23:47,000 --> 00:23:51,000
+So it's super, super cool. He had it on
+for, I think, two days and then pulled it
+
+260
+00:23:51,000 --> 00:23:55,000
+back and turned on mine core payments
+again. He's just got a couple more tweaks
+
+261
+00:23:55,000 --> 00:23:59,000
+to do. Sometimes when you're doing stuff
+in testnet, and you have, even if you have
+
+262
+00:23:59,000 --> 00:24:03,000
+a couple people using it, there's so many
+things that you don't get like you would
+
+263
+00:24:03,000 --> 00:24:07,000
+from the main group and 45 people banging
+against it kind of thing. So, of course,
+
+264
+00:24:07,000 --> 00:24:11,000
+that's the beauty of the Sigmanauts DAO,
+Mining DAO, is that everybody that's there
+
+265
+00:24:11,000 --> 00:24:15,000
+for the most part, is in agreement that
+this is a community-run mining pool and
+
+266
+00:24:15,000 --> 00:24:19,000
+we're all there to test it, we're all
+there to push kind of the boundaries and
+
+267
+00:24:19,000 --> 00:24:23,000
+do that. So that's super cool that we have
+that platform to do that on and that we
+
+268
+00:24:23,000 --> 00:24:27,000
+have somebody like Mark the Shark to do
+those kind of new things and testing.
+
+269
+00:24:35,000 --> 00:24:40,000
+So that's also kind of what the proposal
+is for the EF that Mark put out there. As
+
+270
+00:24:40,000 --> 00:24:45,000
+well as kind of utilizing Ergo mining as
+an education tool for other miners and
+
+271
+00:24:45,000 --> 00:24:50,000
+other non miners. So big project. Super
+cool. I hope the funding comes through for
+
+272
+00:24:50,000 --> 00:24:55,000
+them. Because I think that's wildly
+important. I mean we're a proof-of-work
+
+273
+00:24:55,000 --> 00:25:00,000
+chain. It's how we secure the damn
+network. We need to make sure that people
+
+274
+00:25:00,000 --> 00:25:05,000
+know why it happens and how it happens and
+make it cool.
+
+275
+00:25:10,000 --> 00:25:16,000
+I mean mining, mining core has been the
+same or mining pools have been the same
+
+276
+00:25:16,000 --> 00:25:22,000
+like forever, right? Now that we're doing
+storage rent and this kind of swap in the
+
+277
+00:25:22,000 --> 00:25:28,000
+middle, that's like super cool. There's
+what, there's that mining site that you
+
+278
+00:25:28,000 --> 00:25:34,000
+can CPU mine like bitcoin even kind of
+thing? It's like a swap site. Oh nice
+
+279
+00:25:34,000 --> 00:25:40,000
+hash. No, no nice hash...
+
+280
+00:25:41,000 --> 00:25:43,000
+unMineable
+
+281
+00:25:43,000 --> 00:25:47,000
+No, no, no, no, there's a specific site
+you go to and you can mine whatever coin
+
+282
+00:25:47,000 --> 00:25:51,000
+you want with whatever card you want,
+swaps in the background for you, but
+
+283
+00:25:51,000 --> 00:25:55,000
+people have gone there on mine. Oh, yeah.
+There you go. Thank you. And the fees are
+
+284
+00:25:55,000 --> 00:25:59,000
+just absolutely outrageous. Complete, when
+you're dealing with a small margin when
+
+285
+00:25:59,000 --> 00:26:03,000
+you're mining, you got to be careful with
+those fees because it's gonna eat into
+
+286
+00:26:03,000 --> 00:26:07,000
+your damn thing. So Mark is very
+positioned it very competitively.
+
+287
+00:26:09,000 --> 00:26:14,000
+Yeah, HQx says unMineable here. Yeah, so
+competitively, so that's super cool. The
+
+288
+00:26:14,000 --> 00:26:19,000
+other cool thing about the mining is that
+we've been getting a lot of notice on
+
+289
+00:26:19,000 --> 00:26:24,000
+socials on Twitter saying, holy cow, Ergo
+is like number two or number one in the
+
+290
+00:26:24,000 --> 00:26:29,000
+profitable coin to mine when it was up
+around 130, which I think it's around 124
+
+291
+00:26:29,000 --> 00:26:34,000
+right now. So we're in that threshold
+there where I see people saying, oh, I'm
+
+292
+00:26:34,000 --> 00:26:39,000
+firing up my GPUs again. I'm pointing to
+Ergo again. Kind of thing. So that's
+
+293
+00:26:39,000 --> 00:26:44,000
+really really exciting to see. Yeah, yeah.
+
+294
+00:26:47,000 --> 00:26:53,000
+All right. Let's see. Who do we have
+here? Ahmet wants to know if kushti got
+
+295
+00:26:53,000 --> 00:26:59,000
+mad at him. That's why he's not here. I
+don't think kushti stays too mad for too
+
+296
+00:26:59,000 --> 00:27:05,000
+long, but no, he didn't get mad at you.
+Andy explained in the next bit there. Oh,
+
+297
+00:27:05,000 --> 00:27:11,000
+here we go. We got Jonas, Jonas, Jonas,
+Jonas, if he's European, Jonas, Keystone
+
+298
+00:27:11,000 --> 00:27:17,000
+wallet soon. That's a PGR 456, right? I
+think he said the end of the year
+
+299
+00:27:17,000 --> 00:27:23,000
+recently. He said for sure.
+
+300
+00:27:26,000 --> 00:27:32,000
+Yeah. Currently we're blocked by a
+library, a rust library. What is it?
+
+301
+00:27:32,000 --> 00:27:38,000
+There's some issue with one of the Sigma
+rusts, how the code works. So we have
+
+302
+00:27:38,000 --> 00:27:44,000
+another developer, Dusek, who works on the
+rust. So he's trying to fix that up. So as
+
+303
+00:27:44,000 --> 00:27:50,000
+soon as he fixes that up, PGR can continue
+the Keystone work he's been doing. Again,
+
+304
+00:27:50,000 --> 00:27:56,000
+it's some cryptography thing, which is
+quite time consuming and tedious.
+
+305
+00:27:56,000 --> 00:28:02,000
+And for those PGR is the guy who also did
+Sigma Explorer, the new explore. So just
+
+306
+00:28:02,000 --> 00:28:08,000
+so you guys are aware of what his
+capabilities are. Super, super cool. Yeah,
+
+307
+00:28:08,000 --> 00:28:14,000
+I'm looking forward to buying a Keystone
+wallet. They look pretty damn cool. At
+
+308
+00:28:14,000 --> 00:28:20,000
+least the paper, like the paper like one,
+right? With the paper, the E ink screen
+
+309
+00:28:20,000 --> 00:28:26,000
+looks really, really cool. Right now I
+use, let's see... Is this a Nano or
+
+310
+00:28:26,000 --> 00:28:32,000
+something? I don't know. But this is
+pretty good. But the issue is when we do a
+
+311
+00:28:32,000 --> 00:28:38,000
+refill of the GARD wallet, are you doing
+this or is this LGD?
+
+312
+00:28:43,000 --> 00:28:46,000
+For Cardano, it's LGD.
+
+313
+00:28:46,000 --> 00:28:53,000
+LGD? LGD? I don't know. I forget. I mix
+it up.
+
+314
+00:28:53,000 --> 00:28:57,000
+Okay, so the funny, that's LGD. The funny
+thing is when you do that, they're like
+
+315
+00:28:57,000 --> 00:29:01,000
+you have to verify like 15 transactions,
+15 outputs. So you're literally like with
+
+316
+00:29:01,000 --> 00:29:05,000
+your little two fingers going button
+button button button button button button
+
+317
+00:29:05,000 --> 00:29:09,000
+button button button. Like so many times
+you have to view it, verify it then say
+
+318
+00:29:09,000 --> 00:29:13,000
+yes and slide over and you have to do that
+like ten sometimes. So while this is cool
+
+319
+00:29:13,000 --> 00:29:17,000
+and functional and... It definitely hurts
+for those bigger things. So it'll be nice
+
+320
+00:29:17,000 --> 00:29:21,000
+to use Keystone for that kind of thing. I
+guess you can already for Cardano, right?
+
+321
+00:29:21,000 --> 00:29:25,000
+Yes, yes. So I could get that up there in
+the pipes and test it. Yeah, cool.
+
+322
+00:29:32,000 --> 00:29:37,000
+You should, yeah.
+
+323
+00:29:37,000 --> 00:29:44,000
+I should. You want to send me one, MG?
+We've got Ahmet is on fire today like
+
+324
+00:29:44,000 --> 00:29:51,000
+third question. Asked is Kraken listing
+imminent. Well, I mean at this point after
+
+325
+00:29:51,000 --> 00:29:58,000
+that leak on the Sigmanauts Twitter,
+whoever that was, we fired them. They're
+
+326
+00:29:58,000 --> 00:30:05,000
+no longer working for the Sigmanauts
+Twitter anymore. That's why you have
+
+327
+00:30:05,000 --> 00:30:12,000
+SuperGeometry there. You know as much as
+we do at this point. That means that we're
+
+328
+00:30:12,000 --> 00:30:19,000
+on the shortlist. They have a backlog of
+things on the shortlist, so we're at their
+
+329
+00:30:19,000 --> 00:30:26,000
+whim essentially when they decide to look
+further into us and put that work in.
+
+330
+00:30:29,000 --> 00:30:35,000
+That being said, I still DM Mark Twitter
+little sweet nothings. I think my last DM
+
+331
+00:30:35,000 --> 00:30:41,000
+was that I couldn't stop thinking about
+him and gave him a Willie Nelson YouTube
+
+332
+00:30:41,000 --> 00:30:47,000
+link "Always On My Mind." He left me
+unread this time. Usually he answers me.
+
+333
+00:30:47,000 --> 00:30:53,000
+So that's I'm hopeful. I'm hopeful he left
+me unread for a reason. Usually he writes.
+
+334
+00:30:53,000 --> 00:30:59,000
+Yeah. Yeah, it's on the backlog, nothing
+no news yet kind of thing. So we'll see.
+
+335
+00:30:59,000 --> 00:31:05,000
+I'm hoping, I'm hoping, I'm hoping these
+central exchanges at some point will
+
+336
+00:31:05,000 --> 00:31:11,000
+think, in order for us to survive... Cause
+these meme tokens, right? These meme
+
+337
+00:31:11,000 --> 00:31:17,000
+chains, like you saw the post from Mark
+the other day, he's like, Oh, I can
+
+338
+00:31:17,000 --> 00:31:23,000
+finally retire. I got dog with hat listed
+in the U S or something. And like, like...
+
+339
+00:31:24,000 --> 00:31:29,000
+I can imagine Mark coming home from work
+and he sits down and his wife and kids are
+
+340
+00:31:29,000 --> 00:31:34,000
+like, Mark, did you change the world
+today? And Mark's like, I did. I brought
+
+341
+00:31:34,000 --> 00:31:39,000
+dog with hat to the U.S. for purchasing.
+And they were like, that's amazing.
+
+342
+00:31:41,000 --> 00:31:46,000
+In all seriousness though, I think
+eventually these central exchanges, when
+
+343
+00:31:46,000 --> 00:31:51,000
+this kind of money runs out, if it will,
+or when it burns down a little bit, we'll
+
+344
+00:31:51,000 --> 00:31:56,000
+eventually see that there's value in
+listing something that's unstoppable,
+
+345
+00:31:56,000 --> 00:32:01,000
+that's sustainable, that has an amazing
+community, like Proof of Work Ergo, like
+
+346
+00:32:01,000 --> 00:32:06,000
+other projects as well that are similar,
+and they'll see a value in that. And then
+
+347
+00:32:06,000 --> 00:32:11,000
+at some point, of course, when while
+trading on exchanges becomes a little more
+
+348
+00:32:11,000 --> 00:32:16,000
+I don't know legal or whatever that's
+gonna be perhaps we'll be forced to
+
+349
+00:32:16,000 --> 00:32:21,000
+actually invest in things and onboard
+things that are legal and are organic. So
+
+350
+00:32:21,000 --> 00:32:26,000
+that's that's my hope there of our overall
+kind of thing.
+
+351
+00:32:30,000 --> 00:32:36,000
+But then my crypto cyberpunk hope is that
+they all burn up in a fire and they go
+
+352
+00:32:36,000 --> 00:32:42,000
+away. And we rely on decentralized
+exchanges and fiat on-ramps direct into
+
+353
+00:32:42,000 --> 00:32:48,000
+the ecosystems for that kind of stuff. So
+my word to the central exchanges are, you
+
+354
+00:32:48,000 --> 00:32:54,000
+know, be nice to be on there, but
+hopefully you guys can get with the times
+
+355
+00:32:54,000 --> 00:33:00,000
+and start backing projects that are
+sustainable, legal, and are organic. So
+
+356
+00:33:00,000 --> 00:33:06,000
+that's my message to them.
+
+357
+00:33:08,000 --> 00:33:13,000
+Alright, let's see. Here we go. This is
+from Odi Boja. I hear Cardano will build a
+
+358
+00:33:13,000 --> 00:33:18,000
+layer 2 partner chain where BTC will be
+the token. Wouldn't it make sense if Ergo
+
+359
+00:33:18,000 --> 00:33:23,000
+joins the effort? The new chain would be a
+partner chain on Cardano and a layer 2 on
+
+360
+00:33:23,000 --> 00:33:28,000
+Ergo? Are you talking about Bitcoin OS? Is
+that a whole other layer kind of thing?
+
+361
+00:33:28,000 --> 00:33:33,000
+Yeah. I mean, we already have that
+function, right? You can bring your
+
+362
+00:33:33,000 --> 00:33:38,000
+Bitcoin over to Ergo and do whatever the
+hell you want. And you can bring your
+
+363
+00:33:38,000 --> 00:33:43,000
+Bitcoin over to Cardano, do whatever the
+hell you want. You can bring your Bitcoin
+
+364
+00:33:43,000 --> 00:33:48,000
+to Ethereum and do whatever you want. I
+mean, I get the idea, but I don't see if
+
+365
+00:33:48,000 --> 00:33:53,000
+we already have that functionality. Of
+course it's an open system, whatever
+
+366
+00:33:53,000 --> 00:33:58,000
+anybody wants to do. But we already have
+that functionality as far as that goes,
+
+367
+00:33:58,000 --> 00:34:03,000
+right. In some parts. What's your thoughts
+there? Are you paying attention?
+
+368
+00:34:05,000 --> 00:34:10,000
+Yeah, I think their technology is
+interesting. They use ZK proofs instead of
+
+369
+00:34:10,000 --> 00:34:15,000
+a multisig bridge, which is very, I think,
+new. Not many people have done it. It's
+
+370
+00:34:15,000 --> 00:34:20,000
+very convincing, right? The idea is you
+don't even need any multisig trust, right?
+
+371
+00:34:20,000 --> 00:34:25,000
+You just have to trust one person or
+something like that, and you can make that
+
+372
+00:34:25,000 --> 00:34:30,000
+yourself. That's the whole idea behind the
+bridge. So I think that's very
+
+373
+00:34:30,000 --> 00:34:35,000
+interesting. Also, you've got to remember
+Cardano has so much money, so much
+
+374
+00:34:35,000 --> 00:34:40,000
+developers, right? So they can do so much
+compared to us. We're just basically hobby
+
+375
+00:34:40,000 --> 00:34:45,000
+developers, except for kushti. So there's
+not too much we can do, but I will say
+
+376
+00:34:45,000 --> 00:34:50,000
+that whatever layer 2 they achieve, Rosen
+will be able to bridge to that.
+
+377
+00:34:57,000 --> 00:35:01,000
+Right, right, right, right. Didn't kushti
+at some point during one of the ErgoHacks,
+
+378
+00:35:01,000 --> 00:35:05,000
+two ErgoHacks ago, develop some sort of
+messaging or consensus mechanism? He read
+
+379
+00:35:05,000 --> 00:35:09,000
+Bitcoin proofs and verified them on the
+Ergo chain? So is that a similar thing
+
+380
+00:35:09,000 --> 00:35:13,000
+that they're doing with their tech? Is it
+the same kind of thing or no?
+
+381
+00:35:14,000 --> 00:35:17,000
+I mean, I guess it's more advanced,
+right? But I guess the ideas were quite
+
+382
+00:35:17,000 --> 00:35:20,000
+similar.
+
+383
+00:35:21,000 --> 00:35:25,000
+Right, right, right. Right, it's like,
+kushti's like rule 34. Do you know what
+
+384
+00:35:25,000 --> 00:35:29,000
+rule 34 on the internet is?
+
+385
+00:35:29,000 --> 00:35:34,000
+Oh yeah, the artwork thing, yeah.
+
+386
+00:35:34,000 --> 00:35:38,000
+It's uh, this is not a PG show MGPai.
+It's all right. Rule 34 states that if it
+
+387
+00:35:38,000 --> 00:35:42,000
+exists there's porn of it on the internet,
+right? So kushti is like a rule 34 of
+
+388
+00:35:42,000 --> 00:35:46,000
+crypto space. If it exists out there,
+kushti's probably done it six months ago.
+
+389
+00:35:46,000 --> 00:35:50,000
+There's got to be a kushti rule 34 or
+something like that. That's usually the
+
+390
+00:35:50,000 --> 00:35:54,000
+case. Oh, yeah, I did something like that
+a couple years ago when Ergo first came
+
+391
+00:35:54,000 --> 00:35:58,000
+out. Yeah, it didn't work out and this is
+why so we did this kind of thing. The
+
+392
+00:35:58,000 --> 00:36:02,000
+common thing you hear from kushti.
+
+393
+00:36:04,000 --> 00:36:09,000
+All right, let's see what we have here.
+We have, oh, Bayoke saying good night from
+
+394
+00:36:09,000 --> 00:36:14,000
+Indonesia. Let's see. Oh, here we go.
+Here's a question for you, MGPai. Let's
+
+395
+00:36:14,000 --> 00:36:19,000
+see how much time you're spending deep in
+the ecosystem. HQx wants to know your
+
+396
+00:36:19,000 --> 00:36:24,000
+thoughts on MewFinance, which I imagine
+includes like the utility tools that they
+
+397
+00:36:24,000 --> 00:36:29,000
+have, the shop that they have, the mart
+that they have, that's the physical site
+
+398
+00:36:29,000 --> 00:36:34,000
+as well. They're kind of staking tiers
+where you can get discounts on listing
+
+399
+00:36:34,000 --> 00:36:39,000
+things based on how much you're staking
+and also like I think they have revenue
+
+400
+00:36:39,000 --> 00:36:44,000
+sharing as well in those tiers as well
+kind of thing. So all built in there. What
+
+401
+00:36:44,000 --> 00:36:49,000
+are your thoughts? Oh also escrow service,
+right? You can I can go there I can put
+
+402
+00:36:49,000 --> 00:36:54,000
+something in a package and put your
+address on it and then you can come pick
+
+403
+00:36:54,000 --> 00:36:59,000
+it up if you pay the fee that I say. What
+are your thoughts MGPai?
+
+404
+00:37:08,000 --> 00:37:12,000
+Yeah, of course, I think it's very cool.
+And I'm glad that people are spinning up
+
+405
+00:37:12,000 --> 00:37:16,000
+new projects in the ecosystem. I think
+they're trying to fill up a gap that
+
+406
+00:37:16,000 --> 00:37:20,000
+Spectrum DEX kind of left us. They're not
+really maintaining much on Ergo. I mean,
+
+407
+00:37:20,000 --> 00:37:24,000
+they built really a lot of cool tooling
+already. But it's good that it's the power
+
+408
+00:37:24,000 --> 00:37:28,000
+of open source. If it dies, the community
+can always take over. And I think that's
+
+409
+00:37:28,000 --> 00:37:32,000
+what we are seeing that's happening. I
+know I heard that, I think a couple of
+
+410
+00:37:32,000 --> 00:37:36,000
+Sigmanauts are selling on that, the
+marketplace, right? So I think, that's
+
+411
+00:37:36,000 --> 00:37:40,000
+very interesting.
+
+412
+00:37:43,000 --> 00:37:54,000
+Yeah, he's selling like organic honey on
+there as well. Sigmanauts have some, yeah.
+
+413
+00:37:54,000 --> 00:37:55,000
+Yeah.
+
+414
+00:37:55,000 --> 00:38:01,000
+And then we have, I posted these guys.
+Ooh. So if anybody, I posted them for 75
+
+415
+00:38:01,000 --> 00:38:07,000
+ERGs. They're Radeon 7s. One of them
+doesn't post on Windows, the other one
+
+416
+00:38:07,000 --> 00:38:13,000
+runs fine. I ran it for a day at 75% and
+just needs a little fan work, that's all.
+
+417
+00:38:13,000 --> 00:38:19,000
+So 75 ERGs and you can get two Radeon 7s
+which... I guess if nobody buys it, I'll
+
+418
+00:38:19,000 --> 00:38:25,000
+lower it down. I just want to get out and
+get them out of here. And I want to get
+
+419
+00:38:25,000 --> 00:38:31,000
+people pointed towards MewMart. So it's
+more of an experience kind of thing, but
+
+420
+00:38:31,000 --> 00:38:37,000
+they're sitting on the side of my desk,
+ready to be boxed up for anybody that
+
+421
+00:38:37,000 --> 00:38:43,000
+wants them. So super cool that you can go
+there and get approved and sell actually
+
+422
+00:38:43,000 --> 00:38:49,000
+physical merch. Super, super neat.
+
+423
+00:38:50,000 --> 00:38:57,000
+Alright, let's see. Oh, Wombo, what are
+your thoughts on Ergo needing memes? So I
+
+424
+00:38:57,000 --> 00:39:04,000
+talked to kushti about this last week,
+right? And unofficially got kushti's idea
+
+425
+00:39:04,000 --> 00:39:11,000
+of what memes are, right? MGPai, I'll let
+you start. What are your thoughts?
+
+426
+00:39:11,000 --> 00:39:15,000
+Yeah, I think, of course, that's how you
+gain viral posts. I think Joe's been doing
+
+427
+00:39:15,000 --> 00:39:19,000
+a good job. He's been posting a lot of...
+Oh, he's been killing it with those two
+
+428
+00:39:19,000 --> 00:39:23,000
+videos, right?
+
+429
+00:39:24,000 --> 00:39:29,000
+Like the wedding video from... Was that
+Old School? What was that? That was Old
+
+430
+00:39:29,000 --> 00:39:34,000
+School, the wedding video with the Will
+Ferrell and then the show where the Sal
+
+431
+00:39:34,000 --> 00:39:39,000
+guy from... Oh, yeah beats crap out of
+everybody on the bus. Absolutely. Yeah, I
+
+432
+00:39:39,000 --> 00:39:44,000
+think the first one, the first video with
+Will Ferrell got... I think 10,000 views,
+
+433
+00:39:44,000 --> 00:39:49,000
+something like that. So really, really
+good exposure. I wrote Joe, I was like,
+
+434
+00:39:49,000 --> 00:39:54,000
+that's great. And he's like, is that good?
+I was like, for not having breasts, Joe,
+
+435
+00:39:54,000 --> 00:39:59,000
+that's a pretty good post. I mean, it's
+true, right?
+
+436
+00:40:04,000 --> 00:40:09,000
+Yeah, of course. I told Joe to make it
+shorter right because if it's too long
+
+437
+00:40:09,000 --> 00:40:14,000
+then you lose attention. I think five ten
+seconds is much better right because if
+
+438
+00:40:14,000 --> 00:40:19,000
+people like it they'll spend that much
+time where you have to grab attention in
+
+439
+00:40:19,000 --> 00:40:24,000
+the first few seconds. But yeah it's very
+good. I'm glad he's doing it. It's a good
+
+440
+00:40:24,000 --> 00:40:29,000
+way to convey his point.
+
+441
+00:40:30,000 --> 00:40:35,000
+And you'll start seeing slowly, kind of,
+not like crazy memes, but you'll start
+
+442
+00:40:35,000 --> 00:40:40,000
+seeing slowly some more, kind of, not
+official, but more appropriate memes from
+
+443
+00:40:40,000 --> 00:40:45,000
+the main Ergo account, perhaps, until
+people get really pissed. But we'll see.
+
+444
+00:40:45,000 --> 00:40:50,000
+Right now, SuperGeometry is doing a great
+job from Sigmanauts. He's got a lot more
+
+445
+00:40:50,000 --> 00:40:55,000
+leeway to post kind of crazy content. So
+he's doing that and filling that role
+
+446
+00:40:55,000 --> 00:41:00,000
+greatly. I sound like Donald Trump. And
+we'll try to start, interacting that from
+
+447
+00:41:00,000 --> 00:41:05,000
+the main account to with memes. So we'll
+see how it goes. If you have a good one
+
+448
+00:41:05,000 --> 00:41:10,000
+send them to us and we'll see what we can
+do.
+
+449
+00:41:15,000 --> 00:41:20,000
+All right. Let's see. Wendy moon. Hi,
+Wendy. Wendy is a frequenter. Is there any
+
+450
+00:41:20,000 --> 00:41:25,000
+way to swap between Ergo and BTC and keep
+it off exchanges? Just do it in your
+
+451
+00:41:25,000 --> 00:41:30,000
+wallet wrapped or BTC wallet. Yeah, yes,
+of course. Right. We have, you can do it
+
+452
+00:41:30,000 --> 00:41:35,000
+on any chain, right? There's a lot of
+liquidity, where's the most BTC liquidity
+
+453
+00:41:35,000 --> 00:41:40,000
+is in Cardano or is it in...
+
+454
+00:41:44,000 --> 00:41:47,000
+I think Cardano, but I'm not sure. I
+haven't messed with it. I have no reason
+
+455
+00:41:47,000 --> 00:41:50,000
+to go to BTC.
+
+456
+00:41:51,000 --> 00:41:56,000
+Let me see. But yeah, yeah, of course,
+Wendy, you can go to, let me go to ErgoDEX
+
+457
+00:41:56,000 --> 00:42:01,000
+right now while I'm talking. You can go
+right from BTC through Rosen to wrapped
+
+458
+00:42:01,000 --> 00:42:06,000
+BTC and set it right in your Ergo wallet.
+That way you didn't even hit ErgoDEX, or
+
+459
+00:42:06,000 --> 00:42:11,000
+right now you could. Let's see. Let's see
+what the slippage is. If I want to swap a
+
+460
+00:42:11,000 --> 00:42:16,000
+thousand ERG. Yeah, if I want to swap a
+thousand ERG on ErgoDEX right now without
+
+461
+00:42:16,000 --> 00:42:21,000
+even touching Bitcoin and just get Rosen
+BTC, you'll take a 7.8% hit on liquidity.
+
+462
+00:42:21,000 --> 00:42:26,000
+So liquidity is not that high on ErgoDEX,
+at least, or MewFinance, same smart
+
+463
+00:42:26,000 --> 00:42:31,000
+contracts. So your best bet would be
+definitely to send it over the bridge,
+
+464
+00:42:31,000 --> 00:42:36,000
+most likely if you have more than that,
+and just hold on to that Rosen BTC in your
+
+465
+00:42:36,000 --> 00:42:41,000
+Ergo wallet, knowing that you have the
+security of Rosen Bridge and the security
+
+466
+00:42:41,000 --> 00:42:46,000
+of another proof of work chain.
+
+467
+00:42:52,000 --> 00:42:57,000
+I thought it was interesting that, and I
+talked to, mentioned this with Joe quite a
+
+468
+00:42:57,000 --> 00:43:02,000
+bit in our talks, maybe late at night when
+you're drinking whiskey on the live
+
+469
+00:43:02,000 --> 00:43:07,000
+versions of the dev updates. I thought it
+was interesting that people would want to
+
+470
+00:43:07,000 --> 00:43:12,000
+send their Bitcoin to something like
+Ethereum. I get that there's a lot of
+
+471
+00:43:12,000 --> 00:43:17,000
+liquidity there and a lot of financial
+tooling, but it's literally, I feel it's
+
+472
+00:43:17,000 --> 00:43:22,000
+literally like taking your money out of a
+bank and just leaving your wallet and
+
+473
+00:43:22,000 --> 00:43:27,000
+walking through the market essentially,
+whereas Ergo has developed a massive
+
+474
+00:43:27,000 --> 00:43:32,000
+amount of tooling that lets you interact
+with it right from the bank and the
+
+475
+00:43:32,000 --> 00:43:37,000
+security of that kind of thing, or
+essentially walk around with a safe in
+
+476
+00:43:37,000 --> 00:43:42,000
+your pocket. So I always thought it was
+interesting that, that's not a thought
+
+477
+00:43:42,000 --> 00:43:47,000
+like I'm actually going to a less secure
+chain essentially from something like
+
+478
+00:43:47,000 --> 00:43:52,000
+Bitcoin. So I was, the thought that the
+allure of at least Ergo and the financial
+
+479
+00:43:52,000 --> 00:43:57,000
+tooling that we have would be like, we are
+not compromising any security by going
+
+480
+00:43:57,000 --> 00:44:02,000
+over to Ergo and using the financial
+tooling there. So I think that's something
+
+481
+00:44:02,000 --> 00:44:07,000
+we need to try to sell a little bit more
+as well for that.
+
+482
+00:44:13,000 --> 00:44:19,000
+Let's see. Answer that already. Oh,
+here's a hype one. You like hype
+
+483
+00:44:19,000 --> 00:44:25,000
+questions. A big 3D question to both of
+you. Do you guys think Ergo can hit top 20
+
+484
+00:44:25,000 --> 00:44:31,000
+this bull market like Dan believes? Like
+Dan believes, we got to check in with Dan.
+
+485
+00:44:31,000 --> 00:44:37,000
+I'm gonna send him that one. Yeah, you
+know if Dan believes it I certainly
+
+486
+00:44:37,000 --> 00:44:43,000
+believe it. I think I think anything can
+happen. I'm not trying to predict
+
+487
+00:44:43,000 --> 00:44:49,000
+anything, but I think Ergo at least has
+the ability to shine in the manner of
+
+488
+00:44:49,000 --> 00:44:55,000
+security and the tooling that's there
+already. The lending protocols, the I mean
+
+489
+00:44:55,000 --> 00:45:01,000
+your let alone your NFT release platform
+is awesome and... All the projects we have
+
+490
+00:45:01,000 --> 00:45:07,000
+that are ready and fully baked and ready
+for customers, essentially, there's no
+
+491
+00:45:07,000 --> 00:45:13,000
+reason and sub-blocks.
+
+492
+00:45:19,000 --> 00:45:22,000
+You guys aren't ready for that. It's
+going to be really good. I mean, that's a
+
+493
+00:45:22,000 --> 00:45:25,000
+big missing piece.
+
+494
+00:45:26,000 --> 00:45:29,000
+Hang on. MGPai. Do you have your hat?
+
+495
+00:45:29,000 --> 00:45:34,000
+Oh, that's a bit far away.
+
+496
+00:45:34,000 --> 00:45:39,000
+There we go. Make mining great again.
+Yeah, I think we're primed for it. I think
+
+497
+00:45:39,000 --> 00:45:44,000
+we definitely have the ability to be there
+and sustain, have sustainability there.
+
+498
+00:45:44,000 --> 00:45:49,000
+The question just is, is the rest of the
+space ready for that are going to realize
+
+499
+00:45:49,000 --> 00:45:54,000
+that? So we can't predict it, but...
+
+500
+00:45:57,000 --> 00:46:03,000
+My assumption is that Ergo closely
+follows Cardano, right? So if Cardano does
+
+501
+00:46:03,000 --> 00:46:09,000
+well, I'm certain Ergo will do well. They
+always move so super close to each other.
+
+502
+00:46:09,000 --> 00:46:15,000
+So I know Cardano is going to do well for
+sure. They've been doing really good stuff
+
+503
+00:46:15,000 --> 00:46:21,000
+lately. So I'm certain Ergo is going to go
+up much more.
+
+504
+00:46:22,000 --> 00:46:27,000
+You heard it right there, folks. That's
+not with your EF hat on though. That's
+
+505
+00:46:27,000 --> 00:46:32,000
+with your community developer hat on. You
+said that. Right. Perfect. All right. All
+
+506
+00:46:32,000 --> 00:46:37,000
+right. Good timing. Kilver, Kilver, our
+buddy Kilver. If you miss Kilver hasn't
+
+507
+00:46:37,000 --> 00:46:42,000
+streamed in a while. Kilver, have you
+streamed in a while? Where are your
+
+508
+00:46:42,000 --> 00:46:47,000
+streams been, buddy? Maybe I've just
+missed it. But Kilver has been an avid
+
+509
+00:46:47,000 --> 00:46:52,000
+Cyberverse player, community member, and
+streamer of Cyberverse. Do you guys think
+
+510
+00:46:52,000 --> 00:46:57,000
+now with Trump being so crypto friendly,
+we will see a new alt mining resurgent?
+
+511
+00:46:57,000 --> 00:47:02,000
+You know, regardless of political
+standings there, I will say, I think I
+
+512
+00:47:02,000 --> 00:47:07,000
+said it in the last AMA, prepare to be not
+surprised, but prepare to be like, from
+
+513
+00:47:07,000 --> 00:47:12,000
+what I know about my experiences with
+being an American or a United States
+
+514
+00:47:12,000 --> 00:47:17,000
+citizen and having Trump as president for
+four years and what he promised before
+
+515
+00:47:17,000 --> 00:47:22,000
+campaigns and what he delivers on some of
+these things. Some of it's hype, right?
+
+516
+00:47:22,000 --> 00:47:27,000
+Some of it's just to get voters kind of
+thing. But you got to look at actions. So
+
+517
+00:47:27,000 --> 00:47:32,000
+the facts are that he's brought on your
+buddies, Elon Musk, right? Who is fairly,
+
+518
+00:47:32,000 --> 00:47:37,000
+I don't know if, is Elon...
+
+519
+00:47:43,000 --> 00:47:45,000
+Considered crypto friendly with Elon.
+
+520
+00:47:45,000 --> 00:47:51,000
+He's not against it. But I don't know if
+it's like friendly. I don't know. He's
+
+521
+00:47:51,000 --> 00:47:57,000
+really weird. He just does Dogecoin like I
+think it's more of like personal amusement
+
+522
+00:47:57,000 --> 00:48:03,000
+for him, right? Like you guys are bored,
+right?
+
+523
+00:48:03,000 --> 00:48:07,000
+I really feel that way. I do. I do. I
+feel like if you ever finish a video game,
+
+524
+00:48:07,000 --> 00:48:11,000
+think of it this way, and then you put in
+the cheat codes, you just get bored after
+
+525
+00:48:11,000 --> 00:48:15,000
+a while. You start throwing people off
+cliffs or shooting people up in crazy
+
+526
+00:48:15,000 --> 00:48:19,000
+stuff. You just do crazy stuff. So I
+wonder if Elon... And I think he's such a
+
+527
+00:48:19,000 --> 00:48:23,000
+bored.
+
+528
+00:48:23,000 --> 00:48:27,000
+I think some people try to say he's like
+manipulating the market. Like he's a
+
+529
+00:48:27,000 --> 00:48:31,000
+billionaire. I don't think he cares. No, I
+think he has more money than the market
+
+530
+00:48:31,000 --> 00:48:35,000
+cap of Dogecoin or something. Yeah, market
+cap Dogecoin is like what 30 40 billion
+
+531
+00:48:35,000 --> 00:48:39,000
+and he bought Twitter for more. So like I
+don't think he's trying to manipulate
+
+532
+00:48:39,000 --> 00:48:43,000
+anything. He's just...
+
+533
+00:48:43,000 --> 00:48:48,000
+No, no. No. Yeah. Yeah. So yeah, he's
+definitely poking stuff. So I hope I still
+
+534
+00:48:48,000 --> 00:48:53,000
+have a worry that those kind of things
+with how he talks about Dogecoin and those
+
+535
+00:48:53,000 --> 00:48:58,000
+things like what's the utility of Dogecoin
+right now, right? Is there any utility in
+
+536
+00:48:58,000 --> 00:49:03,000
+Dogecoin? No, no, I mean he's obviously
+promoting something for the social aspects
+
+537
+00:49:03,000 --> 00:49:08,000
+and the idea of I guess a currency that's
+so you can spend on chain I guess. I don't
+
+538
+00:49:08,000 --> 00:49:13,000
+know. So I think overall it's obvious that
+people believe that Trump is gonna be good
+
+539
+00:49:13,000 --> 00:49:18,000
+for crypto based on the price of Bitcoin
+right now and some altcoins and...
+
+540
+00:49:21,000 --> 00:49:26,000
+But I think it's my jury's still out for
+me, verdict's still out on the holistic
+
+541
+00:49:26,000 --> 00:49:31,000
+approach of how crypto is going to be seen
+by the administration? Is it going to be
+
+542
+00:49:31,000 --> 00:49:36,000
+seen as this? Let's I mean couldn't say
+Trump came out with his own token, right?
+
+543
+00:49:36,000 --> 00:49:41,000
+And it's 70% down like come the hell on.
+Like they're obviously riding the same
+
+544
+00:49:41,000 --> 00:49:46,000
+kind of speculative market that most of
+crypto is. So is it good for crypto? If
+
+545
+00:49:46,000 --> 00:49:51,000
+you ask me that question as in, oh, I
+guess it's alt mining resurgence. We
+
+546
+00:49:51,000 --> 00:49:56,000
+totally missed the point of the question.
+
+547
+00:50:01,000 --> 00:50:06,000
+But in general, I think Trump is going to
+be good perhaps for the speculative side
+
+548
+00:50:06,000 --> 00:50:11,000
+of crypto. Do I think he's going to be
+good at real organic adoption of chains
+
+549
+00:50:11,000 --> 00:50:16,000
+that are actually making a difference in
+doing something? Maybe that's a side
+
+550
+00:50:16,000 --> 00:50:21,000
+effect there. My opinion only, but we'll
+get to see. He's not even in office yet
+
+551
+00:50:21,000 --> 00:50:26,000
+guys. Let's talk in January about proof of
+work mining resurgence. I think all it
+
+552
+00:50:26,000 --> 00:50:31,000
+takes for a proof of work mining
+resurgence is the price of Ergo to go up
+
+553
+00:50:31,000 --> 00:50:36,000
+and then people are going to mine the shit
+out of it. Right. That's it.
+
+554
+00:50:38,000 --> 00:50:45,000
+All right, let's see. What else do we
+have? Wombo says there's another fish in
+
+555
+00:50:45,000 --> 00:50:52,000
+the CQX, don't worry. Oh, Mark, because I
+was trying to seduce Mark from Kraken.
+
+556
+00:50:52,000 --> 00:50:59,000
+Right, right, right. Oh yeah, FC, FC
+CannonQ. MG, Palmyra going to launch a
+
+557
+00:50:59,000 --> 00:51:06,000
+coin or project, do you know any timing?
+
+558
+00:51:07,000 --> 00:51:12,000
+Oh, you're asking me, I can't say.
+
+559
+00:51:12,000 --> 00:51:16,000
+That's, is it on, it's not on, it has
+what's it called? The IDO they did. People
+
+560
+00:51:16,000 --> 00:51:20,000
+don't have the coins in possession right
+or the tokens in possession. They have
+
+561
+00:51:20,000 --> 00:51:24,000
+them just investing tokens.
+
+562
+00:51:25,000 --> 00:51:30,000
+It's just like a pre-sale or something,
+right? They have rounds of that. So
+
+563
+00:51:30,000 --> 00:51:35,000
+definitely, I can say we're having more
+pre-sale rounds. I don't know how many
+
+564
+00:51:35,000 --> 00:51:40,000
+more, but that's certainly available. And
+again, I don't think it's open to US
+
+565
+00:51:40,000 --> 00:51:45,000
+citizens. You have to have different
+passport if you want to participate, I
+
+566
+00:51:45,000 --> 00:51:50,000
+think, but I'm not completely sure. I know
+the past ones were not open to US
+
+567
+00:51:50,000 --> 00:51:55,000
+citizens.
+
+568
+00:51:55,000 --> 00:52:00,000
+All right. All right. Let's see. What
+else do we have? We won't comment on that
+
+569
+00:52:00,000 --> 00:52:05,000
+one. I think Kilver says quality content
+right there when we were talking about
+
+570
+00:52:05,000 --> 00:52:10,000
+rule 34. Thank you, Kilver. Appreciate it.
+Any news from Sky Harbor team about the
+
+571
+00:52:10,000 --> 00:52:15,000
+work on the marketplace? You know, Kilver,
+I don't know if I said this the other day,
+
+572
+00:52:15,000 --> 00:52:20,000
+but I think mid last month I pinged Quokka
+during the AMA and he didn't get back to
+
+573
+00:52:20,000 --> 00:52:25,000
+me till after, but he says the front-end
+UI version 2 has finished and in testing
+
+574
+00:52:25,000 --> 00:52:30,000
+will be releasing the open source code
+when deployed. The backend is being worked
+
+575
+00:52:30,000 --> 00:52:35,000
+on and there's not much work left, so the
+dev is still slowly chipping away at it.
+
+576
+00:52:35,000 --> 00:52:40,000
+That was a report from Quokka. So that'll
+be nice when that's up. As I said, when
+
+577
+00:52:40,000 --> 00:52:45,000
+it's up, we're hoping that we can organize
+the Sigmanauts to kind of take it over and
+
+578
+00:52:45,000 --> 00:52:50,000
+manage a front end version of it from that
+open source code and use it as a treasury
+
+579
+00:52:50,000 --> 00:52:55,000
+revenue stream as well as maintain it so
+that we can have a dev that can
+
+580
+00:52:55,000 --> 00:53:00,000
+continuously work on it and make it
+better.
+
+581
+00:53:04,000 --> 00:53:10,000
+Wombo wants me to do the dance QX. But
+Dan, Dan does a great job at it. He's very
+
+582
+00:53:10,000 --> 00:53:16,000
+good at it. Kilver says that he's not,
+he's moving into a new house, so he hasn't
+
+583
+00:53:16,000 --> 00:53:22,000
+streamed in a bit. He's going to start
+again one to two.
+
+584
+00:53:22,000 --> 00:53:24,000
+Congrats.
+
+585
+00:53:24,000 --> 00:53:29,000
+Oh, yeah. I forgot to mention, guys, I've
+been putting some liquidity into
+
+586
+00:53:29,000 --> 00:53:34,000
+TradeHouse on the Rosen side. I think I
+put about only about maybe a couple
+
+587
+00:53:34,000 --> 00:53:39,000
+hundred ERGs worth on the Rosen side for
+Rosen-ERG pair as well as maybe about 200
+
+588
+00:53:39,000 --> 00:53:44,000
+ERGs worth of CYPX in there as well. I
+encourage all of you guys to go to
+
+589
+00:53:44,000 --> 00:53:49,000
+TradeHouse and just put your project
+tokens in there or SigmaUSD or something.
+
+590
+00:53:49,000 --> 00:53:54,000
+Just get a little bit in there. That's a
+great opportunity, that's a great place
+
+591
+00:53:54,000 --> 00:53:59,000
+for people to come and swap where they
+want to be able to visually see and kind
+
+592
+00:53:59,000 --> 00:54:04,000
+of control their slippage. They can say
+I'm going to set an order here and only
+
+593
+00:54:04,000 --> 00:54:09,000
+take it at this price. And then if it
+matches then it's great. If not, then
+
+594
+00:54:09,000 --> 00:54:14,000
+maybe they'll come out to your price, but
+it's a good tool. We're going to try to
+
+595
+00:54:14,000 --> 00:54:19,000
+push it more on the TradeHouse Twitter, as
+well as try to retweet from the main
+
+596
+00:54:19,000 --> 00:54:24,000
+account and Sigmanauts account. But we
+need to get liquidity. That's a big thing.
+
+597
+00:54:24,000 --> 00:54:29,000
+That's what attracts people to these
+dApps. And that's what keeps things
+
+598
+00:54:29,000 --> 00:54:34,000
+pumping. So please, if you can...
+
+599
+00:54:41,000 --> 00:54:46,000
+Don't let that stuff burn a hole in your
+wallet, your Nautilus or your Terminus or
+
+600
+00:54:46,000 --> 00:54:51,000
+your Minotaur. Go ahead and use it. Put it
+out there. Even if you, so let's say
+
+601
+00:54:51,000 --> 00:54:56,000
+you're just like, I don't want to sell any
+of my CYPX. I don't want to sell any of my
+
+602
+00:54:56,000 --> 00:55:01,000
+MewFinance token or Mew's not on
+TradeHouse, but you get the idea. That was
+
+603
+00:55:01,000 --> 00:55:06,000
+a big thing for me too. So don't, then put
+it at like 10% above Ergo. So remember the
+
+604
+00:55:06,000 --> 00:55:11,000
+way the order book works is when you put
+in an order to sell, you're not selling
+
+605
+00:55:11,000 --> 00:55:16,000
+your CYPX or your Rosen or whatever for a
+dollar amount. You're selling it for an
+
+606
+00:55:16,000 --> 00:55:21,000
+ERG amount, right? So you don't have to
+touch that. Let's say the price of Ergo
+
+607
+00:55:21,000 --> 00:55:26,000
+goes up. Right? Your order in the price of
+your token that you've matched it with
+
+608
+00:55:26,000 --> 00:55:31,000
+doesn't go up with ERG. Right? So now,
+nobody's going to buy that thing because
+
+609
+00:55:31,000 --> 00:55:36,000
+it's way too expensive compared to the
+price of ERG. Because you're still asking
+
+610
+00:55:36,000 --> 00:55:41,000
+for one ERG for a thousand tokens. And if
+ERG goes up and the token doesn't go up
+
+611
+00:55:41,000 --> 00:55:46,000
+with it, you're asking for a higher valued
+ERG for the same amount of tokens. So you
+
+612
+00:55:46,000 --> 00:55:51,000
+don't have to worry about switching it.
+You don't have to worry about losing or
+
+613
+00:55:51,000 --> 00:55:56,000
+anything like that. You can take it off
+and put it back there.
+
+614
+00:56:00,000 --> 00:56:05,000
+So the idea is if they both raise similar
+which if anybody follows CoinGecko in
+
+615
+00:56:05,000 --> 00:56:10,000
+their portfolio or anything like that any
+other portfolio. What's the Ergo one that
+
+616
+00:56:10,000 --> 00:56:15,000
+Louie made? Oh, Crooks Finance? Crooks
+Finance, yeah. And it is a portfolio, too,
+
+617
+00:56:15,000 --> 00:56:20,000
+like that. You'll notice that most of the
+time, on average, over a series of days,
+
+618
+00:56:20,000 --> 00:56:25,000
+these guys all raise, right? Ergo raises
+up, rising tide raises all ships, kind of
+
+619
+00:56:25,000 --> 00:56:30,000
+thing. So your token rises up. The cool
+thing is once in a while you'll get tokens
+
+620
+00:56:30,000 --> 00:56:35,000
+that go a little above, go a little below
+and catch up. So that's where you'll get
+
+621
+00:56:35,000 --> 00:56:40,000
+those deals that people will come in and
+buy. So if you're worried about selling
+
+622
+00:56:40,000 --> 00:56:45,000
+your project token then set it at 10%
+higher because if it spikes or ERG dips
+
+623
+00:56:45,000 --> 00:56:50,000
+and the project token stays up then that's
+a good opportunity that'll come in and do
+
+624
+00:56:50,000 --> 00:56:55,000
+that and you're not losing money
+essentially kind of thing and then you can
+
+625
+00:56:55,000 --> 00:57:00,000
+always buy it back if you want to. But in
+short use TradeHouse, use the order book
+
+626
+00:57:00,000 --> 00:57:05,000
+system, provide liquidity, yeah, provide
+liquidity. That's the big thing. That's
+
+627
+00:57:05,000 --> 00:57:10,000
+why we look at these other chains and
+we're like why is everybody using these
+
+628
+00:57:10,000 --> 00:57:15,000
+exchanges barely anything on there to do
+kind of thing.
+
+629
+00:57:24,000 --> 00:57:29,000
+Well, they're using them because it's a
+massive amount of liquidity in the
+
+630
+00:57:29,000 --> 00:57:34,000
+ecosystem, right? So you can do a swap and
+you're not losing 5% on anything. So in
+
+631
+00:57:34,000 --> 00:57:39,000
+Ergo, we don't have that. We don't have
+the big VCs that are going to be pumping
+
+632
+00:57:39,000 --> 00:57:44,000
+liquidity into these kind of things yet.
+So it's up to us, right? In all it takes,
+
+633
+00:57:44,000 --> 00:57:49,000
+there's 10,000 people in chat, guys. If
+everybody in chat, how many in the Ergo
+
+634
+00:57:49,000 --> 00:57:54,000
+chat? Do we know? Hang on, let's see.
+11,435 people in the Ergo chat, just on
+
+635
+00:57:54,000 --> 00:57:59,000
+Telegram's side. If everybody puts in one
+ERG and a thousand CYPX or a thousand
+
+636
+00:57:59,000 --> 00:58:04,000
+Rosen and a couple ERGs, that's just a
+tiny amount in that order book. You're
+
+637
+00:58:04,000 --> 00:58:09,000
+going to have $10,000 or $20,000 worth of
+depth in those order books. It just takes
+
+638
+00:58:09,000 --> 00:58:14,000
+a little bit from everybody. That's it.
+That's it. And that's our weapon against
+
+639
+00:58:14,000 --> 00:58:19,000
+this kind of thing. That's our answer to
+one dude or woman in Ethereum who puts in
+
+640
+00:58:19,000 --> 00:58:24,000
+a million dollars of liquidity somewhere.
+We have to do this individually. It
+
+641
+00:58:24,000 --> 00:58:29,000
+doesn't mean that you have to put in
+$10,000, just small amounts combined with
+
+642
+00:58:29,000 --> 00:58:34,000
+everybody's effort. And we have the same
+effect, guys. That's all it's going to
+
+643
+00:58:34,000 --> 00:58:39,000
+take.
+
+644
+00:58:43,000 --> 00:58:50,000
+All right, what do we have? Well, we're
+at 59:05. Since you joined five minutes
+
+645
+00:58:50,000 --> 00:58:57,000
+late, MGPai, that's the hour. Anything
+closing? Are you missing class for this?
+
+646
+00:58:57,000 --> 00:59:03,000
+No, no, we're an hour behind our daylight
+savings, right? So no classes start yet.
+
+647
+00:59:03,000 --> 00:59:08,000
+Nice, very nice, very nice. All right,
+anything to close with, sir?
+
+648
+00:59:08,000 --> 00:59:13,000
+I don't know, we're going to the moon.
+
+649
+00:59:13,000 --> 00:59:18,000
+Good closing. All right. Thanks
+everybody. And if you didn't hear what I
+
+650
+00:59:18,000 --> 00:59:23,000
+said, the last five minutes invest in the
+ecosystem projects, play Cyberverse, list
+
+651
+00:59:23,000 --> 00:59:28,000
+things on MewFinance, liquidity into
+TradeHouse, list stuff on Ergo auction
+
+652
+00:59:28,000 --> 00:59:33,000
+house, all that kind of stuff. Use the
+ecosystem. There are plenty of ways to use
+
+653
+00:59:33,000 --> 00:59:38,000
+it without the fear of losing your project
+tokens. If that's your worry. Cause I know
+
+654
+00:59:38,000 --> 00:59:43,000
+a lot of Ergo people are just, let's hold
+it in our bags. It's so precious. We don't
+
+655
+00:59:43,000 --> 00:59:48,000
+want to lose it. So. Do it. I have, as I
+say, I have about 50 liquid ERGs right
+
+656
+00:59:48,000 --> 00:59:53,000
+now. Everything else is tied up in
+ecosystem projects, so do it. Don't be
+
+657
+00:59:53,000 --> 00:59:58,000
+afraid. All right, everybody. Thanks for
+joining. We'll see you tomorrow for the
+
+658
+00:59:58,000 --> 01:00:03,000
+community chat. It's on Zoom. Everybody's
+welcome. I'll post it on Twitter again.
+
+659
+01:00:03,000 --> 01:00:08,000
+Just come in chat. kushti will be there.
+Joe might be there since, no, Joe might
+
+660
+01:00:08,000 --> 01:00:13,000
+not, Joe's not going to be there. But
+we're getting devs. He announced it in the
+
+661
+01:00:13,000 --> 01:00:18,000
+dev chat. MGPai, you're going to try to be
+there too. It's 3am for Dan, but maybe we
+
+662
+01:00:18,000 --> 01:00:23,000
+can get him there with the enticement that
+somebody's going to yell at him. Dan likes
+
+663
+01:00:23,000 --> 01:00:28,000
+punishment. So we'll see. Come tomorrow, I
+think, what is it, 4pm UTC? What was it?
+
+664
+01:00:28,000 --> 01:00:33,000
+And check our Twitter. You'll see the link
+there. Thanks everybody. Enjoy your week.
+
+665
+01:00:36,000 --> 01:00:39,000
+Bye guys.
+
