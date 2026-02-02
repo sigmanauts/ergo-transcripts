@@ -1,12 +1,12 @@
 {
-  "generated": "2026-02-01T16:23:19.705568",
+  "generated": "2026-02-01T23:46:53.592164",
   "stats": {
-    "total_calls": 76,
-    "total_qa": 591,
-    "total_decisions": 74,
-    "total_speakers": 27,
+    "total_calls": 87,
+    "total_qa": 674,
+    "total_decisions": 76,
+    "total_speakers": 32,
     "total_topics": 100,
-    "total_hours": 51
+    "total_hours": 58
   },
   "calls": [
     {
@@ -1419,12 +1419,12 @@
         "commitments": 5
       },
       "files": [
-        "20250620_-1IRIQWv71Q_meta.json",
-        "20250620_-1IRIQWv71Q_summary.md",
         "20250620_-1IRIQWv71Q_transcript.txt",
-        "20250620_-1IRIQWv71Q_topics.json",
         "20250620_-1IRIQWv71Q_qa.json",
-        "20250620_-1IRIQWv71Q_decisions.json"
+        "20250620_-1IRIQWv71Q_meta.json",
+        "20250620_-1IRIQWv71Q_decisions.json",
+        "20250620_-1IRIQWv71Q_topics.json",
+        "20250620_-1IRIQWv71Q_summary.md"
       ]
     },
     {
@@ -1447,12 +1447,12 @@
         "commitments": 7
       },
       "files": [
+        "20250613_92S1h09xOUs_topics.json",
+        "20250613_92S1h09xOUs_decisions.json",
         "20250613_92S1h09xOUs_meta.json",
         "20250613_92S1h09xOUs_summary.md",
         "20250613_92S1h09xOUs_transcript.txt",
-        "20250613_92S1h09xOUs_topics.json",
-        "20250613_92S1h09xOUs_qa.json",
-        "20250613_92S1h09xOUs_decisions.json"
+        "20250613_92S1h09xOUs_qa.json"
       ]
     },
     {
@@ -1474,12 +1474,12 @@
         "commitments": 3
       },
       "files": [
-        "20250606_RDwNGp81TH0_meta.json",
-        "20250606_RDwNGp81TH0_summary.md",
-        "20250606_RDwNGp81TH0_transcript.txt",
-        "20250606_RDwNGp81TH0_topics.json",
+        "20250606_RDwNGp81TH0_decisions.json",
         "20250606_RDwNGp81TH0_qa.json",
-        "20250606_RDwNGp81TH0_decisions.json"
+        "20250606_RDwNGp81TH0_topics.json",
+        "20250606_RDwNGp81TH0_summary.md",
+        "20250606_RDwNGp81TH0_meta.json",
+        "20250606_RDwNGp81TH0_transcript.txt"
       ]
     },
     {
@@ -1501,12 +1501,12 @@
         "commitments": 5
       },
       "files": [
-        "20250509_RyMe22HE27Q_meta.json",
-        "20250509_RyMe22HE27Q_summary.md",
-        "20250509_RyMe22HE27Q_transcript.txt",
+        "20250509_RyMe22HE27Q_decisions.json",
         "20250509_RyMe22HE27Q_topics.json",
-        "20250509_RyMe22HE27Q_qa.json",
-        "20250509_RyMe22HE27Q_decisions.json"
+        "20250509_RyMe22HE27Q_transcript.txt",
+        "20250509_RyMe22HE27Q_summary.md",
+        "20250509_RyMe22HE27Q_meta.json",
+        "20250509_RyMe22HE27Q_qa.json"
       ]
     },
     {
@@ -1529,12 +1529,12 @@
         "commitments": 3
       },
       "files": [
-        "20250502_IRflAi_vnro_meta.json",
         "20250502_IRflAi_vnro_summary.md",
         "20250502_IRflAi_vnro_transcript.txt",
         "20250502_IRflAi_vnro_topics.json",
-        "20250502_IRflAi_vnro_qa.json",
-        "20250502_IRflAi_vnro_decisions.json"
+        "20250502_IRflAi_vnro_decisions.json",
+        "20250502_IRflAi_vnro_meta.json",
+        "20250502_IRflAi_vnro_qa.json"
       ]
     },
     {
@@ -1556,12 +1556,12 @@
         "commitments": 3
       },
       "files": [
-        "20250418_uuSQNq6Mhqg_meta.json",
-        "20250418_uuSQNq6Mhqg_summary.md",
-        "20250418_uuSQNq6Mhqg_transcript.txt",
         "20250418_uuSQNq6Mhqg_topics.json",
+        "20250418_uuSQNq6Mhqg_summary.md",
         "20250418_uuSQNq6Mhqg_qa.json",
-        "20250418_uuSQNq6Mhqg_decisions.json"
+        "20250418_uuSQNq6Mhqg_decisions.json",
+        "20250418_uuSQNq6Mhqg_meta.json",
+        "20250418_uuSQNq6Mhqg_transcript.txt"
       ]
     },
     {
@@ -1584,12 +1584,12 @@
         "commitments": 3
       },
       "files": [
-        "20250411_lLpcD9MX2TU_meta.json",
-        "20250411_lLpcD9MX2TU_summary.md",
-        "20250411_lLpcD9MX2TU_transcript.txt",
-        "20250411_lLpcD9MX2TU_topics.json",
         "20250411_lLpcD9MX2TU_qa.json",
-        "20250411_lLpcD9MX2TU_decisions.json"
+        "20250411_lLpcD9MX2TU_summary.md",
+        "20250411_lLpcD9MX2TU_decisions.json",
+        "20250411_lLpcD9MX2TU_transcript.txt",
+        "20250411_lLpcD9MX2TU_meta.json",
+        "20250411_lLpcD9MX2TU_topics.json"
       ]
     },
     {
@@ -1611,11 +1611,11 @@
         "commitments": 7
       },
       "files": [
-        "20250404_zUbGEVH1Bks_meta.json",
         "20250404_zUbGEVH1Bks_summary.md",
-        "20250404_zUbGEVH1Bks_transcript.txt",
-        "20250404_zUbGEVH1Bks_topics.json",
         "20250404_zUbGEVH1Bks_qa.json",
+        "20250404_zUbGEVH1Bks_topics.json",
+        "20250404_zUbGEVH1Bks_transcript.txt",
+        "20250404_zUbGEVH1Bks_meta.json",
         "20250404_zUbGEVH1Bks_decisions.json"
       ]
     },
@@ -1641,11 +1641,11 @@
         "commitments": 5
       },
       "files": [
+        "20250328_FRSG7XYHpRc_qa.json",
+        "20250328_FRSG7XYHpRc_topics.json",
         "20250328_FRSG7XYHpRc_meta.json",
         "20250328_FRSG7XYHpRc_summary.md",
         "20250328_FRSG7XYHpRc_transcript.txt",
-        "20250328_FRSG7XYHpRc_topics.json",
-        "20250328_FRSG7XYHpRc_qa.json",
         "20250328_FRSG7XYHpRc_decisions.json"
       ]
     },
@@ -1671,9 +1671,9 @@
         "20250326_LwN5-alFNQs_meta.json",
         "20250326_LwN5-alFNQs_summary.md",
         "20250326_LwN5-alFNQs_transcript.txt",
+        "20250326_LwN5-alFNQs_decisions.json",
         "20250326_LwN5-alFNQs_topics.json",
-        "20250326_LwN5-alFNQs_qa.json",
-        "20250326_LwN5-alFNQs_decisions.json"
+        "20250326_LwN5-alFNQs_qa.json"
       ]
     },
     {
@@ -1695,11 +1695,11 @@
         "commitments": 2
       },
       "files": [
-        "20250228_OF_20d9UH3M_meta.json",
-        "20250228_OF_20d9UH3M_summary.md",
-        "20250228_OF_20d9UH3M_transcript.txt",
-        "20250228_OF_20d9UH3M_topics.json",
         "20250228_OF_20d9UH3M_qa.json",
+        "20250228_OF_20d9UH3M_transcript.txt",
+        "20250228_OF_20d9UH3M_summary.md",
+        "20250228_OF_20d9UH3M_meta.json",
+        "20250228_OF_20d9UH3M_topics.json",
         "20250228_OF_20d9UH3M_decisions.json"
       ]
     },
@@ -1721,12 +1721,12 @@
         "commitments": 2
       },
       "files": [
-        "20250224_nYqX9VC6mYw_meta.json",
-        "20250224_nYqX9VC6mYw_summary.md",
+        "20250224_nYqX9VC6mYw_decisions.json",
         "20250224_nYqX9VC6mYw_transcript.txt",
-        "20250224_nYqX9VC6mYw_topics.json",
         "20250224_nYqX9VC6mYw_qa.json",
-        "20250224_nYqX9VC6mYw_decisions.json"
+        "20250224_nYqX9VC6mYw_summary.md",
+        "20250224_nYqX9VC6mYw_meta.json",
+        "20250224_nYqX9VC6mYw_topics.json"
       ]
     },
     {
@@ -1747,12 +1747,12 @@
         "commitments": 2
       },
       "files": [
-        "20250216_jXYo3RkUOvs_meta.json",
+        "20250216_jXYo3RkUOvs_decisions.json",
+        "20250216_jXYo3RkUOvs_qa.json",
+        "20250216_jXYo3RkUOvs_topics.json",
         "20250216_jXYo3RkUOvs_summary.md",
         "20250216_jXYo3RkUOvs_transcript.txt",
-        "20250216_jXYo3RkUOvs_topics.json",
-        "20250216_jXYo3RkUOvs_qa.json",
-        "20250216_jXYo3RkUOvs_decisions.json"
+        "20250216_jXYo3RkUOvs_meta.json"
       ]
     },
     {
@@ -1773,12 +1773,12 @@
         "commitments": 3
       },
       "files": [
-        "20250213_m3MdlXmfj-Q_meta.json",
-        "20250213_m3MdlXmfj-Q_summary.md",
-        "20250213_m3MdlXmfj-Q_transcript.txt",
-        "20250213_m3MdlXmfj-Q_topics.json",
         "20250213_m3MdlXmfj-Q_qa.json",
-        "20250213_m3MdlXmfj-Q_decisions.json"
+        "20250213_m3MdlXmfj-Q_meta.json",
+        "20250213_m3MdlXmfj-Q_transcript.txt",
+        "20250213_m3MdlXmfj-Q_decisions.json",
+        "20250213_m3MdlXmfj-Q_summary.md",
+        "20250213_m3MdlXmfj-Q_topics.json"
       ]
     },
     {
@@ -1799,11 +1799,11 @@
         "commitments": 4
       },
       "files": [
-        "20250210_fYeueI4UDZw_meta.json",
         "20250210_fYeueI4UDZw_summary.md",
         "20250210_fYeueI4UDZw_transcript.txt",
-        "20250210_fYeueI4UDZw_topics.json",
         "20250210_fYeueI4UDZw_qa.json",
+        "20250210_fYeueI4UDZw_topics.json",
+        "20250210_fYeueI4UDZw_meta.json",
         "20250210_fYeueI4UDZw_decisions.json"
       ]
     },
@@ -1826,12 +1826,12 @@
         "commitments": 5
       },
       "files": [
-        "20250202_8jpf6ickEnI_meta.json",
-        "20250202_8jpf6ickEnI_summary.md",
+        "20250202_8jpf6ickEnI_decisions.json",
         "20250202_8jpf6ickEnI_transcript.txt",
+        "20250202_8jpf6ickEnI_summary.md",
         "20250202_8jpf6ickEnI_topics.json",
         "20250202_8jpf6ickEnI_qa.json",
-        "20250202_8jpf6ickEnI_decisions.json"
+        "20250202_8jpf6ickEnI_meta.json"
       ]
     },
     {
@@ -1854,11 +1854,11 @@
         "commitments": 4
       },
       "files": [
-        "20250131_tsv9wZkHIUk_meta.json",
-        "20250131_tsv9wZkHIUk_summary.md",
-        "20250131_tsv9wZkHIUk_transcript.txt",
         "20250131_tsv9wZkHIUk_topics.json",
+        "20250131_tsv9wZkHIUk_summary.md",
         "20250131_tsv9wZkHIUk_qa.json",
+        "20250131_tsv9wZkHIUk_meta.json",
+        "20250131_tsv9wZkHIUk_transcript.txt",
         "20250131_tsv9wZkHIUk_decisions.json"
       ]
     },
@@ -1882,11 +1882,11 @@
         "commitments": 3
       },
       "files": [
-        "20250124_go34ia1XJhg_meta.json",
         "20250124_go34ia1XJhg_summary.md",
         "20250124_go34ia1XJhg_transcript.txt",
-        "20250124_go34ia1XJhg_topics.json",
         "20250124_go34ia1XJhg_qa.json",
+        "20250124_go34ia1XJhg_meta.json",
+        "20250124_go34ia1XJhg_topics.json",
         "20250124_go34ia1XJhg_decisions.json"
       ]
     },
@@ -1911,11 +1911,11 @@
       },
       "files": [
         "20250117_A-ib0Npcg2c_meta.json",
-        "20250117_A-ib0Npcg2c_summary.md",
-        "20250117_A-ib0Npcg2c_transcript.txt",
-        "20250117_A-ib0Npcg2c_topics.json",
         "20250117_A-ib0Npcg2c_qa.json",
-        "20250117_A-ib0Npcg2c_decisions.json"
+        "20250117_A-ib0Npcg2c_summary.md",
+        "20250117_A-ib0Npcg2c_decisions.json",
+        "20250117_A-ib0Npcg2c_transcript.txt",
+        "20250117_A-ib0Npcg2c_topics.json"
       ]
     },
     {
@@ -1938,12 +1938,12 @@
         "commitments": 4
       },
       "files": [
-        "20250116_Md5rk7kWlm0_meta.json",
         "20250116_Md5rk7kWlm0_summary.md",
+        "20250116_Md5rk7kWlm0_decisions.json",
         "20250116_Md5rk7kWlm0_transcript.txt",
-        "20250116_Md5rk7kWlm0_topics.json",
         "20250116_Md5rk7kWlm0_qa.json",
-        "20250116_Md5rk7kWlm0_decisions.json"
+        "20250116_Md5rk7kWlm0_meta.json",
+        "20250116_Md5rk7kWlm0_topics.json"
       ]
     },
     {
@@ -1965,12 +1965,12 @@
         "commitments": 2
       },
       "files": [
-        "20250113_9QneAIjfKhM_meta.json",
-        "20250113_9QneAIjfKhM_summary.md",
-        "20250113_9QneAIjfKhM_transcript.txt",
         "20250113_9QneAIjfKhM_topics.json",
         "20250113_9QneAIjfKhM_qa.json",
-        "20250113_9QneAIjfKhM_decisions.json"
+        "20250113_9QneAIjfKhM_decisions.json",
+        "20250113_9QneAIjfKhM_meta.json",
+        "20250113_9QneAIjfKhM_summary.md",
+        "20250113_9QneAIjfKhM_transcript.txt"
       ]
     },
     {
@@ -1992,12 +1992,12 @@
         "commitments": 7
       },
       "files": [
-        "20250110_LqrHepXZyvY_meta.json",
         "20250110_LqrHepXZyvY_summary.md",
+        "20250110_LqrHepXZyvY_meta.json",
+        "20250110_LqrHepXZyvY_decisions.json",
         "20250110_LqrHepXZyvY_transcript.txt",
-        "20250110_LqrHepXZyvY_topics.json",
         "20250110_LqrHepXZyvY_qa.json",
-        "20250110_LqrHepXZyvY_decisions.json"
+        "20250110_LqrHepXZyvY_topics.json"
       ]
     },
     {
@@ -2018,12 +2018,12 @@
         "commitments": 0
       },
       "files": [
-        "20250108_DDDjaIBTMUw_meta.json",
-        "20250108_DDDjaIBTMUw_summary.md",
-        "20250108_DDDjaIBTMUw_transcript.txt",
-        "20250108_DDDjaIBTMUw_topics.json",
         "20250108_DDDjaIBTMUw_qa.json",
-        "20250108_DDDjaIBTMUw_decisions.json"
+        "20250108_DDDjaIBTMUw_topics.json",
+        "20250108_DDDjaIBTMUw_meta.json",
+        "20250108_DDDjaIBTMUw_transcript.txt",
+        "20250108_DDDjaIBTMUw_decisions.json",
+        "20250108_DDDjaIBTMUw_summary.md"
       ]
     },
     {
@@ -2045,12 +2045,12 @@
         "commitments": 3
       },
       "files": [
-        "20250103_Kvi5lIOrO00_meta.json",
-        "20250103_Kvi5lIOrO00_summary.md",
-        "20250103_Kvi5lIOrO00_transcript.txt",
-        "20250103_Kvi5lIOrO00_topics.json",
+        "20250103_Kvi5lIOrO00_decisions.json",
         "20250103_Kvi5lIOrO00_qa.json",
-        "20250103_Kvi5lIOrO00_decisions.json"
+        "20250103_Kvi5lIOrO00_topics.json",
+        "20250103_Kvi5lIOrO00_transcript.txt",
+        "20250103_Kvi5lIOrO00_meta.json",
+        "20250103_Kvi5lIOrO00_summary.md"
       ]
     },
     {
@@ -2072,12 +2072,12 @@
         "commitments": 7
       },
       "files": [
+        "20241220_z0vlCVoNFAw_qa.json",
         "20241220_z0vlCVoNFAw_meta.json",
+        "20241220_z0vlCVoNFAw_decisions.json",
         "20241220_z0vlCVoNFAw_summary.md",
         "20241220_z0vlCVoNFAw_transcript.txt",
-        "20241220_z0vlCVoNFAw_topics.json",
-        "20241220_z0vlCVoNFAw_qa.json",
-        "20241220_z0vlCVoNFAw_decisions.json"
+        "20241220_z0vlCVoNFAw_topics.json"
       ]
     },
     {
@@ -2100,12 +2100,308 @@
         "commitments": 2
       },
       "files": [
-        "20241218_ApZS1Oa9DYA_meta.json",
         "20241218_ApZS1Oa9DYA_summary.md",
-        "20241218_ApZS1Oa9DYA_transcript.txt",
+        "20241218_ApZS1Oa9DYA_meta.json",
         "20241218_ApZS1Oa9DYA_topics.json",
         "20241218_ApZS1Oa9DYA_qa.json",
-        "20241218_ApZS1Oa9DYA_decisions.json"
+        "20241218_ApZS1Oa9DYA_decisions.json",
+        "20241218_ApZS1Oa9DYA_transcript.txt"
+      ]
+    },
+    {
+      "id": "z-MEe8tZ6Wg",
+      "file_prefix": "20241216_z-MEe8tZ6Wg",
+      "date": "2024-12-16",
+      "title": "P2Podcast | Episode 5",
+      "type": "community_chat",
+      "speakers": [
+        "tmr.erg",
+        "Marc the Shark"
+      ],
+      "duration_minutes": 49,
+      "thumbnail": "https://img.youtube.com/vi/z-MEe8tZ6Wg/maxresdefault.jpg",
+      "stats": {
+        "topics": 8,
+        "qa_pairs": 8,
+        "decisions": 0,
+        "commitments": 1
+      },
+      "files": [
+        "20241216_z-MEe8tZ6Wg_meta.json",
+        "20241216_z-MEe8tZ6Wg_summary.md",
+        "20241216_z-MEe8tZ6Wg_transcript.txt",
+        "20241216_z-MEe8tZ6Wg_topics.json",
+        "20241216_z-MEe8tZ6Wg_qa.json",
+        "20241216_z-MEe8tZ6Wg_decisions.json"
+      ]
+    },
+    {
+      "id": "2cV0V_GOX5Q",
+      "file_prefix": "20241213_2cV0V_GOX5Q",
+      "date": "2024-12-13",
+      "title": "Ergo PoW Blockchain - Weekly Update & AMA - December 12th 2024",
+      "type": "ama",
+      "speakers": [
+        "Armeanio",
+        "kushti"
+      ],
+      "duration_minutes": 58,
+      "thumbnail": "https://img.youtube.com/vi/2cV0V_GOX5Q/maxresdefault.jpg",
+      "stats": {
+        "topics": 17,
+        "qa_pairs": 8,
+        "decisions": 0,
+        "commitments": 5
+      },
+      "files": [
+        "20241213_2cV0V_GOX5Q_meta.json",
+        "20241213_2cV0V_GOX5Q_summary.md",
+        "20241213_2cV0V_GOX5Q_transcript.txt",
+        "20241213_2cV0V_GOX5Q_topics.json",
+        "20241213_2cV0V_GOX5Q_qa.json",
+        "20241213_2cV0V_GOX5Q_decisions.json"
+      ]
+    },
+    {
+      "id": "KYdE_jiDq80",
+      "file_prefix": "20241211_KYdE_jiDq80",
+      "date": "2024-12-11",
+      "title": "Bene | Bruno Woltzenlogel Paleo & Jossemii | ErgoHack 9",
+      "type": "community_chat",
+      "speakers": [
+        "Bruno",
+        "Jossemii"
+      ],
+      "duration_minutes": 10,
+      "thumbnail": "https://img.youtube.com/vi/KYdE_jiDq80/maxresdefault.jpg",
+      "stats": {
+        "topics": 7,
+        "qa_pairs": 7,
+        "decisions": 0,
+        "commitments": 0
+      },
+      "files": [
+        "20241211_KYdE_jiDq80_meta.json",
+        "20241211_KYdE_jiDq80_summary.md",
+        "20241211_KYdE_jiDq80_transcript.txt",
+        "20241211_KYdE_jiDq80_topics.json",
+        "20241211_KYdE_jiDq80_qa.json",
+        "20241211_KYdE_jiDq80_decisions.json"
+      ]
+    },
+    {
+      "id": "C6U6W48Noq8",
+      "file_prefix": "20241211_C6U6W48Noq8",
+      "date": "2024-12-11",
+      "title": "Last Byte Bar | Marc The Shark | ErgoHack 9",
+      "type": "community_chat",
+      "speakers": [
+        "Marc the Shark"
+      ],
+      "duration_minutes": 15,
+      "thumbnail": "https://img.youtube.com/vi/C6U6W48Noq8/maxresdefault.jpg",
+      "stats": {
+        "topics": 8,
+        "qa_pairs": 7,
+        "decisions": 0,
+        "commitments": 3
+      },
+      "files": [
+        "20241211_C6U6W48Noq8_meta.json",
+        "20241211_C6U6W48Noq8_summary.md",
+        "20241211_C6U6W48Noq8_transcript.txt",
+        "20241211_C6U6W48Noq8_topics.json",
+        "20241211_C6U6W48Noq8_qa.json",
+        "20241211_C6U6W48Noq8_decisions.json"
+      ]
+    },
+    {
+      "id": "owD5KnhbXuY",
+      "file_prefix": "20241211_owD5KnhbXuY",
+      "date": "2024-12-11",
+      "title": "ONERGO | Kropli | ErgoHack 9",
+      "type": "community_chat",
+      "speakers": [
+        "Gvuldis"
+      ],
+      "duration_minutes": 10,
+      "thumbnail": "https://img.youtube.com/vi/owD5KnhbXuY/maxresdefault.jpg",
+      "stats": {
+        "topics": 11,
+        "qa_pairs": 5,
+        "decisions": 0,
+        "commitments": 3
+      },
+      "files": [
+        "20241211_owD5KnhbXuY_meta.json",
+        "20241211_owD5KnhbXuY_summary.md",
+        "20241211_owD5KnhbXuY_transcript.txt",
+        "20241211_owD5KnhbXuY_topics.json",
+        "20241211_owD5KnhbXuY_qa.json",
+        "20241211_owD5KnhbXuY_decisions.json"
+      ]
+    },
+    {
+      "id": "Mxdxjq9LT2w",
+      "file_prefix": "20241211_Mxdxjq9LT2w",
+      "date": "2024-12-11",
+      "title": "Minotaur Multi-sig Wallet | vorujack | ErgoHack 9",
+      "type": "community_chat",
+      "speakers": [
+        "vourjack"
+      ],
+      "duration_minutes": 10,
+      "thumbnail": "https://img.youtube.com/vi/Mxdxjq9LT2w/maxresdefault.jpg",
+      "stats": {
+        "topics": 1,
+        "qa_pairs": 1,
+        "decisions": 0,
+        "commitments": 0
+      },
+      "files": [
+        "20241211_Mxdxjq9LT2w_meta.json",
+        "20241211_Mxdxjq9LT2w_summary.md",
+        "20241211_Mxdxjq9LT2w_transcript.txt",
+        "20241211_Mxdxjq9LT2w_topics.json",
+        "20241211_Mxdxjq9LT2w_qa.json",
+        "20241211_Mxdxjq9LT2w_decisions.json"
+      ]
+    },
+    {
+      "id": "jsMsa7kqzGQ",
+      "file_prefix": "20241129_jsMsa7kqzGQ",
+      "date": "2024-11-29",
+      "title": "P2Podcast | Episode 4",
+      "type": "community_chat",
+      "speakers": [
+        "Marc the Shark",
+        "Wade",
+        "tmr.erg"
+      ],
+      "duration_minutes": 56,
+      "thumbnail": "https://img.youtube.com/vi/jsMsa7kqzGQ/maxresdefault.jpg",
+      "stats": {
+        "topics": 19,
+        "qa_pairs": 9,
+        "decisions": 0,
+        "commitments": 2
+      },
+      "files": [
+        "20241129_jsMsa7kqzGQ_meta.json",
+        "20241129_jsMsa7kqzGQ_summary.md",
+        "20241129_jsMsa7kqzGQ_transcript.txt",
+        "20241129_jsMsa7kqzGQ_topics.json",
+        "20241129_jsMsa7kqzGQ_qa.json",
+        "20241129_jsMsa7kqzGQ_decisions.json"
+      ]
+    },
+    {
+      "id": "ENgg8jiThqI",
+      "file_prefix": "20241129_ENgg8jiThqI",
+      "date": "2024-11-29",
+      "title": "Ergo PoW Blockchain - Weekly Update & AMA - November 28th 2024",
+      "type": "ama",
+      "speakers": [
+        "qx()",
+        "kushti",
+        "Dan Friedman"
+      ],
+      "duration_minutes": 64,
+      "thumbnail": "https://img.youtube.com/vi/ENgg8jiThqI/maxresdefault.jpg",
+      "stats": {
+        "topics": 12,
+        "qa_pairs": 9,
+        "decisions": 0,
+        "commitments": 7
+      },
+      "files": [
+        "20241129_ENgg8jiThqI_meta.json",
+        "20241129_ENgg8jiThqI_summary.md",
+        "20241129_ENgg8jiThqI_transcript.txt",
+        "20241129_ENgg8jiThqI_topics.json",
+        "20241129_ENgg8jiThqI_qa.json",
+        "20241129_ENgg8jiThqI_decisions.json"
+      ]
+    },
+    {
+      "id": "SsyvyH1PJJs",
+      "file_prefix": "20241125_SsyvyH1PJJs",
+      "date": "2024-11-25",
+      "title": "P2Podcast | Episode 3",
+      "type": "community_chat",
+      "speakers": [
+        "tim.erg",
+        "Marc the Shark"
+      ],
+      "duration_minutes": 38,
+      "thumbnail": "https://img.youtube.com/vi/SsyvyH1PJJs/maxresdefault.jpg",
+      "stats": {
+        "topics": 10,
+        "qa_pairs": 10,
+        "decisions": 0,
+        "commitments": 1
+      },
+      "files": [
+        "20241125_SsyvyH1PJJs_meta.json",
+        "20241125_SsyvyH1PJJs_summary.md",
+        "20241125_SsyvyH1PJJs_transcript.txt",
+        "20241125_SsyvyH1PJJs_topics.json",
+        "20241125_SsyvyH1PJJs_qa.json",
+        "20241125_SsyvyH1PJJs_decisions.json"
+      ]
+    },
+    {
+      "id": "-uG26zl5Wjc",
+      "file_prefix": "20241115_-uG26zl5Wjc",
+      "date": "2024-11-15",
+      "title": "Ergo PoW Blockchain - Weekly Update & AMA - November 14th 2024",
+      "type": "ama",
+      "speakers": [
+        "qx()",
+        "AI"
+      ],
+      "duration_minutes": 63,
+      "thumbnail": "https://img.youtube.com/vi/-uG26zl5Wjc/maxresdefault.jpg",
+      "stats": {
+        "topics": 23,
+        "qa_pairs": 10,
+        "decisions": 2,
+        "commitments": 4
+      },
+      "files": [
+        "20241115_-uG26zl5Wjc_meta.json",
+        "20241115_-uG26zl5Wjc_summary.md",
+        "20241115_-uG26zl5Wjc_transcript.txt",
+        "20241115_-uG26zl5Wjc_topics.json",
+        "20241115_-uG26zl5Wjc_qa.json",
+        "20241115_-uG26zl5Wjc_decisions.json"
+      ]
+    },
+    {
+      "id": "0bhPTk9hdGI",
+      "file_prefix": "20241104_0bhPTk9hdGI",
+      "date": "2024-11-04",
+      "title": "P2Podcast | Episode 2",
+      "type": "community_chat",
+      "speakers": [
+        "Marc the Shark",
+        "tmr.erg"
+      ],
+      "duration_minutes": 50,
+      "thumbnail": "https://img.youtube.com/vi/0bhPTk9hdGI/maxresdefault.jpg",
+      "stats": {
+        "topics": 10,
+        "qa_pairs": 9,
+        "decisions": 0,
+        "commitments": 3
+      },
+      "files": [
+        "20241104_0bhPTk9hdGI_meta.json",
+        "20241104_0bhPTk9hdGI_summary.md",
+        "20241104_0bhPTk9hdGI_transcript.txt",
+        "20241104_0bhPTk9hdGI_topics.json",
+        "20241104_0bhPTk9hdGI_qa.json",
+        "20241104_0bhPTk9hdGI_decisions.json"
       ]
     }
   ]

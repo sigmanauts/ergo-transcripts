@@ -1,0 +1,539 @@
+1
+00:00:10,000 --> 00:00:14,000
+Hey guys, I'm Gvuldis from the team
+Kropli and we are here to introduce you to
+
+2
+00:00:14,000 --> 00:00:18,000
+On-Ergo.
+
+3
+00:00:18,000 --> 00:00:22,000
+It is an amazing tool that we are
+building here on Ergo and I hope that you
+
+4
+00:00:22,000 --> 00:00:26,000
+guys enjoy and find it useful.
+
+5
+00:00:26,000 --> 00:00:28,000
+So let's start our presentation by
+talking about the problems that we are
+
+6
+00:00:28,000 --> 00:00:30,000
+going to address.
+
+7
+00:00:31,000 --> 00:00:35,000
+I'm fairly sure that most of you guys
+have seen what has happened with Cardano
+
+8
+00:00:35,000 --> 00:00:39,000
+over the last few years since it is of
+course our testnet. It started well with a
+
+9
+00:00:39,000 --> 00:00:43,000
+wallet and then boom, it was overwhelming
+so quickly and it was basically impossible
+
+10
+00:00:43,000 --> 00:00:47,000
+to stay updated on most developments.
+
+11
+00:00:50,000 --> 00:00:54,000
+This was at least my experience, I don't
+know about you guys, but we believe that
+
+12
+00:00:54,000 --> 00:00:58,000
+Ergo, though considerably smaller right
+now, is going to end up on the same path
+
+13
+00:00:58,000 --> 00:01:02,000
+and face this same problem.
+
+14
+00:01:02,000 --> 00:01:06,000
+And we believe that it is better to solve
+this problem sooner rather than later. And
+
+15
+00:01:06,000 --> 00:01:10,000
+Cardano, as far as I know, still doesn't
+have the solution for this. That's why we
+
+16
+00:01:10,000 --> 00:01:14,000
+are here right now.
+
+17
+00:01:14,000 --> 00:01:18,000
+One more problem that inexperienced
+people face in crypto is that things are
+
+18
+00:01:18,000 --> 00:01:22,000
+much more complicated than we as
+professional community members think. The
+
+19
+00:01:22,000 --> 00:01:26,000
+reality is that most people investing in
+crypto will never withdraw their coins
+
+20
+00:01:26,000 --> 00:01:30,000
+from centralized exchanges because, well,
+it is simply too complicated at this stage
+
+21
+00:01:30,000 --> 00:01:34,000
+of time.
+
+22
+00:01:35,000 --> 00:01:40,000
+As of now, there isn't really a clear,
+consistent guide for navigating the
+
+23
+00:01:40,000 --> 00:01:45,000
+ecosystem and exploring all the
+opportunities that it provides or will
+
+24
+00:01:45,000 --> 00:01:50,000
+provide in the future. And newcomers are
+just scared to make mistakes with their
+
+25
+00:01:50,000 --> 00:01:55,000
+money. They need to be encouraged somehow,
+in some way. And marketing, when?
+
+26
+00:01:55,000 --> 00:01:59,000
+So on Ergo, our solution to these
+problems that we started to create during
+
+27
+00:01:59,000 --> 00:02:03,000
+Ergo Hack 9 will provide both new and
+experienced users with an event calendar,
+
+28
+00:02:03,000 --> 00:02:07,000
+an educational platform, a Discord bot,
+and with some very nice incentives to get
+
+29
+00:02:07,000 --> 00:02:11,000
+people to discover new possibilities
+on-chain.
+
+30
+00:02:14,000 --> 00:02:18,000
+Let's take a look at them separately with
+more details. First of all, an event
+
+31
+00:02:18,000 --> 00:02:22,000
+calendar. Whether it's community meetups,
+dApp launches, updates, or special events,
+
+32
+00:02:22,000 --> 00:02:26,000
+everything gets listed here. And it's
+super easy for projects as well as
+
+33
+00:02:26,000 --> 00:02:30,000
+community members to add events
+themselves.
+
+34
+00:02:31,000 --> 00:02:36,000
+We are still polishing the details and
+permissions for adding events. However, we
+
+35
+00:02:36,000 --> 00:02:41,000
+want to make those rules as decentralized
+as possible. For now, possible solutions
+
+36
+00:02:41,000 --> 00:02:46,000
+include a Discord bot integration or NFTs,
+granting the possibility to post. So
+
+37
+00:02:46,000 --> 00:02:51,000
+you'll always know what's happening, when
+and where.
+
+38
+00:02:51,000 --> 00:02:55,000
+Imagine not having to dig through 10
+different channels or announcements, it's
+
+39
+00:02:55,000 --> 00:02:59,000
+all here in one place, and you don't have
+to miss anything. We are aware that this
+
+40
+00:02:59,000 --> 00:03:03,000
+might not be as useful at the moment,
+however, as I mentioned before, this can
+
+41
+00:03:03,000 --> 00:03:07,000
+become very useful with several project
+pre-sales launching at the same time
+
+42
+00:03:07,000 --> 00:03:11,000
+during Ergo's exponential growth.
+
+43
+00:03:15,000 --> 00:03:23,000
+Here you can see a small preview of the
+very early stage development that we have
+
+44
+00:03:23,000 --> 00:03:31,000
+done so far on the event calendar.
+
+45
+00:03:31,000 --> 00:03:35,000
+So, besides just keeping you informed, we
+want to help everyone learn about Ergo
+
+46
+00:03:35,000 --> 00:03:39,000
+too. That's where our educational platform
+comes in. We are creating a quest roadmap.
+
+47
+00:03:39,000 --> 00:03:43,000
+It's kind of like a game where each quest
+is a learning opportunity.
+
+48
+00:03:45,000 --> 00:03:49,000
+For example, your first quest might be
+something as simple as creating a wallet,
+
+49
+00:03:49,000 --> 00:03:53,000
+then maybe sending your first transaction
+or integrating with the app. Each
+
+50
+00:03:53,000 --> 00:03:57,000
+completed quest brings rewards. So you're
+not just learning, you're playing a game
+
+51
+00:03:57,000 --> 00:04:01,000
+and earning along the way.
+
+52
+00:04:03,000 --> 00:04:08,000
+Our goal here is to build confidence and
+knowledge, guiding you from a newbie to a
+
+53
+00:04:08,000 --> 00:04:13,000
+Sigmanauts, step by step. We have made
+some of these roadmaps, however we don't
+
+54
+00:04:13,000 --> 00:04:18,000
+want to reveal too much so that we can
+make the launch even more exciting.
+
+55
+00:04:20,000 --> 00:04:25,000
+Here's a small preview of a start of a
+potential quest roadmap on the educational
+
+56
+00:04:25,000 --> 00:04:30,000
+platform about the Cyberverse game. Each
+new quest unlocks after the previous has
+
+57
+00:04:30,000 --> 00:04:35,000
+been finished. And this is basically how a
+start of such roadmap could look like.
+
+58
+00:04:36,000 --> 00:04:40,000
+Our Discord bot is like the backbone of
+this whole experience. It's integrated
+
+59
+00:04:40,000 --> 00:04:44,000
+with the platform and acts as an assistant
+for the community. Let's say you're
+
+60
+00:04:44,000 --> 00:04:48,000
+curious about upcoming events. Just type
+slash events and it will list everything
+
+61
+00:04:48,000 --> 00:04:52,000
+that's on the calendar.
+
+62
+00:04:52,000 --> 00:04:56,000
+Projects can also use the bot to add
+events directly with a slash add event,
+
+63
+00:04:56,000 --> 00:05:00,000
+making it instantly accessible to the
+whole community. As I already mentioned,
+
+64
+00:05:00,000 --> 00:05:04,000
+we are thinking of possible solutions for
+adding events, and one more possibility
+
+65
+00:05:04,000 --> 00:05:08,000
+would be to integrate this Discord bot in
+Ergo ecosystem's Discord servers, make
+
+66
+00:05:08,000 --> 00:05:12,000
+them follow the announcement pages, let
+the posts go through AI check, and
+
+67
+00:05:12,000 --> 00:05:16,000
+automatically add the event mentioned in
+the announcement to On-Ergo's calendar.
+
+68
+00:05:20,000 --> 00:05:23,000
+We are exploring many options and we will
+make sure to choose the best one with the
+
+69
+00:05:23,000 --> 00:05:26,000
+help of Ergo's community and its feedback.
+
+70
+00:05:27,000 --> 00:05:31,000
+Now, what's a community platform without
+some incentives, right? We are going to
+
+71
+00:05:31,000 --> 00:05:35,000
+have leaderboards, raffles and rewards to
+keep things fun and engaging. So, if
+
+72
+00:05:35,000 --> 00:05:39,000
+you're completing quests, attending events
+or just actively participating in the
+
+73
+00:05:39,000 --> 00:05:43,000
+ecosystem, you'll be recognized for it,
+and who doesn't love a bit of friendly
+
+74
+00:05:43,000 --> 00:05:47,000
+competition.
+
+75
+00:05:48,000 --> 00:05:52,000
+These incentives are all about building a
+healthy, active community where everyone's
+
+76
+00:05:52,000 --> 00:05:56,000
+excited to contribute and engage.
+
+77
+00:05:56,000 --> 00:06:00,000
+On-Ergo is more than just a platform.
+It's an innovative approach to managing
+
+78
+00:06:00,000 --> 00:06:04,000
+and navigating the Ergo ecosystem. We are
+combining event management, gamified
+
+79
+00:06:04,000 --> 00:06:08,000
+onboarding, and DeFi accessibility all in
+one. We're creating an ecosystem hub that
+
+80
+00:06:08,000 --> 00:06:12,000
+doesn't just give you information but
+actually helps you experience the
+
+81
+00:06:12,000 --> 00:06:16,000
+ecosystem hands-on.
+
+82
+00:06:18,000 --> 00:06:21,000
+This innovation is all about making Ergo
+user-friendly and accessible from
+
+83
+00:06:21,000 --> 00:06:24,000
+beginners to seasoned pros.
+
+84
+00:06:25,000 --> 00:06:29,000
+Our community is at the core of
+everything we are building with On-Ergo.
+
+85
+00:06:29,000 --> 00:06:33,000
+This platform is designed to grow and
+evolve with community input. We want to
+
+86
+00:06:33,000 --> 00:06:37,000
+hear from you, your ideas, your feedback,
+your events. On-Ergo will make it easy to
+
+87
+00:06:37,000 --> 00:06:41,000
+organize and promote community-led events,
+building a central hub for the entire Ergo
+
+88
+00:06:41,000 --> 00:06:45,000
+family.
+
+89
+00:06:47,000 --> 00:06:50,000
+Together, we'll create a thriving,
+connected ecosystem where everyone can get
+
+90
+00:06:50,000 --> 00:06:53,000
+involved.
+
+91
+00:06:53,000 --> 00:06:57,000
+So who will actually benefit from this?
+First of all newcomers, because On-Ergo
+
+92
+00:06:57,000 --> 00:07:01,000
+simplifies the entry into Ergo with guided
+learning and easy-to-find events. Then the
+
+93
+00:07:01,000 --> 00:07:05,000
+community, because the platform helps by
+summarizing all updates and events in one
+
+94
+00:07:05,000 --> 00:07:09,000
+place.
+
+95
+00:07:09,000 --> 00:07:15,000
+And projects, new projects especially,
+can gain visibility and engagement with a
+
+96
+00:07:15,000 --> 00:07:21,000
+simple way to list events and updates and,
+well, On-Ergo strengthens the entire Ergo
+
+97
+00:07:21,000 --> 00:07:27,000
+ecosystem by making it more accessible and
+pushing people to use the ecosystem more.
+
+98
+00:07:27,000 --> 00:07:32,000
+So, what's next? We're starting with the
+essentials, the event calendar and the
+
+99
+00:07:32,000 --> 00:07:37,000
+Discord bot to get the foundation in
+place. Then we'll expand with more
+
+100
+00:07:37,000 --> 00:07:42,000
+educational quests, enhanced incentives
+and user-driven updates.
+
+101
+00:07:42,000 --> 00:07:46,000
+We are also planning to open source the
+project later on so the community can
+
+102
+00:07:46,000 --> 00:07:50,000
+contribute directly. This roadmap is
+flexible. As we grow and get feedback,
+
+103
+00:07:50,000 --> 00:07:54,000
+we'll keep adapting and improving to make
+sure that we are meeting the needs of the
+
+104
+00:07:54,000 --> 00:07:58,000
+community.
+
+105
+00:07:59,000 --> 00:08:04,000
+In summary, On-Ergo is here to bring the
+Ergo ecosystem together, all in one place.
+
+106
+00:08:04,000 --> 00:08:09,000
+Whether you're looking for events,
+educational resources or community
+
+107
+00:08:09,000 --> 00:08:14,000
+incentives, we want On-Ergo to be your
+go-to hub. Our mission is to make Ergo
+
+108
+00:08:14,000 --> 00:08:19,000
+simple, accessible and engaging for
+everyone.
+
+109
+00:08:19,000 --> 00:08:23,000
+One ecosystem, one platform, that's
+On-Ergo. Thank you for being here and
+
+110
+00:08:23,000 --> 00:08:27,000
+let's work together to make the Ergo
+ecosystem the best it can be. Thank you
+
+111
+00:08:27,000 --> 00:08:31,000
+for letting us participate in this Ergo
+hack and thank you for attention from
+
+112
+00:08:31,000 --> 00:08:35,000
+On-Ergo.
+

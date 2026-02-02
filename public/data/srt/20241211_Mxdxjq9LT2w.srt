@@ -1,0 +1,40 @@
+1
+00:00:12,000 --> 00:00:13,000
+scenarios.
+
+2
+00:00:13,000 --> 00:00:16,000
+First, clients must register on server.
+
+3
+00:00:16,000 --> 00:00:20,000
+We have four wallet with three out of
+four signature wallet.
+
+4
+00:00:20,000 --> 00:00:23,000
+Registration only for three wallets are
+enough.
+
+5
+00:00:23,000 --> 00:00:26,000
+Each client goes to multisig
+communication.
+
+6
+00:00:26,000 --> 00:00:30,000
+Select server tab, hit register button,
+enter server URL and password, then hit
+
+7
+00:00:30,000 --> 00:00:34,000
+register button.
+
+8
+00:00:34,000 --> 00:00:40,000
+On the second wallet.
+
+9
+00:00:40,000 --> 00:00:43,000
+And on third wallet.
+

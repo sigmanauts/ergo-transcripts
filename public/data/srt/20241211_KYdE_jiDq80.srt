@@ -1,0 +1,591 @@
+1
+00:00:11,000 --> 00:00:14,000
+Everyone, my name is Bruno and I'm going
+to present Beene, a proof of funding
+
+2
+00:00:14,000 --> 00:00:17,000
+platform.
+
+3
+00:00:17,000 --> 00:00:22,000
+The goal of this platform is very simple.
+It's to enable projects that want to raise
+
+4
+00:00:22,000 --> 00:00:27,000
+funds to do so and to allow contributors
+who are providing funds to those projects
+
+5
+00:00:27,000 --> 00:00:32,000
+to be rewarded with tokens.
+
+6
+00:00:33,000 --> 00:00:37,000
+These tokens, we call them contribution
+accounting tokens or proof of funding
+
+7
+00:00:37,000 --> 00:00:41,000
+tokens.
+
+8
+00:00:41,000 --> 00:00:48,000
+So what are the rules of this protocol of
+this platform?
+
+9
+00:00:48,000 --> 00:00:53,000
+So it works like this. Project owners
+deploy a funds vault with the following
+
+10
+00:00:53,000 --> 00:00:58,000
+parameters: The funding token that should
+be provided as funds into the project. A
+
+11
+00:00:58,000 --> 00:01:03,000
+minimum amount of funding tokens that need
+to be raised for the fundraising to be
+
+12
+00:01:03,000 --> 00:01:08,000
+considered successful and for the project
+to start.
+
+13
+00:01:10,000 --> 00:01:15,000
+A deadline, the proof of funding token
+that will be used to reward the
+
+14
+00:01:15,000 --> 00:01:20,000
+contributors, and the rate of proof of
+funding tokens that will be given to the
+
+15
+00:01:20,000 --> 00:01:25,000
+contributors per funding token provided.
+
+16
+00:01:27,000 --> 00:01:33,000
+So after this funding vault is deployed,
+project owners may add or remove proof of
+
+17
+00:01:33,000 --> 00:01:39,000
+funding tokens from the vault at any time.
+
+18
+00:01:39,000 --> 00:01:44,000
+For as long as there are proof of funding
+tokens available in the contract,
+
+19
+00:01:44,000 --> 00:01:49,000
+contributors can provide any amount of
+funding tokens to the contract and they
+
+20
+00:01:49,000 --> 00:01:54,000
+immediately receive a proportional amount
+of proof of funding tokens to account for
+
+21
+00:01:54,000 --> 00:01:59,000
+their contribution and serve as proof of
+funding.
+
+22
+00:02:01,000 --> 00:02:06,000
+At any time after the minimum amount has
+been reached, project owners may withdraw
+
+23
+00:02:06,000 --> 00:02:11,000
+any amount of funding tokens from the
+vault.
+
+24
+00:02:11,000 --> 00:02:16,000
+And at any time after the deadline, if
+the minimum amount has not been reached,
+
+25
+00:02:16,000 --> 00:02:21,000
+contributors may return any amount of
+proof of funding tokens to the vault and
+
+26
+00:02:21,000 --> 00:02:26,000
+withdraw the corresponding amount of
+funding tokens that they had provided to
+
+27
+00:02:26,000 --> 00:02:31,000
+the vault before.
+
+28
+00:02:31,000 --> 00:02:37,000
+These rules can also be displayed in this
+more graphical form.
+
+29
+00:02:37,000 --> 00:02:43,000
+So in this chart, we have the time in the
+horizontal axis and the amount raised in
+
+30
+00:02:43,000 --> 00:02:49,000
+the vertical axis. And as you can see, at
+any time, if you have raised more than a
+
+31
+00:02:49,000 --> 00:02:55,000
+minimum amount, those are the actions that
+project owners may perform and that
+
+32
+00:02:55,000 --> 00:03:01,000
+contributors may perform.
+
+33
+00:03:01,000 --> 00:03:09,000
+And if the amount raised has not reached
+the minimum and the time has passed beyond
+
+34
+00:03:09,000 --> 00:03:17,000
+the deadline, then contributors may give
+back their proof of funding tokens and
+
+35
+00:03:17,000 --> 00:03:25,000
+withdraw the funding tokens that they had
+provided.
+
+36
+00:03:25,000 --> 00:03:29,000
+Okay, so let's have a look at some
+examples.
+
+37
+00:03:29,000 --> 00:03:34,000
+So this is an actual example that we had
+and that we used Ergo Raffle for this. But
+
+38
+00:03:34,000 --> 00:03:39,000
+with Ergo Raffle, then we had to manually
+distribute the proof of funding tokens,
+
+39
+00:03:39,000 --> 00:03:44,000
+the contribution accounting tokens
+afterwards. And with this platform that we
+
+40
+00:03:44,000 --> 00:03:49,000
+have built, this distribution will be done
+automatically.
+
+41
+00:03:50,000 --> 00:03:59,000
+So this Stable Order needed 5000 ERG to
+develop an SDK for Gluon Gold. And with
+
+42
+00:03:59,000 --> 00:04:08,000
+this funding platform, a vault with 5000
+Gluon is created with a rate of one Gluon
+
+43
+00:04:08,000 --> 00:04:17,000
+per ERG and a deadline in two weeks. And
+yeah, 5000 Gluon are added to the vault.
+
+44
+00:04:19,000 --> 00:04:24,000
+Then let's suppose that after 1.5 weeks,
+the goal of raising 5,000 ERG is achieved.
+
+45
+00:04:24,000 --> 00:04:29,000
+The contributors will have received their
+Gluon as soon as they have contributed and
+
+46
+00:04:29,000 --> 00:04:34,000
+this Stable Order will be able to withdraw
+5,000 ERG immediately after the goal has
+
+47
+00:04:34,000 --> 00:04:39,000
+been achieved.
+
+48
+00:04:41,000 --> 00:04:48,000
+Here's another example. Let's suppose
+that a group of Ergo community members
+
+49
+00:04:48,000 --> 00:04:55,000
+wishes to produce from five to 20 articles
+about Ergo at a cost of 100 ERG per
+
+50
+00:04:55,000 --> 00:05:02,000
+article. They create a new token, let's
+say EAT, Ergo Articles Token, and they
+
+51
+00:05:02,000 --> 00:05:09,000
+create a vault with 2000 of those tokens
+and a rate of one EAT per ERG.
+
+52
+00:05:09,000 --> 00:05:18,000
+The minimum amount is set to 500 ERG and
+the deadline is set to two weeks from now.
+
+53
+00:05:18,000 --> 00:05:23,000
+So then let's suppose that after one week
+the minimum goal of raising 500 ERG is
+
+54
+00:05:23,000 --> 00:05:28,000
+achieved. So at that point the group can
+already withdraw the 500 ERG and start
+
+55
+00:05:28,000 --> 00:05:33,000
+producing the minimum number of articles,
+like five articles.
+
+56
+00:05:34,000 --> 00:05:41,000
+Then as time passes and the community
+sees that the group is delivering the
+
+57
+00:05:41,000 --> 00:05:48,000
+articles, more contributors may provide
+more ERG and be rewarded with the
+
+58
+00:05:48,000 --> 00:05:55,000
+remaining EAT that are there in the vault,
+up to 2000 EAT.
+
+59
+00:05:55,000 --> 00:06:00,000
+Now, if this initiative happens to be
+working really well, the group may decide
+
+60
+00:06:00,000 --> 00:06:05,000
+to increase the number of EAT in the
+contract to 10,000 and to allow the
+
+61
+00:06:05,000 --> 00:06:10,000
+community to continue contributing to the
+production of up to 100 articles in total
+
+62
+00:06:10,000 --> 00:06:15,000
+now.
+
+63
+00:06:15,000 --> 00:06:17,000
+Now let's have a look at another example.
+
+64
+00:06:17,000 --> 00:06:22,000
+So let's suppose that the dev team
+promises to use the latest technologies to
+
+65
+00:06:22,000 --> 00:06:27,000
+do something extremely amazing and they're
+asking for five million ERG with a
+
+66
+00:06:27,000 --> 00:06:32,000
+deadline in two weeks and those who
+contribute will be rewarded with a proof
+
+67
+00:06:32,000 --> 00:06:37,000
+of funding token that is now called Super
+Duper Blockchain Tokens at a very
+
+68
+00:06:37,000 --> 00:06:42,000
+preferential rate.
+
+69
+00:06:42,000 --> 00:06:48,000
+So it's a very great bargain and nobody
+should miss out.
+
+70
+00:06:48,000 --> 00:06:53,000
+And let's suppose that after one week,
+things are looking really good, right? And
+
+71
+00:06:53,000 --> 00:06:58,000
+the team manages to raise 3 million ERG.
+But then their too good to be true
+
+72
+00:06:58,000 --> 00:07:03,000
+promises get exposed as just a huge soup
+of buzzwords and the community stops
+
+73
+00:07:03,000 --> 00:07:08,000
+funding.
+
+74
+00:07:08,000 --> 00:07:15,000
+So after the deadline, those who had been
+lured into providing funding for this scam
+
+75
+00:07:15,000 --> 00:07:22,000
+can safely give back their SDBT to get
+their ERG back.
+
+76
+00:07:23,000 --> 00:07:29,000
+So, with these very simple set of rules,
+we can cover a wide variety of use cases,
+
+77
+00:07:29,000 --> 00:07:35,000
+such as, for example, donations. These
+proof of funding tokens, they can serve as
+
+78
+00:07:35,000 --> 00:07:41,000
+proof of donation tokens, right? Something
+that doesn't have like a monetary value,
+
+79
+00:07:41,000 --> 00:07:47,000
+but they are still valuable as a proof
+that you have made something good, right?
+
+80
+00:07:47,000 --> 00:07:53,000
+That you have donated to a certain cause,
+to a certain project.
+
+81
+00:07:56,000 --> 00:08:02,000
+They can also be used for crowdfunding.
+So in this case, the contribution
+
+82
+00:08:02,000 --> 00:08:08,000
+accounting tokens or the proof of funding
+tokens could later be exchanged for goods
+
+83
+00:08:08,000 --> 00:08:14,000
+produced by the crowdfunded project.
+
+84
+00:08:14,000 --> 00:08:20,000
+This platform can even be used for
+traditional startup funding, you know,
+
+85
+00:08:20,000 --> 00:08:26,000
+traditional sale of tokens for a fixed
+price. It could be used, for example, for
+
+86
+00:08:26,000 --> 00:08:32,000
+sales of event tickets, where the tokens
+represent tickets to an event with a
+
+87
+00:08:32,000 --> 00:08:38,000
+minimum and a maximum capacity.
+
+88
+00:08:41,000 --> 00:08:47,000
+And the original use case that made us
+develop this platform is this use case of
+
+89
+00:08:47,000 --> 00:08:53,000
+benefactions that we have in Stable Order.
+This idea that we are working together and
+
+90
+00:08:53,000 --> 00:08:59,000
+contributing to our projects and these
+contributions may be both in the form of
+
+91
+00:08:59,000 --> 00:09:05,000
+labor and capital and both of these types
+of contributions are treated equally and
+
+92
+00:09:05,000 --> 00:09:11,000
+they both receive tokens to account for
+their contributions.
+
+93
+00:09:12,000 --> 00:09:18,000
+So yeah, I hope you enjoyed the platform
+and I hope everyone will have lots of
+
+94
+00:09:18,000 --> 00:09:24,000
+success raising funds for interesting
+projects. And yeah, thank you. Please get
+
+95
+00:09:24,000 --> 00:09:30,000
+in touch and contribute to our projects.
+
+96
+00:09:31,000 --> 00:09:38,000
+These are our social media links. Follow
+us, join us in our channels. Yeah, thank
+
+97
+00:09:38,000 --> 00:09:45,000
+you.
+
+98
+00:09:46,000 --> 00:09:52,000
+Hey, it's Jossemii. I'm going to show a
+demo of the Beene Foundation platform.
+
+99
+00:09:52,000 --> 00:10:03,000
+So this is the available projects list.
+All of these projects can be funded by any
+
+100
+00:10:03,000 --> 00:10:14,000
+user. Contributions page is the project
+where the user has contributed, my
+
+101
+00:10:14,000 --> 00:10:25,000
+projects is a list with all the projects
+that the user owns and there is a
+
+102
+00:10:25,000 --> 00:10:36,000
+formulary to submit a new project.
+
+103
+00:10:36,000 --> 00:10:49,000
+So the idea is to select a token, but
+actually for the demo we are going to mint
+
+104
+00:10:49,000 --> 00:11:02,000
+a new token. So, for example, set the
+token amount to 1,000, 1 ERG per token,
+
+105
+00:11:02,000 --> 00:11:15,000
+this will be max 10 ERG token and a
+minimum of 1 ERG token and let's say 9
+
+106
+00:11:15,000 --> 00:11:28,000
+days until the user funding deadline.
+
+107
+00:11:30,000 --> 00:11:40,000
+You might, for example, add this project
+link. So this is the content of the
+
+108
+00:11:40,000 --> 00:11:50,000
+project. And this is a description,
+description, description.
+
+109
+00:11:50,000 --> 00:11:59,000
+So this will execute a transaction and
+we'll mint these tokens so then we can see
+
+110
+00:11:59,000 --> 00:12:08,000
+the transaction was submitted and we need
+to wait but now I'm going to contribute to
+
+111
+00:12:08,000 --> 00:12:17,000
+another project so for example to this
+project.
+
+112
+00:12:19,000 --> 00:12:30,000
+In the detail page we can see all the
+info of the project how much time left -
+
+113
+00:12:30,000 --> 00:12:41,000
+the time left is in block number of blocks
+but it's translated to time - and this is
+
+114
+00:12:41,000 --> 00:12:52,000
+a progress bar of the current amount of
+tokens, the maximum amount of tokens and
+
+115
+00:12:52,000 --> 00:13:03,000
+the minimum amount of tokens to make the
+refund if it's not reached.
+
+116
+00:13:04,000 --> 00:13:14,000
+So let's contribute. Well currently I'm
+the owner with this wallet so this is
+
+117
+00:13:14,000 --> 00:13:24,000
+another page with the other browser with
+other wallet and if I - yes, I only see
+
+118
+00:13:24,000 --> 00:13:34,000
+the user actions.
+
+119
+00:13:35,000 --> 00:13:46,000
+So I can contribute. I can't refund
+because the deadline is not reached yet.
+
+120
+00:13:46,000 --> 00:13:57,000
+So I will contribute with one token, for
+example. Eight tokens was sold for now. So
+
+121
+00:13:57,000 --> 00:14:08,000
+I will submit it. That's the transaction
+ID.
+
+122
+00:14:09,000 --> 00:14:13,000
+And that's it. So, well, that's it. This
+is the demo.
+

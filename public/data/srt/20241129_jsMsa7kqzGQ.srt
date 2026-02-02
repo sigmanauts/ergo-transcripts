@@ -1,0 +1,2873 @@
+1
+00:00:10,000 --> 00:00:13,000
+All right, here we go, fellas.
+
+2
+00:00:13,000 --> 00:00:14,000
+Welcome.
+
+3
+00:00:14,000 --> 00:00:15,000
+Mark, good to see you.
+
+4
+00:00:15,000 --> 00:00:18,000
+Wade, thanks for coming on, man.
+
+5
+00:00:18,000 --> 00:00:21,000
+Thanks, guys. Yeah, good to talk to you.
+
+6
+00:00:21,000 --> 00:00:27,000
+Yeah, for sure. So I'm just now meeting
+you, Wade. My name's Tim. People in Ergo
+
+7
+00:00:27,000 --> 00:00:33,000
+know me as tmr.erg. And I've been here for
+like maybe three years now. I'm kind of
+
+8
+00:00:33,000 --> 00:00:39,000
+following along. I am relatively new to
+crypto. I don't really have a background
+
+9
+00:00:39,000 --> 00:00:45,000
+in it. My background is in education. I
+grew up in a rural place, so I didn't have
+
+10
+00:00:45,000 --> 00:00:51,000
+exposure to a lot of tech. But I was
+generally good at math and stuff. And so
+
+11
+00:00:51,000 --> 00:00:57,000
+as I got older, I'm fine. I can manage.
+But I'm not an expert, not a coder,
+
+12
+00:00:57,000 --> 00:01:03,000
+nothing like that. But yeah, I stumbled
+into this community and just thought it
+
+13
+00:01:03,000 --> 00:01:09,000
+really lined up with my values and then
+met Mark and me and Mark get along. So we
+
+14
+00:01:09,000 --> 00:01:15,000
+started doing this, I guess, several
+months ago now. So I'm curious, what is
+
+15
+00:01:15,000 --> 00:01:21,000
+your background and your relation to
+technology and finance? How'd you end up
+
+16
+00:01:21,000 --> 00:01:27,000
+talking to us?
+
+17
+00:01:29,000 --> 00:01:39,000
+Yeah, so I've had actually a pretty early
+exposure to crypto. Hold on one second,
+
+18
+00:01:39,000 --> 00:01:49,000
+I'll close the door and we can start that
+over.
+
+19
+00:01:50,000 --> 00:02:15,000
+So my background actually comes from I
+went to a magnet program with technical
+
+20
+00:02:15,000 --> 00:02:40,000
+aspects to it. I can definitely talk about
+that at some point too in the future on
+
+21
+00:02:40,000 --> 00:03:05,000
+this, but the program I went to was the
+Center for Advanced Technology. You can
+
+22
+00:03:05,000 --> 00:03:30,000
+look that up and you can find out where
+that is, and I still live down the street
+
+23
+00:03:30,000 --> 00:03:55,000
+from them.
+
+24
+00:03:58,000 --> 00:04:03,000
+All right, here we go, guys. Deep breath.
+All right, so I went to a pretty technical
+
+25
+00:04:03,000 --> 00:04:08,000
+high school called the Center for Advanced
+Technology where we were learning computer
+
+26
+00:04:08,000 --> 00:04:13,000
+programming, a lot of math and science
+classes at that point in time too. And
+
+27
+00:04:13,000 --> 00:04:18,000
+that was actually my first exposure to
+cryptocurrency. And I heard about Bitcoin
+
+28
+00:04:18,000 --> 00:04:23,000
+in the early 2010s. Oh, wow. Because I
+have programming friends and programming
+
+29
+00:04:23,000 --> 00:04:28,000
+classes that they were all a bunch of
+nerds on the edge of tech in a lot of
+
+30
+00:04:28,000 --> 00:04:33,000
+ways. We were pirating sites with music
+and things like that were very prevalent
+
+31
+00:04:33,000 --> 00:04:38,000
+in that period of time. File sharing, the
+whole school had networks with computers
+
+32
+00:04:38,000 --> 00:04:43,000
+in the classroom. I think before that was
+a lot more prevalent in schools nowadays
+
+33
+00:04:43,000 --> 00:04:48,000
+with individual logins connected to LAN.
+And so I was exposed to that type of stuff
+
+34
+00:04:48,000 --> 00:04:53,000
+from an early age, and I've always really
+been fascinated by computers and
+
+35
+00:04:53,000 --> 00:04:58,000
+technologies, to be honest, and I've built
+a couple computers over my life since
+
+36
+00:04:58,000 --> 00:05:03,000
+then. I think from that experience on,
+though, it was something I kind of put in
+
+37
+00:05:03,000 --> 00:05:08,000
+the back of my head as something that
+still seemed pretty niche to me, or at
+
+38
+00:05:08,000 --> 00:05:13,000
+least didn't click along with the people
+that I was hanging out with, the things
+
+39
+00:05:13,000 --> 00:05:18,000
+that I was involved with, like sports. So
+I almost dismissed it for probably a very
+
+40
+00:05:18,000 --> 00:05:23,000
+long time. Since that point, going through
+college and focusing on more production
+
+41
+00:05:23,000 --> 00:05:28,000
+related sides of technology and media. And
+I've continued that through my career
+
+42
+00:05:28,000 --> 00:05:33,000
+right now with my business. And I've
+always talked about with friends different
+
+43
+00:05:33,000 --> 00:05:38,000
+types of cryptocurrencies and I've
+probably traded a little bit on Robinhood
+
+44
+00:05:38,000 --> 00:05:43,000
+just for fun, never holding anything
+seriously. But again, I've been more
+
+45
+00:05:43,000 --> 00:05:48,000
+interested in, through college I got a
+business degree, so definitely interested
+
+46
+00:05:48,000 --> 00:05:53,000
+in finance and the workings of a business
+and all those types of things that go
+
+47
+00:05:53,000 --> 00:05:58,000
+along with that. So I've had a lot of
+traditional investments through that
+
+48
+00:05:58,000 --> 00:06:03,000
+period of time, individual stocks, IRA
+plans, things like that. And I've just
+
+49
+00:06:03,000 --> 00:06:08,000
+been pretty conservative focusing on those
+aspects, but still always interested in
+
+50
+00:06:08,000 --> 00:06:13,000
+the technology of crypto and maybe some of
+the future use cases of it, but still kind
+
+51
+00:06:13,000 --> 00:06:18,000
+of discovering more for my personal risk
+tolerance. And besides that, the true
+
+52
+00:06:18,000 --> 00:06:23,000
+utility of it in a lot of ways.
+
+53
+00:06:26,000 --> 00:06:30,000
+Yeah, I think that's important whenever
+you think about crypto as an investment.
+
+54
+00:06:30,000 --> 00:06:34,000
+It's like if you're already set and you're
+already going to retire and you have a
+
+55
+00:06:34,000 --> 00:06:38,000
+plan, like it's fine to be conservative.
+Like you don't have to just roll all your
+
+56
+00:06:38,000 --> 00:06:42,000
+money into Bitcoin. Like that's not
+responsible. And I mean, I'm the same way,
+
+57
+00:06:42,000 --> 00:06:46,000
+it's like I evaluated my own risk
+tolerance and allocated accordingly and
+
+58
+00:06:46,000 --> 00:06:50,000
+just like I'm not going to over invest in
+something that I don't control. So totally
+
+59
+00:06:50,000 --> 00:06:54,000
+get it. And that's something I tell
+people. It's like, yeah, okay, if you're
+
+60
+00:06:54,000 --> 00:06:58,000
+already retired, like you don't need to
+invest in Bitcoin. But if you don't want
+
+61
+00:06:58,000 --> 00:07:02,000
+to, it's fine.
+
+62
+00:07:06,000 --> 00:07:11,000
+Yeah, absolutely. But even now, so in
+current times, Bitcoin seems like still
+
+63
+00:07:11,000 --> 00:07:16,000
+the most flourishing, most popular, most
+gains to be had in crypto in this way too.
+
+64
+00:07:16,000 --> 00:07:21,000
+So I know there's a lot of subsets that
+you guys know better about than I do in
+
+65
+00:07:21,000 --> 00:07:26,000
+the world, but I think my knowledge kind
+of stops at like the first couple highest
+
+66
+00:07:26,000 --> 00:07:31,000
+market caps in crypto. And then besides
+that, I think my knowledge drops off
+
+67
+00:07:31,000 --> 00:07:36,000
+pretty fast of what's available out there
+and the differences between each of those
+
+68
+00:07:36,000 --> 00:07:41,000
+blockchains and coins and stuff.
+
+69
+00:07:42,000 --> 00:07:45,000
+Yeah. So Mark, what about you, dude?
+When's the first time you heard of crypto
+
+70
+00:07:45,000 --> 00:07:48,000
+or blockchain or Bitcoin?
+
+71
+00:07:49,000 --> 00:07:54,000
+I would say probably around like 2018.
+That's when I first bought Bitcoin. I was
+
+72
+00:07:54,000 --> 00:07:59,000
+actually just looking the other day. I'm
+like, how much Bitcoin in my lifetime have
+
+73
+00:07:59,000 --> 00:08:04,000
+I ever bought? Just to have that sort of
+FOMO, right? And it was nothing crazy. But
+
+74
+00:08:04,000 --> 00:08:09,000
+yeah, I would say actually, though,
+thinking about it 2016, maybe 15, someone
+
+75
+00:08:09,000 --> 00:08:14,000
+was mentioning how they're mining
+Ethereum. I'm like, what? This is weird.
+
+76
+00:08:14,000 --> 00:08:19,000
+Like, you got a GPU. And at that point, I
+was just so focused just in my life and
+
+77
+00:08:19,000 --> 00:08:24,000
+all that sort of stuff didn't really give
+it any sort of glimpse or look. But I have
+
+78
+00:08:24,000 --> 00:08:29,000
+a background in, I guess, mechanical
+engineering and then software engineering.
+
+79
+00:08:29,000 --> 00:08:34,000
+And so kind of going through life, one
+thing led to another in terms of
+
+80
+00:08:34,000 --> 00:08:39,000
+entrepreneurial type of ideas, built my
+own computer similar to Wade, and then all
+
+81
+00:08:39,000 --> 00:08:44,000
+of a sudden I could find out, hey, I can
+use my GPUs to mine. From an investment
+
+82
+00:08:44,000 --> 00:08:49,000
+perspective, my parents come from real
+estate. And so my dad was always kind of
+
+83
+00:08:49,000 --> 00:08:54,000
+instilling that idea of just like, you
+need to buy assets instead of leaving it
+
+84
+00:08:54,000 --> 00:08:59,000
+in the dollar. And so but on that same
+token, I don't really like the idea of
+
+85
+00:08:59,000 --> 00:09:04,000
+working with tenants and things like that.
+And so that's where crypto and even stocks
+
+86
+00:09:04,000 --> 00:09:09,000
+where I kind of come to play in my
+mindset, or even mining. And so instead of
+
+87
+00:09:09,000 --> 00:09:14,000
+buying a stock or crypto, I can buy the
+asset that is the GPU miner. And then from
+
+88
+00:09:14,000 --> 00:09:19,000
+there, I can continually rely on it on a
+reward more indefinitely for the most
+
+89
+00:09:19,000 --> 00:09:24,000
+part. So that's kind of, I guess, my story
+there.
+
+90
+00:09:32,000 --> 00:09:38,000
+Yeah, that's cool, man. I, I guess, for
+me, probably like 2012, I heard about
+
+91
+00:09:38,000 --> 00:09:44,000
+Bitcoin. And I remember like a really
+specific conversation with my mom. Like I
+
+92
+00:09:44,000 --> 00:09:50,000
+came home from college, just visiting and
+like, hey, I heard about this thing. I
+
+93
+00:09:50,000 --> 00:09:56,000
+didn't understand it. I was like, it's
+like money for your computer and you like
+
+94
+00:09:56,000 --> 00:10:02,000
+use energy to get it. And I didn't like,
+didn't click, didn't understand. And then
+
+95
+00:10:02,000 --> 00:10:08,000
+I just like blanked it out for a huge
+portion for like the next nine years or
+
+96
+00:10:08,000 --> 00:10:14,000
+something. Didn't understand at all. And
+then I recently told the story to Mark
+
+97
+00:10:14,000 --> 00:10:20,000
+about my mom asked me to explain Bitcoin
+to her and I couldn't so then I like did a
+
+98
+00:10:20,000 --> 00:10:26,000
+deep dive and I was like, oh, this
+actually makes a lot of sense now that I'm
+
+99
+00:10:26,000 --> 00:10:32,000
+like, I don't know what made it click this
+time that didn't happen before but I think
+
+100
+00:10:32,000 --> 00:10:38,000
+maybe I just had a better understanding of
+finance and like the world economy and I
+
+101
+00:10:38,000 --> 00:10:44,000
+could kind of see a place for it. So yeah,
+that's my story. So next, I was gonna ask
+
+102
+00:10:44,000 --> 00:10:50,000
+Wade, where are you in your understanding
+of Bitcoin and crypto? How would you
+
+103
+00:10:50,000 --> 00:10:56,000
+describe Bitcoin? What would you say if I
+asked you to explain it in one minute?
+
+104
+00:10:56,000 --> 00:11:01,000
+I'll do my best guys. Anyone else out
+there listening, go easy on me. It's
+
+105
+00:11:01,000 --> 00:11:06,000
+written on a program that creates a
+blockchain, which creates a ledger, which
+
+106
+00:11:06,000 --> 00:11:11,000
+is mined at certain intervals based on the
+difficulty of the state of the program, it
+
+107
+00:11:11,000 --> 00:11:16,000
+rewards bitcoins after certain amounts of
+programming input to a processing power
+
+108
+00:11:16,000 --> 00:11:21,000
+from GPUs. And then it's something that
+was created with a finite resource and it
+
+109
+00:11:21,000 --> 00:11:26,000
+was meant to be mined over a certain
+period of time and just slowly being
+
+110
+00:11:26,000 --> 00:11:31,000
+chipped away by all the GPUs out there. I
+understand the idea of the blockchain with
+
+111
+00:11:31,000 --> 00:11:36,000
+it can be traced back through the program
+through that and for what I understand
+
+112
+00:11:36,000 --> 00:11:41,000
+also is made by a fairly anonymous source
+that's kind of like up for debate who it
+
+113
+00:11:41,000 --> 00:11:46,000
+was, a few people trying to claim who it
+was at the same time so. It's
+
+114
+00:11:46,000 --> 00:11:51,000
+decentralized, it's not controlled by a
+federal government or anything like that
+
+115
+00:11:51,000 --> 00:11:56,000
+and it's stored in digital wallets on
+computers that keeps track of the certain
+
+116
+00:11:56,000 --> 00:12:01,000
+keys of what's what, how many coins you
+have, or you can protect it with the
+
+117
+00:12:01,000 --> 00:12:06,000
+encrypted with the password and exchange
+that between users for a certain fees on
+
+118
+00:12:06,000 --> 00:12:11,000
+the chain as well. And basically send that
+all over the world then that way. And
+
+119
+00:12:11,000 --> 00:12:16,000
+yeah, it's a digital currency.
+
+120
+00:12:26,000 --> 00:12:30,000
+Yeah, absolutely. That's pretty good. I
+would say you're like already in the 99th
+
+121
+00:12:30,000 --> 00:12:34,000
+percentile.
+
+122
+00:12:35,000 --> 00:12:39,000
+All right, so I would. Okay,
+understanding of programming. When I
+
+123
+00:12:39,000 --> 00:12:43,000
+learned it, to begin with, I learned
+C-sharp, C++, HTML. I've done some small
+
+124
+00:12:43,000 --> 00:12:47,000
+programs before. Mark and I have even sat
+down and we've messed with some of the
+
+125
+00:12:47,000 --> 00:12:51,000
+data that I have from the drones that I
+use and gone over some programs. He's way
+
+126
+00:12:51,000 --> 00:12:55,000
+more adept at it than I am, but I at least
+through my school understand the language
+
+127
+00:12:55,000 --> 00:12:59,000
+of computers in that way. I don't think
+it's something that I could sit down and
+
+128
+00:12:59,000 --> 00:13:03,000
+just come up off from the top of my head
+right now today, but I understand the ones
+
+129
+00:13:03,000 --> 00:13:07,000
+and the zeros as in the if then, the input
+and output of a program like that. So I
+
+130
+00:13:07,000 --> 00:13:11,000
+could at least have some sort of
+foundation to to build off of at least for
+
+131
+00:13:11,000 --> 00:13:15,000
+comprehension and understanding.
+
+132
+00:13:23,000 --> 00:13:28,000
+Yeah. Yeah. I mean, I think you showed a
+pretty good understanding right there. I
+
+133
+00:13:28,000 --> 00:13:33,000
+guess if I were to like critique anything,
+it would just be like little tiny bits
+
+134
+00:13:33,000 --> 00:13:38,000
+like some of them use GPUs. Others use
+application specific circuits and CPU also
+
+135
+00:13:38,000 --> 00:13:43,000
+or just GPU. I'm sure be way less
+efficient with the CPU. Different cryptos
+
+136
+00:13:43,000 --> 00:13:48,000
+use different things. And I think I want
+to say Bitcoin started with the CPU. Is
+
+137
+00:13:48,000 --> 00:13:53,000
+that right, Mark?
+
+138
+00:13:58,000 --> 00:14:01,000
+Yeah, totally. So that was like the
+initial but as the difficulty increased,
+
+139
+00:14:01,000 --> 00:14:04,000
+then smaller and smaller likelihood of
+finding a block on CPUs and then people
+
+140
+00:14:04,000 --> 00:14:07,000
+quickly moved over to GPUs. And then
+finally, like you're saying, Tim, the
+
+141
+00:14:07,000 --> 00:14:10,000
+ASICs.
+
+142
+00:14:12,000 --> 00:14:18,000
+Yeah, when I talk to new people, like
+zero or very little understanding, I just
+
+143
+00:14:18,000 --> 00:14:24,000
+try to get out that it's a distributed
+ledger that you have to use energy to
+
+144
+00:14:24,000 --> 00:14:30,000
+change. And so all these people are
+competing with their energy use to make
+
+145
+00:14:30,000 --> 00:14:36,000
+changes to the ledger. And then the other
+part that is point where people maybe make
+
+146
+00:14:36,000 --> 00:14:42,000
+an assumption is like the coins are in
+your wallet like it's really just the
+
+147
+00:14:42,000 --> 00:14:48,000
+blockchain and the blockchain associates
+coins with your wallet like that's not
+
+148
+00:14:48,000 --> 00:14:54,000
+quite it's not quite accurate.
+
+149
+00:14:56,000 --> 00:15:00,000
+The wallet stores the keys to that part
+of the chain. Yeah, the addresses to the
+
+150
+00:15:00,000 --> 00:15:04,000
+chain where it's where you got the box.
+
+151
+00:15:05,000 --> 00:15:10,000
+So the wallet, I think, has the private
+key to which gives you the ability to
+
+152
+00:15:10,000 --> 00:15:15,000
+spend a given box and within that box is
+your specific asset. So your wallets that
+
+153
+00:15:15,000 --> 00:15:20,000
+are tied to your private keys can be you
+could have a bunch of different boxes, but
+
+154
+00:15:20,000 --> 00:15:25,000
+consolidated, they could have whatever
+summation amount of crypto is in that box.
+
+155
+00:15:25,000 --> 00:15:30,000
+And then in order to spend that box to
+create a new box, with UTXO so unspent
+
+156
+00:15:30,000 --> 00:15:35,000
+transaction output. So if I wanted to send
+you say 10 ERGs or like however much
+
+157
+00:15:35,000 --> 00:15:40,000
+Bitcoin I have to burn the boxes that are
+in my that are signed by my private key
+
+158
+00:15:40,000 --> 00:15:45,000
+and only by my private key and then send
+them to you and then that's the only way
+
+159
+00:15:45,000 --> 00:15:50,000
+you can send it and so like what Tim was
+saying it's the wallet is sort of a view
+
+160
+00:15:50,000 --> 00:15:55,000
+within the blockchain, then the subset of
+these blocks are only spendable by you
+
+161
+00:15:55,000 --> 00:16:00,000
+with this specific protocol.
+
+162
+00:16:02,000 --> 00:16:09,000
+Yeah, that's a really good point to bring
+up too is like the public private keys. So
+
+163
+00:16:09,000 --> 00:16:16,000
+one of the concepts in cryptography is
+like a puzzle that is hard to solve, but
+
+164
+00:16:16,000 --> 00:16:23,000
+easy to prove, right? So I have a private
+key that only I know. And it's like
+
+165
+00:16:23,000 --> 00:16:30,000
+cryptographically matches my public key,
+but you can't go from the public to the
+
+166
+00:16:30,000 --> 00:16:37,000
+private. I can go from private to public
+and that allows me to send keys or send
+
+167
+00:16:37,000 --> 00:16:44,000
+coins rather, but people can only kind of
+see where it's coming from through the
+
+168
+00:16:44,000 --> 00:16:51,000
+public address and they're not able to
+derive my private key.
+
+169
+00:16:54,000 --> 00:16:59,000
+And then that brings in a good segue for
+what smart contracts are. So
+
+170
+00:16:59,000 --> 00:17:04,000
+traditionally, when you get sent tokens
+into like the boxes in your wallet,
+
+171
+00:17:04,000 --> 00:17:09,000
+they're only spendable if you sign that
+transaction but now smart contracts are
+
+172
+00:17:09,000 --> 00:17:14,000
+another layer to that to where you can
+sign and say hey i'm going to send this to
+
+173
+00:17:14,000 --> 00:17:19,000
+tim but or this other condition is true.
+So for example, say you have some type of
+
+174
+00:17:19,000 --> 00:17:24,000
+delayed dispersion. So like in 10 minutes,
+I'm going to send this amount to Tim, or I
+
+175
+00:17:24,000 --> 00:17:29,000
+can send it right now. But otherwise it
+can get spent by Tim and then you can run
+
+176
+00:17:29,000 --> 00:17:34,000
+what's called off chain bots to then
+collect those boxes are then spendable.
+
+177
+00:17:34,000 --> 00:17:39,000
+And then they send that to Tim
+automatically. And so then that's where
+
+178
+00:17:39,000 --> 00:17:44,000
+the programmatic sort of idea comes into
+play.
+
+179
+00:17:47,000 --> 00:17:55,000
+Yeah, and pretty much every real world
+financial asset or application. You can
+
+180
+00:17:55,000 --> 00:18:03,000
+think of borrowing, lending, derivatives,
+baskets of things. You could build all of
+
+181
+00:18:03,000 --> 00:18:11,000
+those things to be done automatically with
+a smart contract. So Mark might want to
+
+182
+00:18:11,000 --> 00:18:19,000
+borrow some money because he wants to go
+short or long some other asset and the
+
+183
+00:18:19,000 --> 00:18:27,000
+contract would enable that as well as like
+a ton of other things.
+
+184
+00:18:28,000 --> 00:18:33,000
+The idea of smart contracts really seems
+fascinating to me too and something I've
+
+185
+00:18:33,000 --> 00:18:38,000
+talked with people about for a while would
+help in my business to automate certain
+
+186
+00:18:38,000 --> 00:18:43,000
+things when it comes to collecting
+payments from clients. Again, I think
+
+187
+00:18:43,000 --> 00:18:48,000
+you'd have to see a lot more mass adoption
+of, I think, the underlying assets by
+
+188
+00:18:48,000 --> 00:18:53,000
+clients of mine that are a lot less tech
+savvy than I am in some cases. But I think
+
+189
+00:18:53,000 --> 00:18:58,000
+the concept is super promising.
+
+190
+00:18:59,000 --> 00:19:04,000
+And even from a security standpoint,
+right? So, kind of differing from chain to
+
+191
+00:19:04,000 --> 00:19:09,000
+chain, we have different smart contract
+languages that are able to write these
+
+192
+00:19:09,000 --> 00:19:14,000
+contracts. So Ethereum is notable for the
+languages escaping me. Anyways, but they
+
+193
+00:19:14,000 --> 00:19:19,000
+can be not hacked but people write in
+within so on Ergo it's called a Sigma
+
+194
+00:19:19,000 --> 00:19:24,000
+prop. And so the Sigma prop if true that
+box gets to be spendable. Now on Ethereum
+
+195
+00:19:24,000 --> 00:19:29,000
+I'm not sure what the case is but people
+are able to put sort of an or statement so
+
+196
+00:19:29,000 --> 00:19:34,000
+then if that becomes true, you can then
+spend that on Ethereum and that's how
+
+197
+00:19:34,000 --> 00:19:39,000
+people get hacked for like millions of
+dollars because they put so much money
+
+198
+00:19:39,000 --> 00:19:44,000
+into a proxy contract. So another entity
+kind of holding these funds, these boxes,
+
+199
+00:19:44,000 --> 00:19:49,000
+I guess it's different on Ethereum. But
+then because of that sort of flaw within
+
+200
+00:19:49,000 --> 00:19:54,000
+the smart contract is then able to leak
+funds from that contract unexpectedly.
+
+201
+00:20:01,000 --> 00:20:07,000
+Speaking of adoption and losing your
+money, what doubts and reservations do you
+
+202
+00:20:07,000 --> 00:20:13,000
+have about crypto broadly, Wade? You're
+what we call a normie and a no-coiner.
+
+203
+00:20:13,000 --> 00:20:19,000
+What gives, man?
+
+204
+00:20:21,000 --> 00:20:26,000
+I mean, yeah, full disclosure for the
+audience right now, I'm not holding any
+
+205
+00:20:26,000 --> 00:20:31,000
+coins or anything, any crypto. Yeah, puts
+me kind of on the outside as someone who
+
+206
+00:20:31,000 --> 00:20:36,000
+is interested in it. But I think just my
+risk tolerance for this point, I've done
+
+207
+00:20:36,000 --> 00:20:41,000
+pretty okay and stock investing over the
+last six, seven years of my career, we had
+
+208
+00:20:41,000 --> 00:20:46,000
+a pretty bullish stock market as well,
+which has enabled me to buy some real
+
+209
+00:20:46,000 --> 00:20:51,000
+world assets too with that. And I've kind
+of just been taking the tortoise or the
+
+210
+00:20:51,000 --> 00:20:56,000
+hare philosophy a lot when it comes to
+that, the slow and steady wins the race.
+
+211
+00:20:56,000 --> 00:21:01,000
+But I am interested in the technology
+itself of cryptocurrency and its future
+
+212
+00:21:01,000 --> 00:21:06,000
+use potentials. And I think we're getting
+a lot closer to a point where I think
+
+213
+00:21:06,000 --> 00:21:11,000
+enough people have heard and understand
+about it that it's making more and more
+
+214
+00:21:11,000 --> 00:21:16,000
+sense as time goes on, especially with, I
+think, the positive outlook that we're
+
+215
+00:21:16,000 --> 00:21:21,000
+going to have over the next four years in
+the US and how a lot of people are now are
+
+216
+00:21:21,000 --> 00:21:26,000
+even more bullish about Bitcoin because of
+this new administration that we could have
+
+217
+00:21:26,000 --> 00:21:31,000
+a lot more adoption of it, which makes it
+more inherently viable and makes more
+
+218
+00:21:31,000 --> 00:21:36,000
+sense for people to hold when there's a
+lot more hands that it could be exchanged
+
+219
+00:21:36,000 --> 00:21:41,000
+from. I think more reservations I have
+about it is if, I was talking to my
+
+220
+00:21:41,000 --> 00:21:46,000
+brother about this concept a little bit.
+We're talking about, well, the idea of
+
+221
+00:21:46,000 --> 00:21:51,000
+investing in something like gold, for
+example, not even Bitcoin, but gold said,
+
+222
+00:21:51,000 --> 00:21:56,000
+okay, well, if I want to invest in
+something like gold to hedge against a
+
+223
+00:21:56,000 --> 00:22:01,000
+downturn in the market, I could buy a gold
+that the point would be to buy a gold bar,
+
+224
+00:22:01,000 --> 00:22:06,000
+not just a gold exchange fund, because
+then you're losing the utility of that. If
+
+225
+00:22:06,000 --> 00:22:11,000
+the stock market goes down, if the
+networks go down, you don't even have
+
+226
+00:22:11,000 --> 00:22:16,000
+access to that. So you want a gold bar,
+but then if you have a gold bar and now
+
+227
+00:22:16,000 --> 00:22:21,000
+you want to exchange that for food it's
+kind of hard to break that bar up for food
+
+228
+00:22:21,000 --> 00:22:26,000
+right so then i think of i the closest
+thing i can compare bitcoin to and this
+
+229
+00:22:26,000 --> 00:22:31,000
+might not be completely accurate would be
+gold it's a great store of some value and
+
+230
+00:22:31,000 --> 00:22:36,000
+some proof of that energy expenditure i
+think if i wanted some other form of
+
+231
+00:22:36,000 --> 00:22:41,000
+reserve besides the stock market in case
+the stock market would crash or the
+
+232
+00:22:41,000 --> 00:22:46,000
+network fails or weren't even worse
+scenario in the world, is thinking of like
+
+233
+00:22:46,000 --> 00:22:51,000
+a prepper mindset, then I probably
+wouldn't be able to access that or
+
+234
+00:22:51,000 --> 00:22:56,000
+exchange that between people either, I
+fear. So if it came down to the apocalypse
+
+235
+00:22:56,000 --> 00:23:01,000
+or something like that, I'd probably
+rather have a pack of cigarettes to try to
+
+236
+00:23:01,000 --> 00:23:06,000
+trade people, or a can of food or gas in
+that way, because that's what I think of
+
+237
+00:23:06,000 --> 00:23:11,000
+people would have some sort of value. I
+watched some prison shows talking about
+
+238
+00:23:11,000 --> 00:23:16,000
+the currencies that they've developed
+there between them without actual other
+
+239
+00:23:16,000 --> 00:23:21,000
+physical money and come down to bartering.
+So if it was the end of the world, I'd
+
+240
+00:23:21,000 --> 00:23:26,000
+probably rather have a gas can than a
+million dollars of Bitcoin in my digital
+
+241
+00:23:26,000 --> 00:23:31,000
+wallet that I can't even turn on
+potentially. But I don't think it doesn't
+
+242
+00:23:31,000 --> 00:23:36,000
+have value today, but I think just to me,
+and I'm not even that much of a doomsday
+
+243
+00:23:36,000 --> 00:23:41,000
+property to begin with, but I think until
+that scenario happens that I still have
+
+244
+00:23:41,000 --> 00:23:46,000
+lights like my traditional stock
+investments as a place to fairly safely
+
+245
+00:23:46,000 --> 00:23:51,000
+keep some savings.
+
+246
+00:23:54,000 --> 00:23:59,000
+Yeah, I mean, everything you said is
+totally reasonable, dude. So I guess I'll
+
+247
+00:23:59,000 --> 00:24:04,000
+go back like from the beginning. So you
+said it's funny how the bigger it gets,
+
+248
+00:24:04,000 --> 00:24:09,000
+like the more valid it kind of becomes,
+which is a little bit inverse to some
+
+249
+00:24:09,000 --> 00:24:14,000
+stocks, right? Like we see Nvidia and the
+chart is like going like this and you're
+
+250
+00:24:14,000 --> 00:24:19,000
+like, that's probably a bubble. But now we
+see Bitcoin doing that. It's like knocking
+
+251
+00:24:19,000 --> 00:24:24,000
+on the door of 100K today and like, oh,
+that means it's more valid and it's
+
+252
+00:24:24,000 --> 00:24:29,000
+probably safer to invest in than it was at
+$15K, which is just inverse. It's like a
+
+253
+00:24:29,000 --> 00:24:34,000
+different mode of thinking about Bitcoin
+versus stocks.
+
+254
+00:24:41,000 --> 00:24:45,000
+Yeah, absolutely. I mean, I think it also
+just the volume of trades at any way. And
+
+255
+00:24:45,000 --> 00:24:49,000
+the fact that it's still with Bitcoin, as
+far as I know and understand, you don't
+
+256
+00:24:49,000 --> 00:24:53,000
+have to trade a full coin like you do with
+a full stock. You don't have to buy one
+
+257
+00:24:53,000 --> 00:24:57,000
+share. You can buy a partial.
+
+258
+00:24:59,000 --> 00:25:07,000
+Divisible to a million parts. Yeah.
+Right. So another thing that you said that
+
+259
+00:25:07,000 --> 00:25:15,000
+was good, there's a good analogy. You're
+like, oh, if I have the gold ETF, I don't
+
+260
+00:25:15,000 --> 00:25:23,000
+actually have any gold. We say not your
+keys, not your coins. So yeah, man, like
+
+261
+00:25:23,000 --> 00:25:31,000
+if you don't have the actual asset, it's
+like you're trusting somebody or some
+
+262
+00:25:31,000 --> 00:25:39,000
+system to uphold your value that you're
+trying to save. And that's a risk. It's a
+
+263
+00:25:39,000 --> 00:25:47,000
+counterparty risk, for sure.
+
+264
+00:25:48,000 --> 00:25:53,000
+Yeah, like having I also thought that too
+about cryptocurrency, I think in a point
+
+265
+00:25:53,000 --> 00:25:58,000
+to where, and like I said, I've traded
+some on Robinhood in the past when I was,
+
+266
+00:25:58,000 --> 00:26:03,000
+I think, kind of popular in its own way.
+And then I realized ultimately that I'm
+
+267
+00:26:03,000 --> 00:26:08,000
+not holding that true asset, I'm just
+buying their holding of it basically. So I
+
+268
+00:26:08,000 --> 00:26:13,000
+think it would be important, I think, for
+my future self to obtain crypto assets to
+
+269
+00:26:13,000 --> 00:26:18,000
+actually have it in my own wallet as well,
+like you're saying.
+
+270
+00:26:21,000 --> 00:26:27,000
+Yeah. So your last point was about kind
+of like that worst case scenario. How
+
+271
+00:26:27,000 --> 00:26:33,000
+would crypto actually be useful? Which is
+actually a good thought exercise. I think
+
+272
+00:26:33,000 --> 00:26:39,000
+like real worst case scenario, yeah, like,
+internet's gone. Electricity is only
+
+273
+00:26:39,000 --> 00:26:45,000
+available if you have a solar panel.
+That's like a real problem. But I think a
+
+274
+00:26:45,000 --> 00:26:51,000
+lot of people would be really messed up in
+that case then too. And then I'm also kind
+
+275
+00:26:51,000 --> 00:26:57,000
+of thinking about Bitcoin as probably the
+most resilient money there that's digital.
+
+276
+00:26:57,000 --> 00:27:03,000
+So as we approach that limit, everything
+is going to fly to that safety. And so in
+
+277
+00:27:03,000 --> 00:27:09,000
+that process, it would become more
+valuable. We still have things like
+
+278
+00:27:09,000 --> 00:27:15,000
+Starlink and every other satellite
+internet provider or whatever. That would
+
+279
+00:27:15,000 --> 00:27:21,000
+be online for a while. And then also
+thinking about some technologies that are
+
+280
+00:27:21,000 --> 00:27:27,000
+developed on Ergo, it's like you could
+make transactions with email and flip
+
+281
+00:27:27,000 --> 00:27:33,000
+phone. We were even talking about could
+you program it to use radio waves? Like a
+
+282
+00:27:33,000 --> 00:27:39,000
+ham radio, could you put out a signal that
+somebody would be able to interpret as a
+
+283
+00:27:39,000 --> 00:27:45,000
+transaction? Which is pretty low tech in
+terms of hardware requirements and energy
+
+284
+00:27:45,000 --> 00:27:51,000
+requirements. Cool to think about.
+
+285
+00:28:03,000 --> 00:28:08,000
+Scary. You still need a node, I guess, at
+the end of the day. As long as there's one
+
+286
+00:28:08,000 --> 00:28:13,000
+person that can kind of broadcast, hey,
+connect to my node and we can facilitate
+
+287
+00:28:13,000 --> 00:28:18,000
+this transaction for you. But what's
+interesting about Bitcoin, I guess, also
+
+288
+00:28:18,000 --> 00:28:23,000
+would be the fact that as more people
+flock to it, it becomes probably more
+
+289
+00:28:23,000 --> 00:28:28,000
+resilient, right in the price. So probably
+less volatility kind of over time,
+
+290
+00:28:28,000 --> 00:28:33,000
+similarity, I guess, to gold in some
+sense, because, and especially if there
+
+291
+00:28:33,000 --> 00:28:38,000
+is, I guess, some sort of apocalyptic type
+tragedy that would happen. then
+
+292
+00:28:38,000 --> 00:28:43,000
+effectively the less people would be
+mining it right and so less people mining
+
+293
+00:28:43,000 --> 00:28:48,000
+it then the fixed supply just gets just
+got really more fixed in some sense and so
+
+294
+00:28:48,000 --> 00:28:53,000
+would probably protect the value of it.
+Whereas other currencies, like the idea
+
+295
+00:28:53,000 --> 00:28:58,000
+with gold is, well, there's only so much
+gold. And then back in the day, they were
+
+296
+00:28:58,000 --> 00:29:03,000
+trading seashells or they were making
+these stones and things like that. Well,
+
+297
+00:29:03,000 --> 00:29:08,000
+until new tech came along and was like,
+oh, well, I can collect seashells faster
+
+298
+00:29:08,000 --> 00:29:13,000
+now. And so that just crashed the currency
+and things like that. I think with
+
+299
+00:29:13,000 --> 00:29:18,000
+Bitcoin, it kind of protects that, right?
+Because of mining, mining protects that
+
+300
+00:29:18,000 --> 00:29:23,000
+new supply coming in. So this is going to
+be a limited amount of stock relative to.
+
+301
+00:29:35,000 --> 00:29:40,000
+Yeah, no, that's a good point, Mark. I
+think the supply would be fixed then and
+
+302
+00:29:40,000 --> 00:29:45,000
+demand would, the demand, I think part of
+it is what, the supply is a good argument
+
+303
+00:29:45,000 --> 00:29:50,000
+to make. And I think that's extremely
+solid. The demand part of it, I'm not sure
+
+304
+00:29:50,000 --> 00:29:55,000
+would be there because I wonder what the
+minimum equipment requirements would be to
+
+305
+00:29:55,000 --> 00:30:00,000
+exchange hands of it then because if I had
+a dollar in my hand, for example, I all I
+
+306
+00:30:00,000 --> 00:30:05,000
+have to do is hand that to you. If I have
+a coin, do I have to have a and again, I
+
+307
+00:30:05,000 --> 00:30:10,000
+know this is like the worst case scenario
+and probably not going to happen. But I
+
+308
+00:30:10,000 --> 00:30:15,000
+did just live through two hurricanes in
+Florida where I lost power for five days.
+
+309
+00:30:15,000 --> 00:30:20,000
+I tell you what, there was lines around
+the corner, gas stations waiting for gas
+
+310
+00:30:20,000 --> 00:30:25,000
+and my generator was extremely helpful to
+be able to use here. So I might need a
+
+311
+00:30:25,000 --> 00:30:30,000
+generator, I might need a laptop or a
+phone to power that and maybe some sort of
+
+312
+00:30:30,000 --> 00:30:35,000
+Starlink or cell service for internet. In
+that case, it's probably the minimum you
+
+313
+00:30:35,000 --> 00:30:40,000
+might need to exchange crypto in that
+case. I think again, I think that's just
+
+314
+00:30:40,000 --> 00:30:45,000
+an extreme case of that. And I think most
+of my investing philosophy is just way
+
+315
+00:30:45,000 --> 00:30:50,000
+more cautious, but I again, I do think the
+technology has crazy potential. And I'm
+
+316
+00:30:50,000 --> 00:30:55,000
+here talking about it, because I do think
+it's very interesting and could have a lot
+
+317
+00:30:55,000 --> 00:31:00,000
+more value in the future as it does today.
+And not only just to us, but future
+
+318
+00:31:00,000 --> 00:31:05,000
+generations might find more value and I
+think it's ultimately up to the masses
+
+319
+00:31:05,000 --> 00:31:10,000
+like that to decide what direction we want
+to go in and I think people are betting
+
+320
+00:31:10,000 --> 00:31:15,000
+with their money right now that this could
+be one of those avenues.
+
+321
+00:31:20,000 --> 00:31:24,000
+Yeah, and I think relative to stocks,
+right? So Bitcoin is very much this hard
+
+322
+00:31:24,000 --> 00:31:28,000
+money asset, whereas stocks is kind of
+people, I wouldn't say it's hard money,
+
+323
+00:31:28,000 --> 00:31:32,000
+right? Because if you think about it,
+people say there's a fixed supply of like
+
+324
+00:31:32,000 --> 00:31:36,000
+Tesla or Nvidia, but that's not
+necessarily true, right? Because every
+
+325
+00:31:36,000 --> 00:31:40,000
+five years, every three years, they do a
+stock split, and it's effectively adding
+
+326
+00:31:40,000 --> 00:31:44,000
+10 times more of the stock supply, and
+they're just essentially printing stock,
+
+327
+00:31:44,000 --> 00:31:48,000
+whereas Bitcoin and even Ergo, it's less
+so and then specifically bitcoin and ergo
+
+328
+00:31:48,000 --> 00:31:52,000
+the hardware requirements to set up this
+sort of stuff is a lot cheaper and easier
+
+329
+00:31:52,000 --> 00:31:56,000
+people are selling these miners and then
+they break within like the first few
+
+330
+00:31:56,000 --> 00:32:00,000
+months and they cost like ten thousand
+dollars not super ideal and in a similar
+
+331
+00:32:00,000 --> 00:32:04,000
+case for some of these stocks in order to
+buy like At one point, what was it,
+
+332
+00:32:04,000 --> 00:32:08,000
+NVIDIA, it was like $1,300 or something.
+That's a little outrageous, but of course,
+
+333
+00:32:08,000 --> 00:32:12,000
+Bitcoin's 90 something thousand now and
+that's, so that's not really ideal, but
+
+334
+00:32:12,000 --> 00:32:16,000
+the idea that you can be divisible by like
+all these different sort of units of time,
+
+335
+00:32:16,000 --> 00:32:20,000
+but then also Bitcoin can't go bad. You
+can buy a million dollars worth of gas,
+
+336
+00:32:20,000 --> 00:32:24,000
+but probably will go bad in a few months
+or you could buy a million dollars worth
+
+337
+00:32:24,000 --> 00:32:28,000
+of cigarettes, but if it rains on the
+cigarettes, that's a lot of cigarettes to
+
+338
+00:32:28,000 --> 00:32:32,000
+buy, and so from Bitcoin is able to
+translate over time but also space but
+
+339
+00:32:32,000 --> 00:32:36,000
+then also corruption in terms of like the
+environment and not political corruption
+
+340
+00:32:36,000 --> 00:32:40,000
+but just you can't corrode Bitcoin just
+like gold right and so in a similar sense
+
+341
+00:32:40,000 --> 00:32:44,000
+right you can see that sort of split
+between all the different gold silver
+
+342
+00:32:44,000 --> 00:32:48,000
+copper within the coins transfer of those
+assets they're able to translate space go
+
+343
+00:32:48,000 --> 00:32:52,000
+across the world sort of thing and still
+kind of maintain their value and that's
+
+344
+00:32:52,000 --> 00:32:56,000
+something I think a lot of people want,
+right? I would say it's less so of like
+
+345
+00:32:56,000 --> 00:33:00,000
+number go up, but more of just like, let's
+preserve my value, because right now the
+
+346
+00:33:00,000 --> 00:33:04,000
+governments, who knows what they're gonna
+do, and I just wanna preserve my assets,
+
+347
+00:33:04,000 --> 00:33:08,000
+whatever those assets are, and not have
+them go down, or just like slowly go down
+
+348
+00:33:08,000 --> 00:33:12,000
+over time, right?
+
+349
+00:33:33,000 --> 00:33:39,000
+So something I say is the point of crypto
+is not to make you rich, but to make you
+
+350
+00:33:39,000 --> 00:33:45,000
+free. So we're at the beginning of that
+adoption curve, and so the investment
+
+351
+00:33:45,000 --> 00:33:51,000
+potential is there, but that's not the
+point. The point is to give people another
+
+352
+00:33:51,000 --> 00:33:57,000
+option that's not controlled or
+manipulated by others, and the supply of
+
+353
+00:33:57,000 --> 00:34:03,000
+dollars or stocks is controlled by people,
+and the supply of Bitcoin is controlled by
+
+354
+00:34:03,000 --> 00:34:09,000
+code. And so it's not up for debate about
+what it is and what's gonna happen. So
+
+355
+00:34:09,000 --> 00:34:15,000
+that being said, I like to talk to people
+about why having a hard cap supply is
+
+356
+00:34:15,000 --> 00:34:21,000
+important. I don't necessarily think that
+Bitcoin would be the world's reserve
+
+357
+00:34:21,000 --> 00:34:27,000
+currency. I don't know. That's not like my
+base case. I kind of think the main
+
+358
+00:34:27,000 --> 00:34:33,000
+benefit is just having another currency to
+compete with all the other currencies so
+
+359
+00:34:33,000 --> 00:34:39,000
+that it holds them honest, right? Because
+I think something like 70% of all the
+
+360
+00:34:39,000 --> 00:34:45,000
+dollars were printed in the past like five
+years. So like, that's mind blowing,
+
+361
+00:34:45,000 --> 00:34:51,000
+right? That's a lot of dollars. And who
+knows what the effect is going to be like
+
+362
+00:34:51,000 --> 00:34:57,000
+they just did it because they felt like
+they had to. And so as somebody who's
+
+363
+00:34:57,000 --> 00:35:03,000
+forced to use those dollars, I should have
+a choice to like have this other thing.
+
+364
+00:35:03,000 --> 00:35:09,000
+And I feel like Bitcoin and cryptos that
+are specifically proof of work. They kind
+
+365
+00:35:09,000 --> 00:35:15,000
+of just give me an option where I know the
+outcome. I know what it is. I can verify
+
+366
+00:35:15,000 --> 00:35:21,000
+all the parameters. And whereas the
+dollar, I know that it's going to be
+
+367
+00:35:21,000 --> 00:35:27,000
+accepted. They just changed the definition
+of M2, which is like the money supply in
+
+368
+00:35:27,000 --> 00:35:33,000
+the past few years. You look up M2 on the
+chart and it's like, and they're like, oh,
+
+369
+00:35:33,000 --> 00:35:39,000
+we don't use this anymore. They're like,
+yeah, I bet.
+
+370
+00:35:43,000 --> 00:35:51,000
+That's a great point, Tim. Yeah, you
+don't have control over that other lever
+
+371
+00:35:51,000 --> 00:35:59,000
+then that's so important to economic
+supply and demand that that other lever
+
+372
+00:35:59,000 --> 00:36:07,000
+gets pulled in the wrong direction for
+majority of people that are forced to use
+
+373
+00:36:07,000 --> 00:36:15,000
+this currency. I think you make a really
+good case when you cite examples of
+
+374
+00:36:15,000 --> 00:36:23,000
+hyperinflation in some South American
+countries if you look at what's happened
+
+375
+00:36:23,000 --> 00:36:31,000
+down there in certain places where they
+have just inflated the crap out of their
+
+376
+00:36:31,000 --> 00:36:39,000
+currency to where the spending power has
+just become so insignificant in some ways
+
+377
+00:36:39,000 --> 00:36:47,000
+that it's millions of dollars in whatever
+currency that is for a loaf of bread or
+
+378
+00:36:47,000 --> 00:36:55,000
+whatever that may be. So I think there's a
+great case for crypto that you're making
+
+379
+00:36:55,000 --> 00:37:03,000
+in that way. And then one that I think
+principally, I do believe a lot. And I
+
+380
+00:37:03,000 --> 00:37:11,000
+think maybe if I'm allowed to segue this
+into another category, we talked about the
+
+381
+00:37:11,000 --> 00:37:19,000
+top one a lot, Bitcoin, that's obviously
+the biggest market cap. How does that
+
+382
+00:37:19,000 --> 00:37:27,000
+trickle down? And what need for other
+blockchains have come out of that or have
+
+383
+00:37:27,000 --> 00:37:35,000
+been invented after that and maybe help
+explain to me some of the other use cases
+
+384
+00:37:35,000 --> 00:37:43,000
+of different coins or maybe especially
+Ergo in your guys case.
+
+385
+00:37:44,000 --> 00:37:50,000
+Yeah. So I think Mark kind of hit on it a
+little bit previously where originally
+
+386
+00:37:50,000 --> 00:37:56,000
+Bitcoin was really just a tool for
+transacting and sending and receiving
+
+387
+00:37:56,000 --> 00:38:02,000
+those coins and had to do that manually.
+It didn't have that smart contract
+
+388
+00:38:02,000 --> 00:38:08,000
+functionality that we talked about. So in
+2015 or 2016, Ethereum came out and that
+
+389
+00:38:08,000 --> 00:38:14,000
+was really the first smart contract
+application that arose. And just kind of
+
+390
+00:38:14,000 --> 00:38:20,000
+being the first one, it had a lot of
+flaws. We found that there are more
+
+391
+00:38:20,000 --> 00:38:26,000
+efficient ways to do things, more secure
+ways to do things. And that has led us to
+
+392
+00:38:26,000 --> 00:38:32,000
+Ergo, where it's kind of, it's doing a lot
+of things, right? So when I introduce
+
+393
+00:38:32,000 --> 00:38:38,000
+people to crypto, I tell them there's a
+lot of scams. A lot of people are just
+
+394
+00:38:38,000 --> 00:38:44,000
+trying to make your money and they're not
+very transparent about what they're
+
+395
+00:38:44,000 --> 00:38:50,000
+selling you and so Ergo one for me was
+just a line with my values like everything
+
+396
+00:38:50,000 --> 00:38:56,000
+is open source like there is a team that
+they received very little money in terms
+
+397
+00:38:56,000 --> 00:39:02,000
+of like the whole coin allocation they got
+like 4% of all the tokens and they they
+
+398
+00:39:02,000 --> 00:39:08,000
+publish a verifiable budget and like
+expense everything like you can see every
+
+399
+00:39:08,000 --> 00:39:14,000
+dollar that they've spent. So that to me
+just made a lot of sense and it made it
+
+400
+00:39:14,000 --> 00:39:20,000
+really clear. And then overall the goal is
+to reduce the technological requirements
+
+401
+00:39:20,000 --> 00:39:26,000
+as much as possible so as many people
+around the world can access it as
+
+402
+00:39:26,000 --> 00:39:32,000
+possible. And then with that, they don't
+take any technological risks. So they only
+
+403
+00:39:32,000 --> 00:39:38,000
+use cryptographic principles that are
+proven, starting with Bitcoin. So they
+
+404
+00:39:38,000 --> 00:39:44,000
+basically took Bitcoin's code and took the
+most the safest, most proven aspects of
+
+405
+00:39:44,000 --> 00:39:50,000
+that and then kind of built on top of it
+without inventing the wheel again and
+
+406
+00:39:50,000 --> 00:39:56,000
+trying to accomplish something that's not
+proven. So it's like, no, if we don't know
+
+407
+00:39:56,000 --> 00:40:02,000
+that it's secure, we're not going to do
+that.
+
+408
+00:40:12,000 --> 00:40:17,000
+and and then like from other tokens right
+so you have litecoin you have doge those
+
+409
+00:40:17,000 --> 00:40:22,000
+are just mere copies literal copies of the
+same so it's a fork is what it's called so
+
+410
+00:40:22,000 --> 00:40:27,000
+you can have the same consensus and then
+some miners can then say hey we're going
+
+411
+00:40:27,000 --> 00:40:32,000
+to go over here in this lane But we're
+going to call this Litecoin. And so then
+
+412
+00:40:32,000 --> 00:40:37,000
+they facilitate Litecoin, new miners stand
+up, new mining rigs for here. And so now
+
+413
+00:40:37,000 --> 00:40:42,000
+you have a new blockchain kind of
+entirely. So Dogecoin was done, I think
+
+414
+00:40:42,000 --> 00:40:47,000
+was the official first meme coin. Litecoin
+was to be like, hey, or like silver, so to
+
+415
+00:40:47,000 --> 00:40:52,000
+speak. And then you have all these other
+sort of paradigms that kind of switch to
+
+416
+00:40:52,000 --> 00:40:57,000
+where Like we were talking earlier,
+Bitcoin was the CPU miner. Then we moved
+
+417
+00:40:57,000 --> 00:41:02,000
+the GPUs and then quickly moved into
+ASICs. So application specific integrated
+
+418
+00:41:02,000 --> 00:41:07,000
+circuit. All they can do is mine Bitcoin,
+literally nothing else. And so as that
+
+419
+00:41:07,000 --> 00:41:12,000
+quickly started to get stood up, it's like
+10K now for a Bitcoin miner. Not really,
+
+420
+00:41:12,000 --> 00:41:17,000
+like Tim was saying, like not really
+accessible to the general population,
+
+421
+00:41:17,000 --> 00:41:22,000
+right? And so what is really cool about
+crypto or Ergo is the fact that you can
+
+422
+00:41:22,000 --> 00:41:27,000
+buy a A GPU now for like a couple hundred
+bucks right you can put up maybe hook that
+
+423
+00:41:27,000 --> 00:41:32,000
+up I saw somebody hooked hooked up an AMD
+GPU to Raspberry Pi and then you can be on
+
+424
+00:41:32,000 --> 00:41:37,000
+your way start collecting mining tokens
+and things like that and so from an
+
+425
+00:41:37,000 --> 00:41:42,000
+accessibility perspective super important.
+And then just the smart contract layer
+
+426
+00:41:42,000 --> 00:41:47,000
+compared to Ethereum to Ergo, Ethereum has
+what's called gas fees and these gas fees
+
+427
+00:41:47,000 --> 00:41:52,000
+can be like maybe 20 bucks to a hundred
+bucks and you're maybe trying to send like
+
+428
+00:41:52,000 --> 00:41:57,000
+five. So you're spending more in
+transaction fees than you are actually in
+
+429
+00:41:57,000 --> 00:42:02,000
+what you're trying to transact. And then
+an additional note is that you can try to
+
+430
+00:42:02,000 --> 00:42:07,000
+send this and it can fail and then you
+lose everything. Like you don't get that
+
+431
+00:42:07,000 --> 00:42:12,000
+back. I'm not really sure where it goes,
+but like, so it, and that sucks, right? If
+
+432
+00:42:12,000 --> 00:42:17,000
+I want to send you some money, I want to
+know that you're going to get it. Not that
+
+433
+00:42:17,000 --> 00:42:22,000
+it fails and then it doesn't work. So
+talking to Ergo, if it doesn't send, it
+
+434
+00:42:22,000 --> 00:42:27,000
+doesn't send. There's no like, oh, is it
+not, is it? And then additionally, for one
+
+435
+00:42:27,000 --> 00:42:32,000
+transaction, it costs, one, 1000th of a
+ERG. So it's 0.001. And ERG right now is
+
+436
+00:42:32,000 --> 00:42:37,000
+like $1.40. And so super cheap to
+transact. So if you wanted to send a
+
+437
+00:42:37,000 --> 00:42:42,000
+million dollars, it's going to cost you
+0.01 ERG just to send it to a given
+
+438
+00:42:42,000 --> 00:42:47,000
+address. And then other things, you can
+see there's more copies. Or there's
+
+439
+00:42:47,000 --> 00:42:52,000
+different consensus protocols. So we have
+proof of work. That's what we're actively
+
+440
+00:42:52,000 --> 00:42:57,000
+talking about with all these tokens that
+we are coins rather that we've talked
+
+441
+00:42:57,000 --> 00:43:02,000
+about. But then there's proof of stake,
+which is a different consensus mechanism.
+
+442
+00:43:02,000 --> 00:43:07,000
+So Cardano is primarily proof of stake.
+Ethereum moved the proof of stake. And so
+
+443
+00:43:07,000 --> 00:43:12,000
+basically what that basically is is you
+need to buy a specific asset. You need to
+
+444
+00:43:12,000 --> 00:43:17,000
+hold that asset. And then those, you run
+some code by putting those assets in
+
+445
+00:43:17,000 --> 00:43:22,000
+there. And then that is sort of
+facilitates the consensus protocol. And so
+
+446
+00:43:22,000 --> 00:43:27,000
+you have what's called stake pools. And so
+you have stake pool operators and you can
+
+447
+00:43:27,000 --> 00:43:32,000
+stake your ADA onto those stake pools. And
+then those find the blocks and then those
+
+448
+00:43:32,000 --> 00:43:37,000
+facilitate the transactions. There's some
+key to debate sometimes between what's
+
+449
+00:43:37,000 --> 00:43:42,000
+more secure, proof of stake, proof of
+work. I like proof of work because, again,
+
+450
+00:43:42,000 --> 00:43:47,000
+it goes back to that accessibility
+perspective. So if you wanted to set up a
+
+451
+00:43:47,000 --> 00:43:52,000
+mining pool, Wade, all you would have to
+do is just run some code. You don't even
+
+452
+00:43:52,000 --> 00:43:57,000
+have to be a miner. You don't have to run
+any type of mining equipment, but you
+
+453
+00:43:57,000 --> 00:44:02,000
+could set up your own mining pool. But if
+you wanted to be a stake pool operator,
+
+454
+00:44:02,000 --> 00:44:07,000
+you need millions of ADA. And so ADA is
+like, 70 cents right now. That's a lot of
+
+455
+00:44:07,000 --> 00:44:12,000
+fucking money. Excuse my French, just to
+get so it's like, it's art, so if you
+
+456
+00:44:12,000 --> 00:44:17,000
+wanted to be a stakeholder, you need to be
+on it from the very early on. Whereas
+
+457
+00:44:17,000 --> 00:44:22,000
+right now, if you wanted to be a mining
+pool operator, it's easy to do and will
+
+458
+00:44:22,000 --> 00:44:27,000
+always ever be easy to do. So I think kind
+of going back to why Ergo, why we like
+
+459
+00:44:27,000 --> 00:44:32,000
+really Ergo is like the principles, it's
+for the people, it's not really like, oh,
+
+460
+00:44:32,000 --> 00:44:37,000
+if you have a lot of money, we're going to
+favor you like other chains might, we're
+
+461
+00:44:37,000 --> 00:44:42,000
+really for like that accessibility
+perspective and kind of putting that power
+
+462
+00:44:42,000 --> 00:44:47,000
+into the people and having, I guess, less
+attack vectors to that, right.
+
+463
+00:44:53,000 --> 00:45:01,000
+Accessibility is huge for more adoption
+of these ideas.
+
+464
+00:45:01,000 --> 00:45:07,000
+The critique of Proof of Stake that I
+like the most is just that you have 10% of
+
+465
+00:45:07,000 --> 00:45:13,000
+all the coins on the proof of stake and
+you stake those, you're always going to
+
+466
+00:45:13,000 --> 00:45:19,000
+have 10% of the coins because you earn
+interest for holding, for staking those
+
+467
+00:45:19,000 --> 00:45:25,000
+tokens. And so it's not really a level
+playing field for people entering the
+
+468
+00:45:25,000 --> 00:45:31,000
+space, like Mark said. So for a group of
+work, it's like you might have all these
+
+469
+00:45:31,000 --> 00:45:37,000
+miners set up. But difficulty increases
+over time. Technology increases over time.
+
+470
+00:45:37,000 --> 00:45:43,000
+And so new entrants kind of really get the
+edge. They get the advantage. In five
+
+471
+00:45:43,000 --> 00:45:49,000
+years from now, the quality of solar
+panels and graphics cards and just
+
+472
+00:45:49,000 --> 00:45:55,000
+literally everything is going to give that
+person the advantage over whoever's been
+
+473
+00:45:55,000 --> 00:46:01,000
+mining for the last five years. They might
+have more coins, but their production
+
+474
+00:46:01,000 --> 00:46:07,000
+capability is going to be way higher.
+
+475
+00:46:09,000 --> 00:46:14,000
+Right. It's kind of like easy money in
+that sense, right? Where the idea, I
+
+476
+00:46:14,000 --> 00:46:19,000
+guess, of easy money is, there's these
+people, select few, right, who have a huge
+
+477
+00:46:19,000 --> 00:46:24,000
+pile of this given asset, a huge
+stockpile, and then they're selling it to
+
+478
+00:46:24,000 --> 00:46:29,000
+these newcomers, right, at a higher price
+and then versus hard money, right? It's
+
+479
+00:46:29,000 --> 00:46:34,000
+it's fixed. It's easy to get on board. If
+you haven't read the Bitcoin standard, I'd
+
+480
+00:46:34,000 --> 00:46:39,000
+read it and read it again. Really great
+book.
+
+481
+00:46:42,000 --> 00:46:47,000
+The book I recommend people is Broken
+Money by Lynn Alden. That was really good.
+
+482
+00:46:47,000 --> 00:46:52,000
+She kind of goes through the history of
+money and talking about seashells and gold
+
+483
+00:46:52,000 --> 00:46:57,000
+and then credit systems and fiat and all
+this stuff and the challenges with each
+
+484
+00:46:57,000 --> 00:47:02,000
+and how crypto can solve those challenges.
+I thought it was great and she has a lot
+
+485
+00:47:02,000 --> 00:47:07,000
+of content online. Yeah, that's who I
+recommend Newton's to.
+
+486
+00:47:11,000 --> 00:47:13,000
+I'll check some of those out.
+
+487
+00:47:13,000 --> 00:47:18,000
+So Wade, maybe just to end, I'm
+wondering, do you have any advice for us
+
+488
+00:47:18,000 --> 00:47:23,000
+about how to talk to people who aren't
+interested? Because, I don't know when
+
+489
+00:47:23,000 --> 00:47:28,000
+this will come out, but Thanksgiving's
+coming up and people are gonna be like,
+
+490
+00:47:28,000 --> 00:47:33,000
+Hey, am I bitcoins doing awesome? How do
+we talk to people who aren't into crypto?
+
+491
+00:47:33,000 --> 00:47:38,000
+Like, did we do a good job? Or do you have
+any any recommendations?
+
+492
+00:47:38,000 --> 00:47:44,000
+That's a really good question. And you're
+right. There's probably a lot of
+
+493
+00:47:44,000 --> 00:47:50,000
+Thanksgiving conversations happening
+around who's doing really well in this and
+
+494
+00:47:50,000 --> 00:47:56,000
+who's upset at other things. Maybe my
+ideas or perspective is making it less
+
+495
+00:47:56,000 --> 00:48:02,000
+seem like an exclusive club. And I don't
+think it necessarily is, but I think there
+
+496
+00:48:02,000 --> 00:48:08,000
+is some technological facade to some
+people when no one questions holding or
+
+497
+00:48:08,000 --> 00:48:14,000
+having fiat currency, people might be more
+or less savvy with it, but no one doesn't
+
+498
+00:48:14,000 --> 00:48:20,000
+understand having the value of a dollar to
+food to X, Y, and Z. So I think making it
+
+499
+00:48:20,000 --> 00:48:26,000
+more analogous with other types of
+currency maybe seeing more transactions
+
+500
+00:48:26,000 --> 00:48:32,000
+happen with this type of currency, instead
+of something that's maybe outside of that
+
+501
+00:48:32,000 --> 00:48:38,000
+realm altogether seems really helpful. I
+think there's certain words to or certain
+
+502
+00:48:38,000 --> 00:48:44,000
+lingo when it comes to things like that
+that make it seem with crypto that makes
+
+503
+00:48:44,000 --> 00:48:50,000
+it seem a little more complicated than it
+has to be to probably ones that we've even
+
+504
+00:48:50,000 --> 00:48:56,000
+discussed today that I might understand,
+but to a bigger audience, maybe such as
+
+505
+00:48:56,000 --> 00:49:02,000
+even just the blockchain or wallets and
+digital wallets in that way, maybe, maybe
+
+506
+00:49:02,000 --> 00:49:08,000
+not. Digital wallet does try to do a good
+job of equating what that means. I think a
+
+507
+00:49:08,000 --> 00:49:14,000
+good- Still seems like a club in some
+certain ways that, I understand there's a
+
+508
+00:49:14,000 --> 00:49:20,000
+big community aspect to get things off the
+ground, like that too and what it's taken
+
+509
+00:49:20,000 --> 00:49:26,000
+to get to this point, but I don't really
+think it has to be, and none of it is to
+
+510
+00:49:26,000 --> 00:49:32,000
+me inherently exclusive either, to adopt,
+to buy, to exchange. in those ways, but
+
+511
+00:49:32,000 --> 00:49:38,000
+there is just some really benign
+observations on, on my end, but again, I
+
+512
+00:49:38,000 --> 00:49:44,000
+could be far off from what other people
+think or dismiss about it too. So I'm just
+
+513
+00:49:44,000 --> 00:49:50,000
+here to offer one other perspective on it.
+
+514
+00:49:59,000 --> 00:50:03,000
+No, that's super helpful, man. And I
+think a goal that we have is to make the
+
+515
+00:50:03,000 --> 00:50:07,000
+application so that people don't even know
+that they're using crypto or a blockchain.
+
+516
+00:50:07,000 --> 00:50:11,000
+It's like when we send money on Venmo or
+whatever, I'm not thinking about code or
+
+517
+00:50:11,000 --> 00:50:15,000
+there's no lingo that I use. I'm just
+like, no, send me 10 bucks for this pizza
+
+518
+00:50:15,000 --> 00:50:19,000
+I bought you. And that's it. So once we
+get to that point, I think that'll kind of
+
+519
+00:50:19,000 --> 00:50:23,000
+alleviate what you're saying there.
+
+520
+00:50:26,000 --> 00:50:30,000
+Yeah, completely. Yeah, it doesn't even
+think you don't even see physical money
+
+521
+00:50:30,000 --> 00:50:34,000
+when you send stuff over that online. So
+there's no reason to me why that couldn't
+
+522
+00:50:34,000 --> 00:50:38,000
+also be done on a different sort of
+exchange in that way that could involve
+
+523
+00:50:38,000 --> 00:50:42,000
+crypto more than more than likely in the
+future.
+
+524
+00:50:44,000 --> 00:50:48,000
+Would you say even to it's maybe more of
+a or not more of a but it could be kind of
+
+525
+00:50:48,000 --> 00:50:52,000
+an educational thing to where kind of
+understanding the pros and cons of certain
+
+526
+00:50:52,000 --> 00:50:56,000
+like money systems, like you were saying,
+like, why did the South American countries
+
+527
+00:50:56,000 --> 00:51:00,000
+sort of fail with respect to, I think
+there's a lot of sort of things happening
+
+528
+00:51:00,000 --> 00:51:04,000
+in the country and the world, so it's kind
+of hard to tune into specific things as
+
+529
+00:51:04,000 --> 00:51:08,000
+well, right? So especially on the day to
+day live too, right? So, I don't know,
+
+530
+00:51:08,000 --> 00:51:12,000
+what do you think there?
+
+531
+00:51:18,000 --> 00:51:23,000
+Yeah, it's hard to spread any idea that
+far. It seems like there's a lot of other
+
+532
+00:51:23,000 --> 00:51:28,000
+noise that happens in the world right now
+with gaming content or anything else. I
+
+533
+00:51:28,000 --> 00:51:33,000
+think just finding ways to use it in
+everyday life that would be applicable to
+
+534
+00:51:33,000 --> 00:51:38,000
+people to be able to see how this actually
+applies in certain ways, instead of just
+
+535
+00:51:38,000 --> 00:51:43,000
+conceptually, but practically as well if
+you go to the store and I use, Apple Pay,
+
+536
+00:51:43,000 --> 00:51:48,000
+touch to pay, then you don't see any go
+across even your credit card, for example,
+
+537
+00:51:48,000 --> 00:51:53,000
+it's just happening somewhere else, being
+able to do that on, potentially another
+
+538
+00:51:53,000 --> 00:51:58,000
+currency, even having gone to Europe and
+using an American credit card, it's
+
+539
+00:51:58,000 --> 00:52:03,000
+possible to do that. There's just a small
+fee that comes off. There's an automatic
+
+540
+00:52:03,000 --> 00:52:08,000
+translation that happens there, a
+conversion between the currencies. And I
+
+541
+00:52:08,000 --> 00:52:13,000
+don't know what the technological
+capabilities of that are right now. I'm
+
+542
+00:52:13,000 --> 00:52:18,000
+sure it's possible, but be able to
+integrate that with normal everyday life
+
+543
+00:52:18,000 --> 00:52:23,000
+at some point for people.
+
+544
+00:52:34,000 --> 00:52:36,000
+We already got it, brother.
+
+545
+00:52:36,000 --> 00:52:40,000
+They call it Babel fees. So you can
+choose to spend whatever currency you want
+
+546
+00:52:40,000 --> 00:52:44,000
+and then it'll make the transaction on the
+back end and you don't even know that it
+
+547
+00:52:44,000 --> 00:52:48,000
+happened. It'll just tell you how much it
+cost.
+
+548
+00:52:49,000 --> 00:52:53,000
+Yeah, cool. Yeah, see, that's something
+that I haven't experienced with Paul and
+
+549
+00:52:53,000 --> 00:52:57,000
+I'm sure it would be really cool to see
+used in person. And if I saw, Mark using
+
+550
+00:52:57,000 --> 00:53:01,000
+that in person, other people around me,
+then I think just seeing being able to see
+
+551
+00:53:01,000 --> 00:53:05,000
+that firsthand, too, I think, would make a
+lot more people comfortable with, with the
+
+552
+00:53:05,000 --> 00:53:09,000
+ideas and other currency.
+
+553
+00:53:09,000 --> 00:53:14,000
+So I think, Wade, what we'll have to do
+is I'll have to come over at some point
+
+554
+00:53:14,000 --> 00:53:19,000
+and we can set up your GPU to maybe mine
+at night so we can start getting your Ergo
+
+555
+00:53:19,000 --> 00:53:24,000
+coming in.
+
+556
+00:53:24,000 --> 00:53:27,000
+old gaming computer here that I'm not
+using right now. It's sitting on the
+
+557
+00:53:27,000 --> 00:53:30,000
+floor. So there we go.
+
+558
+00:53:31,000 --> 00:53:35,000
+Yeah, let's do it, man. Let's get you
+some ERG.
+
+559
+00:53:35,000 --> 00:53:39,000
+Definitely interested. I would be
+interested to the difference of the energy
+
+560
+00:53:39,000 --> 00:53:43,000
+cost verse, the outputs, but I think that
+might be very region specific to in a lot
+
+561
+00:53:43,000 --> 00:53:47,000
+of ways. Yeah, definitely. At least worth
+to experiment for me.
+
+562
+00:53:49,000 --> 00:53:53,000
+All right, we'll have you on in the
+future and you can tell us your experience
+
+563
+00:53:53,000 --> 00:53:57,000
+as a fresh set of eyes.
+
+564
+00:53:57,000 --> 00:54:01,000
+Yeah, that'd be great. All right, good
+talking to you guys and good to hear what
+
+565
+00:54:01,000 --> 00:54:05,000
+you guys are up to and some stuff I
+learned today too that I wasn't really
+
+566
+00:54:05,000 --> 00:54:09,000
+sure about, but I think the best way would
+be just dipping your toes and learning
+
+567
+00:54:09,000 --> 00:54:13,000
+something new.
+
+568
+00:54:13,000 --> 00:54:18,000
+That's it, man. I feel the same way. I
+just like learn. I love to learn. And so I
+
+569
+00:54:18,000 --> 00:54:23,000
+meet people like Mark, and they can
+explain one little thing at a time. And
+
+570
+00:54:23,000 --> 00:54:28,000
+over the years, I feel like I've opened my
+mind to a lot of things and just learned a
+
+571
+00:54:28,000 --> 00:54:33,000
+ton. So it's a cool place to kind of just
+spend some free time.
+
+572
+00:54:34,000 --> 00:54:38,000
+Yeah, and our community is just so great.
+I really enjoy talking with Tim.
+
+573
+00:54:38,000 --> 00:54:42,000
+Obviously, you as well, Wade, and if you
+join us in the Telegram or Discord groups
+
+574
+00:54:42,000 --> 00:54:46,000
+and ever have a question. people are just
+so overly helpful and willing just to kind
+
+575
+00:54:46,000 --> 00:54:50,000
+of clarify certain points, which that's a
+common reoccurrence within our community
+
+576
+00:54:50,000 --> 00:54:54,000
+that we hear. And we're not really gonna
+point you to, oh, hey, go buy this token,
+
+577
+00:54:54,000 --> 00:54:58,000
+you're gonna make a million bucks or
+whatever, right? We're not really trying
+
+578
+00:54:58,000 --> 00:55:02,000
+to do anything like that, but if you need
+to understand a concept or anything,
+
+579
+00:55:02,000 --> 00:55:06,000
+really, people are just so, so, so
+helpful. So hope to see you in the chats,
+
+580
+00:55:06,000 --> 00:55:10,000
+bud.
+
+581
+00:55:11,000 --> 00:55:13,000
+Thanks, guys.
+
+582
+00:55:13,000 --> 00:55:15,000
+Have a great day.
+
+583
+00:55:15,000 --> 00:55:18,000
+See you, everyone.
+

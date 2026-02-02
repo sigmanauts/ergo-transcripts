@@ -3,20 +3,19 @@
     "slug": "sub-blocks",
     "name": "Sub Blocks",
     "description": "Discussions about sub blocks in the Ergo ecosystem",
-    "mention_count": 48,
-    "call_count": 14,
+    "mention_count": 63,
+    "call_count": 15,
     "key_speakers": [
-      "qx()",
-      "tmr.erg",
-      "Ben",
       "Grayman",
-      "CannonQ",
+      "Richi",
       "HQ3rr",
-      "Armeanio",
-      "benzel",
-      "Haskell_plus",
-      "kushti",
-      "Richi"
+      "Dmitriy",
+      "CannonQ",
+      "Ben",
+      "qx()",
+      "Dan Friedman",
+      "tmr.erg",
+      "benzel"
     ],
     "related_topics": []
   },
@@ -24,19 +23,19 @@
     "slug": "peer-to-peer-networks",
     "name": "Peer To Peer Networks",
     "description": "Discussions about peer to peer networks in the Ergo ecosystem",
-    "mention_count": 29,
+    "mention_count": 36,
     "call_count": 4,
     "key_speakers": [
+      "Grayman",
       "Marc the Shark",
-      "AI",
+      "armeanio",
+      "CannonQ",
       "qx()",
       "tmr.erg",
-      "Grayman",
-      "CannonQ",
+      "AI",
       "Armeanio",
-      "anon_BR",
-      "Cheese Enthusiast",
-      "armeanio"
+      "kushti",
+      "Cheese Enthusiast"
     ],
     "related_topics": []
   },
@@ -44,19 +43,19 @@
     "slug": "lithos",
     "name": "Lithos",
     "description": "Discussions about lithos in the Ergo ecosystem",
-    "mention_count": 26,
+    "mention_count": 31,
     "call_count": 5,
     "key_speakers": [
-      "qx()",
-      "qx",
-      "hq3rr",
-      "tmr.erg",
       "Grayman",
+      "hq3rr",
       "CannonQ",
-      "Armeanio",
+      "qx()",
+      "tmr.erg",
       "benzel",
-      "Cheese Enthusiast",
-      "Luca"
+      "Armeanio",
+      "qx",
+      "Luca",
+      "Cheese Enthusiast"
     ],
     "related_topics": []
   },
@@ -64,19 +63,19 @@
     "slug": "community-ama",
     "name": "Community Ama",
     "description": "Discussions about community ama in the Ergo ecosystem",
-    "mention_count": 26,
+    "mention_count": 31,
     "call_count": 5,
     "key_speakers": [
-      "qx()",
-      "qx",
-      "Ben",
-      "tmr.erg",
       "Grayman",
-      "CannonQ",
-      "Armeanio",
-      "benzel",
+      "Richi",
       "Dmitriy",
-      "Richi"
+      "CannonQ",
+      "Ben",
+      "qx()",
+      "tmr.erg",
+      "benzel",
+      "Armeanio",
+      "qx"
     ],
     "related_topics": []
   },
@@ -84,19 +83,19 @@
     "slug": "devnets",
     "name": "Devnets",
     "description": "Discussions about devnets in the Ergo ecosystem",
-    "mention_count": 24,
+    "mention_count": 30,
     "call_count": 6,
     "key_speakers": [
-      "AI",
-      "qx()",
-      "Ben",
       "Grayman",
       "HQ3rr",
-      "Armeanio",
-      "Dan Friedman",
-      "armeanio",
       "Dmitriy",
-      "richi"
+      "armeanio",
+      "Ben",
+      "qx()",
+      "Dan Friedman",
+      "AI",
+      "Armeanio",
+      "kushti"
     ],
     "related_topics": []
   },
@@ -104,37 +103,17 @@
     "slug": "infrastructure",
     "name": "Infrastructure",
     "description": "Discussions about infrastructure in the Ergo ecosystem",
-    "mention_count": 22,
+    "mention_count": 26,
     "call_count": 4,
     "key_speakers": [
-      "qx()",
-      "Ben",
       "Grayman",
-      "CannonQ",
       "HQ3rr",
-      "Armeanio",
       "Dmitriy",
-      "Luca",
-      "kushti",
-      "Qx"
-    ],
-    "related_topics": []
-  },
-  {
-    "slug": "proof-of-work",
-    "name": "Proof Of Work",
-    "description": "Discussions about proof of work in the Ergo ecosystem",
-    "mention_count": 19,
-    "call_count": 4,
-    "key_speakers": [
-      "Marc the Shark",
-      "AI",
+      "CannonQ",
+      "Ben",
       "qx()",
-      "Grayman",
-      "HQ3rr",
+      "Qx",
       "Armeanio",
-      "armeanio",
-      "Haskell_plus",
       "Luca",
       "kushti"
     ],
@@ -144,16 +123,39 @@
     "slug": "mining-pools",
     "name": "Mining Pools",
     "description": "Discussions about mining pools in the Ergo ecosystem",
-    "mention_count": 19,
+    "mention_count": 26,
     "call_count": 5,
     "key_speakers": [
-      "qx()",
-      "Armeanio",
-      "Cheese Enthusiast",
-      "armeanio",
+      "Marc the Shark",
       "2ndTLMining",
+      "tim.erg",
+      "armeanio",
+      "qx()",
+      "tmr.erg",
+      "Armeanio",
       "Luca",
-      "kushti"
+      "kushti",
+      "Cheese Enthusiast"
+    ],
+    "related_topics": []
+  },
+  {
+    "slug": "proof-of-work",
+    "name": "Proof Of Work",
+    "description": "Discussions about proof of work in the Ergo ecosystem",
+    "mention_count": 23,
+    "call_count": 4,
+    "key_speakers": [
+      "Grayman",
+      "Marc the Shark",
+      "HQ3rr",
+      "armeanio",
+      "qx()",
+      "AI",
+      "benzel",
+      "Armeanio",
+      "Haskell_plus",
+      "Luca"
     ],
     "related_topics": []
   },
@@ -161,14 +163,32 @@
     "slug": "decentralization",
     "name": "Decentralization",
     "description": "Discussions about decentralization in the Ergo ecosystem",
-    "mention_count": 17,
+    "mention_count": 20,
     "call_count": 3,
     "key_speakers": [
+      "Grayman",
+      "hq3rr",
       "qx()",
       "qx",
+      "kushti",
+      "Cheese Enthusiast"
+    ],
+    "related_topics": []
+  },
+  {
+    "slug": "voting",
+    "name": "Voting",
+    "description": "Discussions about voting in the Ergo ecosystem",
+    "mention_count": 20,
+    "call_count": 4,
+    "key_speakers": [
       "Grayman",
-      "Cheese Enthusiast",
-      "hq3rr",
+      "CannonQ",
+      "qx()",
+      "Dan Friedman",
+      "AI",
+      "benzel",
+      "Aberg",
       "kushti"
     ],
     "related_topics": []
@@ -177,37 +197,18 @@
     "slug": "testnet",
     "name": "Testnet",
     "description": "Discussions about testnet in the Ergo ecosystem",
-    "mention_count": 16,
+    "mention_count": 19,
     "call_count": 3,
     "key_speakers": [
-      "qx()",
-      "glasgowm",
-      "qx",
       "Grayman",
-      "HQ3rr",
-      "Armeanio",
-      "benzel",
       "hq3rr",
-      "kushti"
-    ],
-    "related_topics": []
-  },
-  {
-    "slug": "miners",
-    "name": "Miners",
-    "description": "Discussions about miners in the Ergo ecosystem",
-    "mention_count": 15,
-    "call_count": 3,
-    "key_speakers": [
-      "qx()",
-      "glasgowm",
-      "CannonQ",
-      "Grayman",
       "HQ3rr",
-      "Armeanio",
+      "glasgowm",
+      "qx()",
       "benzel",
-      "kushti",
-      "Aberg"
+      "Armeanio",
+      "qx",
+      "kushti"
     ],
     "related_topics": []
   },
@@ -215,51 +216,17 @@
     "slug": "fair-launch",
     "name": "Fair Launch",
     "description": "Discussions about fair launch in the Ergo ecosystem",
-    "mention_count": 15,
+    "mention_count": 19,
     "call_count": 4,
     "key_speakers": [
       "Marc the Shark",
       "qx()",
       "PepERG",
-      "Joe",
       "tmr.erg",
       "Armeanio",
-      "richi",
-      "kushti"
-    ],
-    "related_topics": []
-  },
-  {
-    "slug": "voting",
-    "name": "Voting",
-    "description": "Discussions about voting in the Ergo ecosystem",
-    "mention_count": 14,
-    "call_count": 4,
-    "key_speakers": [
-      "AI",
-      "qx()",
-      "Grayman",
-      "CannonQ",
-      "benzel",
+      "Joe",
       "kushti",
-      "Aberg"
-    ],
-    "related_topics": []
-  },
-  {
-    "slug": "sigmanauts",
-    "name": "Sigmanauts",
-    "description": "Discussions about sigmanauts in the Ergo ecosystem",
-    "mention_count": 13,
-    "call_count": 5,
-    "key_speakers": [
-      "qx()",
-      "glasgowm",
-      "Ben",
-      "Grayman",
-      "HQ3rr",
-      "Dmitriy",
-      "kushti"
+      "richi"
     ],
     "related_topics": []
   },
@@ -267,13 +234,65 @@
     "slug": "nautilus-wallet",
     "name": "Nautilus Wallet",
     "description": "Discussions about nautilus wallet in the Ergo ecosystem",
-    "mention_count": 13,
+    "mention_count": 19,
     "call_count": 4,
     "key_speakers": [
       "qx()",
-      "mgPai",
       "tmr.erg",
-      "anon_BR",
+      "mgPai",
+      "kushti",
+      "anon_BR"
+    ],
+    "related_topics": []
+  },
+  {
+    "slug": "miners",
+    "name": "Miners",
+    "description": "Discussions about miners in the Ergo ecosystem",
+    "mention_count": 18,
+    "call_count": 3,
+    "key_speakers": [
+      "Grayman",
+      "HQ3rr",
+      "CannonQ",
+      "glasgowm",
+      "qx()",
+      "benzel",
+      "Aberg",
+      "Armeanio",
+      "kushti"
+    ],
+    "related_topics": []
+  },
+  {
+    "slug": "sigmanauts",
+    "name": "Sigmanauts",
+    "description": "Discussions about sigmanauts in the Ergo ecosystem",
+    "mention_count": 18,
+    "call_count": 5,
+    "key_speakers": [
+      "Grayman",
+      "HQ3rr",
+      "Dmitriy",
+      "glasgowm",
+      "Ben",
+      "qx()",
+      "kushti"
+    ],
+    "related_topics": []
+  },
+  {
+    "slug": "node-6.0",
+    "name": "Node 6.0",
+    "description": "Discussions about node 6.0 in the Ergo ecosystem",
+    "mention_count": 17,
+    "call_count": 5,
+    "key_speakers": [
+      "Grayman",
+      "Dmitriy",
+      "Ben",
+      "qx()",
+      "Armeanio",
       "kushti"
     ],
     "related_topics": []
@@ -282,202 +301,16 @@
     "slug": "ergo-6.0",
     "name": "Ergo 6.0",
     "description": "Discussions about ergo 6.0 in the Ergo ecosystem",
-    "mention_count": 12,
+    "mention_count": 16,
     "call_count": 4,
     "key_speakers": [
-      "AI",
-      "qx()",
       "Grayman",
       "CannonQ",
+      "qx()",
       "benzel",
-      "kushti",
-      "Aberg"
-    ],
-    "related_topics": []
-  },
-  {
-    "slug": "node-6.0",
-    "name": "Node 6.0",
-    "description": "Discussions about node 6.0 in the Ergo ecosystem",
-    "mention_count": 12,
-    "call_count": 4,
-    "key_speakers": [
-      "qx()",
-      "Ben",
-      "Grayman",
-      "Dmitriy",
-      "kushti"
-    ],
-    "related_topics": []
-  },
-  {
-    "slug": "gpu-mining",
-    "name": "Gpu Mining",
-    "description": "Discussions about gpu mining in the Ergo ecosystem",
-    "mention_count": 11,
-    "call_count": 2,
-    "key_speakers": [
-      "Marc the Shark",
-      "qx",
-      "Grayman",
-      "Richi",
-      "kushti"
-    ],
-    "related_topics": []
-  },
-  {
-    "slug": "trust",
-    "name": "Trust",
-    "description": "Discussions about trust in the Ergo ecosystem",
-    "mention_count": 11,
-    "call_count": 2,
-    "key_speakers": [
-      "Marc the Shark",
       "AI",
-      "qx()",
-      "CannonQ",
-      "Armeanio",
-      "anon_BR",
-      "Cheese Enthusiast",
-      "armeanio",
-      "Luca"
-    ],
-    "related_topics": []
-  },
-  {
-    "slug": "deleveraging",
-    "name": "Deleveraging",
-    "description": "Discussions about deleveraging in the Ergo ecosystem",
-    "mention_count": 11,
-    "call_count": 2,
-    "key_speakers": [
-      "Marc the Shark",
-      "AI",
-      "qx()",
-      "CannonQ",
-      "Armeanio",
-      "anon_BR",
-      "Cheese Enthusiast",
-      "armeanio",
-      "Luca"
-    ],
-    "related_topics": []
-  },
-  {
-    "slug": "risk-management",
-    "name": "Risk Management",
-    "description": "Discussions about risk management in the Ergo ecosystem",
-    "mention_count": 11,
-    "call_count": 2,
-    "key_speakers": [
-      "Marc the Shark",
-      "AI",
-      "qx()",
-      "CannonQ",
-      "Armeanio",
-      "anon_BR",
-      "Cheese Enthusiast",
-      "armeanio",
-      "Luca"
-    ],
-    "related_topics": []
-  },
-  {
-    "slug": "leverage",
-    "name": "Leverage",
-    "description": "Discussions about leverage in the Ergo ecosystem",
-    "mention_count": 11,
-    "call_count": 2,
-    "key_speakers": [
-      "Marc the Shark",
-      "AI",
-      "qx()",
-      "CannonQ",
-      "Armeanio",
-      "anon_BR",
-      "Cheese Enthusiast",
-      "armeanio",
-      "Luca"
-    ],
-    "related_topics": []
-  },
-  {
-    "slug": "ama",
-    "name": "Ama",
-    "description": "Discussions about ama in the Ergo ecosystem",
-    "mention_count": 11,
-    "call_count": 3,
-    "key_speakers": [
-      "qx()",
-      "Ben",
-      "Grayman",
-      "CannonQ",
-      "HQ3rr",
-      "Dan Friedman",
-      "benzel",
-      "Dmitriy",
+      "Aberg",
       "kushti"
-    ],
-    "related_topics": []
-  },
-  {
-    "slug": "korean-blockchain-week",
-    "name": "Korean Blockchain Week",
-    "description": "Discussions about korean blockchain week in the Ergo ecosystem",
-    "mention_count": 11,
-    "call_count": 3,
-    "key_speakers": [
-      "qx()",
-      "tmr.erg",
-      "Grayman",
-      "Armeanio",
-      "kushti"
-    ],
-    "related_topics": []
-  },
-  {
-    "slug": "colorado-springs",
-    "name": "Colorado Springs",
-    "description": "Discussions about colorado springs in the Ergo ecosystem",
-    "mention_count": 10,
-    "call_count": 2,
-    "key_speakers": [
-      "qx()",
-      "tmr.erg",
-      "Grayman",
-      "CannonQ",
-      "HQ3rr",
-      "benzel",
-      "kushti"
-    ],
-    "related_topics": []
-  },
-  {
-    "slug": "sigma-sdk",
-    "name": "Sigma Sdk",
-    "description": "Discussions about sigma sdk in the Ergo ecosystem",
-    "mention_count": 10,
-    "call_count": 2,
-    "key_speakers": [
-      "qx()",
-      "Ben",
-      "Grayman",
-      "Dmitriy",
-      "kushti"
-    ],
-    "related_topics": []
-  },
-  {
-    "slug": "chaincash",
-    "name": "Chaincash",
-    "description": "Discussions about chaincash in the Ergo ecosystem",
-    "mention_count": 9,
-    "call_count": 2,
-    "key_speakers": [
-      "richi",
-      "kushti",
-      "Armeanio",
-      "armeanio"
     ],
     "related_topics": []
   },
@@ -485,14 +318,15 @@
     "slug": "soft-fork",
     "name": "Soft Fork",
     "description": "Discussions about soft fork in the Ergo ecosystem",
-    "mention_count": 9,
-    "call_count": 5,
+    "mention_count": 15,
+    "call_count": 6,
     "key_speakers": [
-      "AI",
-      "qx()",
-      "glasgowm",
       "Grayman",
       "HQ3rr",
+      "glasgowm",
+      "qx()",
+      "Dan Friedman",
+      "AI",
       "Armeanio",
       "kushti"
     ],
@@ -502,13 +336,49 @@
     "slug": "storage-rent",
     "name": "Storage Rent",
     "description": "Discussions about storage rent in the Ergo ecosystem",
-    "mention_count": 9,
-    "call_count": 5,
+    "mention_count": 15,
+    "call_count": 6,
     "key_speakers": [
+      "Marc the Shark",
       "qx()",
-      "Cheese Enthusiast",
+      "Dan Friedman",
+      "tmr.erg",
       "kushti",
-      "Dan Friedman"
+      "Cheese Enthusiast"
+    ],
+    "related_topics": []
+  },
+  {
+    "slug": "ama",
+    "name": "Ama",
+    "description": "Discussions about ama in the Ergo ecosystem",
+    "mention_count": 14,
+    "call_count": 3,
+    "key_speakers": [
+      "Grayman",
+      "HQ3rr",
+      "Dmitriy",
+      "CannonQ",
+      "Ben",
+      "qx()",
+      "Dan Friedman",
+      "benzel",
+      "kushti"
+    ],
+    "related_topics": []
+  },
+  {
+    "slug": "korean-blockchain-week",
+    "name": "Korean Blockchain Week",
+    "description": "Discussions about korean blockchain week in the Ergo ecosystem",
+    "mention_count": 14,
+    "call_count": 3,
+    "key_speakers": [
+      "Grayman",
+      "qx()",
+      "tmr.erg",
+      "Armeanio",
+      "kushti"
     ],
     "related_topics": []
   },
@@ -516,53 +386,153 @@
     "slug": "smart-contracts",
     "name": "Smart Contracts",
     "description": "Discussions about smart contracts in the Ergo ecosystem",
-    "mention_count": 8,
-    "call_count": 4,
+    "mention_count": 14,
+    "call_count": 6,
     "key_speakers": [
+      "Marc the Shark",
+      "qx()",
+      "Dan Friedman",
+      "AI",
       "Mehrdad",
-      "Cheese Enthusiast",
       "kushti",
-      "Dan Friedman"
+      "Cheese Enthusiast"
     ],
     "related_topics": []
   },
   {
-    "slug": "lets",
-    "name": "Lets",
-    "description": "Discussions about lets in the Ergo ecosystem",
-    "mention_count": 7,
+    "slug": "gpu-mining",
+    "name": "Gpu Mining",
+    "description": "Discussions about gpu mining in the Ergo ecosystem",
+    "mention_count": 13,
     "call_count": 2,
     "key_speakers": [
-      "qx()",
-      "Armeanio",
-      "armeanio",
-      "richi",
+      "Grayman",
+      "Marc the Shark",
+      "Richi",
+      "qx",
       "kushti"
     ],
     "related_topics": []
   },
   {
-    "slug": "programmable-money",
-    "name": "Programmable Money",
-    "description": "Discussions about programmable money in the Ergo ecosystem",
-    "mention_count": 7,
+    "slug": "trust",
+    "name": "Trust",
+    "description": "Discussions about trust in the Ergo ecosystem",
+    "mention_count": 13,
     "call_count": 2,
     "key_speakers": [
-      "qx",
-      "Grayman",
-      "kushti",
-      "Richi"
+      "Marc the Shark",
+      "armeanio",
+      "CannonQ",
+      "qx()",
+      "AI",
+      "Armeanio",
+      "Luca",
+      "Cheese Enthusiast",
+      "anon_BR"
     ],
     "related_topics": []
   },
   {
-    "slug": "block-production",
-    "name": "Block Production",
-    "description": "Discussions about block production in the Ergo ecosystem",
-    "mention_count": 7,
+    "slug": "deleveraging",
+    "name": "Deleveraging",
+    "description": "Discussions about deleveraging in the Ergo ecosystem",
+    "mention_count": 13,
     "call_count": 2,
     "key_speakers": [
-      "Cheese Enthusiast"
+      "Marc the Shark",
+      "armeanio",
+      "CannonQ",
+      "qx()",
+      "AI",
+      "Armeanio",
+      "Luca",
+      "Cheese Enthusiast",
+      "anon_BR"
+    ],
+    "related_topics": []
+  },
+  {
+    "slug": "risk-management",
+    "name": "Risk Management",
+    "description": "Discussions about risk management in the Ergo ecosystem",
+    "mention_count": 13,
+    "call_count": 2,
+    "key_speakers": [
+      "Marc the Shark",
+      "armeanio",
+      "CannonQ",
+      "qx()",
+      "AI",
+      "Armeanio",
+      "Luca",
+      "Cheese Enthusiast",
+      "anon_BR"
+    ],
+    "related_topics": []
+  },
+  {
+    "slug": "leverage",
+    "name": "Leverage",
+    "description": "Discussions about leverage in the Ergo ecosystem",
+    "mention_count": 13,
+    "call_count": 2,
+    "key_speakers": [
+      "Marc the Shark",
+      "armeanio",
+      "CannonQ",
+      "qx()",
+      "AI",
+      "Armeanio",
+      "Luca",
+      "Cheese Enthusiast",
+      "anon_BR"
+    ],
+    "related_topics": []
+  },
+  {
+    "slug": "colorado-springs",
+    "name": "Colorado Springs",
+    "description": "Discussions about colorado springs in the Ergo ecosystem",
+    "mention_count": 12,
+    "call_count": 2,
+    "key_speakers": [
+      "Grayman",
+      "HQ3rr",
+      "CannonQ",
+      "qx()",
+      "tmr.erg",
+      "benzel",
+      "kushti"
+    ],
+    "related_topics": []
+  },
+  {
+    "slug": "sigma-sdk",
+    "name": "Sigma Sdk",
+    "description": "Discussions about sigma sdk in the Ergo ecosystem",
+    "mention_count": 12,
+    "call_count": 2,
+    "key_speakers": [
+      "Grayman",
+      "Dmitriy",
+      "Ben",
+      "qx()",
+      "kushti"
+    ],
+    "related_topics": []
+  },
+  {
+    "slug": "chaincash",
+    "name": "Chaincash",
+    "description": "Discussions about chaincash in the Ergo ecosystem",
+    "mention_count": 11,
+    "call_count": 2,
+    "key_speakers": [
+      "Armeanio",
+      "richi",
+      "armeanio",
+      "kushti"
     ],
     "related_topics": []
   },
@@ -570,12 +540,215 @@
     "slug": "community-call",
     "name": "Community Call",
     "description": "Discussions about community call in the Ergo ecosystem",
-    "mention_count": 7,
+    "mention_count": 10,
     "call_count": 3,
     "key_speakers": [
+      "Dan Friedman",
       "unknown",
+      "kushti"
+    ],
+    "related_topics": []
+  },
+  {
+    "slug": "user-experience",
+    "name": "User Experience",
+    "description": "Discussions about user experience in the Ergo ecosystem",
+    "mention_count": 10,
+    "call_count": 4,
+    "key_speakers": [
+      "Marc the Shark",
+      "tim.erg",
+      "qx()",
+      "AI",
       "kushti",
-      "Dan Friedman"
+      "Gvuldis"
+    ],
+    "related_topics": []
+  },
+  {
+    "slug": "lets",
+    "name": "Lets",
+    "description": "Discussions about lets in the Ergo ecosystem",
+    "mention_count": 9,
+    "call_count": 2,
+    "key_speakers": [
+      "armeanio",
+      "qx()",
+      "Armeanio",
+      "kushti",
+      "richi"
+    ],
+    "related_topics": []
+  },
+  {
+    "slug": "programmable-money",
+    "name": "Programmable Money",
+    "description": "Discussions about programmable money in the Ergo ecosystem",
+    "mention_count": 9,
+    "call_count": 2,
+    "key_speakers": [
+      "Grayman",
+      "Richi",
+      "qx",
+      "kushti"
+    ],
+    "related_topics": []
+  },
+  {
+    "slug": "block-production",
+    "name": "Block Production",
+    "description": "Discussions about block production in the Ergo ecosystem",
+    "mention_count": 9,
+    "call_count": 2,
+    "key_speakers": [
+      "Cheese Enthusiast"
+    ],
+    "related_topics": []
+  },
+  {
+    "slug": "utxo",
+    "name": "Utxo",
+    "description": "Discussions about utxo in the Ergo ecosystem",
+    "mention_count": 8,
+    "call_count": 2,
+    "key_speakers": [
+      "AI"
+    ],
+    "related_topics": []
+  },
+  {
+    "slug": "testing",
+    "name": "Testing",
+    "description": "Discussions about testing in the Ergo ecosystem",
+    "mention_count": 8,
+    "call_count": 2,
+    "key_speakers": [
+      "Grayman",
+      "Dmitriy",
+      "Ben",
+      "qx()",
+      "Dan Friedman",
+      "Armeanio",
+      "kushti"
+    ],
+    "related_topics": []
+  },
+  {
+    "slug": "opening",
+    "name": "Opening",
+    "description": "Discussions about opening in the Ergo ecosystem",
+    "mention_count": 8,
+    "call_count": 2,
+    "key_speakers": [
+      "unknown"
+    ],
+    "related_topics": []
+  },
+  {
+    "slug": "setup",
+    "name": "Setup",
+    "description": "Discussions about setup in the Ergo ecosystem",
+    "mention_count": 8,
+    "call_count": 2,
+    "key_speakers": [
+      "unknown"
+    ],
+    "related_topics": []
+  },
+  {
+    "slug": "ergoversary",
+    "name": "Ergoversary",
+    "description": "Discussions about ergoversary in the Ergo ecosystem",
+    "mention_count": 8,
+    "call_count": 2,
+    "key_speakers": [
+      "Armeanio",
+      "qx()",
+      "Dan Friedman",
+      "kushti"
+    ],
+    "related_topics": []
+  },
+  {
+    "slug": "anniversary",
+    "name": "Anniversary",
+    "description": "Discussions about anniversary in the Ergo ecosystem",
+    "mention_count": 8,
+    "call_count": 2,
+    "key_speakers": [
+      "Armeanio",
+      "qx()",
+      "Dan Friedman",
+      "kushti"
+    ],
+    "related_topics": []
+  },
+  {
+    "slug": "mempool",
+    "name": "Mempool",
+    "description": "Discussions about mempool in the Ergo ecosystem",
+    "mention_count": 8,
+    "call_count": 2,
+    "key_speakers": [
+      "2ndTLMining",
+      "AI"
+    ],
+    "related_topics": []
+  },
+  {
+    "slug": "decentralized-mining-pool",
+    "name": "Decentralized Mining Pool",
+    "description": "Discussions about decentralized mining pool in the Ergo ecosystem",
+    "mention_count": 8,
+    "call_count": 2,
+    "key_speakers": [
+      "Cheese Enthusiast",
+      "Arohbe"
+    ],
+    "related_topics": []
+  },
+  {
+    "slug": "proxy-contracts",
+    "name": "Proxy Contracts",
+    "description": "Discussions about proxy contracts in the Ergo ecosystem",
+    "mention_count": 8,
+    "call_count": 3,
+    "key_speakers": [
+      "qx()",
+      "Marc the Shark",
+      "anon_BR",
+      "mgPai"
+    ],
+    "related_topics": []
+  },
+  {
+    "slug": "mewfinance",
+    "name": "Mewfinance",
+    "description": "Discussions about mewfinance in the Ergo ecosystem",
+    "mention_count": 8,
+    "call_count": 4,
+    "key_speakers": [
+      "Grayman",
+      "Marc the Shark",
+      "HQ3rr",
+      "glasgowm",
+      "qx()",
+      "Dan Friedman",
+      "kushti"
+    ],
+    "related_topics": []
+  },
+  {
+    "slug": "rosen-bridge",
+    "name": "Rosen Bridge",
+    "description": "Discussions about rosen bridge in the Ergo ecosystem",
+    "mention_count": 8,
+    "call_count": 4,
+    "key_speakers": [
+      "Armeanio",
+      "qx()",
+      "Dan Friedman",
+      "kushti"
     ],
     "related_topics": []
   },
@@ -583,7 +756,7 @@
     "slug": "vibe-coding",
     "name": "Vibe Coding",
     "description": "Discussions about vibe coding in the Ergo ecosystem",
-    "mention_count": 6,
+    "mention_count": 7,
     "call_count": 1,
     "key_speakers": [],
     "related_topics": []
@@ -592,7 +765,7 @@
     "slug": "ai",
     "name": "Ai",
     "description": "Discussions about ai in the Ergo ecosystem",
-    "mention_count": 6,
+    "mention_count": 7,
     "call_count": 1,
     "key_speakers": [],
     "related_topics": []
@@ -601,7 +774,7 @@
     "slug": "basis-tracker",
     "name": "Basis Tracker",
     "description": "Discussions about basis tracker in the Ergo ecosystem",
-    "mention_count": 6,
+    "mention_count": 7,
     "call_count": 1,
     "key_speakers": [],
     "related_topics": []
@@ -610,7 +783,7 @@
     "slug": "rust-node",
     "name": "Rust Node",
     "description": "Discussions about rust node in the Ergo ecosystem",
-    "mention_count": 6,
+    "mention_count": 7,
     "call_count": 1,
     "key_speakers": [],
     "related_topics": []
@@ -619,7 +792,7 @@
     "slug": "android-dapp",
     "name": "Android Dapp",
     "description": "Discussions about android dapp in the Ergo ecosystem",
-    "mention_count": 6,
+    "mention_count": 7,
     "call_count": 1,
     "key_speakers": [],
     "related_topics": []
@@ -628,7 +801,7 @@
     "slug": "mobile-wallet",
     "name": "Mobile Wallet",
     "description": "Discussions about mobile wallet in the Ergo ecosystem",
-    "mention_count": 6,
+    "mention_count": 7,
     "call_count": 1,
     "key_speakers": [],
     "related_topics": []
@@ -637,7 +810,7 @@
     "slug": "worldpay",
     "name": "Worldpay",
     "description": "Discussions about worldpay in the Ergo ecosystem",
-    "mention_count": 6,
+    "mention_count": 7,
     "call_count": 1,
     "key_speakers": [],
     "related_topics": []
@@ -646,7 +819,7 @@
     "slug": "in-wallet-swapping",
     "name": "In Wallet Swapping",
     "description": "Discussions about in wallet swapping in the Ergo ecosystem",
-    "mention_count": 6,
+    "mention_count": 7,
     "call_count": 1,
     "key_speakers": [],
     "related_topics": []
@@ -655,9 +828,50 @@
     "slug": "ipfs",
     "name": "Ipfs",
     "description": "Discussions about ipfs in the Ergo ecosystem",
-    "mention_count": 6,
+    "mention_count": 7,
     "call_count": 1,
     "key_speakers": [],
+    "related_topics": []
+  },
+  {
+    "slug": "community-meetup",
+    "name": "Community Meetup",
+    "description": "Discussions about community meetup in the Ergo ecosystem",
+    "mention_count": 7,
+    "call_count": 2,
+    "key_speakers": [
+      "qx()",
+      "Armeanio",
+      "mgPai",
+      "kushti",
+      "anon_BR"
+    ],
+    "related_topics": []
+  },
+  {
+    "slug": "tornado-cash",
+    "name": "Tornado Cash",
+    "description": "Discussions about tornado cash in the Ergo ecosystem",
+    "mention_count": 7,
+    "call_count": 2,
+    "key_speakers": [
+      "Cheese Enthusiast",
+      "kushti"
+    ],
+    "related_topics": []
+  },
+  {
+    "slug": "palmyra",
+    "name": "Palmyra",
+    "description": "Discussions about palmyra in the Ergo ecosystem",
+    "mention_count": 7,
+    "call_count": 4,
+    "key_speakers": [
+      "qx()",
+      "Dan Friedman",
+      "AI",
+      "kushti"
+    ],
     "related_topics": []
   },
   {
@@ -908,117 +1122,43 @@
     "related_topics": []
   },
   {
-    "slug": "utxo",
-    "name": "Utxo",
-    "description": "Discussions about utxo in the Ergo ecosystem",
+    "slug": "arbitrage",
+    "name": "Arbitrage",
+    "description": "Discussions about arbitrage in the Ergo ecosystem",
     "mention_count": 6,
-    "call_count": 2,
+    "call_count": 3,
     "key_speakers": [
-      "AI"
+      "qx()",
+      "Dan Friedman",
+      "kushti"
     ],
     "related_topics": []
   },
   {
-    "slug": "testing",
-    "name": "Testing",
-    "description": "Discussions about testing in the Ergo ecosystem",
+    "slug": "brick-token",
+    "name": "Brick Token",
+    "description": "Discussions about brick token in the Ergo ecosystem",
     "mention_count": 6,
-    "call_count": 2,
+    "call_count": 3,
     "key_speakers": [
-      "qx()",
-      "Ben",
-      "Grayman",
       "Armeanio",
+      "qx()",
       "Dan Friedman",
-      "Dmitriy",
       "kushti"
     ],
     "related_topics": []
   },
   {
-    "slug": "user-experience",
-    "name": "User Experience",
-    "description": "Discussions about user experience in the Ergo ecosystem",
+    "slug": "cornell",
+    "name": "Cornell",
+    "description": "Discussions about cornell in the Ergo ecosystem",
     "mention_count": 6,
-    "call_count": 2,
+    "call_count": 3,
     "key_speakers": [
-      "AI",
+      "Armeanio",
       "qx()",
+      "Dan Friedman",
       "kushti"
-    ],
-    "related_topics": []
-  },
-  {
-    "slug": "opening",
-    "name": "Opening",
-    "description": "Discussions about opening in the Ergo ecosystem",
-    "mention_count": 6,
-    "call_count": 2,
-    "key_speakers": [
-      "unknown"
-    ],
-    "related_topics": []
-  },
-  {
-    "slug": "setup",
-    "name": "Setup",
-    "description": "Discussions about setup in the Ergo ecosystem",
-    "mention_count": 6,
-    "call_count": 2,
-    "key_speakers": [
-      "unknown"
-    ],
-    "related_topics": []
-  },
-  {
-    "slug": "ergoversary",
-    "name": "Ergoversary",
-    "description": "Discussions about ergoversary in the Ergo ecosystem",
-    "mention_count": 6,
-    "call_count": 2,
-    "key_speakers": [
-      "kushti",
-      "qx()",
-      "Dan Friedman",
-      "Armeanio"
-    ],
-    "related_topics": []
-  },
-  {
-    "slug": "anniversary",
-    "name": "Anniversary",
-    "description": "Discussions about anniversary in the Ergo ecosystem",
-    "mention_count": 6,
-    "call_count": 2,
-    "key_speakers": [
-      "kushti",
-      "qx()",
-      "Dan Friedman",
-      "Armeanio"
-    ],
-    "related_topics": []
-  },
-  {
-    "slug": "mempool",
-    "name": "Mempool",
-    "description": "Discussions about mempool in the Ergo ecosystem",
-    "mention_count": 6,
-    "call_count": 2,
-    "key_speakers": [
-      "AI",
-      "2ndTLMining"
-    ],
-    "related_topics": []
-  },
-  {
-    "slug": "decentralized-mining-pool",
-    "name": "Decentralized Mining Pool",
-    "description": "Discussions about decentralized mining pool in the Ergo ecosystem",
-    "mention_count": 6,
-    "call_count": 2,
-    "key_speakers": [
-      "Cheese Enthusiast",
-      "Arohbe"
     ],
     "related_topics": []
   },
@@ -1415,70 +1555,223 @@
     "related_topics": []
   },
   {
-    "slug": "community-meetup",
-    "name": "Community Meetup",
-    "description": "Discussions about community meetup in the Ergo ecosystem",
+    "slug": "sigmausd",
+    "name": "Sigmausd",
+    "description": "Discussions about sigmausd in the Ergo ecosystem",
     "mention_count": 5,
-    "call_count": 2,
+    "call_count": 3,
     "key_speakers": [
-      "qx()",
-      "mgPai",
       "Armeanio",
-      "anon_BR",
-      "kushti"
-    ],
-    "related_topics": []
-  },
-  {
-    "slug": "proxy-contracts",
-    "name": "Proxy Contracts",
-    "description": "Discussions about proxy contracts in the Ergo ecosystem",
-    "mention_count": 5,
-    "call_count": 2,
-    "key_speakers": [
-      "anon_BR",
       "qx()",
-      "mgPai"
-    ],
-    "related_topics": []
-  },
-  {
-    "slug": "tornado-cash",
-    "name": "Tornado Cash",
-    "description": "Discussions about tornado cash in the Ergo ecosystem",
-    "mention_count": 5,
-    "call_count": 2,
-    "key_speakers": [
-      "Cheese Enthusiast",
       "kushti"
     ],
     "related_topics": []
   },
   {
-    "slug": "mewfinance",
-    "name": "Mewfinance",
-    "description": "Discussions about mewfinance in the Ergo ecosystem",
-    "mention_count": 4,
-    "call_count": 4,
+    "slug": "cross-chain",
+    "name": "Cross Chain",
+    "description": "Discussions about cross chain in the Ergo ecosystem",
+    "mention_count": 5,
+    "call_count": 3,
     "key_speakers": [
+      "Armeanio",
+      "qx()",
+      "AI",
+      "kushti"
+    ],
+    "related_topics": []
+  },
+  {
+    "slug": "meme-coins",
+    "name": "Meme Coins",
+    "description": "Discussions about meme coins in the Ergo ecosystem",
+    "mention_count": 4,
+    "call_count": 2,
+    "key_speakers": [
+      "Marc the Shark",
+      "PepERG",
+      "tmr.erg",
+      "AI"
+    ],
+    "related_topics": []
+  },
+  {
+    "slug": "blockchain-security",
+    "name": "Blockchain Security",
+    "description": "Discussions about blockchain security in the Ergo ecosystem",
+    "mention_count": 4,
+    "call_count": 2,
+    "key_speakers": [
+      "Marc the Shark",
+      "PepERG",
+      "tmr.erg"
+    ],
+    "related_topics": []
+  },
+  {
+    "slug": "github-repository",
+    "name": "Github Repository",
+    "description": "Discussions about github repository in the Ergo ecosystem",
+    "mention_count": 4,
+    "call_count": 2,
+    "key_speakers": [
+      "Grayman",
       "qx()",
       "HQ3rr",
-      "glasgowm",
+      "kushti"
+    ],
+    "related_topics": []
+  },
+  {
+    "slug": "conference",
+    "name": "Conference",
+    "description": "Discussions about conference in the Ergo ecosystem",
+    "mention_count": 4,
+    "call_count": 2,
+    "key_speakers": [
+      "Grayman",
+      "qx()",
+      "tmr.erg",
+      "Armeanio",
+      "kushti"
+    ],
+    "related_topics": []
+  },
+  {
+    "slug": "kraken",
+    "name": "Kraken",
+    "description": "Discussions about kraken in the Ergo ecosystem",
+    "mention_count": 4,
+    "call_count": 2,
+    "key_speakers": [
+      "qx()",
+      "Dan Friedman"
+    ],
+    "related_topics": []
+  },
+  {
+    "slug": "privacy",
+    "name": "Privacy",
+    "description": "Discussions about privacy in the Ergo ecosystem",
+    "mention_count": 4,
+    "call_count": 2,
+    "key_speakers": [
+      "HQ3rr",
+      "qx()",
+      "benzel",
+      "AI",
+      "Armeanio",
+      "Haskell_plus"
+    ],
+    "related_topics": []
+  },
+  {
+    "slug": "dex",
+    "name": "Dex",
+    "description": "Discussions about dex in the Ergo ecosystem",
+    "mention_count": 4,
+    "call_count": 2,
+    "key_speakers": [
+      "qx()",
+      "kushti"
+    ],
+    "related_topics": []
+  },
+  {
+    "slug": "dubai",
+    "name": "Dubai",
+    "description": "Discussions about dubai in the Ergo ecosystem",
+    "mention_count": 4,
+    "call_count": 2,
+    "key_speakers": [
+      "qx()",
+      "kushti"
+    ],
+    "related_topics": []
+  },
+  {
+    "slug": "demurrage",
+    "name": "Demurrage",
+    "description": "Discussions about demurrage in the Ergo ecosystem",
+    "mention_count": 4,
+    "call_count": 2,
+    "key_speakers": [
+      "qx()",
+      "Cheese Enthusiast"
+    ],
+    "related_topics": []
+  },
+  {
+    "slug": "multi-sig",
+    "name": "Multi Sig",
+    "description": "Discussions about multi sig in the Ergo ecosystem",
+    "mention_count": 4,
+    "call_count": 2,
+    "key_speakers": [
+      "Armeanio",
+      "qx()",
       "Dan Friedman",
       "kushti"
     ],
     "related_topics": []
   },
   {
-    "slug": "rosen-bridge",
-    "name": "Rosen Bridge",
-    "description": "Discussions about rosen bridge in the Ergo ecosystem",
+    "slug": "liquidity-pools",
+    "name": "Liquidity Pools",
+    "description": "Discussions about liquidity pools in the Ergo ecosystem",
     "mention_count": 4,
-    "call_count": 4,
+    "call_count": 2,
+    "key_speakers": [
+      "qx()",
+      "kushti"
+    ],
+    "related_topics": []
+  },
+  {
+    "slug": "oracle-pool",
+    "name": "Oracle Pool",
+    "description": "Discussions about oracle pool in the Ergo ecosystem",
+    "mention_count": 4,
+    "call_count": 2,
+    "key_speakers": [
+      "qx()",
+      "Marc the Shark",
+      "kushti"
+    ],
+    "related_topics": []
+  },
+  {
+    "slug": "multi-chain",
+    "name": "Multi Chain",
+    "description": "Discussions about multi chain in the Ergo ecosystem",
+    "mention_count": 4,
+    "call_count": 2,
+    "key_speakers": [
+      "qx()",
+      "Dan Friedman"
+    ],
+    "related_topics": []
+  },
+  {
+    "slug": "trump-token",
+    "name": "Trump Token",
+    "description": "Discussions about trump token in the Ergo ecosystem",
+    "mention_count": 4,
+    "call_count": 2,
     "key_speakers": [
       "Armeanio",
-      "Dan Friedman",
-      "kushti",
+      "qx()"
+    ],
+    "related_topics": []
+  },
+  {
+    "slug": "speculation",
+    "name": "Speculation",
+    "description": "Discussions about speculation in the Ergo ecosystem",
+    "mention_count": 4,
+    "call_count": 2,
+    "key_speakers": [
+      "Armeanio",
       "qx()"
     ],
     "related_topics": []
@@ -1611,276 +1904,244 @@
     "related_topics": []
   },
   {
-    "slug": "palmyra",
-    "name": "Palmyra",
-    "description": "Discussions about palmyra in the Ergo ecosystem",
-    "mention_count": 3,
-    "call_count": 3,
-    "key_speakers": [
-      "Dan Friedman",
-      "kushti",
-      "qx()"
-    ],
-    "related_topics": []
-  },
-  {
-    "slug": "arbitrage",
-    "name": "Arbitrage",
-    "description": "Discussions about arbitrage in the Ergo ecosystem",
-    "mention_count": 3,
-    "call_count": 3,
-    "key_speakers": [
-      "Dan Friedman",
-      "kushti",
-      "qx()"
-    ],
-    "related_topics": []
-  },
-  {
-    "slug": "brick-token",
-    "name": "Brick Token",
-    "description": "Discussions about brick token in the Ergo ecosystem",
-    "mention_count": 3,
-    "call_count": 3,
-    "key_speakers": [
-      "Armeanio",
-      "Dan Friedman",
-      "kushti",
-      "qx()"
-    ],
-    "related_topics": []
-  },
-  {
-    "slug": "cornell",
-    "name": "Cornell",
-    "description": "Discussions about cornell in the Ergo ecosystem",
-    "mention_count": 3,
-    "call_count": 3,
-    "key_speakers": [
-      "Armeanio",
-      "Dan Friedman",
-      "kushti",
-      "qx()"
-    ],
-    "related_topics": []
-  },
-  {
-    "slug": "meme-coins",
-    "name": "Meme Coins",
-    "description": "Discussions about meme coins in the Ergo ecosystem",
+    "slug": "bitcoin",
+    "name": "Bitcoin",
+    "description": "Discussions about bitcoin in the Ergo ecosystem",
     "mention_count": 2,
     "call_count": 2,
     "key_speakers": [
-      "tmr.erg",
-      "Marc the Shark",
+      "anon_BR",
       "AI",
-      "PepERG"
-    ],
-    "related_topics": []
-  },
-  {
-    "slug": "blockchain-security",
-    "name": "Blockchain Security",
-    "description": "Discussions about blockchain security in the Ergo ecosystem",
-    "mention_count": 2,
-    "call_count": 2,
-    "key_speakers": [
-      "tmr.erg",
-      "Marc the Shark",
-      "PepERG"
-    ],
-    "related_topics": []
-  },
-  {
-    "slug": "github-repository",
-    "name": "Github Repository",
-    "description": "Discussions about github repository in the Ergo ecosystem",
-    "mention_count": 2,
-    "call_count": 2,
-    "key_speakers": [
-      "HQ3rr",
-      "kushti",
-      "Grayman",
-      "qx()"
-    ],
-    "related_topics": []
-  },
-  {
-    "slug": "conference",
-    "name": "Conference",
-    "description": "Discussions about conference in the Ergo ecosystem",
-    "mention_count": 2,
-    "call_count": 2,
-    "key_speakers": [
-      "tmr.erg",
       "qx()",
-      "kushti",
       "Armeanio",
-      "Grayman"
+      "CannonQ"
     ],
     "related_topics": []
   },
   {
-    "slug": "kraken",
-    "name": "Kraken",
-    "description": "Discussions about kraken in the Ergo ecosystem",
+    "slug": "zengate",
+    "name": "Zengate",
+    "description": "Discussions about zengate in the Ergo ecosystem",
     "mention_count": 2,
     "call_count": 2,
     "key_speakers": [
-      "Dan Friedman",
-      "qx()"
-    ],
-    "related_topics": []
-  },
-  {
-    "slug": "privacy",
-    "name": "Privacy",
-    "description": "Discussions about privacy in the Ergo ecosystem",
-    "mention_count": 2,
-    "call_count": 2,
-    "key_speakers": [
-      "qx()",
-      "Haskell_plus",
-      "HQ3rr",
       "AI",
-      "benzel"
-    ],
-    "related_topics": []
-  },
-  {
-    "slug": "dex",
-    "name": "Dex",
-    "description": "Discussions about dex in the Ergo ecosystem",
-    "mention_count": 2,
-    "call_count": 2,
-    "key_speakers": [
-      "kushti",
-      "qx()"
-    ],
-    "related_topics": []
-  },
-  {
-    "slug": "sigmausd",
-    "name": "Sigmausd",
-    "description": "Discussions about sigmausd in the Ergo ecosystem",
-    "mention_count": 2,
-    "call_count": 2,
-    "key_speakers": [
-      "kushti",
-      "qx()"
-    ],
-    "related_topics": []
-  },
-  {
-    "slug": "dubai",
-    "name": "Dubai",
-    "description": "Discussions about dubai in the Ergo ecosystem",
-    "mention_count": 2,
-    "call_count": 2,
-    "key_speakers": [
-      "kushti",
-      "qx()"
-    ],
-    "related_topics": []
-  },
-  {
-    "slug": "demurrage",
-    "name": "Demurrage",
-    "description": "Discussions about demurrage in the Ergo ecosystem",
-    "mention_count": 2,
-    "call_count": 2,
-    "key_speakers": [
       "qx()",
-      "Cheese Enthusiast"
+      "Dan Friedman"
     ],
     "related_topics": []
   },
   {
-    "slug": "multi-sig",
-    "name": "Multi Sig",
-    "description": "Discussions about multi sig in the Ergo ecosystem",
+    "slug": "commodities",
+    "name": "Commodities",
+    "description": "Discussions about commodities in the Ergo ecosystem",
     "mention_count": 2,
     "call_count": 2,
     "key_speakers": [
-      "Armeanio",
-      "Dan Friedman",
-      "kushti",
-      "qx()"
+      "AI",
+      "qx()",
+      "Dan Friedman"
     ],
     "related_topics": []
   },
   {
-    "slug": "liquidity-pools",
-    "name": "Liquidity Pools",
-    "description": "Discussions about liquidity pools in the Ergo ecosystem",
+    "slug": "proof-of-funding",
+    "name": "Proof Of Funding",
+    "description": "Discussions about proof of funding in the Ergo ecosystem",
     "mention_count": 2,
     "call_count": 2,
     "key_speakers": [
-      "kushti",
-      "qx()"
+      "Jossemii",
+      "Josemi",
+      "Bruno"
     ],
     "related_topics": []
   },
   {
-    "slug": "oracle-pool",
-    "name": "Oracle Pool",
-    "description": "Discussions about oracle pool in the Ergo ecosystem",
+    "slug": "contribution-accounting-tokens",
+    "name": "Contribution Accounting Tokens",
+    "description": "Discussions about contribution accounting tokens in the Ergo ecosystem",
+    "mention_count": 2,
+    "call_count": 2,
+    "key_speakers": [
+      "Jossemii",
+      "Josemi",
+      "Bruno"
+    ],
+    "related_topics": []
+  },
+  {
+    "slug": "funding-vault",
+    "name": "Funding Vault",
+    "description": "Discussions about funding vault in the Ergo ecosystem",
+    "mention_count": 2,
+    "call_count": 2,
+    "key_speakers": [
+      "Jossemii",
+      "Josemi",
+      "Bruno"
+    ],
+    "related_topics": []
+  },
+  {
+    "slug": "refund-mechanism",
+    "name": "Refund Mechanism",
+    "description": "Discussions about refund mechanism in the Ergo ecosystem",
+    "mention_count": 2,
+    "call_count": 2,
+    "key_speakers": [
+      "Jossemii",
+      "Josemi",
+      "Bruno"
+    ],
+    "related_topics": []
+  },
+  {
+    "slug": "sigmafi",
+    "name": "Sigmafi",
+    "description": "Discussions about sigmafi in the Ergo ecosystem",
     "mention_count": 2,
     "call_count": 2,
     "key_speakers": [
       "Marc the Shark",
-      "kushti",
-      "qx()"
+      "tim.erg",
+      "tmr.erg"
     ],
     "related_topics": []
   },
   {
-    "slug": "cross-chain",
-    "name": "Cross Chain",
-    "description": "Discussions about cross chain in the Ergo ecosystem",
+    "slug": "collateral",
+    "name": "Collateral",
+    "description": "Discussions about collateral in the Ergo ecosystem",
     "mention_count": 2,
     "call_count": 2,
     "key_speakers": [
-      "Armeanio",
-      "kushti",
-      "AI",
-      "qx()"
+      "Marc the Shark",
+      "tmr.erg"
     ],
     "related_topics": []
   },
   {
-    "slug": "multi-chain",
-    "name": "Multi Chain",
-    "description": "Discussions about multi chain in the Ergo ecosystem",
+    "slug": "90-percent-consensus",
+    "name": "90 Percent Consensus",
+    "description": "Discussions about 90 percent consensus in the Ergo ecosystem",
+    "mention_count": 2,
+    "call_count": 2,
+    "key_speakers": [
+      "qx()",
+      "Dan Friedman",
+      "kushti"
+    ],
+    "related_topics": []
+  },
+  {
+    "slug": "dexy",
+    "name": "Dexy",
+    "description": "Discussions about dexy in the Ergo ecosystem",
+    "mention_count": 2,
+    "call_count": 2,
+    "key_speakers": [
+      "qx()",
+      "Armeanio",
+      "kushti"
+    ],
+    "related_topics": []
+  },
+  {
+    "slug": "ergohack",
+    "name": "Ergohack",
+    "description": "Discussions about ergohack in the Ergo ecosystem",
+    "mention_count": 2,
+    "call_count": 2,
+    "key_speakers": [
+      "Marc the Shark",
+      "tim.erg",
+      "tmr.erg"
+    ],
+    "related_topics": []
+  },
+  {
+    "slug": "real-world-assets",
+    "name": "Real World Assets",
+    "description": "Discussions about real world assets in the Ergo ecosystem",
+    "mention_count": 2,
+    "call_count": 2,
+    "key_speakers": [
+      "AI",
+      "qx()",
+      "kushti"
+    ],
+    "related_topics": []
+  },
+  {
+    "slug": "cardano",
+    "name": "Cardano",
+    "description": "Discussions about cardano in the Ergo ecosystem",
+    "mention_count": 2,
+    "call_count": 2,
+    "key_speakers": [
+      "Gvuldis",
+      "qx()",
+      "Dan Friedman",
+      "kushti"
+    ],
+    "related_topics": []
+  },
+  {
+    "slug": "emission-reduction",
+    "name": "Emission Reduction",
+    "description": "Discussions about emission reduction in the Ergo ecosystem",
     "mention_count": 2,
     "call_count": 2,
     "key_speakers": [
       "Dan Friedman",
-      "qx()"
+      "qx()",
+      "tmr.erg",
+      "Marc the Shark",
+      "kushti"
     ],
     "related_topics": []
   },
   {
-    "slug": "trump-token",
-    "name": "Trump Token",
-    "description": "Discussions about trump token in the Ergo ecosystem",
+    "slug": "block-reward",
+    "name": "Block Reward",
+    "description": "Discussions about block reward in the Ergo ecosystem",
     "mention_count": 2,
     "call_count": 2,
     "key_speakers": [
-      "Armeanio",
-      "qx()"
+      "Dan Friedman",
+      "qx()",
+      "tmr.erg",
+      "Marc the Shark",
+      "kushti"
     ],
     "related_topics": []
   },
   {
-    "slug": "speculation",
-    "name": "Speculation",
-    "description": "Discussions about speculation in the Ergo ecosystem",
+    "slug": "local-miner",
+    "name": "Local Miner",
+    "description": "Discussions about local miner in the Ergo ecosystem",
     "mention_count": 2,
     "call_count": 2,
     "key_speakers": [
+      "qx()",
+      "Dan Friedman",
       "Armeanio",
-      "qx()"
+      "kushti"
+    ],
+    "related_topics": []
+  },
+  {
+    "slug": "prototype",
+    "name": "Prototype",
+    "description": "Discussions about prototype in the Ergo ecosystem",
+    "mention_count": 2,
+    "call_count": 2,
+    "key_speakers": [
+      "AI",
+      "qx()",
+      "Armeanio",
+      "kushti"
     ],
     "related_topics": []
   },
